@@ -1,0 +1,469 @@
+ :root {
+            --primary: #75682c;
+            --secondary: #d1b464;
+            --dark: #2c3e50;
+            --light: #f8f9fa;
+            --white: #ffffff;
+            --text: #6c757d;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background-color: #f5f5f5;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+
+        .section {
+            padding: 80px 0;
+        }
+
+        .section-title {
+            text-align: center;
+            margin-bottom: 60px;
+        }
+
+        .subtitle {
+            display: block;
+            color: var(--primary);
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            margin-bottom: 10px;
+        }
+
+        .section-title h2 {
+            font-size: 2.5rem;
+            color: var(--dark);
+            margin-bottom: 20px;
+        }
+
+        .section-title p {
+            font-size: 1.1rem;
+            color: var(--text);
+            max-width: 600px;
+            margin: 0 auto;
+        }
+
+        /* Airport Transfer Section */
+        .airport-transfer-section {
+            background: var(--white);
+        }
+
+        .transfer-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 30px;
+            margin-top: 50px;
+        }
+
+        .transfer-card {
+            background: var(--light);
+            padding: 40px 30px;
+            border-radius: 12px;
+            text-align: center;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            border: 1px solid rgba(117, 104, 44, 0.1);
+        }
+
+        .transfer-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+        }
+
+        .transfer-card.highlight {
+            background: linear-gradient(135deg, var(--primary) 0%, #8a7a3a 100%);
+            color: white;
+        }
+
+        .transfer-card.highlight h3,
+        .transfer-card.highlight p {
+            color: white;
+        }
+
+        .transfer-icon {
+            font-size: 3rem;
+            color: var(--primary);
+            margin-bottom: 20px;
+        }
+
+        .transfer-card.highlight .transfer-icon {
+            color: var(--secondary);
+        }
+
+        .transfer-card h3 {
+            color: var(--dark);
+            margin-bottom: 15px;
+            font-size: 1.5rem;
+        }
+
+        .transfer-features p {
+            padding: 8px 0;
+            text-align: left;
+        }
+
+        /* Balloon Safari Section */
+        .balloon-safari-section {
+            background: var(--light);
+        }
+
+        .balloon-content {
+            display: grid;
+            grid-template-columns: 1fr 400px;
+            gap: 50px;
+            align-items: start;
+        }
+
+        .balloon-highlight {
+            margin-bottom: 40px;
+        }
+
+        .balloon-highlight h3 {
+            color: var(--dark);
+            margin-bottom: 15px;
+            font-size: 1.8rem;
+        }
+
+        .experience-timeline {
+            margin-top: 30px;
+        }
+
+        .timeline-item {
+            display: flex;
+            margin-bottom: 30px;
+            align-items: flex-start;
+        }
+
+        .timeline-marker {
+            background: var(--primary);
+            color: white;
+            width: 50px;
+            height: 50px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin-right: 20px;
+            flex-shrink: 0;
+        }
+
+        .timeline-content h4 {
+            color: var(--dark);
+            margin-bottom: 8px;
+            font-size: 1.2rem;
+        }
+
+        .booking-card {
+            background: white;
+            border-radius: 12px;
+            padding: 30px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+            border: 1px solid rgba(117, 104, 44, 0.1);
+        }
+
+        .booking-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 25px;
+            padding-bottom: 20px;
+            border-bottom: 2px solid var(--light);
+        }
+
+        .booking-header h4 {
+            color: var(--dark);
+            margin: 0;
+            font-size: 1.5rem;
+        }
+
+        .price {
+            font-size: 2rem;
+            font-weight: 700;
+            color: var(--primary);
+            text-align: right;
+        }
+
+        .price span {
+            display: block;
+            font-size: 1rem;
+            color: var(--text);
+            font-weight: 400;
+        }
+
+        .booking-features {
+            margin-bottom: 25px;
+        }
+
+        .feature {
+            padding: 12px 0;
+            border-bottom: 1px solid var(--light);
+        }
+
+        .feature:last-child {
+            border-bottom: none;
+        }
+
+        .booking-note {
+            background: #fff9e6;
+            padding: 15px;
+            border-radius: 8px;
+            margin-bottom: 25px;
+            font-size: 0.9rem;
+            border-left: 4px solid var(--secondary);
+        }
+
+        .booking-actions {
+            display: flex;
+            flex-direction: column;
+            gap: 15px;
+        }
+
+        .btn {
+            display: inline-block;
+            padding: 12px 30px;
+            border-radius: 30px;
+            text-decoration: none;
+            font-weight: 600;
+            text-align: center;
+            transition: all 0.3s ease;
+            border: none;
+            cursor: pointer;
+        }
+
+        .btn-primary {
+            background: var(--primary);
+            color: white;
+        }
+
+        .btn-primary:hover {
+            background: var(--secondary);
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+        }
+
+        .btn-text {
+            color: var(--primary);
+            text-decoration: none;
+            font-weight: 600;
+            text-align: center;
+            transition: color 0.3s ease;
+        }
+
+        .btn-text:hover {
+            color: var(--secondary);
+        }
+
+        .btn-text i {
+            margin-left: 5px;
+            transition: transform 0.3s ease;
+        }
+
+        .btn-text:hover i {
+            transform: translateX(3px);
+        }
+
+        /* Preparation Section */
+        .preparation-section {
+            background: var(--white);
+        }
+
+        .preparation-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 30px;
+            margin-top: 50px;
+        }
+
+        .prep-card {
+            background: var(--light);
+            padding: 40px 30px;
+            border-radius: 12px;
+            text-align: center;
+            transition: transform 0.3s ease;
+            border: 1px solid rgba(117, 104, 44, 0.1);
+            position: relative;
+        }
+
+        .prep-card:hover {
+            transform: translateY(-5px);
+        }
+
+        .prep-icon {
+            font-size: 3rem;
+            color: var(--primary);
+            margin-bottom: 20px;
+        }
+
+        .prep-card h3 {
+            color: var(--dark);
+            margin-bottom: 25px;
+            font-size: 1.5rem;
+        }
+
+        .gear-list,
+        .packing-list {
+            text-align: left;
+        }
+
+        .gear-category,
+        .packing-category {
+            margin-bottom: 20px;
+        }
+
+        .gear-category h4,
+        .packing-category h4 {
+            color: var(--primary);
+            margin-bottom: 10px;
+            font-size: 1.1rem;
+            border-bottom: 1px solid rgba(117, 104, 44, 0.2);
+            padding-bottom: 5px;
+        }
+
+        .gear-category p,
+        .packing-category p {
+            padding: 6px 0;
+        }
+
+        .checklist {
+            text-align: left;
+        }
+
+        .check-item {
+            padding: 12px 0;
+            border-bottom: 1px solid rgba(117, 104, 44, 0.1);
+        }
+
+        .check-item:last-child {
+            border-bottom: none;
+        }
+
+        /* New image styles */
+        .prep-image {
+            width: 100%;
+            height: 200px;
+            border-radius: 8px;
+            overflow: hidden;
+            margin-bottom: 20px;
+        }
+
+        .prep-image img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+
+        /* Guidance Section */
+        .guidance-section {
+            background: var(--light);
+        }
+
+        .guidance-features {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 30px;
+            margin: 50px 0;
+        }
+
+        .guidance-card {
+            background: white;
+            padding: 40px 30px;
+            border-radius: 12px;
+            text-align: center;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            border: 1px solid rgba(117, 104, 44, 0.1);
+        }
+
+        .guidance-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+        }
+
+        .guidance-icon {
+            font-size: 3rem;
+            color: var(--primary);
+            margin-bottom: 20px;
+        }
+
+        .guidance-card h4 {
+            color: var(--dark);
+            margin-bottom: 15px;
+            font-size: 1.3rem;
+        }
+
+        .guidance-cta {
+            text-align: center;
+            background: white;
+            padding: 40px;
+            border-radius: 12px;
+            margin-top: 30px;
+            border: 1px solid rgba(117, 104, 44, 0.1);
+        }
+
+        .guidance-cta p {
+            font-size: 1.1rem;
+            margin-bottom: 25px;
+            max-width: 600px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        /* Responsive Design */
+        @media (max-width: 992px) {
+            .balloon-content {
+                grid-template-columns: 1fr;
+                gap: 40px;
+            }
+            
+            .booking-header {
+                flex-direction: column;
+                text-align: center;
+                gap: 15px;
+            }
+            
+            .price {
+                text-align: center;
+            }
+        }
+
+        @media (max-width: 768px) {
+            .transfer-grid,
+            .preparation-grid {
+                grid-template-columns: 1fr;
+            }
+            
+            .guidance-features {
+                grid-template-columns: 1fr;
+            }
+            
+            .timeline-item {
+                flex-direction: column;
+                text-align: center;
+            }
+            
+            .timeline-marker {
+                margin-right: 0;
+                margin-bottom: 15px;
+            }
+            
+            .transfer-card,
+            .prep-card,
+            .guidance-card {
+                padding: 30px 20px;
+            }
+            
+            .section-title h2 {
+                font-size: 2rem;
+            }
+        }

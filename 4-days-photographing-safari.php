@@ -29,13 +29,715 @@
     </div>
 </section>
 
+<!-- Safari Package Introduction Section -->
+<section class="section package-intro-section">
+    <div class="container">
+        <div class="section-title">
+            <span class="subtitle">Ultimate Safari Experience</span>
+            <h2>The Perfect Photography Safari Package</h2>
+            <p>Designed specifically for photographers who want to capture Africa's magic</p>
+        </div>
+
+        <!-- Package Overview -->
+        <div class="package-overview">
+            <div class="overview-image">
+                <img src="img/Photographic-Safari-in-Tanzania.jpg" alt="Professional Safari Photography">
+                <div class="image-badge">
+                    <i class="fas fa-camera"></i>
+                    <span>Photographer's Choice</span>
+                </div>
+            </div>
+            
+            <div class="overview-content">
+                <h3>Why This Safari Package is Special</h3>
+                <p class="overview-description">This isn't just another safari. It's a carefully crafted photography journey that combines wildlife viewing, cultural immersion, and professional photography guidance to create unforgettable images and memories.</p>
+                
+                <div class="quick-stats">
+                    <div class="stat">
+                        <span class="stat-number">7</span>
+                        <span class="stat-label">Days of Adventure</span>
+                    </div>
+                    <div class="stat">
+                        <span class="stat-number">1000+</span>
+                        <span class="stat-label">Photo Opportunities</span>
+                    </div>
+                    <div class="stat">
+                        <span class="stat-number">24/7</span>
+                        <span class="stat-label">Expert Guidance</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Who is This For -->
+        <div class="package-audience">
+            <h3>Who is This Safari Perfect For?</h3>
+            <div class="audience-grid">
+                <div class="audience-card">
+                    <div class="audience-icon">
+                        <i class="fas fa-user"></i>
+                    </div>
+                    <h4>Serious Amateur Photographers</h4>
+                    <p>Looking to elevate their wildlife photography with professional guidance and optimal shooting conditions.</p>
+                </div>
+                
+                <div class="audience-card">
+                    <div class="audience-icon">
+                        <i class="fas fa-user-tie"></i>
+                    </div>
+                    <h4>Professional Photographers</h4>
+                    <p>Seeking portfolio-worthy shots with specialized access and flexible shooting schedules.</p>
+                </div>
+                
+                <div class="audience-card">
+                    <div class="audience-icon">
+                        <i class="fas fa-heart"></i>
+                    </div>
+                    <h4>Nature & Wildlife Enthusiasts</h4>
+                    <p>Who want to combine their passion for wildlife with learning photography skills from experts.</p>
+                </div>
+                
+                <div class="audience-card">
+                    <div class="audience-icon">
+                        <i class="fas fa-users"></i>
+                    </div>
+                    <h4>Small Groups & Couples</h4>
+                    <p>Looking for an intimate, personalized safari experience with focus on photography.</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Key Highlights -->
+        <div class="key-highlights">
+            <h3>Key Highlights That Make Us Different</h3>
+            <div class="highlights-grid">
+                <div class="highlight-item">
+                    <div class="highlight-number">01</div>
+                    <div class="highlight-content">
+                        <h4>Photography-First Itinerary</h4>
+                        <p>Schedules built around golden hours and optimal lighting conditions for photography.</p>
+                    </div>
+                </div>
+                
+                <div class="highlight-item">
+                    <div class="highlight-number">02</div>
+                    <div class="highlight-content">
+                        <h4>Small Group Size</h4>
+                        <p>Maximum 6 guests per vehicle for better photographic access and personalized attention.</p>
+                    </div>
+                </div>
+                
+                <div class="highlight-item">
+                    <div class="highlight-number">03</div>
+                    <div class="highlight-content">
+                        <h4>Professional Photo Coach</h4>
+                        <p>Dedicated photography expert throughout the safari for real-time feedback and guidance.</p>
+                    </div>
+                </div>
+                
+                <div class="highlight-item">
+                    <div class="highlight-number">04</div>
+                    <div class="highlight-content">
+                        <h4>Special Vehicle Features</h4>
+                        <p>Photographer-friendly vehicles with camera mounts, bean bags, and charging stations.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Unique Features -->
+        <div class="unique-features">
+            <h3>What Makes This Package Unique</h3>
+            
+            <div class="features-grid">
+                <div class="feature-box">
+                    <div class="feature-header">
+                        <i class="fas fa-sync-alt"></i>
+                        <h4>Maximum Flexibility</h4>
+                    </div>
+                    <p>Adaptive schedules that change based on wildlife movements and lighting conditions. Stay longer at sightings when the action is good.</p>
+                    <ul>
+                        <li>Customizable daily routines</li>
+                        <li>Extended game drives</li>
+                        <li>Weather-adaptive planning</li>
+                    </ul>
+                </div>
+                
+                <div class="feature-box">
+                    <div class="feature-header">
+                        <i class="fas fa-graduation-cap"></i>
+                        <h4>Real Experience & Learning</h4>
+                    </div>
+                    <p>Learn professional techniques in the field. Daily review sessions and personalized coaching to improve your skills.</p>
+                    <ul>
+                        <li>Daily photo reviews</li>
+                        <li>Hands-on workshops</li>
+                        <li>One-on-one mentoring</li>
+                    </ul>
+                </div>
+                
+                <div class="feature-box">
+                    <div class="feature-header">
+                        <i class="fas fa-star"></i>
+                        <h4>Premium Access</h4>
+                    </div>
+                    <p>Access to prime photography locations and extended viewing times at key wildlife areas for optimal shots.</p>
+                    <ul>
+                        <li>Early park access</li>
+                        <li>Private viewing areas</li>
+                        <li>Extended time at sightings</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <!-- Package Value CTA -->
+        
+        </div>
+    </div>
+</section>
+<style>
+
+
+/* ==========================================================================
+   Package Introduction Section Styles
+   ========================================================================== */
+.package-intro-section {
+    background: var(--white);
+    padding: 80px 0;
+}
+
+.package-intro-section .section-title h2 {
+    font-size: 2.5rem;
+    margin-bottom: 15px;
+}
+
+/* Package Overview */
+.package-overview {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 50px;
+    align-items: center;
+    margin-bottom: 70px;
+    background: var(--light);
+    padding: 40px;
+    border-radius: var(--radius);
+}
+
+.overview-image {
+    position: relative;
+    border-radius: var(--radius);
+    overflow: hidden;
+    height: 400px;
+}
+
+.overview-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.5s ease;
+}
+
+.package-overview:hover .overview-image img {
+    transform: scale(1.02);
+}
+
+.image-badge {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    background: var(--primary);
+    color: white;
+    padding: 8px 15px;
+    border-radius: 30px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-weight: 600;
+    font-size: 0.9rem;
+}
+
+.overview-content h3 {
+    font-size: 1.8rem;
+    color: var(--dark);
+    margin-bottom: 20px;
+    font-weight: 700;
+}
+
+.overview-description {
+    font-size: 1.1rem;
+    line-height: 1.7;
+    color: var(--text);
+    margin-bottom: 30px;
+}
+
+.quick-stats {
+    display: flex;
+    gap: 30px;
+    margin-top: 30px;
+    padding-top: 30px;
+    border-top: 2px solid var(--border);
+}
+
+.stat {
+    text-align: center;
+    flex: 1;
+}
+
+.stat-number {
+    display: block;
+    font-size: 2.5rem;
+    font-weight: 800;
+    color: var(--primary);
+    line-height: 1;
+    margin-bottom: 5px;
+}
+
+.stat-label {
+    font-size: 0.9rem;
+    color: var(--text-light);
+    font-weight: 600;
+}
+
+/* Who is This For */
+.package-audience {
+    margin-bottom: 70px;
+}
+
+.package-audience h3 {
+    text-align: center;
+    font-size: 2rem;
+    color: var(--dark);
+    margin-bottom: 50px;
+    font-weight: 700;
+}
+
+.audience-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 25px;
+}
+
+.audience-card {
+    background: var(--white);
+    padding: 30px;
+    border-radius: var(--radius);
+    text-align: center;
+    border: 1px solid var(--border);
+    transition: all 0.3s ease;
+}
+
+.audience-card:hover {
+    transform: translateY(-5px);
+    box-shadow: var(--shadow);
+    border-color: var(--primary);
+}
+
+.audience-icon {
+    width: 70px;
+    height: 70px;
+    background: var(--primary-light);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto 20px;
+}
+
+.audience-icon i {
+    font-size: 1.8rem;
+    color: var(--primary);
+}
+
+.audience-card h4 {
+    color: var(--dark);
+    margin-bottom: 15px;
+    font-size: 1.2rem;
+    font-weight: 600;
+}
+
+.audience-card p {
+    color: var(--text);
+    line-height: 1.6;
+    font-size: 0.95rem;
+}
+
+/* Key Highlights */
+.key-highlights {
+    margin-bottom: 70px;
+}
+
+.key-highlights h3 {
+    text-align: center;
+    font-size: 2rem;
+    color: var(--dark);
+    margin-bottom: 50px;
+    font-weight: 700;
+}
+
+.highlights-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 30px;
+}
+
+.highlight-item {
+    display: flex;
+    align-items: flex-start;
+    gap: 20px;
+    padding: 25px;
+    background: var(--light);
+    border-radius: var(--radius);
+    transition: all 0.3s ease;
+}
+
+.highlight-item:hover {
+    background: var(--white);
+    box-shadow: var(--shadow);
+    transform: translateY(-3px);
+}
+
+.highlight-number {
+    font-size: 2.5rem;
+    font-weight: 800;
+    color: rgba(117, 104, 44, 0.2);
+    line-height: 1;
+    flex-shrink: 0;
+}
+
+.highlight-content h4 {
+    color: var(--dark);
+    margin-bottom: 10px;
+    font-size: 1.2rem;
+    font-weight: 600;
+}
+
+.highlight-content p {
+    color: var(--text);
+    line-height: 1.6;
+    font-size: 0.95rem;
+}
+
+/* Unique Features */
+.unique-features {
+    margin-bottom: 70px;
+}
+
+.unique-features h3 {
+    text-align: center;
+    font-size: 2rem;
+    color: var(--dark);
+    margin-bottom: 50px;
+    font-weight: 700;
+}
+
+.features-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 30px;
+}
+
+.feature-box {
+    background: var(--white);
+    padding: 30px;
+    border-radius: var(--radius);
+    border: 1px solid var(--border);
+    transition: all 0.3s ease;
+}
+
+.feature-box:hover {
+    transform: translateY(-5px);
+    box-shadow: var(--shadow);
+    border-color: var(--primary);
+}
+
+.feature-header {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    margin-bottom: 20px;
+}
+
+.feature-header i {
+    font-size: 2rem;
+    color: var(--primary);
+}
+
+.feature-header h4 {
+    color: var(--dark);
+    font-size: 1.3rem;
+    font-weight: 700;
+    margin: 0;
+}
+
+.feature-box p {
+    color: var(--text);
+    line-height: 1.6;
+    margin-bottom: 20px;
+}
+
+.feature-box ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+.feature-box li {
+    padding: 8px 0;
+    color: var(--text);
+    border-bottom: 1px solid var(--border);
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.feature-box li:last-child {
+    border-bottom: none;
+}
+
+.feature-box li:before {
+    content: "✓";
+    color: var(--primary);
+    font-weight: bold;
+}
+
+/* Package Value CTA */
+.package-value-cta {
+    background: linear-gradient(135deg, var(--primary) 0%, #8a7a3a 100%);
+    border-radius: var(--radius);
+    padding: 50px;
+    text-align: center;
+    color: white;
+    position: relative;
+    overflow: hidden;
+}
+
+.cta-content h3 {
+    font-size: 2.2rem;
+    margin-bottom: 15px;
+    color: white;
+}
+
+.cta-content p {
+    font-size: 1.2rem;
+    margin-bottom: 30px;
+    color: rgba(255, 255, 255, 0.9);
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.cta-buttons {
+    display: flex;
+    gap: 15px;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.cta-buttons .btn {
+    padding: 15px 35px;
+    font-size: 1.1rem;
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.cta-buttons .btn-primary {
+    background: white;
+    color: var(--primary);
+    font-weight: 700;
+}
+
+.cta-buttons .btn-primary:hover {
+    background: var(--secondary);
+    color: var(--dark);
+}
+
+.cta-buttons .btn-outline {
+    background: transparent;
+    border: 2px solid white;
+    color: white;
+}
+
+.cta-buttons .btn-outline:hover {
+    background: white;
+    color: var(--primary);
+}
+
+.cta-note {
+    margin-top: 30px;
+    padding-top: 20px;
+    border-top: 1px solid rgba(255, 255, 255, 0.2);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    font-size: 1rem;
+}
+
+.cta-note i {
+    color: var(--secondary);
+    font-size: 1.2rem;
+}
+
+/* ==========================================================================
+   Responsive Design
+   ========================================================================== */
+@media (max-width: 992px) {
+    .package-overview {
+        grid-template-columns: 1fr;
+        gap: 40px;
+        padding: 30px;
+    }
+    
+    .overview-image {
+        height: 350px;
+    }
+    
+    .quick-stats {
+        justify-content: center;
+    }
+    
+    .cta-content h3 {
+        font-size: 2rem;
+    }
+    
+    .package-intro-section .section-title h2 {
+        font-size: 2.2rem;
+    }
+}
+
+@media (max-width: 768px) {
+    .package-intro-section {
+        padding: 60px 0;
+    }
+    
+    .package-audience h3,
+    .key-highlights h3,
+    .unique-features h3 {
+        font-size: 1.8rem;
+        margin-bottom: 40px;
+    }
+    
+    .audience-grid,
+    .highlights-grid,
+    .features-grid {
+        grid-template-columns: 1fr;
+        gap: 20px;
+    }
+    
+    .highlight-item {
+        flex-direction: column;
+        text-align: center;
+        align-items: center;
+    }
+    
+    .quick-stats {
+        flex-direction: column;
+        gap: 20px;
+        text-align: center;
+    }
+    
+    .stat {
+        margin-bottom: 10px;
+    }
+    
+    .package-value-cta {
+        padding: 40px 25px;
+    }
+    
+    .cta-buttons {
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .cta-buttons .btn {
+        width: 100%;
+        max-width: 300px;
+        justify-content: center;
+    }
+}
+
+@media (max-width: 480px) {
+    .package-intro-section {
+        padding: 50px 0;
+    }
+    
+    .package-intro-section .section-title h2 {
+        font-size: 1.8rem;
+    }
+    
+    .package-overview {
+        padding: 20px;
+    }
+    
+    .overview-image {
+        height: 250px;
+    }
+    
+    .overview-content h3 {
+        font-size: 1.5rem;
+    }
+    
+    .stat-number {
+        font-size: 2rem;
+    }
+    
+    .cta-content h3 {
+        font-size: 1.7rem;
+    }
+    
+    .cta-content p {
+        font-size: 1rem;
+    }
+    
+    .audience-card,
+    .feature-box {
+        padding: 25px 20px;
+    }
+}
+
+/* Animation for section elements */
+.package-overview,
+.audience-card,
+.highlight-item,
+.feature-box {
+    animation: fadeInUp 0.6s ease forwards;
+    opacity: 0;
+}
+
+.package-overview { animation-delay: 0.1s; }
+.audience-card:nth-child(1) { animation-delay: 0.2s; }
+.audience-card:nth-child(2) { animation-delay: 0.3s; }
+.audience-card:nth-child(3) { animation-delay: 0.4s; }
+.audience-card:nth-child(4) { animation-delay: 0.5s; }
+.highlight-item:nth-child(1) { animation-delay: 0.2s; }
+.highlight-item:nth-child(2) { animation-delay: 0.3s; }
+.highlight-item:nth-child(3) { animation-delay: 0.4s; }
+.highlight-item:nth-child(4) { animation-delay: 0.5s; }
+.feature-box:nth-child(1) { animation-delay: 0.2s; }
+.feature-box:nth-child(2) { animation-delay: 0.3s; }
+.feature-box:nth-child(3) { animation-delay: 0.4s; }
+
+@keyframes fadeInUp {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+</style>
+
+
 <!-- Itinerary Section -->
 <section class="kilimanjaro-expedition" id="itinerary">
     <div class="expedition-container">
         <div class="expedition-summary">
             <h2 class="schedule-heading">4 Days Photographing Safari – Tarangire, Serengeti & Ngorongoro</h2>
             <p>
-                Capture Tanzania’s wild wonders on this 4-day photographic safari designed for passionate photographers. Explore Tarangire’s elephant herds, the Serengeti’s vast savannahs, and the Ngorongoro Crater’s breathtaking landscapes, all guided by experts skilled in wildlife photography. Perfect for both beginners and seasoned photographers, this safari ensures memorable wildlife encounters, dynamic lighting conditions, and endless opportunities to frame dramatic African scenery while traveling comfortably in private 4x4 vehicles designed for photography.
+                Capture Tanzania's wild wonders on this 4-day photographic safari designed for passionate photographers. Explore Tarangire's elephant herds, the Serengeti's vast savannahs, and the Ngorongoro Crater's breathtaking landscapes, all guided by experts skilled in wildlife photography. Perfect for both beginners and seasoned photographers, this safari ensures memorable wildlife encounters, dynamic lighting conditions, and endless opportunities to frame dramatic African scenery while traveling comfortably in private 4x4 vehicles designed for photography.
             </p>
         </div>
 
@@ -266,74 +968,338 @@
     </div>
 </section>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Photography Safari Preparation</title>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-    <style>
-        :root {
-            --primary: #75682c;
-            --secondary: #d1b464;
-            --dark: #2c3e50;
-            --light: #f8f9fa;
-            --white: #ffffff;
-            --text: #6c757d;
-        }
+<style>
+:root {
+    --primary: #75682C;
+    --primary-light: rgba(117, 104, 44, 0.1);
+    --secondary: #e0b354;
+    --dark: #1a1a1a;
+    --light: #F6F4F2;
+    --white: #FFFFFF;
+    --text: #444444;
+    --text-light: #666666;
+    --border: rgba(117, 104, 44, 0.15);
+}
 
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 
-        body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            line-height: 1.6;
-            color: #333;
-            background-color: #f5f5f5;
-        }
+body {
+    font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+    line-height: 1.5;
+    color: var(--text);
+}
 
-        .container {
-            max-width: 1200px;
-            margin: 0 auto;
-            padding: 0 20px;
-        }
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
 
-        .section {
-            padding: 80px 0;
-        }
+.section {
+    padding: 60px 0;
+}
 
-        .section-title {
-            text-align: center;
-            margin-bottom: 60px;
-        }
+.section-title {
+    text-align: center;
+    margin-bottom: 40px;
+}
 
-        .subtitle {
-            display: block;
-            color: var(--primary);
-            font-weight: 600;
-            text-transform: uppercase;
-            letter-spacing: 2px;
-            margin-bottom: 10px;
-        }
+.subtitle {
+    display: block;
+    color: var(--primary);
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-bottom: 10px;
+    font-size: 0.9rem;
+}
 
-        .section-title h2 {
-            font-size: 2.5rem;
-            color: var(--dark);
-            margin-bottom: 20px;
-        }
+.section-title h2 {
+    font-size: 2rem;
+    color: var(--dark);
+    margin-bottom: 15px;
+}
 
-        .section-title p {
-            font-size: 1.1rem;
-            color: var(--text);
-            max-width: 600px;
-            margin: 0 auto;
-        }
+.section-title p {
+    color: var(--text-light);
+    max-width: 500px;
+    margin: 0 auto;
+}
 
-        /* Airport Transfer Section */
+/* Balloon Section */
+.balloon-safari-section {
+    background: var(--light);
+}
+
+.balloon-layout {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 40px;
+    align-items: start;
+}
+
+/* Left Side */
+.balloon-details {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+
+.detail-block h3 {
+    color: var(--dark);
+    margin-bottom: 15px;
+    font-size: 1.5rem;
+}
+
+.detail-block p {
+    color: var(--text);
+    line-height: 1.6;
+}
+
+/* Experience Points */
+.experience-points {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.point {
+    display: flex;
+    align-items: flex-start;
+    gap: 15px;
+}
+
+.point i {
+    color: var(--primary);
+    font-size: 1.2rem;
+    margin-top: 3px;
+}
+
+.point h4 {
+    color: var(--dark);
+    margin-bottom: 4px;
+    font-size: 1.1rem;
+}
+
+.point p {
+    color: var(--text-light);
+    font-size: 0.9rem;
+}
+
+/* Simple Timeline */
+.simple-timeline {
+    padding-top: 20px;
+    border-top: 1px solid var(--border);
+}
+
+.simple-timeline h4 {
+    color: var(--dark);
+    margin-bottom: 15px;
+}
+
+.timeline {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.timeline-step {
+    display: flex;
+    gap: 15px;
+    padding: 10px 0;
+    border-bottom: 1px solid var(--border);
+}
+
+.timeline-step:last-child {
+    border-bottom: none;
+}
+
+.timeline-step .time {
+    font-weight: 600;
+    color: var(--primary);
+    min-width: 70px;
+}
+
+.timeline-step .step {
+    color: var(--text);
+}
+
+/* Right Side - Booking Card */
+.booking-card-simple {
+    background: var(--white);
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.08);
+}
+
+.card-image {
+    height: 200px;
+    overflow: hidden;
+}
+
+.card-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.card-content {
+    padding: 30px;
+}
+
+.card-content h3 {
+    color: var(--dark);
+    margin-bottom: 20px;
+    font-size: 1.5rem;
+}
+
+.price-block {
+    margin-bottom: 25px;
+    padding-bottom: 25px;
+    border-bottom: 2px solid var(--primary-light);
+}
+
+.price {
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: var(--primary);
+    line-height: 1;
+}
+
+.per-person {
+    color: var(--text-light);
+    font-size: 0.9rem;
+}
+
+.card-details {
+    margin-bottom: 25px;
+}
+
+.card-details p {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 10px;
+    color: var(--text);
+}
+
+.card-details i {
+    color: var(--primary);
+    width: 20px;
+}
+
+.included {
+    margin-bottom: 25px;
+}
+
+.included h4 {
+    color: var(--dark);
+    margin-bottom: 10px;
+    font-size: 1.1rem;
+}
+
+.included ul {
+    list-style: none;
+}
+
+.included li {
+    padding: 6px 0;
+    color: var(--text);
+    border-bottom: 1px solid var(--border);
+}
+
+.included li:last-child {
+    border-bottom: none;
+}
+
+.note {
+    background: #fff9e6;
+    padding: 15px;
+    border-radius: 6px;
+    margin-bottom: 25px;
+    font-size: 0.9rem;
+    color: var(--text);
+}
+
+.buttons {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.btn {
+    display: block;
+    padding: 12px 20px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 6px;
+    font-weight: 600;
+    transition: all 0.3s ease;
+    border: 2px solid transparent;
+}
+
+.btn-primary {
+    background: var(--primary);
+    color: white;
+}
+
+.btn-primary:hover {
+    background: var(--secondary);
+}
+
+.btn-outline {
+    border-color: var(--primary);
+    color: var(--primary);
+}
+
+.btn-outline:hover {
+    background: var(--primary-light);
+}
+
+/* Responsive */
+@media (max-width: 900px) {
+    .balloon-layout {
+        grid-template-columns: 1fr;
+        gap: 30px;
+    }
+    
+    .booking-card-simple {
+        max-width: 500px;
+        margin: 0 auto;
+    }
+}
+
+@media (max-width: 600px) {
+    .section {
+        padding: 40px 0;
+    }
+    
+    .section-title h2 {
+        font-size: 1.7rem;
+    }
+    
+    .card-content {
+        padding: 20px;
+    }
+    
+    .price {
+        font-size: 2rem;
+    }
+    
+    .buttons {
+        flex-direction: row;
+    }
+    
+    .btn {
+        flex: 1;
+    }
+}
+
+ /* Airport Transfer Section */
         .airport-transfer-section {
             background: var(--white);
         }
@@ -390,257 +1356,8 @@
             text-align: left;
         }
 
-        /* Balloon Safari Section */
-        .balloon-safari-section {
-            background: var(--light);
-        }
 
-        .balloon-content {
-            display: grid;
-            grid-template-columns: 1fr 400px;
-            gap: 50px;
-            align-items: start;
-        }
-
-        .balloon-highlight {
-            margin-bottom: 40px;
-        }
-
-        .balloon-highlight h3 {
-            color: var(--dark);
-            margin-bottom: 15px;
-            font-size: 1.8rem;
-        }
-
-        .experience-timeline {
-            margin-top: 30px;
-        }
-
-        .timeline-item {
-            display: flex;
-            margin-bottom: 30px;
-            align-items: flex-start;
-        }
-
-        .timeline-marker {
-            background: var(--primary);
-            color: white;
-            width: 50px;
-            height: 50px;
-            border-radius: 50%;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            margin-right: 20px;
-            flex-shrink: 0;
-        }
-
-        .timeline-content h4 {
-            color: var(--dark);
-            margin-bottom: 8px;
-            font-size: 1.2rem;
-        }
-
-        .booking-card {
-            background: white;
-            border-radius: 12px;
-            padding: 30px;
-            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
-            border: 1px solid rgba(117, 104, 44, 0.1);
-        }
-
-        .booking-header {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            margin-bottom: 25px;
-            padding-bottom: 20px;
-            border-bottom: 2px solid var(--light);
-        }
-
-        .booking-header h4 {
-            color: var(--dark);
-            margin: 0;
-            font-size: 1.5rem;
-        }
-
-        .price {
-            font-size: 2rem;
-            font-weight: 700;
-            color: var(--primary);
-            text-align: right;
-        }
-
-        .price span {
-            display: block;
-            font-size: 1rem;
-            color: var(--text);
-            font-weight: 400;
-        }
-
-        .booking-features {
-            margin-bottom: 25px;
-        }
-
-        .feature {
-            padding: 12px 0;
-            border-bottom: 1px solid var(--light);
-        }
-
-        .feature:last-child {
-            border-bottom: none;
-        }
-
-        .booking-note {
-            background: #fff9e6;
-            padding: 15px;
-            border-radius: 8px;
-            margin-bottom: 25px;
-            font-size: 0.9rem;
-            border-left: 4px solid var(--secondary);
-        }
-
-        .booking-actions {
-            display: flex;
-            flex-direction: column;
-            gap: 15px;
-        }
-
-        .btn {
-            display: inline-block;
-            padding: 12px 30px;
-            border-radius: 30px;
-            text-decoration: none;
-            font-weight: 600;
-            text-align: center;
-            transition: all 0.3s ease;
-            border: none;
-            cursor: pointer;
-        }
-
-        .btn-primary {
-            background: var(--primary);
-            color: white;
-        }
-
-        .btn-primary:hover {
-            background: var(--secondary);
-            transform: translateY(-2px);
-            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
-        }
-
-        .btn-text {
-            color: var(--primary);
-            text-decoration: none;
-            font-weight: 600;
-            text-align: center;
-            transition: color 0.3s ease;
-        }
-
-        .btn-text:hover {
-            color: var(--secondary);
-        }
-
-        .btn-text i {
-            margin-left: 5px;
-            transition: transform 0.3s ease;
-        }
-
-        .btn-text:hover i {
-            transform: translateX(3px);
-        }
-
-        /* Preparation Section */
-        .preparation-section {
-            background: var(--white);
-        }
-
-        .preparation-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-            gap: 30px;
-            margin-top: 50px;
-        }
-
-        .prep-card {
-            background: var(--light);
-            padding: 40px 30px;
-            border-radius: 12px;
-            text-align: center;
-            transition: transform 0.3s ease;
-            border: 1px solid rgba(117, 104, 44, 0.1);
-            position: relative;
-        }
-
-        .prep-card:hover {
-            transform: translateY(-5px);
-        }
-
-        .prep-icon {
-            font-size: 3rem;
-            color: var(--primary);
-            margin-bottom: 20px;
-        }
-
-        .prep-card h3 {
-            color: var(--dark);
-            margin-bottom: 25px;
-            font-size: 1.5rem;
-        }
-
-        .gear-list,
-        .packing-list {
-            text-align: left;
-        }
-
-        .gear-category,
-        .packing-category {
-            margin-bottom: 20px;
-        }
-
-        .gear-category h4,
-        .packing-category h4 {
-            color: var(--primary);
-            margin-bottom: 10px;
-            font-size: 1.1rem;
-            border-bottom: 1px solid rgba(117, 104, 44, 0.2);
-            padding-bottom: 5px;
-        }
-
-        .gear-category p,
-        .packing-category p {
-            padding: 6px 0;
-        }
-
-        .checklist {
-            text-align: left;
-        }
-
-        .check-item {
-            padding: 12px 0;
-            border-bottom: 1px solid rgba(117, 104, 44, 0.1);
-        }
-
-        .check-item:last-child {
-            border-bottom: none;
-        }
-
-        /* New image styles */
-        .prep-image {
-            width: 100%;
-            height: 200px;
-            border-radius: 8px;
-            overflow: hidden;
-            margin-bottom: 20px;
-        }
-
-        .prep-image img {
-            width: 100%;
-            height: 100%;
-            object-fit: cover;
-        }
-
-        /* Guidance Section */
+ /* Guidance Section */
         .guidance-section {
             background: var(--light);
         }
@@ -743,7 +1460,9 @@
                 font-size: 2rem;
             }
         }
-    </style>
+
+
+</style>
 </head>
 <body>
     <!-- Airport Transfer Section -->
@@ -757,9 +1476,10 @@
             
             <div class="transfer-grid">
                 <div class="transfer-card">
-                    <div class="transfer-icon">
-                        <i class="fas fa-plane-arrival"></i>
+                    <div class="transfer-image">
+                        <img src="img/transfer-from-airport-vehicle.jpg" alt="Our Safari Transfer Vehicle">
                     </div>
+                   
                     <h3>Arrival Transfer</h3>
                     <p>We'll meet you at Kilimanjaro International Airport (JRO) with a warm welcome and comfortable transfer to your Arusha accommodation.</p>
                     <div class="transfer-features">
@@ -771,9 +1491,10 @@
                 </div>
                 
                 <div class="transfer-card">
-                    <div class="transfer-icon">
-                        <i class="fas fa-plane-departure"></i>
+                    <div class="transfer-image">
+                        <img src="img/airport-transfer.jpg" alt="Our Safari 4x4 Vehicle">
                     </div>
+                    
                     <h3>Departure Transfer</h3>
                     <p>After your safari concludes, we ensure timely transfer back to the airport with ample time for check-in procedures.</p>
                     <div class="transfer-features">
@@ -797,194 +1518,111 @@
         </div>
     </section>
 
-    <!-- Hot Air Balloon Safari Section -->
-    <section class="section balloon-safari-section">
-        <div class="container">
-            <div class="section-title">
-                <span class="subtitle">Aerial Photography</span>
-                <h2>Hot Air Balloon Safari Experience</h2>
-                <p>Elevate your photography with a breathtaking balloon safari over the Serengeti plains</p>
-            </div>
-            
-            <div class="balloon-content">
-                <div class="balloon-description">
-                    <div class="balloon-highlight">
-                        <h3>Capture Africa from Above</h3>
-                        <p>Add an unforgettable aerial photography experience to your safari. Float silently above the Serengeti at sunrise, capturing wildlife and landscapes from a unique perspective that few photographers ever experience.</p>
+<!-- Hot Air Balloon Safari Section -->
+<section class="section balloon-safari-section">
+    <div class="container">
+        <div class="section-title">
+            <span class="subtitle">Aerial Photography</span>
+            <h2>Hot Air Balloon Safari</h2>
+            <p>Float above the Serengeti at sunrise. Capture unforgettable aerial photos.</p>
+        </div>
+        
+        <div class="balloon-layout">
+            <!-- Left: Experience Details -->
+            <div class="balloon-details">
+                <div class="detail-block">
+                    <h3>Capture Africa from Above</h3>
+                    <p>Experience the Serengeti from a unique perspective. Perfect for stunning landscape and wildlife photography during golden hour.</p>
+                </div>
+                
+                <div class="experience-points">
+                    <div class="point">
+                        <i class="fas fa-camera"></i>
+                        <div>
+                            <h4>Sunrise Photography</h4>
+                            <p>Best light for aerial shots</p>
+                        </div>
                     </div>
                     
-                    <div class="experience-timeline">
-                        <div class="timeline-item">
-                            <div class="timeline-marker">
-                                <i class="fas fa-moon"></i>
-                            </div>
-                            <div class="timeline-content">
-                                <h4>4:30 AM - Morning Pick-up</h4>
-                                <p>Early transfer from your lodge to the balloon launch site with coffee and light refreshments</p>
-                            </div>
+                    <div class="point">
+                        <i class="fas fa-utensils"></i>
+                        <div>
+                            <h4>Bush Breakfast</h4>
+                            <p>Champagne celebration after landing</p>
                         </div>
-                        
-                        <div class="timeline-item">
-                            <div class="timeline-marker">
-                                <i class="fas fa-sun"></i>
-                            </div>
-                            <div class="timeline-content">
-                                <h4>5:30 AM - Sunrise Flight</h4>
-                                <p>One-hour flight during magical golden hour - perfect for stunning aerial photography</p>
-                            </div>
-                        </div>
-                        
-                        <div class="timeline-item">
-                            <div class="timeline-marker">
-                                <i class="fas fa-utensils"></i>
-                            </div>
-                            <div class="timeline-content">
-                                <h4>7:00 AM - Bush Breakfast</h4>
-                                <p>Traditional champagne breakfast celebration in the heart of the wilderness</p>
-                            </div>
-                        </div>
-                        
-                        <div class="timeline-item">
-                            <div class="timeline-marker">
-                                <i class="fas fa-certificate"></i>
-                            </div>
-                            <div class="timeline-content">
-                                <h4>8:30 AM - Flight Certificate</h4>
-                                <p>Receive your commemorative balloon flight certificate as a special souvenir</p>
-                            </div>
+                    </div>
+                    
+                    <div class="point">
+                        <i class="fas fa-shield-alt"></i>
+                        <div>
+                            <h4>Full Safety</h4>
+                            <p>Licensed pilots & insurance</p>
                         </div>
                     </div>
                 </div>
                 
-                <div class="balloon-booking">
-                    <div class="booking-card">
-                        <div class="booking-header">
-                            <h4>Balloon Safari Add-On</h4>
-                            <div class="price">$599 <span>per person</span></div>
+                <!-- Simple Timeline -->
+                <div class="simple-timeline">
+                    <h4>Your Morning</h4>
+                    <div class="timeline">
+                        <div class="timeline-step">
+                            <span class="time">4:30 AM</span>
+                            <span class="step">Pick-up from lodge</span>
                         </div>
-                        <div class="booking-features">
-                            <div class="feature">
-                                <span>One-hour balloon flight with professional pilot</span>
-                            </div>
-                            <div class="feature">
-                                <span>Champagne bush breakfast in the wild</span>
-                            </div>
-                            <div class="feature">
-                                <span>Commemorative flight certificate</span>
-                            </div>
-                            <div class="feature">
-                                <span>All transfers included</span>
-                            </div>
-                            <div class="feature">
-                                <span>Full insurance coverage</span>
-                            </div>
+                        <div class="timeline-step">
+                            <span class="time">5:30 AM</span>
+                            <span class="step">Sunrise balloon flight</span>
                         </div>
-                        <div class="booking-note">
-                            <p><strong>Available:</strong> Day 2 or 3 of your safari<br>
-                            <strong>Note:</strong> Weather dependent - full refund if cancelled</p>
+                        <div class="timeline-step">
+                            <span class="time">7:00 AM</span>
+                            <span class="step">Champagne breakfast</span>
                         </div>
-                        <div class="booking-actions">
-                            <a href="#contact" class="btn btn-primary">Add to My Safari</a>
-                            <a href="#gallery" class="btn-text">View Aerial Photos <i class="fas fa-arrow-right"></i></a>
+                        <div class="timeline-step">
+                            <span class="time">8:30 AM</span>
+                            <span class="step">Flight certificate</span>
                         </div>
                     </div>
                 </div>
             </div>
+            
+            <!-- Right: Booking Card -->
+            <div class="booking-card-simple">
+                <div class="card-image">
+                    <img src="img/balloon-safari.jpg" alt="Hot Air Balloon Safari">
+                </div>
+                
+                <div class="card-content">
+                    <h3>Balloon Safari Add-On</h3>
+                    
+                    <div class="price-block">
+                        <div class="price">$599</div>
+                        <div class="per-person">per person</div>
+                    </div>
+                    
+                    <div class="card-details">
+                        <p><i class="fas fa-clock"></i> 4-5 hours total</p>
+                        <p><i class="fas fa-calendar"></i> Available Day 2 or 3</p>
+                        <p><i class="fas fa-user-friends"></i> Small groups</p>
+                    </div>
+                    
+                    <div class="included">
+                        <h4>What's Included:</h4>
+                        <ul>
+                            <li>1-hour balloon flight</li>
+                            <li>Champagne bush breakfast</li>
+                            <li>Flight certificate</li>
+                            <li>All transfers</li>
+                            <li>Full insurance</li>
+                        </ul>
+                    </div>
+                         
+                    </div>
+                </div>
+            </div>
         </div>
-    </section>
+    </div>
+</section>
 
-    <!-- Photography Preparation Section -->
-    <section class="section preparation-section">
-        <div class="container">
-            <div class="section-title">
-                <span class="subtitle">Get Ready</span>
-                <h2>Photography Preparation & Gear Guide</h2>
-                <p>Essential information to help you prepare for the ultimate photography safari experience</p>
-            </div>
-            
-            <div class="preparation-grid">
-                <div class="prep-card">
-                    <div class="prep-image">
-                        <img src="https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=600&h=400&fit=crop" alt="Photography Gear">
-                    </div>
-                    <div class="prep-icon">
-                        <i class="fas fa-camera"></i>
-                    </div>
-                    <h3>Essential Photography Gear</h3>
-                    <div class="gear-list">
-                        <div class="gear-category">
-                            <h4>Camera Equipment</h4>
-                            <p>DSLR or Mirrorless Camera Body</p>
-                            <p>Telephoto Lens (200-600mm)</p>
-                            <p>Wide-angle Lens (16-35mm)</p>
-                            <p>Extra Batteries (3-4)</p>
-                            <p>Memory Cards (128GB+)</p>
-                        </div>
-                        <div class="gear-category">
-                            <h4>Support Equipment</h4>
-                            <p>Bean Bag for vehicle stability</p>
-                            <p>Lens Cleaning Kit</p>
-                            <p>Camera Rain Cover</p>
-                            <p>Power Bank & Chargers</p>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="prep-card">
-                    <div class="prep-image">
-                        <img src="https://images.unsplash.com/photo-1551698618-1dfe5d97d256?w=600&h=400&fit=crop" alt="Packing Essentials">
-                    </div>
-                    <div class="prep-icon">
-                        <i class="fas fa-suitcase"></i>
-                    </div>
-                    <h3>Packing Essentials</h3>
-                    <div class="packing-list">
-                        <div class="packing-category">
-                            <h4>Clothing</h4>
-                            <p>Neutral-colored clothing (khaki, green)</p>
-                            <p>Layered clothing for temperature changes</p>
-                            <p>Comfortable walking shoes</p>
-                            <p>Sun protection (hat, sunscreen)</p>
-                        </div>
-                        <div class="packing-category">
-                            <h4>Accessories</h4>
-                            <p>Binoculars for wildlife spotting</p>
-                            <p>Headlamp or flashlight</p>
-                            <p>Personal medications</p>
-                            <p>Travel documents</p>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="prep-card">
-                    <div class="prep-image">
-                        <img src="https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=600&h=400&fit=crop" alt="Pre-Safari Checklist">
-                    </div>
-                    <div class="prep-icon">
-                        <i class="fas fa-lightbulb"></i>
-                    </div>
-                    <h3>Pre-Safari Checklist</h3>
-                    <div class="checklist">
-                        <div class="check-item">
-                            <span>Practice with your camera equipment</span>
-                        </div>
-                        <div class="check-item">
-                            <span>Purchase comprehensive travel insurance</span>
-                        </div>
-                        <div class="check-item">
-                            <span>Check visa requirements for Tanzania</span>
-                        </div>
-                        <div class="check-item">
-                            <span>Consult doctor about vaccinations</span>
-                        </div>
-                        <div class="check-item">
-                            <span>Share flight details with us</span>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
 
     <!-- Photography Guidance Section -->
     <section class="section guidance-section">
@@ -1029,10 +1667,7 @@
                 </div>
             </div>
             
-            <div class="guidance-cta">
-                <p>Our guides are not just wildlife experts - they're passionate photographers who understand how to help you capture extraordinary images.</p>
-                <a href="#contact" class="btn btn-primary">Book Your Photography Safari</a>
-            </div>
+            
         </div>
     </section>
 </body>

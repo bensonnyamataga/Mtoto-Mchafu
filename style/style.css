@@ -599,13 +599,332 @@ img {
     .safari-popup { width: 90%; right: 5%; bottom: 20px; }
 }
 
+ /* Accommodation Section Styles - FIXED VERSION */
+    .accommodation-section {
+        background: var(--white);
+        padding: 80px 0;
+    }
+    
+    .accommodation-container {
+        display: flex;
+        flex-direction: column;
+        gap: 40px;
+        max-width: 1200px;
+        margin: 0 auto;
+    }
+    
+    .accommodation-card {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        background: var(--white);
+        border-radius: 12px;
+        overflow: hidden;
+        box-shadow: 0 5px 20px rgba(0,0,0,0.08);
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+        border: 1px solid var(--border);
+        min-height: 380px; /* Fixed minimum height */
+    }
+    
+    .accommodation-card:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 10px 30px rgba(0,0,0,0.12);
+    }
+    
+    .accommodation-image {
+        position: relative;
+        height: 100%; /* Fixed: Use full height of parent */
+        min-height: 380px; /* Fixed minimum height */
+        overflow: hidden;
+    }
+    
+    .accommodation-image img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover; /* Fixed: Ensures image fills container */
+        transition: transform 0.5s ease;
+    }
+    
+    .accommodation-card:hover .accommodation-image img {
+        transform: scale(1.05);
+    }
+    
+    .image-overlay {
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        background: linear-gradient(to top, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0) 100%);
+        padding: 30px 20px 20px;
+        opacity: 0;
+        transition: opacity 0.3s ease;
+    }
+    
+    .accommodation-image:hover .image-overlay {
+        opacity: 1;
+    }
+    
+    .view-website-btn {
+        display: inline-block;
+        background: var(--primary);
+        color: white;
+        padding: 10px 20px;
+        border-radius: 4px;
+        text-decoration: none;
+        font-size: 0.9rem;
+        font-weight: 500;
+        transition: background 0.3s ease;
+    }
+    
+    .view-website-btn:hover {
+        background: var(--secondary);
+        color: white;
+    }
+    
+    .view-website-btn i {
+        margin-right: 8px;
+    }
+    
+    .accommodation-location {
+        position: absolute;
+        top: 20px;
+        left: 20px;
+        background: rgba(0, 0, 0, 0.7);
+        color: white;
+        padding: 8px 15px;
+        border-radius: 20px;
+        font-size: 0.9rem;
+        display: flex;
+        align-items: center;
+        gap: 8px;
+        backdrop-filter: blur(5px);
+        z-index: 2;
+    }
+    
+    .accommodation-location i {
+        color: var(--primary);
+    }
+    
+    .accommodation-content {
+        padding: 35px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between; /* Fixed: Better content distribution */
+        height: 100%; /* Fixed: Full height */
+    }
+    
+    .accommodation-content h3 {
+        color: var(--dark);
+        font-size: 1.7rem;
+        margin-bottom: 10px;
+        font-weight: 600;
+    }
+    
+    .accommodation-rating {
+        display: flex;
+        align-items: center;
+        gap: 5px;
+        margin-bottom: 15px;
+    }
+    
+    .accommodation-rating i {
+        color: #FFC107;
+        font-size: 1.1rem;
+    }
+    
+    .accommodation-rating span {
+        color: var(--text-light);
+        font-size: 0.9rem;
+        margin-left: 8px;
+        font-weight: 500;
+    }
+    
+    .accommodation-description {
+        color: var(--text);
+        line-height: 1.7;
+        margin-bottom: 20px;
+        font-size: 1rem;
+        flex-grow: 1; /* Fixed: Allows description to take available space */
+    }
+    
+    .accommodation-features {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 15px;
+        margin-bottom: 20px;
+        padding-top: 20px;
+        border-top: 1px solid var(--border-light);
+    }
+    
+    .feature {
+        display: flex;
+        align-items: center;
+        gap: 12px;
+        padding: 8px 0;
+    }
+    
+    .feature i {
+        color: var(--primary);
+        font-size: 1.1rem;
+        width: 24px;
+        text-align: center;
+    }
+    
+    .feature span {
+        color: var(--text);
+        font-size: 0.9rem;
+        font-weight: 500;
+    }
+    
+    .accommodation-links {
+        display: flex;
+        gap: 15px;
+        margin-top: 15px;
+    }
+    
+    .photo-link, .contact-link {
+        display: inline-flex;
+        align-items: center;
+        gap: 8px;
+        padding: 8px 15px;
+        border-radius: 4px;
+        text-decoration: none;
+        font-size: 0.9rem;
+        font-weight: 500;
+        transition: all 0.3s ease;
+    }
+    
+    .photo-link {
+        background: var(--primary-light);
+        color: var(--primary);
+        border: 1px solid var(--primary);
+    }
+    
+    .contact-link {
+        background: var(--white);
+        color: var(--dark);
+        border: 1px solid var(--border);
+    }
+    
+    .photo-link:hover {
+        background: var(--primary);
+        color: white;
+    }
+    
+    .contact-link:hover {
+        background: var(--light);
+        border-color: var(--text-light);
+    }
+    
+    .accommodation-note {
+        background: #f8f9fa;
+        border-left: 4px solid var(--primary);
+        padding: 25px;
+        margin-top: 50px;
+        border-radius: 0 8px 8px 0;
+        display: flex;
+        gap: 20px;
+        align-items: flex-start;
+    }
+    
+    .note-icon i {
+        color: var(--primary);
+        font-size: 1.5rem;
+        margin-top: 3px;
+    }
+    
+    .accommodation-note p {
+        color: var(--text);
+        margin: 0 0 10px 0;
+        font-size: 0.95rem;
+        line-height: 1.6;
+    }
+    
+    .note-sub {
+        color: var(--text-light) !important;
+        font-size: 0.9rem !important;
+        font-style: italic;
+    }
+    
+    /* Responsive Design - FIXED GAPS */
+    @media (max-width: 992px) {
+        .accommodation-card {
+            grid-template-columns: 1fr;
+            min-height: auto; /* Reset for mobile */
+        }
+        
+        .accommodation-image {
+            height: 300px; /* Fixed height for mobile */
+            min-height: 300px;
+        }
+        
+        .accommodation-content {
+            padding: 25px;
+            height: auto; /* Reset for mobile */
+        }
+        
+        .accommodation-content h3 {
+            font-size: 1.5rem;
+        }
+        
+        .accommodation-links {
+            flex-wrap: wrap;
+        }
+    }
+    
+    @media (max-width: 768px) {
+        .accommodation-features {
+            grid-template-columns: 1fr;
+        }
+        
+        .accommodation-section {
+            padding: 60px 0;
+        }
+        
+        .accommodation-note {
+            flex-direction: column;
+            gap: 15px;
+            margin-top: 40px;
+        }
+        
+        .accommodation-image {
+            height: 280px;
+            min-height: 280px;
+        }
+    }
+    
+    @media (max-width: 576px) {
+        .accommodation-content h3 {
+            font-size: 1.4rem;
+        }
+        
+        .accommodation-content {
+            padding: 20px;
+        }
+        
+        .accommodation-image {
+            height: 250px;
+            min-height: 250px;
+        }
+        
+        .accommodation-note {
+            padding: 20px;
+        }
+        
+        .accommodation-links {
+            flex-direction: column;
+        }
+        
+        .photo-link, .contact-link {
+            width: 100%;
+            justify-content: center;
+        }
+    }
 
 
 
 
 
-
-
+ 
 /*Frequenlty asked Questions*/
 
   .safari-faq-section {
@@ -781,7 +1100,7 @@ img {
 /* Blog Article Section Styles */
 .blog-article-section {
     padding: 100px 0 80px;
-    background: var(--white);
+    background:  #f9f9f9;
 }
 
 .article-header {
@@ -878,23 +1197,7 @@ img {
     margin-bottom: 20px;
 }
 
-.intro-quote {
-    margin: 30px 0 40px;
-    padding: 30px;
-    background: rgba(117, 104, 44, 0.05);
-    border-left: 4px solid var(--secondary);
-    border-radius: 4px;
-}
 
-blockquote {
-    font-size: 22px;
-    font-style: italic;
-    line-height: 1.6;
-    color: var(--dark);
-    margin: 0;
-    padding: 0;
-    quotes: "“" "”" "‘" "’";
-}
 
 blockquote:before {
     content: open-quote;
@@ -1004,7 +1307,7 @@ blockquote:before {
     padding: 30px;
     border-radius: 10px;
     text-align: center;
-    margin: 50px 0 30px;
+    margin: 10px 0 30px;
 }
 
 .article-cta h3 {
