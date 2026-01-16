@@ -10,6 +10,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
   
     <link rel="stylesheet" href="style/package.css">
+    <link rel="stylesheet" href="style/style.css">
    <script src="script.js"></script>
     <script src="script/package.js"></script>
 </head>

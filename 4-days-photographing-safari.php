@@ -13,7 +13,7 @@
 </head>
 <body>
 
-<?php include 'plugins/hed.php';?>
+ <?php include 'plugins/header.php';?>
 
 <!-- Hero Section -->
 <section class="hero-altoo" id="home-altoo">
