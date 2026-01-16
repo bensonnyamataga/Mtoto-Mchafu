@@ -758,7 +758,7 @@
     <div class="travolo-mobile-menu-overlay" id="travolo-mobile-menu-overlay"></div>
 
     <!-- Mobile Navigation with UNIQUE CLASSES -->
-    <div class="travolo-mobile-nav" id="travolo-mobile-nav">
+    <div class="travolo-mobile-nav" id="travolo-mobile-nav"> <br> <br> <br>
         <ul>
             <li><a href="#home">HOME</a></li>
             <li><a href="#safaris">SAFARIS</a></li>
