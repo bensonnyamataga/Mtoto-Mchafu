@@ -707,7 +707,7 @@
                     <ul id="Travolo-nav-menu">
                         <li><a href="index.php">HOME</a></li>
                         <li><a href="best-tanzania-safari-package.php">SAFARIS</a></li>
-                        <li><a href="#kilimanjaro">KILIMANJARO</a></li>
+                        <li><a href="kilimanjaro-trekking.php">KILIMANJARO</a></li>
                         <li><a href="#zanzibar">ZANZIBAR</a></li>
                         <li><a href="#daytrips">DAYTRIPS</a></li>
                         <li><a href="#about">ABOUT US</a></li>
@@ -736,7 +736,7 @@
         <ul>
             <li><a href="index.php">HOME</a></li>
              <li><a href="best-tanzania-safari-package.php">SAFARIS</a></li>
-            <li><a href="#kilimanjaro">KILIMANJARO</a></li>
+            <li><a href="kilimanjaro-trekking.php">KILIMANJARO</a></li>
             <li><a href="#zanzibar">ZANZIBAR</a></li>
             <li><a href="#daytrips">DAYTRIPS</a></li>
             <li><a href="#about">ABOUT US</a></li>
