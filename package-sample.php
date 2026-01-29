@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Deep Tanzania - Premium Tanzanian Safaris & Kilimanjaro Climbs</title>
+    <title>Travolo - Premium Tanzanian Safaris & Kilimanjaro Climbs</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
    <link rel="stylesheet" href="style/package.css">
@@ -565,7 +565,7 @@
                     <span>WhatsApp</span>
                 </a>
                 
-                <a href="mailto:info@Deep Tanzania.com" class="contact-btn-line email-line">
+                <a href="mailto:info@Travolo.com" class="contact-btn-line email-line">
                     <i class="fas fa-envelope"></i>
                     <span>Email</span>
                 </a>

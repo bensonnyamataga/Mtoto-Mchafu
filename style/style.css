@@ -13,10 +13,11 @@
 
 
 
-/* Mazzard H Font Family */
+/* Mazzard H Font Family (Fixed for Mobile) */
+/* IMPORTANT: ensure this folder exists: /fonts/  (edit path if your fonts are elsewhere) */
 @font-face {
     font-family: 'Mazzard H';
-    src: url('fonts/MazzardH-ExtraLight.otf') format('opentype');
+    src: url('/fonts/MazzardH-ExtraLight.otf') format('opentype');
     font-weight: 200;
     font-style: normal;
     font-display: swap;
@@ -24,39 +25,39 @@
 
 @font-face {
     font-family: 'Mazzard H';
-    src: url('fonts/mazzard-h-light.otf') format('opentype');
-    font-weight: 200;
+    src: url('/fonts/mazzard-h-light.otf') format('opentype');
+    font-weight: 300;
     font-style: normal;
     font-display: swap;
 }
 
 @font-face {
     font-family: 'Mazzard H';
-    src: url('fonts/mazzard-h-regular.otf') format('opentype');
-    font-weight: 200;
+    src: url('/fonts/mazzard-h-regular.otf') format('opentype');
+    font-weight: 400;
     font-style: normal;
     font-display: swap;
 }
 
 @font-face {
     font-family: 'Mazzard H';
-    src: url('fonts/MazzardH-Bold.otf') format('opentype');
-    font-weight: bold;
+    src: url('/fonts/MazzardH-Bold.otf') format('opentype');
+    font-weight: 700;
     font-style: normal;
     font-display: swap;
 }
 
 @font-face {
     font-family: 'Mazzard H';
-    src: url('fonts/MazzardH-BoldItalic.otf') format('opentype');
-    font-weight: bold;
+    src: url('/fonts/MazzardH-BoldItalic.otf') format('opentype');
+    font-weight: 700;
     font-style: italic;
     font-display: swap;
 }
 
 @font-face {
     font-family: 'Mazzard H';
-    src: url('fonts/MazzardH-ExtraBold.otf') format('opentype');
+    src: url('/fonts/MazzardH-ExtraBold.otf') format('opentype');
     font-weight: 800;
     font-style: normal;
     font-display: swap;
@@ -64,7 +65,7 @@
 
 @font-face {
     font-family: 'Mazzard H';
-    src: url('fonts/MazzardH-ExtraBoldItalic.otf') format('opentype');
+    src: url('/fonts/MazzardH-ExtraBoldItalic.otf') format('opentype');
     font-weight: 800;
     font-style: italic;
     font-display: swap;
@@ -72,7 +73,7 @@
 
 @font-face {
     font-family: 'Mazzard H';
-    src: url('fonts/MazzardH-Black.otf') format('opentype');
+    src: url('/fonts/MazzardH-Black.otf') format('opentype');
     font-weight: 900;
     font-style: normal;
     font-display: swap;
@@ -80,17 +81,14 @@
 
 @font-face {
     font-family: 'Mazzard H';
-    src: url('fonts/MazzardH-BlackItalic.otf') format('opentype');
+    src: url('/fonts/MazzardH-BlackItalic.otf') format('opentype');
     font-weight: 900;
     font-style: italic;
     font-display: swap;
 }
-
-
 
 /* Set default weight for body text */
-body {
-    font-weight: 400; /* Using ExtraLight as default */
+body0; /* Using ExtraLight as default */
 }
 
 /* Headings with appropriate weights */
@@ -3735,7 +3733,7 @@ body {
 
         /* Call to Action Styles */
 /* Self-contained styles with specific class names */
-        .Deep Tanzania-cta-container {
+        .Travolo-cta-container {
             width: 100%;
             
             margin-top: 0px;
@@ -3745,7 +3743,7 @@ body {
         }
         
         /* CTA Section Styles */
-        .Deep Tanzania-cta-section {
+        .Travolo-cta-section {
             border-radius: 8px;
             padding: 60px 40px;
             position: relative;
@@ -3753,7 +3751,7 @@ body {
         
         
         
-        .Deep Tanzania-cta-title {
+        .Travolo-cta-title {
             color:  #1a1a1a;
             margin-bottom: 15px;
             font-size: 32px;
@@ -3761,7 +3759,7 @@ body {
             font-family: 'Mazzard H', 'Futura', 'Trebuchet MS', Arial, sans-serif;
         }
         
-        .Deep Tanzania-cta-subtitle {
+        .Travolo-cta-subtitle {
             color: #444444;
             margin-bottom: 40px;
             font-size: 18px;
@@ -3771,7 +3769,7 @@ body {
             font-family: 'Mazzard H', 'Futura', 'Trebuchet MS', Arial, sans-serif;
         }
         
-        .Deep Tanzania-cta-buttons {
+        .Travolo-cta-buttons {
             display: flex;
             flex-wrap: wrap;
             justify-content: center;
@@ -3779,7 +3777,7 @@ body {
             margin-bottom: 20px;
         }
         
-        .Deep Tanzania-cta-btn {
+        .Travolo-cta-btn {
             display: flex;
             flex-direction: column;
             align-items: center;
@@ -3797,7 +3795,7 @@ body {
             font-family: 'Mazzard H', 'Futura', 'Trebuchet MS', Arial, sans-serif;
         }
         
-        .Deep Tanzania-cta-btn:after {
+        .Travolo-cta-btn:after {
             content: '';
             position: absolute;
             top: 0;
@@ -3808,55 +3806,55 @@ body {
             z-index: 1;
         }
         
-        .Deep Tanzania-cta-btn i {
+        .Travolo-cta-btn i {
             font-size: 28px;
             margin-bottom: 12px;
             z-index: 2;
         }
         
-        .Deep Tanzania-cta-btn span {
+        .Travolo-cta-btn span {
             font-size: 16px;
             z-index: 2;
         }
         
-        .Deep Tanzania-cta-btn .Deep Tanzania-small-text {
+        .Travolo-cta-btn .Travolo-small-text {
             font-size: 12px;
             font-weight: 400;
             margin-top: 5px;
             opacity: 0.9;
         }
         
-        .Deep Tanzania-whatsapp-btn {
+        .Travolo-whatsapp-btn {
             background: #25D366;
             color: #ffffff;
         }
         
-        .Deep Tanzania-whatsapp-btn:hover {
+        .Travolo-whatsapp-btn:hover {
             transform: translateY(-3px);
             box-shadow: 0 8px 20px rgba(37, 211, 102, 0.25);
         }
         
-        .Deep Tanzania-enquire-btn {
+        .Travolo-enquire-btn {
             background: #e0b354;
             color: #1a1a1a;
         }
         
-        .Deep Tanzania-enquire-btn:hover {
+        .Travolo-enquire-btn:hover {
             transform: translateY(-3px);
             box-shadow: 0 8px 20px rgba(224, 179, 84, 0.25);
         }
         
-        .Deep Tanzania-call-btn {
+        .Travolo-call-btn {
             background: #e0b354;
             color: #1a1a1a;
         }
         
-        .Deep Tanzania-call-btn:hover {
+        .Travolo-call-btn:hover {
             transform: translateY(-3px);
             box-shadow: 0 8px 20px rgba(42, 92, 69, 0.25);
         }
         
-        .Deep Tanzania-cta-footer {
+        .Travolo-cta-footer {
             margin-top: 30px;
             color: #444444;
             font-size: 14px;
@@ -3865,24 +3863,24 @@ body {
         }
         
         @media (max-width: 768px) {
-            .Deep Tanzania-cta-buttons {
+            .Travolo-cta-buttons {
                 flex-direction: column;
                 align-items: center;
             }
             
-            .Deep Tanzania-cta-section {
+            .Travolo-cta-section {
                 padding: 40px 20px;
             }
             
-            .Deep Tanzania-cta-title {
+            .Travolo-cta-title {
                 font-size: 28px;
             }
             
-            .Deep Tanzania-cta-subtitle {
+            .Travolo-cta-subtitle {
                 font-size: 16px;
             }
             
-            .Deep Tanzania-cta-btn {
+            .Travolo-cta-btn {
                 width: 100%;
                 max-width: 280px;
             }

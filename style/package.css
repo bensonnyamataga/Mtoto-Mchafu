@@ -11,10 +11,11 @@
     --body: 'Mazzard H', 'Futura', 'Trebuchet MS', Arial, sans-serif;
 }
 
-/* Mazzard H Font Family */
+/* Mazzard H Font Family (Fixed for Mobile) */
+/* IMPORTANT: ensure this folder exists: /fonts/  (edit path if your fonts are elsewhere) */
 @font-face {
     font-family: 'Mazzard H';
-    src: url('fonts/MazzardH-ExtraLight.otf') format('opentype');
+    src: url('/fonts/MazzardH-ExtraLight.otf') format('opentype');
     font-weight: 200;
     font-style: normal;
     font-display: swap;
@@ -22,39 +23,39 @@
 
 @font-face {
     font-family: 'Mazzard H';
-    src: url('fonts/mazzard-h-light.otf') format('opentype');
-    font-weight: 200;
+    src: url('/fonts/mazzard-h-light.otf') format('opentype');
+    font-weight: 300;
     font-style: normal;
     font-display: swap;
 }
 
 @font-face {
     font-family: 'Mazzard H';
-    src: url('fonts/mazzard-h-regular.otf') format('opentype');
-    font-weight: 200;
+    src: url('/fonts/mazzard-h-regular.otf') format('opentype');
+    font-weight: 400;
     font-style: normal;
     font-display: swap;
 }
 
 @font-face {
     font-family: 'Mazzard H';
-    src: url('fonts/MazzardH-Bold.otf') format('opentype');
-    font-weight: bold;
+    src: url('/fonts/MazzardH-Bold.otf') format('opentype');
+    font-weight: 700;
     font-style: normal;
     font-display: swap;
 }
 
 @font-face {
     font-family: 'Mazzard H';
-    src: url('fonts/MazzardH-BoldItalic.otf') format('opentype');
-    font-weight: bold;
+    src: url('/fonts/MazzardH-BoldItalic.otf') format('opentype');
+    font-weight: 700;
     font-style: italic;
     font-display: swap;
 }
 
 @font-face {
     font-family: 'Mazzard H';
-    src: url('fonts/MazzardH-ExtraBold.otf') format('opentype');
+    src: url('/fonts/MazzardH-ExtraBold.otf') format('opentype');
     font-weight: 800;
     font-style: normal;
     font-display: swap;
@@ -62,7 +63,7 @@
 
 @font-face {
     font-family: 'Mazzard H';
-    src: url('fonts/MazzardH-ExtraBoldItalic.otf') format('opentype');
+    src: url('/fonts/MazzardH-ExtraBoldItalic.otf') format('opentype');
     font-weight: 800;
     font-style: italic;
     font-display: swap;
@@ -70,7 +71,7 @@
 
 @font-face {
     font-family: 'Mazzard H';
-    src: url('fonts/MazzardH-Black.otf') format('opentype');
+    src: url('/fonts/MazzardH-Black.otf') format('opentype');
     font-weight: 900;
     font-style: normal;
     font-display: swap;
@@ -78,10 +79,9 @@
 
 @font-face {
     font-family: 'Mazzard H';
-    src: url('fonts/MazzardH-BlackItalic.otf') format('opentype');
+    src: url('/fonts/MazzardH-BlackItalic.otf') format('opentype');
     font-weight: 900;
     font-style: italic;
-    font-display: swap;
 }
 
 /* Set default weight for body text */
@@ -2002,7 +2002,7 @@ img {
 }
 
 /* Call to Action Styles */
-.Deep Tanzania-cta-container {
+.Travolo-cta-container {
     width: 100%;
     margin-top: 0px;
     text-align: center;
@@ -2010,13 +2010,13 @@ img {
     background-color: #f8f8f8;
 }
 
-.Deep Tanzania-cta-section {
+.Travolo-cta-section {
     border-radius: 15px; /* More rounded */
     padding: 50px 30px;
     position: relative;
 }
 
-.Deep Tanzania-cta-title {
+.Travolo-cta-title {
     color: #1a1a1a;
     margin-bottom: 12px;
     font-size: 28px;
@@ -2024,7 +2024,7 @@ img {
     font-family: 'Mazzard H', 'Futura', 'Trebuchet MS', Arial, sans-serif;
 }
 
-.Deep Tanzania-cta-subtitle {
+.Travolo-cta-subtitle {
     color: #444444;
     margin-bottom: 35px;
     font-size: 17px;
@@ -2034,7 +2034,7 @@ img {
     font-family: 'Mazzard H', 'Futura', 'Trebuchet MS', Arial, sans-serif;
 }
 
-.Deep Tanzania-cta-buttons {
+.Travolo-cta-buttons {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
@@ -2042,7 +2042,7 @@ img {
     margin-bottom: 20px;
 }
 
-.Deep Tanzania-cta-btn {
+.Travolo-cta-btn {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -2060,7 +2060,7 @@ img {
     border: 2px solid transparent;
 }
 
-.Deep Tanzania-cta-btn:after {
+.Travolo-cta-btn:after {
     content: '';
     position: absolute;
     top: 0;
@@ -2070,51 +2070,51 @@ img {
     z-index: 1;
 }
 
-.Deep Tanzania-cta-btn i {
+.Travolo-cta-btn i {
     font-size: 26px;
     margin-bottom: 10px;
     z-index: 2;
 }
 
-.Deep Tanzania-cta-btn span {
+.Travolo-cta-btn span {
     font-size: 15px;
     z-index: 2;
 }
 
-.Deep Tanzania-cta-btn .Deep Tanzania-small-text {
+.Travolo-cta-btn .Travolo-small-text {
     font-size: 11px;
     font-weight: 400;
     margin-top: 4px;
     opacity: 0.9;
 }
 
-.Deep Tanzania-whatsapp-btn {
+.Travolo-whatsapp-btn {
     background: #25D366;
     color: #ffffff;
     border-color: #25D366 !important;
 }
 
-.Deep Tanzania-whatsapp-btn:hover {
+.Travolo-whatsapp-btn:hover {
     transform: translateY(-3px);
     box-shadow: 0 8px 20px rgba(37, 211, 102, 0.25);
     background: #20b857;
     border-color: #20b857 !important;
 }
 
-.Deep Tanzania-enquire-btn, .Deep Tanzania-call-btn {
+.Travolo-enquire-btn, .Travolo-call-btn {
     background: #e0b354;
     color: #1a1a1a;
     border-color: #e0b354 !important;
 }
 
-.Deep Tanzania-enquire-btn:hover, .Deep Tanzania-call-btn:hover {
+.Travolo-enquire-btn:hover, .Travolo-call-btn:hover {
     transform: translateY(-3px);
     box-shadow: 0 8px 20px rgba(224, 179, 84, 0.25);
     background: #d4a336;
     border-color: #d4a336 !important;
 }
 
-.Deep Tanzania-cta-footer {
+.Travolo-cta-footer {
     margin-top: 25px;
     color: #444444;
     font-size: 13px;
@@ -2385,24 +2385,24 @@ img {
         align-items: center;
     }
     
-    .Deep Tanzania-cta-buttons {
+    .Travolo-cta-buttons {
         flex-direction: column;
         align-items: center;
     }
     
-    .Deep Tanzania-cta-section {
+    .Travolo-cta-section {
         padding: 40px 20px;
     }
     
-    .Deep Tanzania-cta-title {
+    .Travolo-cta-title {
         font-size: 24px;
     }
     
-    .Deep Tanzania-cta-subtitle {
+    .Travolo-cta-subtitle {
         font-size: 15px;
     }
     
-    .Deep Tanzania-cta-btn {
+    .Travolo-cta-btn {
         width: 100%;
         max-width: 280px;
     }

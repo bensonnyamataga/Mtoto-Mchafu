@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Deep Tanzania - Premium Tanzanian Safaris & Kilimanjaro Climbs</title>
+    <title>Travolo - Premium Tanzanian Safaris & Kilimanjaro Climbs</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     
    <link rel="stylesheet" href="style/style.css">
@@ -35,7 +35,7 @@
         <div class="container">
             <div class="section-title">
                 <span class="subtitle">Reach Out</span>
-                <h2>Contact Deep Tanzania Tanzania</h2>
+                <h2>Contact Travolo Tanzania</h2>
                 <p>We're here to answer any questions and help you plan your dream Tanzanian safari experience.</p>
             </div>
 
@@ -68,8 +68,8 @@
                         </div>
                         <div class="contact-details">
                             <h4>Email Us</h4>
-                            <p>info@Deep Tanzania.com</p>
-                            <p>bookings@Deep Tanzania.com</p>
+                            <p>info@Travolo.com</p>
+                            <p>bookings@Travolo.com</p>
                         </div>
                     </div>
 
@@ -208,32 +208,32 @@
     </section>
 
     <!-- Call to Action Section -->
-    <div class="Deep Tanzania-cta-container">
-        <section class="Deep Tanzania-cta-section">
-            <h2 class="Deep Tanzania-cta-title">Ready to Plan Your Tanzanian Adventure?</h2>
-            <p class="Deep Tanzania-cta-subtitle">Contact us today and let our experts create your dream safari experience</p>
+    <div class="Travolo-cta-container">
+        <section class="Travolo-cta-section">
+            <h2 class="Travolo-cta-title">Ready to Plan Your Tanzanian Adventure?</h2>
+            <p class="Travolo-cta-subtitle">Contact us today and let our experts create your dream safari experience</p>
             
-            <div class="Deep Tanzania-cta-buttons">
-                <a href="https://wa.me/255123456789" class="Deep Tanzania-cta-btn Deep Tanzania-whatsapp-btn" target="_blank">
+            <div class="Travolo-cta-buttons">
+                <a href="https://wa.me/255123456789" class="Travolo-cta-btn Travolo-whatsapp-btn" target="_blank">
                     <i class="fab fa-whatsapp"></i>
                     <span>Chat on WhatsApp</span>
-                    <span class="Deep Tanzania-small-text">Fast response</span>
+                    <span class="Travolo-small-text">Fast response</span>
                 </a>
                 
-                <button class="Deep Tanzania-cta-btn Deep Tanzania-call-btn" id="Deep Tanzania-enquire-btn">
+                <button class="Travolo-cta-btn Travolo-call-btn" id="Travolo-enquire-btn">
                     <i class="fas fa-paper-plane"></i>
                     <span>Enquire Now</span>
-                    <span class="Deep Tanzania-small-text">Personalized service</span>
+                    <span class="Travolo-small-text">Personalized service</span>
                 </button>
                 
-                <a href="tel:+255123456789" class="Deep Tanzania-cta-btn Deep Tanzania-call-btn">
+                <a href="tel:+255123456789" class="Travolo-cta-btn Travolo-call-btn">
                     <i class="fas fa-phone"></i>
                     <span>Voice Call</span>
-                    <span class="Deep Tanzania-small-text">Speak directly</span>
+                    <span class="Travolo-small-text">Speak directly</span>
                 </a>
             </div>
             
-            <p class="Deep Tanzania-cta-footer">We'll craft a personalized travel itinerary within 3 hours</p>
+            <p class="Travolo-cta-footer">We'll craft a personalized travel itinerary within 3 hours</p>
         </section>
     </div>
 <style>

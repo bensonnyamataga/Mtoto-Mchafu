@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Deep Tanzania -  Tanzanian Safaris & Kilimanjaro Climbs</title>
+    <title>Travolo -  Tanzanian Safaris & Kilimanjaro Climbs</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/flag-icons/6.6.6/css/flag-icons.min.css">
     <style>
@@ -53,14 +53,14 @@
             display: block;
         }
 
-        .Deep Tanzania-container {
+        .Travolo-container {
             width: 100%;
             max-width: 1200px;
             margin: 0 auto;
             padding: 0 15px;
         }
 
-        .Deep Tanzania-btn {
+        .Travolo-btn {
             display: inline-block;
             padding: 12px 25px;
             border-radius: 50px;
@@ -74,41 +74,41 @@
             text-align: center;
         }
 
-        .Deep Tanzania-btn-primary {
+        .Travolo-btn-primary {
             background-color: var(--primary);
             color: var(--white);
             box-shadow: 0 4px 15px rgba(42, 92, 69, 0.3);
         }
 
-        .Deep Tanzania-btn-primary:hover {
+        .Travolo-btn-primary:hover {
             background-color: #d4a336;
             transform: translateY(-3px);
             box-shadow: 0 10px 25px rgba(42, 92, 69, 0.4);
         }
 
-        .Deep Tanzania-btn-secondary {
+        .Travolo-btn-secondary {
             background-color: var(--secondary);
             color: var(--dark);
             box-shadow: 0 4px 15px rgba(224, 179, 84, 0.3);
         }
 
-        .Deep Tanzania-btn-secondary:hover {
+        .Travolo-btn-secondary:hover {
             background-color: #d4a336;
             color: var(--dark);
             transform: translateY(-3px);
             box-shadow: 0 10px 25px rgba(224, 179, 84, 0.4);
         }
 
-        .Deep Tanzania-section {
+        .Travolo-section {
             padding: 80px 0;
         }
 
-        .Deep Tanzania-section-title {
+        .Travolo-section-title {
             text-align: center;
             margin-bottom: 50px;
         }
 
-        .Deep Tanzania-section-title .Deep Tanzania-subtitle {
+        .Travolo-section-title .Travolo-subtitle {
             display: block;
             color: var(--primary);
             font-size: 14px;
@@ -118,14 +118,14 @@
             letter-spacing: 2px;
         }
 
-        .Deep Tanzania-section-title h2 {
+        .Travolo-section-title h2 {
             font-size: 28px;
             margin-bottom: 15px;
             position: relative;
             display: inline-block;
         }
 
-        .Deep Tanzania-section-title h2:after {
+        .Travolo-section-title h2:after {
             content: '';
             position: absolute;
             width: 50px;
@@ -136,7 +136,7 @@
             transform: translateX(-50%);
         }
 
-        .Deep Tanzania-section-title p {
+        .Travolo-section-title p {
             max-width: 700px;
             margin: 0 auto;
             font-size: 16px;
@@ -145,7 +145,7 @@
         }
 
         /* Header Styles - UNIQUE CLASSES */
-        .Deep Tanzania-header {
+        .Travolo-header {
             position: fixed;
             top: 0;
             left: 0;
@@ -156,29 +156,29 @@
             box-shadow: 0 5px 20px rgba(0,0,0,0.05);
         }
         
-        .Deep Tanzania-header.scrolled {
+        .Travolo-header.scrolled {
             box-shadow: 0 5px 20px rgba(0,0,0,0.1);
         }
         
-        .Deep Tanzania-header-top {
+        .Travolo-header-top {
             background-color: #f3eeea;
             padding: 0px 0;
             color: var(--text);
         }
         
-        .Deep Tanzania-header-top-container {
+        .Travolo-header-top-container {
             display: flex;
             justify-content: space-between;
             align-items: center;
         }
         
-        .Deep Tanzania-specialist-info {
+        .Travolo-specialist-info {
             display: flex;
             align-items: center;
             gap: 20px;
         }
         
-        .Deep Tanzania-specialist-tag {
+        .Travolo-specialist-tag {
             font-size: 12px;
             font-weight: 600;
             text-transform: uppercase;
@@ -186,13 +186,13 @@
             color: #444444;
         }
         
-        .Deep Tanzania-review-badges {
+        .Travolo-review-badges {
             display: flex;
             align-items: center;
             gap: 20px;
         }
         
-        .Deep Tanzania-review-badge {
+        .Travolo-review-badge {
             display: flex;
             align-items: center;
             gap: 8px;
@@ -200,23 +200,23 @@
             font-weight: 500;
         }
         
-        .Deep Tanzania-stars {
+        .Travolo-stars {
             display: flex;
             gap: 2px;
         }
         
-        .Deep Tanzania-stars i {
+        .Travolo-stars i {
             color: #FFC107;
             font-size: 12px;
         }
         
         /* Language Switcher Styles - UNIQUE CLASSES */
-        .Deep Tanzania-language-switcher {
+        .Travolo-language-switcher {
             position: relative;
             display: inline-block;
         }
         
-        .Deep Tanzania-current-language {
+        .Travolo-current-language {
             display: flex;
             align-items: center;
             gap: 5px;
@@ -227,11 +227,11 @@
             color: var(--text);
         }
         
-        .Deep Tanzania-current-language:hover {
+        .Travolo-current-language:hover {
             background-color: rgba(117, 104, 44, 0.1);
         }
         
-        .Deep Tanzania-language-dropdown {
+        .Travolo-language-dropdown {
             position: absolute;
             top: 100%;
             right: 0;
@@ -244,11 +244,11 @@
             overflow: hidden;
         }
         
-        .Deep Tanzania-language-dropdown.active {
+        .Travolo-language-dropdown.active {
             display: block;
         }
         
-        .Deep Tanzania-language-option {
+        .Travolo-language-option {
             display: flex;
             align-items: center;
             gap: 10px;
@@ -258,56 +258,56 @@
             border-bottom: 1px solid #f0f0f0;
         }
         
-        .Deep Tanzania-language-option:last-child {
+        .Travolo-language-option:last-child {
             border-bottom: none;
         }
         
-        .Deep Tanzania-language-option:hover {
+        .Travolo-language-option:hover {
             background-color: #f5f5f5;
         }
         
-        .Deep Tanzania-language-option.active {
+        .Travolo-language-option.active {
             background-color: rgba(117, 104, 44, 0.1);
             font-weight: 600;
         }
         
-        .Deep Tanzania-flag-icon {
+        .Travolo-flag-icon {
             width: 20px;
             height: 15px;
             border-radius: 2px;
         }
         
-        .Deep Tanzania-header-main {
+        .Travolo-header-main {
             padding: 15px 0;
         }
         
-        .Deep Tanzania-header-container {
+        .Travolo-header-container {
             display: flex;
             justify-content: space-between;
             align-items: center;
         }
         
-        .Deep Tanzania-logo {
+        .Travolo-logo {
             font-size: 24px;
             font-weight: 700;
             color: var(--dark);
             letter-spacing: 1px;
         }
         
-        .Deep Tanzania-logo span {
+        .Travolo-logo span {
             color: var(--primary);
         }
         
-        .Deep Tanzania-nav ul {
+        .Travolo-nav ul {
             display: flex;
             list-style: none;
         }
         
-        .Deep Tanzania-nav ul li {
+        .Travolo-nav ul li {
             margin-left: 25px;
         }
         
-        .Deep Tanzania-nav ul li a {
+        .Travolo-nav ul li a {
             color:  #1a1a1a;
             font-weight: 700;
             position: relative;
@@ -317,7 +317,7 @@
             padding: 8px 0;
         }
         
-        .Deep Tanzania-nav ul li a:after {
+        .Travolo-nav ul li a:after {
             content: '';
             position: absolute;
             width: 0;
@@ -328,16 +328,16 @@
             transition: width 0.3s ease;
         }
         
-        .Deep Tanzania-nav ul li a:hover {
+        .Travolo-nav ul li a:hover {
             color: var(--primary);
         }
         
-        .Deep Tanzania-nav ul li a:hover:after {
+        .Travolo-nav ul li a:hover:after {
             width: 100%;
         }
         
         /* Mobile Menu Button - UNIQUE CLASSES */
-        .Deep Tanzania-mobile-menu-btn {
+        .Travolo-mobile-menu-btn {
             display: none;
             font-size: 24px;
             color: var(--dark);
@@ -349,7 +349,7 @@
             position: relative;
         }
         
-        .Deep Tanzania-hamburger-icon, .Deep Tanzania-close-icon {
+        .Travolo-hamburger-icon, .Travolo-close-icon {
             position: absolute;
             top: 0;
             left: 0;
@@ -361,31 +361,31 @@
             transition: all 0.3s ease;
         }
         
-        .Deep Tanzania-hamburger-icon {
+        .Travolo-hamburger-icon {
             opacity: 1;
         }
         
-        .Deep Tanzania-close-icon {
+        .Travolo-close-icon {
             opacity: 0;
         }
         
-        .Deep Tanzania-mobile-menu-btn.active .Deep Tanzania-hamburger-icon {
+        .Travolo-mobile-menu-btn.active .Travolo-hamburger-icon {
             opacity: 0;
         }
         
-        .Deep Tanzania-mobile-menu-btn.active .Deep Tanzania-close-icon {
+        .Travolo-mobile-menu-btn.active .Travolo-close-icon {
             opacity: 1;
         }
 
         /* Mobile Review Badges - UNIQUE CLASSES */
-        .Deep Tanzania-mobile-review-badges {
+        .Travolo-mobile-review-badges {
             display: none;
             background-color: #f3eeea;
             padding: 12px 0;
             color: var(--text);
         }
         
-        .Deep Tanzania-mobile-review-container {
+        .Travolo-mobile-review-container {
             display: flex;
             justify-content: center;
             align-items: center;
@@ -393,7 +393,7 @@
             flex-wrap: wrap;
         }
         
-        .Deep Tanzania-mobile-review-badge {
+        .Travolo-mobile-review-badge {
             display: flex;
             align-items: center;
             gap: 5px;
@@ -401,22 +401,22 @@
             font-weight: 500;
         }
         
-        .Deep Tanzania-mobile-stars {
+        .Travolo-mobile-stars {
             display: flex;
             gap: 1px;
         }
         
-        .Deep Tanzania-mobile-stars i {
+        .Travolo-mobile-stars i {
             color: #FFC107;
             font-size: 10px;
         }
         
-        .Deep Tanzania-mobile-language-switcher {
+        .Travolo-mobile-language-switcher {
             display: none;
         }
 
         /* Mobile Menu Styles - UNIQUE CLASSES */
-        .Deep Tanzania-mobile-menu-overlay {
+        .Travolo-mobile-menu-overlay {
             display: none;
             position: fixed;
             top: 0;
@@ -427,11 +427,11 @@
             z-index: 998;
         }
         
-        .Deep Tanzania-mobile-menu-overlay.active {
+        .Travolo-mobile-menu-overlay.active {
             display: block;
         }
         
-        .Deep Tanzania-mobile-nav {
+        .Travolo-mobile-nav {
             position: fixed;
             top: 0;
             right: -100%;
@@ -446,11 +446,11 @@
             display: flex;
         }
         
-        .Deep Tanzania-mobile-nav.active {
+        .Travolo-mobile-nav.active {
             right: 0;
         }
         
-        .Deep Tanzania-mobile-nav ul {
+        .Travolo-mobile-nav ul {
             display: flex;
             flex-direction: column;
             width: 100%;
@@ -459,14 +459,14 @@
             margin: 0;
         }
         
-        .Deep Tanzania-mobile-nav ul li {
+        .Travolo-mobile-nav ul li {
             margin: 0;
             width: 100%;
             text-align: left;
             position: relative;
         }
         
-        .Deep Tanzania-mobile-nav ul li:not(:last-child):after {
+        .Travolo-mobile-nav ul li:not(:last-child):after {
             content: '';
             position: absolute;
             bottom: 0;
@@ -476,7 +476,7 @@
             background: rgba(117, 104, 44, 0.2);
         }
         
-        .Deep Tanzania-mobile-nav ul li a {
+        .Travolo-mobile-nav ul li a {
             display: block;
             color: #1a1a1a;
             font-weight: 700;
@@ -489,14 +489,14 @@
             transition: all 0.3s ease;
         }
         
-        .Deep Tanzania-mobile-nav ul li a:hover {
+        .Travolo-mobile-nav ul li a:hover {
             color: var(--primary);
             background-color: rgba(117, 104, 44, 0.05);
             padding-left: 35px;
         }
 
         /* Animations */
-        @keyframes Deep Tanzania-fadeInUp {
+        @keyframes Travolo-fadeInUp {
             from {
                 opacity: 0;
                 transform: translateY(30px);
@@ -509,128 +509,128 @@
 
         /* Responsive Styles */
         @media (max-width: 992px) {
-            .Deep Tanzania-hero h1 {
+            .Travolo-hero h1 {
                 font-size: 32px;
             }
             
-            .Deep Tanzania-section {
+            .Travolo-section {
                 padding: 70px 0;
             }
             
-            .Deep Tanzania-header-top {
+            .Travolo-header-top {
                 display: none;
             }
             
-            .Deep Tanzania-mobile-review-badges {
+            .Travolo-mobile-review-badges {
                 display: block;
             }
             
-            .Deep Tanzania-mobile-language-switcher {
+            .Travolo-mobile-language-switcher {
                 display: block;
             }
             
-            .Deep Tanzania-desktop-language-switcher {
+            .Travolo-desktop-language-switcher {
                 display: none;
             }
             
-            .Deep Tanzania-nav ul {
+            .Travolo-nav ul {
                 display: none;
             }
             
-            .Deep Tanzania-mobile-menu-btn {
+            .Travolo-mobile-menu-btn {
                 display: block;
             }
             
-            .Deep Tanzania-hero {
+            .Travolo-hero {
                 margin-top: 140px;
             }
         }
 
         @media (max-width: 768px) {
-            .Deep Tanzania-hero {
+            .Travolo-hero {
                 min-height: 500px;
                 padding-top: 70px;
             }
             
-            .Deep Tanzania-hero h1 {
+            .Travolo-hero h1 {
                 font-size: 28px;
             }
             
-            .Deep Tanzania-hero p {
+            .Travolo-hero p {
                 font-size: 16px;
             }
             
-            .Deep Tanzania-hero-btns {
+            .Travolo-hero-btns {
                 flex-direction: column;
                 gap: 12px;
             }
             
-            .Deep Tanzania-btn {
+            .Travolo-btn {
                 width: 100%;
                 max-width: 220px;
                 margin: 0 auto;
                 padding: 10px 20px;
             }
             
-            .Deep Tanzania-section-title h2 {
+            .Travolo-section-title h2 {
                 font-size: 24px;
             }
             
-            .Deep Tanzania-section-title .Deep Tanzania-subtitle {
+            .Travolo-section-title .Travolo-subtitle {
                 font-size: 13px;
             }
             
-            .Deep Tanzania-about-features {
+            .Travolo-about-features {
                 flex-direction: column;
                 align-items: center;
             }
             
-            .Deep Tanzania-feature-item {
+            .Travolo-feature-item {
                 min-width: 100%;
                 max-width: 300px;
             }
             
-            .Deep Tanzania-mobile-review-container {
+            .Travolo-mobile-review-container {
                 gap: 10px;
             }
             
-            .Deep Tanzania-mobile-nav {
+            .Travolo-mobile-nav {
                 width: 280px;
             }
         }
 
         @media (max-width: 576px) {
-            .Deep Tanzania-section {
+            .Travolo-section {
                 padding: 60px 0;
             }
             
-            .Deep Tanzania-section-title h2 {
+            .Travolo-section-title h2 {
                 font-size: 22px;
             }
             
-            .Deep Tanzania-logo {
+            .Travolo-logo {
                 font-size: 22px;
             }
             
-            .Deep Tanzania-feature-icon {
+            .Travolo-feature-icon {
                 width: 60px;
                 height: 60px;
                 font-size: 22px;
             }
             
-            .Deep Tanzania-feature-text h4 {
+            .Travolo-feature-text h4 {
                 font-size: 18px;
             }
             
-            .Deep Tanzania-btn {
+            .Travolo-btn {
                 font-size: 13px;
             }
             
-            .Deep Tanzania-mobile-nav {
+            .Travolo-mobile-nav {
                 width: 100%;
             }
             
-            .Deep Tanzania-mobile-review-badge {
+            .Travolo-mobile-review-badge {
                 font-size: 12px;
             }
         }
@@ -638,15 +638,15 @@
 </head>
 <body>
     <!-- Header Section with UNIQUE CLASSES -->
-    <header class="Deep Tanzania-header">
-        <div class="Deep Tanzania-header-top">
-            <div class="Deep Tanzania-container Deep Tanzania-header-top-container">
-                <div class="Deep Tanzania-specialist-info">
-                    <div class="Deep Tanzania-specialist-tag">#Dive into the heart of Tanzania </div>
+    <header class="Travolo-header">
+        <div class="Travolo-header-top">
+            <div class="Travolo-container Travolo-header-top-container">
+                <div class="Travolo-specialist-info">
+                    <div class="Travolo-specialist-tag">#Dive into the heart of Tanzania </div>
                 </div>
-                <div class="Deep Tanzania-review-badges">
-                    <div class="Deep Tanzania-review-badge">
-                        <div class="Deep Tanzania-stars">
+                <div class="Travolo-review-badges">
+                    <div class="Travolo-review-badge">
+                        <div class="Travolo-stars">
                             <i class="fas fa-star"></i>
                             <i class="fas fa-star"></i>
                             <i class="fas fa-star"></i>
@@ -655,8 +655,8 @@
                         </div>
                         <span>Tripadvisor</span>
                     </div>
-                    <div class="Deep Tanzania-review-badge">
-                        <div class="Deep Tanzania-stars">
+                    <div class="Travolo-review-badge">
+                        <div class="Travolo-stars">
                             <i class="fas fa-star"></i>
                             <i class="fas fa-star"></i>
                             <i class="fas fa-star"></i>
@@ -671,10 +671,10 @@
             </div>
         </div>
         
-        <div class="Deep Tanzania-mobile-review-badges">
-            <div class="Deep Tanzania-container Deep Tanzania-mobile-review-container">
-                <div class="Deep Tanzania-mobile-review-badge">
-                    <div class="Deep Tanzania-mobile-stars">
+        <div class="Travolo-mobile-review-badges">
+            <div class="Travolo-container Travolo-mobile-review-container">
+                <div class="Travolo-mobile-review-badge">
+                    <div class="Travolo-mobile-stars">
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star"></i>
@@ -683,8 +683,8 @@
                     </div>
                     <span>Tripadvisor</span>
                 </div>
-                <div class="Deep Tanzania-mobile-review-badge">
-                    <div class="Deep Tanzania-mobile-stars">
+                <div class="Travolo-mobile-review-badge">
+                    <div class="Travolo-mobile-stars">
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star"></i>
@@ -699,12 +699,12 @@
             </div>
         </div>
         
-        <div class="Deep Tanzania-header-main">
-            <div class="Deep Tanzania-container Deep Tanzania-header-container">
-                <div class="Deep Tanzania-logo">Deep Tanzania</div>
+        <div class="Travolo-header-main">
+            <div class="Travolo-container Travolo-header-container">
+                <div class="Travolo-logo">Travolo</div>
                 
-                <nav class="Deep Tanzania-nav">
-                    <ul id="Deep Tanzania-nav-menu">
+                <nav class="Travolo-nav">
+                    <ul id="Travolo-nav-menu">
                         <li><a href="#home">HOME</a></li>
                         <li><a href="#safaris">SAFARIS</a></li>
                         <li><a href="#kilimanjaro">KILIMANJARO</a></li>
@@ -715,11 +715,11 @@
                     </ul>
                     
                     <!-- Updated Mobile Menu Button with UNIQUE CLASSES -->
-                    <div class="Deep Tanzania-mobile-menu-btn" id="Deep Tanzania-mobile-menu-toggle">
-                        <div class="Deep Tanzania-hamburger-icon">
+                    <div class="Travolo-mobile-menu-btn" id="Travolo-mobile-menu-toggle">
+                        <div class="Travolo-hamburger-icon">
                             <i class="fas fa-bars"></i>
                         </div>
-                        <div class="Deep Tanzania-close-icon">
+                        <div class="Travolo-close-icon">
                             <i class="fas fa-times"></i>
                         </div>
                     </div>
@@ -729,10 +729,10 @@
     </header>
 
     <!-- Mobile Menu Overlay with UNIQUE CLASSES -->
-    <div class="Deep Tanzania-mobile-menu-overlay" id="Deep Tanzania-mobile-menu-overlay"></div>
+    <div class="Travolo-mobile-menu-overlay" id="Travolo-mobile-menu-overlay"></div>
 
     <!-- Mobile Navigation with UNIQUE CLASSES -->
-    <div class="Deep Tanzania-mobile-nav" id="Deep Tanzania-mobile-nav"> <br> <br> <br>
+    <div class="Travolo-mobile-nav" id="Travolo-mobile-nav"> <br> <br> <br>
         <ul>
             <li><a href="#home">HOME</a></li>
             <li><a href="#safaris">SAFARIS</a></li>
@@ -746,72 +746,72 @@
 
     <script>
         // Mobile Menu Functionality with UNIQUE IDs
-        const Deep TanzaniaMobileMenuToggle = document.getElementById('Deep Tanzania-mobile-menu-toggle');
-        const Deep TanzaniaMobileNav = document.getElementById('Deep Tanzania-mobile-nav');
-        const Deep TanzaniaMobileMenuOverlay = document.getElementById('Deep Tanzania-mobile-menu-overlay');
+        const TravoloMobileMenuToggle = document.getElementById('Travolo-mobile-menu-toggle');
+        const TravoloMobileNav = document.getElementById('Travolo-mobile-nav');
+        const TravoloMobileMenuOverlay = document.getElementById('Travolo-mobile-menu-overlay');
         
         // Toggle mobile menu
-        Deep TanzaniaMobileMenuToggle.addEventListener('click', function() {
-            if (Deep TanzaniaMobileNav.classList.contains('active')) {
+        TravoloMobileMenuToggle.addEventListener('click', function() {
+            if (TravoloMobileNav.classList.contains('active')) {
                 // Close menu
-                Deep TanzaniaMobileNav.classList.remove('active');
-                Deep TanzaniaMobileMenuOverlay.classList.remove('active');
-                Deep TanzaniaMobileMenuToggle.classList.remove('active');
+                TravoloMobileNav.classList.remove('active');
+                TravoloMobileMenuOverlay.classList.remove('active');
+                TravoloMobileMenuToggle.classList.remove('active');
                 document.body.style.overflow = '';
             } else {
                 // Open menu
-                Deep TanzaniaMobileNav.classList.add('active');
-                Deep TanzaniaMobileMenuOverlay.classList.add('active');
-                Deep TanzaniaMobileMenuToggle.classList.add('active');
+                TravoloMobileNav.classList.add('active');
+                TravoloMobileMenuOverlay.classList.add('active');
+                TravoloMobileMenuToggle.classList.add('active');
                 document.body.style.overflow = 'hidden';
             }
         });
         
         // Close menu when clicking on overlay
-        Deep TanzaniaMobileMenuOverlay.addEventListener('click', function() {
-            Deep TanzaniaMobileNav.classList.remove('active');
-            Deep TanzaniaMobileMenuOverlay.classList.remove('active');
-            Deep TanzaniaMobileMenuToggle.classList.remove('active');
+        TravoloMobileMenuOverlay.addEventListener('click', function() {
+            TravoloMobileNav.classList.remove('active');
+            TravoloMobileMenuOverlay.classList.remove('active');
+            TravoloMobileMenuToggle.classList.remove('active');
             document.body.style.overflow = '';
         });
         
         // Close menu when clicking on links
-        const Deep TanzaniaMobileNavLinks = document.querySelectorAll('.Deep Tanzania-mobile-nav a');
-        Deep TanzaniaMobileNavLinks.forEach(link => {
+        const TravoloMobileNavLinks = document.querySelectorAll('.Travolo-mobile-nav a');
+        TravoloMobileNavLinks.forEach(link => {
             link.addEventListener('click', function() {
-                Deep TanzaniaMobileNav.classList.remove('active');
-                Deep TanzaniaMobileMenuOverlay.classList.remove('active');
-                Deep TanzaniaMobileMenuToggle.classList.remove('active');
+                TravoloMobileNav.classList.remove('active');
+                TravoloMobileMenuOverlay.classList.remove('active');
+                TravoloMobileMenuToggle.classList.remove('active');
                 document.body.style.overflow = '';
             });
         });
 
         // Language Switcher Functionality with UNIQUE IDs
-        const Deep TanzaniaCurrentLanguage = document.getElementById('Deep Tanzania-current-language');
-        const Deep TanzaniaLanguageDropdown = document.getElementById('Deep Tanzania-language-dropdown');
-        const Deep TanzaniaMobileCurrentLanguage = document.getElementById('Deep Tanzania-mobile-current-language');
-        const Deep TanzaniaMobileLanguageDropdown = document.getElementById('Deep Tanzania-mobile-language-dropdown');
-        const Deep TanzaniaLanguageOptions = document.querySelectorAll('.Deep Tanzania-language-option');
+        const TravoloCurrentLanguage = document.getElementById('Travolo-current-language');
+        const TravoloLanguageDropdown = document.getElementById('Travolo-language-dropdown');
+        const TravoloMobileCurrentLanguage = document.getElementById('Travolo-mobile-current-language');
+        const TravoloMobileLanguageDropdown = document.getElementById('Travolo-mobile-language-dropdown');
+        const TravoloLanguageOptions = document.querySelectorAll('.Travolo-language-option');
         
         // Toggle desktop language dropdown
-        Deep TanzaniaCurrentLanguage.addEventListener('click', function(e) {
+        TravoloCurrentLanguage.addEventListener('click', function(e) {
             e.stopPropagation();
-            Deep TanzaniaLanguageDropdown.classList.toggle('active');
+            TravoloLanguageDropdown.classList.toggle('active');
         });
         
         // Toggle mobile language dropdown
-        Deep TanzaniaMobileCurrentLanguage.addEventListener('click', function(e) {
+        TravoloMobileCurrentLanguage.addEventListener('click', function(e) {
             e.stopPropagation();
-            Deep TanzaniaMobileLanguageDropdown.classList.toggle('active');
+            TravoloMobileLanguageDropdown.classList.toggle('active');
         });
         
         // Handle language selection
-        Deep TanzaniaLanguageOptions.forEach(option => {
+        TravoloLanguageOptions.forEach(option => {
             option.addEventListener('click', function() {
                 const lang = this.getAttribute('data-lang');
                 
                 // Update active state
-                Deep TanzaniaLanguageOptions.forEach(opt => opt.classList.remove('active'));
+                TravoloLanguageOptions.forEach(opt => opt.classList.remove('active'));
                 this.classList.add('active');
                 
                 // Update current language display
@@ -820,51 +820,51 @@
                 const languageCode = languageName.substring(0, 2).toUpperCase();
                 
                 // Update desktop switcher
-                Deep TanzaniaCurrentLanguage.innerHTML = `
+                TravoloCurrentLanguage.innerHTML = `
                     <span class="${flagClass}"></span>
                     <span>${languageCode}</span>
                     <i class="fas fa-chevron-down" style="font-size: 12px;"></i>
                 `;
                 
                 // Update mobile switcher
-                Deep TanzaniaMobileCurrentLanguage.innerHTML = `
+                TravoloMobileCurrentLanguage.innerHTML = `
                     <span class="${flagClass}"></span>
                     <span>${languageCode}</span>
                     <i class="fas fa-chevron-down" style="font-size: 12px;"></i>
                 `;
                 
                 // Close dropdowns
-                Deep TanzaniaLanguageDropdown.classList.remove('active');
-                Deep TanzaniaMobileLanguageDropdown.classList.remove('active');
+                TravoloLanguageDropdown.classList.remove('active');
+                TravoloMobileLanguageDropdown.classList.remove('active');
                 
                 // Save the language preference to localStorage
-                localStorage.setItem('Deep Tanzania-preferred-language', lang);
+                localStorage.setItem('Travolo-preferred-language', lang);
                 
                 // Show confirmation (optional)
-                Deep TanzaniaShowLanguageChangeToast(languageName);
+                TravoloShowLanguageChangeToast(languageName);
             });
         });
         
         // Close dropdowns when clicking outside
         document.addEventListener('click', function() {
-            Deep TanzaniaLanguageDropdown.classList.remove('active');
-            Deep TanzaniaMobileLanguageDropdown.classList.remove('active');
+            TravoloLanguageDropdown.classList.remove('active');
+            TravoloMobileLanguageDropdown.classList.remove('active');
         });
         
         // Prevent dropdown close when clicking inside
-        Deep TanzaniaLanguageDropdown.addEventListener('click', function(e) {
+        TravoloLanguageDropdown.addEventListener('click', function(e) {
             e.stopPropagation();
         });
         
-        Deep TanzaniaMobileLanguageDropdown.addEventListener('click', function(e) {
+        TravoloMobileLanguageDropdown.addEventListener('click', function(e) {
             e.stopPropagation();
         });
         
         // Load saved language preference
-        function Deep TanzaniaLoadLanguagePreference() {
-            const savedLang = localStorage.getItem('Deep Tanzania-preferred-language');
+        function TravoloLoadLanguagePreference() {
+            const savedLang = localStorage.getItem('Travolo-preferred-language');
             if (savedLang) {
-                const optionToSelect = document.querySelector(`.Deep Tanzania-language-option[data-lang="${savedLang}"]`);
+                const optionToSelect = document.querySelector(`.Travolo-language-option[data-lang="${savedLang}"]`);
                 if (optionToSelect) {
                     optionToSelect.click();
                 }
@@ -872,7 +872,7 @@
         }
         
         // Show toast notification for language change
-        function Deep TanzaniaShowLanguageChangeToast(languageName) {
+        function TravoloShowLanguageChangeToast(languageName) {
             // Create toast element
             const toast = document.createElement('div');
             toast.style.cssText = `
@@ -909,7 +909,7 @@
         
         // Header scroll effect
         window.addEventListener('scroll', function() {
-            const header = document.querySelector('.Deep Tanzania-header');
+            const header = document.querySelector('.Travolo-header');
             if (window.scrollY > 50) {
                 header.classList.add('scrolled');
             } else {
@@ -918,7 +918,7 @@
         });
         
         // Load language preference on page load
-        window.addEventListener('DOMContentLoaded', Deep TanzaniaLoadLanguagePreference);
+        window.addEventListener('DOMContentLoaded', TravoloLoadLanguagePreference);
     </script>
 </body>
 </html>
