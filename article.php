@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Travolo - Premium Tanzanian Safaris & Kilimanjaro Climbs</title>
+    <title>Deep Tanzania - Premium Tanzanian Safaris & Kilimanjaro Climbs</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
    <link rel="stylesheet" href="style/style.css">
@@ -41,7 +41,7 @@
             <h1>Why Should You Visit Serengeti National Park</h1>
             <div class="article-meta">
                 <span class="date"><i class="far fa-calendar"></i> August 29, 2025</span>
-                <span class="author"><i class="far fa-user"></i> By Travolo Safari Experts</span>
+                <span class="author"><i class="far fa-user"></i> By Deep Tanzania Safari Experts</span>
                 <span class="read-time"><i class="far fa-clock"></i> 8 min read</span>
             </div>
         </div>

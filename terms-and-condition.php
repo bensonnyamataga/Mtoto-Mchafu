@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Travolo - Premium Tanzanian Safaris & Kilimanjaro Climbs</title>
+    <title>Deep Tanzania - Premium Tanzanian Safaris & Kilimanjaro Climbs</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
    <link rel="stylesheet" href="style/style.css">
@@ -279,22 +279,22 @@
     </section>
 
     <!-- Call to Action Section -->
-    <div class="travolo-cta-container">
-        <section class="travolo-cta-section">
-            <h2 class="travolo-cta-title">Questions About Our Terms?</h2>
-            <p class="travolo-cta-subtitle">Contact our team for clarification on any aspect of our booking policies</p>
+    <div class="Deep Tanzania-cta-container">
+        <section class="Deep Tanzania-cta-section">
+            <h2 class="Deep Tanzania-cta-title">Questions About Our Terms?</h2>
+            <p class="Deep Tanzania-cta-subtitle">Contact our team for clarification on any aspect of our booking policies</p>
             
-            <div class="travolo-cta-buttons">
-                <a href="contact.php" class="travolo-cta-btn travolo-enquire-btn">
+            <div class="Deep Tanzania-cta-buttons">
+                <a href="contact.php" class="Deep Tanzania-cta-btn Deep Tanzania-enquire-btn">
                     <i class="fas fa-envelope"></i>
                     <span>Contact Us</span>
-                    <span class="travolo-small-text">Quick response</span>
+                    <span class="Deep Tanzania-small-text">Quick response</span>
                 </a>
                 
-                <a href="tel:+255123456789" class="travolo-cta-btn travolo-call-btn">
+                <a href="tel:+255123456789" class="Deep Tanzania-cta-btn Deep Tanzania-call-btn">
                     <i class="fas fa-phone"></i>
                     <span>Call Us</span>
-                    <span class="travolo-small-text">Speak directly</span>
+                    <span class="Deep Tanzania-small-text">Speak directly</span>
                 </a>
             </div>
         </section>

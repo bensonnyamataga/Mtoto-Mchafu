@@ -3,7 +3,7 @@
         <div class="container">
             <div class="footer-grid">
                 <div class="footer-col">
-                    <h3>About Travolo</h3>
+                    <h3>About Deep Tanzania</h3>
                     <p>We are Tanzania's premier safari operator, offering unforgettable wildlife experiences with a commitment to sustainable tourism.</p>
                     <div class="social-links">
                         <a href="#"><i class="fab fa-facebook-f"></i></a>
@@ -39,13 +39,13 @@
                     <h3>Contact Info</h3>
                     <p><i class="fas fa-map-marker-alt"></i> Safari Street, Arusha, Tanzania</p>
                     <p><i class="fas fa-phone"></i> +255 123 456 789</p>
-                    <p><i class="fas fa-envelope"></i> info@travolo.com</p>
+                    <p><i class="fas fa-envelope"></i> info@Deep Tanzania.com</p>
                     <p><i class="fas fa-clock"></i> Mon-Fri: 8AM - 5PM</p>
                 </div>
             </div>
             
             <div class="footer-bottom">
-                <p>&copy; 2023 Travolo Tanzania. All Rights Reserved. | <a href="#" style="color: var(--secondary);">Privacy Policy</a> | <a href="terms-and-condition.php" style="color: var(--secondary);">Terms of Service</a></p>
+                <p>&copy; 2023 Deep Tanzania Tanzania. All Rights Reserved. | <a href="#" style="color: var(--secondary);">Privacy Policy</a> | <a href="terms-and-condition.php" style="color: var(--secondary);">Terms of Service</a></p>
             </div>
         </div>
     </footer>

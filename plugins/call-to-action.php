@@ -21,7 +21,7 @@
                         </a>
                     </div>
                     
-                    <a href="mailto:info@travolo.com" class="altezza-cta-btn altezza-email-btn">
+                    <a href="mailto:info@Deep Tanzania.com" class="altezza-cta-btn altezza-email-btn">
                         <div class="btn-icon">
                             <i class="fas fa-envelope"></i>
                         </div>
@@ -204,7 +204,7 @@
     font-weight: 500;
 }
 
-/* WhatsApp Button - Travolo Style */
+/* WhatsApp Button - Deep Tanzania Style */
 .altezza-whatsapp-btn {
     background: #25D366;
     color: #fff;
@@ -225,7 +225,7 @@
     transform: scale(1.1);
 }
 
-/* Email Button - Travolo Style */
+/* Email Button - Deep Tanzania Style */
 .altezza-email-btn {
     background: var(--primary);
     color: #fff;
