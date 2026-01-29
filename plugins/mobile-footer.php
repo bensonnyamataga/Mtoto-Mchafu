@@ -8,7 +8,7 @@
                 <i class="fas fa-blog"></i>
                 <span>Blog</span>
             </a>
-            <a href="#" class="mobile-footer-btn">
+            <a href="best-tanzania-safari-package" class="mobile-footer-btn">
                 <i class="fas fa-camera"></i>
                 <span>Safari</span>
             </a>
@@ -16,7 +16,7 @@
                 <i class="fas fa-mountain"></i>
                 <span>kilimanjaro</span>
             </a>
-            <a href="#" class="mobile-footer-btn whatsapp">
+            <a href="https://wa.me/+255655147108" class="mobile-footer-btn whatsapp">
                 <i class="fab fa-whatsapp"></i>
                 <span>WhatsApp</span>
             </a>

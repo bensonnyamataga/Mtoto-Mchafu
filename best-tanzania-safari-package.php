@@ -241,19 +241,386 @@
             </div>
         </div>
         
-        <div class="packages-cta">
-            <p>Can't find what you're looking for? We customize safaris to match your preferences.</p>
-            <a href="#contact" class="btn btn-secondary">Customize Your Safari</a>
-        </div>
+        
     </div>
 </section>
 
 
-<style>
- 
+<!-- Hot Air Balloon Safari Section -->
+<section class="section balloon-safari-section">
+    <div class="container">
+        <div class="section-title">
+            <span class="subtitle">Aerial Photography</span>
+            <h2>Hot Air Balloon Safari</h2>
+            <p>Float above the Serengeti at sunrise. Capture unforgettable aerial photos.</p>
+        </div>
+        
+        <div class="balloon-layout">
+            <!-- Left: Experience Details -->
+            <div class="balloon-details">
+                <div class="detail-block">
+                    <h3>Capture Africa from Above</h3>
+                    <p>Experience the Serengeti from a unique perspective. Perfect for stunning landscape and wildlife photography during golden hour.</p>
+                </div>
+                
+                <div class="experience-points">
+                    <div class="point">
+                        <i class="fas fa-camera"></i>
+                        <div>
+                            <h4>Sunrise Photography</h4>
+                            <p>Best light for aerial shots</p>
+                        </div>
+                    </div>
+                    
+                    <div class="point">
+                        <i class="fas fa-utensils"></i>
+                        <div>
+                            <h4>Bush Breakfast</h4>
+                            <p>Champagne celebration after landing</p>
+                        </div>
+                    </div>
+                    
+                    <div class="point">
+                        <i class="fas fa-shield-alt"></i>
+                        <div>
+                            <h4>Full Safety</h4>
+                            <p>Licensed pilots & insurance</p>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- Simple Timeline -->
+                <div class="simple-timeline">
+                    <h4>Your Morning</h4>
+                    <div class="timeline">
+                        <div class="timeline-step">
+                            <span class="time">4:30 AM</span>
+                            <span class="step">Pick-up from lodge</span>
+                        </div>
+                        <div class="timeline-step">
+                            <span class="time">5:30 AM</span>
+                            <span class="step">Sunrise balloon flight</span>
+                        </div>
+                        <div class="timeline-step">
+                            <span class="time">7:00 AM</span>
+                            <span class="step">Champagne breakfast</span>
+                        </div>
+                        <div class="timeline-step">
+                            <span class="time">8:30 AM</span>
+                            <span class="step">Flight certificate</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- Right: Booking Card -->
+            <div class="booking-card-simple">
+                <div class="card-image">
+                    <img src="img/balloon-safari.jpg" alt="Hot Air Balloon Safari">
+                </div>
+                
+                <div class="card-content">
+                    <h3>Balloon Safari Add-On</h3>
+                    
+                    <div class="price-block">
+                        <div class="price">$599</div>
+                        <div class="per-person">per person</div>
+                    </div>
+                    
+                    <div class="card-details">
+                        <p><i class="fas fa-clock"></i> 4-5 hours total</p>
+                        <p><i class="fas fa-calendar"></i> Available Day 2 or 3</p>
+                        <p><i class="fas fa-user-friends"></i> Small groups</p>
+                    </div>
+                    
+                    <div class="included">
+                        <h4>What's Included:</h4>
+                        <ul>
+                            <li>1-hour balloon flight</li>
+                            <li>Champagne bush breakfast</li>
+                            <li>Flight certificate</li>
+                            <li>All transfers</li>
+                            <li>Full insurance</li>
+                        </ul>
+                    </div>
+                         
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+    <style>
+    /* Balloon Section */
+.balloon-safari-section {
+    background: var(--white);
+}
+
+.balloon-layout {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+    align-items: start;
+}
+
+/* Left Side */
+.balloon-details {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+
+.detail-block h3 {
+    color: var(--dark);
+    margin-bottom: 15px;
+    font-size: 1.5rem;
+}
+
+.detail-block p {
+    color: var(--text);
+    line-height: 1.6;
+}
+
+/* Experience Points */
+.experience-points {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.point {
+    display: flex;
+    align-items: flex-start;
+    gap: 15px;
+}
+
+.point i {
+    color: var(--primary);
+    font-size: 1.2rem;
+    margin-top: 3px;
+}
+
+.point h4 {
+    color: var(--dark);
+    margin-bottom: 4px;
+    font-size: 1.1rem;
+}
+
+.point p {
+    color: var(--text-light);
+    font-size: 0.9rem;
+}
+
+/* Simple Timeline */
+.simple-timeline {
+    padding-top: 20px;
+    border-top: 1px solid var(--border);
+}
+
+.simple-timeline h4 {
+    color: var(--dark);
+    margin-bottom: 15px;
+}
+
+.timeline {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.timeline-step {
+    display: flex;
+    gap: 15px;
+    padding: 10px 0;
+    border-bottom: 1px solid var(--border);
+}
+
+.timeline-step:last-child {
+    border-bottom: none;
+}
+
+.timeline-step .time {
+    font-weight: 600;
+    color: var(--primary);
+    min-width: 70px;
+}
+
+.timeline-step .step {
+    color: var(--text);
+}
+
+/* Right Side - Booking Card */
+.booking-card-simple {
+    background: var(--white);
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.08);
+}
+
+.card-image {
+    height: 200px;
+    overflow: hidden;
+}
+
+.card-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.card-content {
+    padding: 30px;
+}
+
+.card-content h3 {
+    color: var(--dark);
+    margin-bottom: 20px;
+    font-size: 1.5rem;
+}
+
+.price-block {
+    margin-bottom: 25px;
+    padding-bottom: 25px;
+    border-bottom: 2px solid var(--primary-light);
+}
+
+.price {
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: var(--primary);
+    line-height: 1;
+}
+
+.per-person {
+    color: var(--text-light);
+    font-size: 0.9rem;
+}
+
+.card-details {
+    margin-bottom: 25px;
+}
+
+.card-details p {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 10px;
+    color: var(--text);
+}
+
+.card-details i {
+    color: var(--primary);
+    width: 20px;
+}
+
+.included {
+    margin-bottom: 25px;
+}
+
+.included h4 {
+    color: var(--dark);
+    margin-bottom: 10px;
+    font-size: 1.1rem;
+}
+
+.included ul {
+    list-style: none;
+}
+
+.included li {
+    padding: 6px 0;
+    color: var(--text);
+    border-bottom: 1px solid var(--border);
+}
+
+.included li:last-child {
+    border-bottom: none;
+}
+
+.note {
+    background: #fff9e6;
+    padding: 15px;
+    border-radius: 6px;
+    margin-bottom: 25px;
+    font-size: 0.9rem;
+    color: var(--text);
+}
+
+.buttons {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.btn {
+    display: block;
+    padding: 12px 20px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 6px;
+    font-weight: 600;
+    transition: all 0.3s ease;
+    border: 2px solid transparent;
+}
+
+.btn-primary {
+    background: var(--primary);
+    color: white;
+}
+
+.btn-primary:hover {
+    background: var(--secondary);
+}
+
+.btn-outline {
+    border-color: var(--primary);
+    color: var(--primary);
+}
+
+.btn-outline:hover {
+    background: var(--primary-light);
+}
+
+/* Responsive */
+@media (max-width: 900px) {
+    .balloon-layout {
+        grid-template-columns: 1fr;
+        gap: 30px;
+    }
+    
+    .booking-card-simple {
+        max-width: 500px;
+        margin: 0 auto;
+    }
+}
+
+@media (max-width: 600px) {
+    .section {
+        padding: 40px 0;
+    }
+    
+    .section-title h2 {
+        font-size: 1.7rem;
+    }
+    
+    .card-content {
+        padding: 20px;
+    }
+    
+    .price {
+        font-size: 2rem;
+    }
+    
+    .buttons {
+        flex-direction: row;
+    }
+    
+    .btn {
+        flex: 1;
+    }
+}
 </style>
-
-
 
 
 
@@ -333,6 +700,9 @@
         </div>
     </div>
 </section>
+
+
+
 
 <style>
       
@@ -543,35 +913,6 @@
     </div>
 </section>
 
-<!-- Customer Care CTA - Single Line -->
-<section class="single-line-care-cta">
-    <div class="container">
-        <div class="care-agent-line">
-            <div class="agent-circle-large">
-                <img src="img/customer-support.jpg" alt="Travel Expert">
-                <span class="status-dot-large"></span>
-            </div>
-            
-            <div class="agent-text">
-                <span class="ready-text">Ready to plan your next adventure?</span>
-                <span class="prompt-text">Chat with our safari expert now and start  </span>
-                <span class="prompt-text">your dream Tanzania journey into reality.”</span>
-            </div>
-            
-            <div class="contact-buttons-line">
-                <a href="https://wa.me/255123456789" class="contact-btn-line whatsapp-line" target="_blank">
-                    <i class="fab fa-whatsapp"></i>
-                    <span>WhatsApp</span>
-                </a>
-                
-                <a href="mailto:info@Travolo.com" class="contact-btn-line email-line">
-                    <i class="fas fa-envelope"></i>
-                    <span>Email</span>
-                </a>
-            </div>
-        </div>
-    </div>
-</section>
 
 <style>
 /* Single Line Customer Care CTA */
@@ -745,27 +1086,7 @@
     50% { opacity: 0.6; }
     100% { opacity: 1; }
 }
-</style>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<style>
     /* Safari Intro Section */
     .safari-intro-section {
         background-color: var(--white);
@@ -1109,7 +1430,12 @@
 
 
     </div>
+   <?php include 'plugins/mobile-footer.php';?>
 
+<!--Call to actions-->
+ <?php include 'plugins/call-to-action.php';?>
+ 
+<?php include 'plugins/pop-up-expert.php';?>
 
     <?php include 'plugins/footer.php';?>
 

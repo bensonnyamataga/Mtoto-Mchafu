@@ -736,7 +736,11 @@
         </div>
     </div>
 </section>
+   <?php include 'plugins/mobile-footer.php';?>
 
+<!--Call to actions-->
+ <?php include 'plugins/call-to-action.php';?>
+ 
 <?php include 'plugins/pop-up-expert.php';?>
 
     <?php include 'plugins/footer.php';?>
