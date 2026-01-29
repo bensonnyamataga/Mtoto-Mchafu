@@ -17,7 +17,7 @@
 /* IMPORTANT: ensure this folder exists: /fonts/  (edit path if your fonts are elsewhere) */
 @font-face {
     font-family: 'Mazzard H';
-    src: url('/fonts/MazzardH-ExtraLight.otf') format('opentype');
+    src: url('fonts/MazzardH-ExtraLight.otf') format('opentype');
     font-weight: 200;
     font-style: normal;
     font-display: swap;
@@ -25,39 +25,39 @@
 
 @font-face {
     font-family: 'Mazzard H';
-    src: url('/fonts/mazzard-h-light.otf') format('opentype');
-    font-weight: 300;
+    src: url('fonts/mazzard-h-light.otf') format('opentype');
+    font-weight: 200;
     font-style: normal;
     font-display: swap;
 }
 
 @font-face {
     font-family: 'Mazzard H';
-    src: url('/fonts/mazzard-h-regular.otf') format('opentype');
-    font-weight: 400;
+    src: url('fonts/mazzard-h-regular.otf') format('opentype');
+    font-weight: 200;
     font-style: normal;
     font-display: swap;
 }
 
 @font-face {
     font-family: 'Mazzard H';
-    src: url('/fonts/MazzardH-Bold.otf') format('opentype');
-    font-weight: 700;
+    src: url('fonts/MazzardH-Bold.otf') format('opentype');
+    font-weight: bold;
     font-style: normal;
     font-display: swap;
 }
 
 @font-face {
     font-family: 'Mazzard H';
-    src: url('/fonts/MazzardH-BoldItalic.otf') format('opentype');
-    font-weight: 700;
+    src: url('fonts/MazzardH-BoldItalic.otf') format('opentype');
+    font-weight: bold;
     font-style: italic;
     font-display: swap;
 }
 
 @font-face {
     font-family: 'Mazzard H';
-    src: url('/fonts/MazzardH-ExtraBold.otf') format('opentype');
+    src: url('fonts/MazzardH-ExtraBold.otf') format('opentype');
     font-weight: 800;
     font-style: normal;
     font-display: swap;
@@ -65,7 +65,7 @@
 
 @font-face {
     font-family: 'Mazzard H';
-    src: url('/fonts/MazzardH-ExtraBoldItalic.otf') format('opentype');
+    src: url('fonts/MazzardH-ExtraBoldItalic.otf') format('opentype');
     font-weight: 800;
     font-style: italic;
     font-display: swap;
@@ -73,7 +73,7 @@
 
 @font-face {
     font-family: 'Mazzard H';
-    src: url('/fonts/MazzardH-Black.otf') format('opentype');
+    src: url('fonts/MazzardH-Black.otf') format('opentype');
     font-weight: 900;
     font-style: normal;
     font-display: swap;
@@ -81,20 +81,33 @@
 
 @font-face {
     font-family: 'Mazzard H';
-    src: url('/fonts/MazzardH-BlackItalic.otf') format('opentype');
+    src: url('fonts/MazzardH-BlackItalic.otf') format('opentype');
     font-weight: 900;
     font-style: italic;
     font-display: swap;
 }
+
+
 
 /* Set default weight for body text */
-body0; /* Using ExtraLight as default */
+body {
+    font-weight: 400; /* Using ExtraLight as default */
 }
 
 /* Headings with appropriate weights */
 h1, h2, h3, h4, h5, h6 {
     font-family: var(--heading);
     font-weight: 800; /* Using ExtraBold for headings */
+}
+
+body{
+  font-family:"Mazzard H";
+  font-weight:400;
+}
+
+h1,h2,h3,h4,h5,h6{
+  font-family:"Mazzard H";
+  font-weight:800; /* or 700 */
 }
 
 /* For bold text */
