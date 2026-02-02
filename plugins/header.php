@@ -653,7 +653,7 @@
                             <i class="fas fa-star"></i>
                             <i class="fas fa-star"></i>
                         </div>
-                        <span>Tripadvisor</span>
+<span><a href="https://www.tripadvisor.com/">Tripadvisor</a></span>
                     </div>
                     <div class="Travolo-review-badge">
                         <div class="Travolo-stars">
@@ -663,7 +663,7 @@
                             <i class="fas fa-star"></i>
                             <i class="fas fa-star"></i>
                         </div>
-                        <span>Google</span>
+<span><a href="https://www.google.com/">Google</a></span>
                     </div>
                     
                     </div>
