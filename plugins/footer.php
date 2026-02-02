@@ -42,9 +42,9 @@
                 
                 <div class="footer-col">
                     <h3>Contact Info</h3>
-                    <p><i class="fas fa-map-marker-alt"></i> Safari Street, Arusha, Tanzania</p>
-                    <p><i class="fas fa-phone"></i> +255 123 456 789</p>
-                    <p><i class="fas fa-envelope"></i> info@Travolo.com</p>
+                    <p><i class="fas fa-map-marker-alt"></i>Deep Tanzania Tours, 10166 Moshi Tanzania, Aga Khan Street/Road, Nssf Complex Near Moshi Municipal, Second Floor Room No13i</p>
+                    <p><i class="fas fa-phone"></i> +255 655 147 108</p>
+                    <p><i class="fas fa-envelope"></i> info@deeptanzaniatours.com</p>
                     <p><i class="fas fa-clock"></i> Mon-Fri: 8AM - 5PM</p>
                 </div>
             </div>
@@ -52,7 +52,7 @@
             
             
             <div class="footer-bottom">
-                <p>&copy; 2023 Travolo Tanzania. All Rights Reserved. | <a href="#">Privacy Policy</a> | <a href="terms-and-condition.php">Terms of Service</a></p>
+                <p>&copy; 2026 Travolo Tanzania. All Rights Reserved. | <a href="#">Privacy Policy</a> | <a href="terms-and-condition.php">Terms of Service</a></p>
             </div>
         </div>
     </footer>
