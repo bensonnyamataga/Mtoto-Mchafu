@@ -8,11 +8,11 @@
                 <i class="fas fa-blog"></i>
                 <span>Blog</span>
             </a>
-            <a href="best-tanzania-safari-package" class="mobile-footer-btn">
+            <a href="best-tanzania-safari-package.php" class="mobile-footer-btn">
                 <i class="fas fa-camera"></i>
                 <span>Safari</span>
             </a>
-            <a href="#" class="mobile-footer-btn">
+            <a href="kilimanjaro-trekking.php" class="mobile-footer-btn">
                 <i class="fas fa-mountain"></i>
                 <span>kilimanjaro</span>
             </a>
