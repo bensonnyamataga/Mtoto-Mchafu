@@ -178,7 +178,7 @@ document.addEventListener('DOMContentLoaded', function() {
                     break;
                 case 'WhatsApp':
                     // Open WhatsApp
-                    window.open('https://wa.me/255123456789', '_blank'); // Replace with your WhatsApp number
+                    window.open('https://wa.me/+255655147108', '_blank'); // Replace with your WhatsApp number
                     break;
             }
         });
