@@ -701,7 +701,7 @@
         
         <div class="Travolo-header-main">
             <div class="Travolo-container Travolo-header-container">
-                <div class="Travolo-logo">Travolo</div>
+                <div class="Travolo-logo">Deep Tanzania</div>
                 
                 <nav class="Travolo-nav">
                     <ul id="Travolo-nav-menu">
