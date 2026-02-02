@@ -681,7 +681,7 @@
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star"></i>
                     </div>
-                    <span>Tripadvisor</span>
+                    <span><a href="https://https://www.tripadvisor.com/Profile/deeptanzaniatours/">Tripadvisor</a></span>
                 </div>
                 <div class="Travolo-mobile-review-badge">
                     <div class="Travolo-mobile-stars">
@@ -691,7 +691,7 @@
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star"></i>
                     </div>
-                    <span>Google</span>
+                    <span><a href="https://share.google/mC1Bc2n8hcHFs0iCq">Google</a></span>
                 </div>
                 
                     </div>
