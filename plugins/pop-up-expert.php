@@ -20,7 +20,7 @@
             <span class="tag">Kilimanjaro</span>
             <span class="tag">Zanzibar</span>
         </div>
-        <a href="https://wa.me/255123456789?text=Hi%20Sarah%2C%20I'd%20like%20to%20plan%20my%20dream%20safari!" 
+        <a href="https://wa.me/+255655147108" 
            class="whatsapp-btn" target="_blank">
             <i class="fab fa-whatsapp"></i> Chat on WhatsApp
         </a>

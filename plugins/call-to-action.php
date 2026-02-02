@@ -10,7 +10,7 @@
                         <div class="customer-care-image">
                            <img src="img/black-customer-care.jpg" alt="customer-care">
                         </div>
-                        <a href="https://wa.me/255123456789" class="altezza-cta-btn altezza-whatsapp-btn" target="_blank">
+                        <a href="https://wa.me/+255655147108" class="altezza-cta-btn altezza-whatsapp-btn" target="_blank">
                             <div class="btn-icon">
                                 <i class="fab fa-whatsapp"></i>
                             </div>
