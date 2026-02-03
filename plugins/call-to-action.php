@@ -21,7 +21,7 @@
                         </a>
                     </div>
                     
-                    <a href="mailto:info@Travolo.com" class="altezza-cta-btn altezza-email-btn">
+                    <a href="mailto: info@deeptanzaniatours.com" class="altezza-cta-btn altezza-email-btn">
                         <div class="btn-icon">
                             <i class="fas fa-envelope"></i>
                         </div>

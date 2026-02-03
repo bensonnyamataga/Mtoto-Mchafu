@@ -710,8 +710,8 @@
                         <li><a href="kilimanjaro-trekking.php">KILIMANJARO</a></li>
                         <li><a href="#zanzibar">ZANZIBAR</a></li>
                         <li><a href="#daytrips">DAYTRIPS</a></li>
-                        <li><a href="#about">ABOUT US</a></li>
-                        <li><a href="#contact">CONTACT US</a></li>
+                        <li><a href="about-us.php">ABOUT US</a></li>
+                        <li><a href="contact-us.php">CONTACT US</a></li>
                     </ul>
                     
                     <!-- Updated Mobile Menu Button with UNIQUE CLASSES -->
@@ -739,8 +739,8 @@
             <li><a href="kilimanjaro-trekking.php">KILIMANJARO</a></li>
             <li><a href="#zanzibar">ZANZIBAR</a></li>
             <li><a href="#daytrips">DAYTRIPS</a></li>
-            <li><a href="#about">ABOUT US</a></li>
-            <li><a href="#contact">CONTACT US</a></li>
+            <li><a href="about-us.php">ABOUT US</a></li>
+            <li><a href="contact-us.php">CONTACT US</a></li>
         </ul>
     </div>
 

@@ -13,29 +13,13 @@
 
      <?php include 'plugins/header.php';?>
 
-   <!-- Hero Section -->
-<section class="hero" id="home">
-    <div class="hero-background">
-        <img src="img/banner.jpg" alt="Tanzanian Landscape">
-        <div class="hero-overlay"></div>
-    </div>
-    <div class="container">
-        <div class="hero-content">
-            <h1>Experience the Wonders of Tanzania</h1>
-            <p>Discover the breathtaking wildlife of the Serengeti, conquer Mount Kilimanjaro, and relax on the pristine beaches of Zanzibar with our expert-guided tours.</p>
-            <div class="hero-btns">
-                <a href="#safaris" class="btn btn-primary">Explore Safaris</a>
-                <a href="#contact" class="btn btn-secondary">Plan Your Trip</a>
-            </div>
-        </div>
-    </div>
-</section>
+<br> <br> <br>
 
 <section class="section contact-section">
         <div class="container">
             <div class="section-title">
                 <span class="subtitle">Reach Out</span>
-                <h2>Contact Travolo Tanzania</h2>
+                <h2>Contact Deep Tanzania</h2>
                 <p>We're here to answer any questions and help you plan your dream Tanzanian safari experience.</p>
             </div>
 
@@ -47,7 +31,7 @@
                         </div>
                         <div class="contact-details">
                             <h4>Our Office</h4>
-                            <p>Safari Street, Arusha, Tanzania</p>
+                            <p>Deep Tanzania Tours, 10166 Moshi Tanzania, Aga Khan Street/Road, Nssf Complex Near Moshi Municipal, Second Floor Room No13i</p>
                         </div>
                     </div>
 
@@ -57,8 +41,8 @@
                         </div>
                         <div class="contact-details">
                             <h4>Call Us</h4>
-                            <p>+255 123 456 789</p>
-                            <p>+255 987 654 321</p>
+                            <p>+255 655 147 108</p>
+
                         </div>
                     </div>
 
@@ -68,8 +52,7 @@
                         </div>
                         <div class="contact-details">
                             <h4>Email Us</h4>
-                            <p>info@Travolo.com</p>
-                            <p>bookings@Travolo.com</p>
+                            <p> info@deeptanzaniatours.com</p>
                         </div>
                     </div>
 
@@ -208,34 +191,7 @@
     </section>
 
     <!-- Call to Action Section -->
-    <div class="Travolo-cta-container">
-        <section class="Travolo-cta-section">
-            <h2 class="Travolo-cta-title">Ready to Plan Your Tanzanian Adventure?</h2>
-            <p class="Travolo-cta-subtitle">Contact us today and let our experts create your dream safari experience</p>
-            
-            <div class="Travolo-cta-buttons">
-                <a href="https://wa.me/255123456789" class="Travolo-cta-btn Travolo-whatsapp-btn" target="_blank">
-                    <i class="fab fa-whatsapp"></i>
-                    <span>Chat on WhatsApp</span>
-                    <span class="Travolo-small-text">Fast response</span>
-                </a>
-                
-                <button class="Travolo-cta-btn Travolo-call-btn" id="Travolo-enquire-btn">
-                    <i class="fas fa-paper-plane"></i>
-                    <span>Enquire Now</span>
-                    <span class="Travolo-small-text">Personalized service</span>
-                </button>
-                
-                <a href="tel:+255123456789" class="Travolo-cta-btn Travolo-call-btn">
-                    <i class="fas fa-phone"></i>
-                    <span>Voice Call</span>
-                    <span class="Travolo-small-text">Speak directly</span>
-                </a>
-            </div>
-            
-            <p class="Travolo-cta-footer">We'll craft a personalized travel itinerary within 3 hours</p>
-        </section>
-    </div>
+    
 <style>
     /* Contact Section Styles */
         .contact-section {
@@ -501,6 +457,14 @@
             }
         });
     </script>
+
+     <?php include 'plugins/mobile-footer.php';?>
+
+<!--Call to actions-->
+ <?php include 'plugins/call-to-action.php';?>
+ 
+<?php include 'plugins/pop-up-expert.php';?>
+    <!--Call to actions ends-->
 
 
        <?php include 'plugins/footer.php';?>

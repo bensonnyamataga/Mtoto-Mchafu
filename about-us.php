@@ -332,35 +332,7 @@
         </div>
     </section>
 
-    <!-- Call to Action Section -->
-    <div class="Travolo-cta-container">
-        <section class="Travolo-cta-section">
-            <h2 class="Travolo-cta-title">Ready to Experience Tanzania With Us?</h2>
-            <p class="Travolo-cta-subtitle">Let our team of local experts craft your perfect African adventure</p>
-            
-            <div class="Travolo-cta-buttons">
-                <a href="https://wa.me/255123456789" class="Travolo-cta-btn Travolo-whatsapp-btn" target="_blank">
-                    <i class="fab fa-whatsapp"></i>
-                    <span>Chat on WhatsApp</span>
-                    <span class="Travolo-small-text">Fast response</span>
-                </a>
-                
-                <button class="Travolo-cta-btn Travolo-call-btn" id="Travolo-enquire-btn">
-                    <i class="fas fa-paper-plane"></i>
-                    <span>Enquire Now</span>
-                    <span class="Travolo-small-text">Personalized service</span>
-                </button>
-                
-                <a href="tel:+255123456789" class="Travolo-cta-btn Travolo-call-btn">
-                    <i class="fas fa-phone"></i>
-                    <span>Voice Call</span>
-                    <span class="Travolo-small-text">Speak directly</span>
-                </a>
-            </div>
-            
-            <p class="Travolo-cta-footer">We'll craft a personalized travel itinerary within 3 hours</p>
-        </section>
-    </div>
+    
 
 
    
@@ -796,6 +768,14 @@
             window.addEventListener('scroll', animateStats);
         });
     </script>
+
+     <?php include 'plugins/mobile-footer.php';?>
+
+<!--Call to actions-->
+ <?php include 'plugins/call-to-action.php';?>
+ 
+<?php include 'plugins/pop-up-expert.php';?>
+    <!--Call to actions ends-->
 
 
         <?php include 'plugins/footer.php';?>
