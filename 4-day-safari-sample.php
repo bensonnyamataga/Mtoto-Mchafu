@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>4 Days Mid-Range Safari - Tarangire, Serengeti & Ngorongoro Crater | One Kilimanjaro Adventures</title>
-    <meta name="description" content="Experience a 4-day mid-range safari adventure in Tanzania's iconic Tarangire, Serengeti, and Ngorongoro Crater. Includes comfortable lodges, expert guides, and optional balloon safari.">
+    <title>4 Days Mid-Range Safari - Tarangire, Serengeti & Ngorongoro Crater title>
+    <meta name="description" content="Experience a 4-day mid-range safari adventure in Tanzania's iconic Tarangire, Serengeti, and Ngorongoro Crater.">
     <meta name="keywords" content="4 days Tanzania safari, mid-range safari, Tarangire, Serengeti, Ngorongoro Crater, safari package, balloon safari">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
@@ -180,7 +180,7 @@
                 
                 <div class="ie-content">
                     <div class="ie-column">
-                        <div class="ie-item"><div class="ie-bullet"><i class="fas fa-times"></i></div><div class="ie-text"><h4>International Flights</h4><p>Airfare to and from Tanzania is not included</p></div></div>
+                        <div class="ie-item"><div class="ie-bullet"><i class="fas fa-times"></i></div><div class="ie-text"><h4>International Flights</h4><p>Airfare to and from Tanzania is not included</p></div></div>s
                         <div class="ie-item"><div class="ie-bullet"><i class="fas fa-times"></i></div><div class="ie-text"><h4>Tanzania Entry Visa</h4><p>Visa fees are the responsibility of the traveler</p></div></div>
                         <div class="ie-item"><div class="ie-bullet"><i class="fas fa-times"></i></div><div class="ie-text"><h4>Travel Insurance</h4><p>Comprehensive travel and medical insurance is required but not provided</p></div></div>
                     </div>
@@ -195,7 +195,7 @@
         </div>
 
         <div class="ie-note">
-            <p><strong>Note:</strong> This is a shared group safari. For private safari rates, single traveler supplements, or upgrades to luxury accommodation, please contact our team for a customized quote.</p>
+            <p><strong>Note that:</strong> This is a shared group safari. For private safari rates, single traveler supplements, or upgrades to luxury accommodation, please contact our team for a customized quote.</p>
         </div>
     </div>
 </section>
@@ -521,7 +521,7 @@
                         </div>
                     </div>
                 </div>
-                <p class="note"><strong>Note:</strong> Balloon safaris are weather-dependent and require advance booking due to popularity. Flights operate from several locations within the Serengeti depending on the season and wildlife movements.</p>
+                <p class="note"><strong>Consider</strong> Balloon safaris are weather-dependent and require advance booking due to popularity. Flights operate from several locations within the Serengeti depending on the season and wildlife movements.</p>
             </div>
             
             <!-- Right: Booking Card -->
