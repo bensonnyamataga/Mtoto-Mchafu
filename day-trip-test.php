@@ -247,35 +247,6 @@
 </section>
 
        
-<!-- Local Guides Section -->
-<section class="section safari-guides-section">
-    <div class="container">
-        <div class="section-title">
-            <span class="subtitle">Local Expertise</span>
-            <h2>Zanzibar Island Guides</h2>
-            <p>Our guides are your key to authentic Zanzibar experiences, offering deep cultural knowledge and island expertise.</p>
-        </div>
-        
-        <div class="safari-guides-content">
-            <div class="safari-guides-image">
-                <img src="img/couple-zanzibar.jpg" alt="Zanzibar Local Guides">
-            </div>
-            
-            <div class="safari-guides-text">
-                <p>Our Zanzibar guides are local experts with extensive knowledge of the island's history, culture, and hidden gems. Born and raised in Zanzibar, they offer authentic insights that transform your holiday into a meaningful cultural experience, from the alleyways of Stone Town to the remote beaches of the east coast.</p>
-                
-                <p>Beyond showing you the main attractions, our guides will introduce you to Zanzibar's vibrant local life, traditional crafts, and authentic Swahili cuisine. They can arrange unique experiences like visiting local markets, meeting artisans, or attending traditional Taarab music performances.</p>
-                
-                <p>Our guides are fluent in English, Swahili, and often other languages, ensuring clear communication and rich storytelling throughout your Zanzibar adventure. They are also trained in safety procedures and first aid, prioritizing your wellbeing during all activities.</p>
-                
-               
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-
 <?php include 'plugins/pop-up-expert.php';?>
     <?php include 'plugins/footer.php';?>
 

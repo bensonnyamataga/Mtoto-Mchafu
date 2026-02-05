@@ -26,7 +26,7 @@
             <div class="hero-btns">
                 <a href="#safaris" class="btn btn-primary">Explore Safaris</a>
                 <a href="#contact" class="btn btn-secondary">Plan Your Trip</a>
-            </div>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+</div>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
         </div>
     </div>
 </section>

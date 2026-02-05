@@ -42,8 +42,10 @@
     <div class="container">
         <div class="hero-altoo-content">
             <h1>4 Days Mid-Range Safari – Tarangire, Serengeti & Ngorongoro Crater</h1>
-            <?php include 'plugins/header-cta.php';?>
-        </div>
+<div class="hero-btns">
+                <a href="#safaris" class="btn btn-primary ">Explore Safaris</a>
+                <a href="#contact" class="btn btn-secondary">Plan Your Trip</a>
+</div>                            </div>
     </div>
 </section>
 
@@ -52,7 +54,7 @@
 <section class="kilimanjaro-expedition" id="itinerary">
     <div class="expedition-container">
         <div class="expedition-summary">
-            <h2 class="schedule-heading">Complete 4-Day Mid-Range Safari Itinerary – Tarangire, Serengeti & Ngorongoro</h2>
+            <h2 class="schedule-heading">Complete 4-Day Mid-Range Safari Itinerary <br> Tarangire, Serengeti & Ngorongoro</h2>
             <p>
                 This four-day adventure takes you through the heart of Tanzania's most celebrated northern safari circuit. You'll experience Tarangire's mighty elephant herds, the boundless savannah of the world-famous Serengeti, and the unparalleled wildlife concentration of the Ngorongoro Crater. Traveling in a comfortable, open-roof 4x4 vehicle with an expert guide, you'll enjoy game drives, comfortable mid-range accommodations, and the opportunity to witness Africa's iconic wildlife in its natural habitat.
             </p>
