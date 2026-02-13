@@ -664,4 +664,5 @@
         });
     </script>
 
-        <?php include 'plugins/footer.php';?>
+    <?php include 'plugins/footer.php';?>
+<?php include 'plugins/booking-form.php';?>

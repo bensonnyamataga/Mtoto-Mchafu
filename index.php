@@ -579,7 +579,10 @@
 
 
 
-    <?php include 'plugins/footer.php';?>
+<?php include 'plugins/footer.php';?>
+<?php include 'plugins/booking-form.php';?>
+        <?php include 'plugins/booking-form.php';?>
+
 
 
     <!-- Additional sections would continue here for Kilimanjaro, Itineraries, About Tanzania, etc. -->
