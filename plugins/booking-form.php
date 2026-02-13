@@ -356,14 +356,6 @@
 </style>
 
 
-
-
-
-
-
-
-
-
 <!-- Booking Popup Modal -->
 <div class="booking-popup-overlay" id="bookingPopupOverlay">
     <div class="booking-popup-modal">
@@ -372,81 +364,71 @@
         </button>
         
         <div class="booking-popup-heading">
-            <h3>Book Your Kilimanjaro & Serengeti Adventure</h3>
-            <p>Reserve your spot for this unforgettable mountain and wildlife experience</p>
+            <h3>Book Your African Adventure</h3>
+            <p>Reserve your spot for this unforgettable Kilimanjaro, Safari, or Zanzibar experience</p>
         </div>
         
-        <form class="booking-popup-form" id="kilimanjaro-booking-form">
+        <form class="booking-popup-form" id="universal-booking-form">
             <div class="popup-form-group">
-                <label for="popup-full-name">Full Name</label>
+                <label for="popup-full-name">Your Full Name</label>
                 <input type="text" id="popup-full-name" name="full-name" required>
             </div>
             
             <div class="popup-form-group">
-                <label for="popup-email">Email Address</label>
+                <label for="popup-email">Your Email Address</label>
                 <input type="email" id="popup-email" name="email" required>
             </div>
             
             <div class="popup-form-group">
-                <label for="popup-phone">Phone Number</label>
+                <label for="popup-phone">Mobile Number</label>
                 <input type="tel" id="popup-phone" name="phone" required>
+            </div>
+            
+            <div class="popup-form-group">
+                <label for="popup-start-date">When are you planning to come?*</label>
+                <input type="date" id="popup-start-date" name="start-date" required>
             </div>
             
             <div class="popup-form-row">
                 <div class="popup-form-group">
-                    <label for="popup-start-date">Start Date</label>
-                    <input type="date" id="popup-start-date" name="start-date" required>
+                    <label for="popup-adults">Number of Adults</label>
+                    <input type="text" id="popup-adults" name="adults" placeholder="e.g. 2">
                 </div>
                 
                 <div class="popup-form-group">
-                    <label for="popup-package-type">Package Type</label>
-                    <select id="popup-package-type" name="package-type" required>
-                        <option value="">Select Package</option>
-                        <option value="Lemosho + Serengeti" selected>Lemosho Route + Serengeti Safari</option>
-                        <option value="Machame Route">Machame Route Only</option>
-                        <option value="Marangu Route">Marangu Route Only</option>
-                        <option value="Safari Only">Safari Only</option>
-                    </select>
+                    <label for="popup-children">Number of Children</label>
+                    <input type="text" id="popup-children" name="children" placeholder="e.g. 1">
                 </div>
             </div>
             
             <div class="popup-form-group">
-                <label for="popup-group-size">Number of Travelers</label>
-                <select id="popup-group-size" name="group-size" required>
-                    <option value="">Select Group Size</option>
-                    <option value="1">1 Person</option>
-                    <option value="2">2 People</option>
-                    <option value="3">3 People</option>
-                    <option value="4">4 People</option>
-                    <option value="5+">5+ People</option>
+                <label for="popup-package-type">Which package are you interested in?</label>
+                <select id="popup-package-type" name="package-type" required>
+                    <option value="">Select package</option>
+                    <option value="Kilimanjaro Trekking">Kilimanjaro Trekking</option>
+                    <option value="Safari Adventure">Safari Adventure</option>
+                    <option value="Zanzibar Beach">Zanzibar Beach Holiday</option>
+                    <option value="Kilimanjaro + Safari">Kilimanjaro & Safari Combo</option>
+                    <option value="Safari + Zanzibar">Safari & Zanzibar Combo</option>
+                    <option value="Complete Experience">Complete Tanzania Experience</option>
                 </select>
             </div>
             
             <div class="popup-form-group">
-                <label for="popup-accommodation-type">Accommodation Preference</label>
-                <select id="popup-accommodation-type" name="accommodation-type">
-                    <option value="tented-camp" selected>Tented Camp</option>
-                    <option value="lodge">Lodge</option>
-                    <option value="luxury">Luxury Tented Camp</option>
-                </select>
-            </div>
-            
-            <div class="popup-form-group">
-                <label for="popup-special-requests">Special Requests</label>
-                <textarea id="popup-special-requests" name="special-requests" rows="3" placeholder="Any dietary requirements, medical conditions, accommodation preferences, or other requests"></textarea>
+                <label for="popup-special-requests">Message / Special Requests</label>
+                <textarea id="popup-special-requests" name="special-requests" rows="4"></textarea>
             </div>
             
             <button type="submit" class="popup-btn-primary">
-                <i class="fas fa-paper-plane"></i> Request Booking
+                <i class="fas fa-paper-plane"></i> Submit Inquiry
             </button>
             
             <p class="popup-booking-terms">
-                By submitting this form, you agree to our <a href="#">Terms & Conditions</a> and <a href="#">Privacy Policy</a>. A 30% deposit is required to confirm your booking.
+                By submitting this form, you agree to our <a href="#">Terms & Conditions</a> and <a href="#">Privacy Policy</a>. We'll respond within 24 hours.
             </p>
         </form>
     </div>
 </div>
-
 <script>
     document.addEventListener('DOMContentLoaded', function() {
         // Form submission

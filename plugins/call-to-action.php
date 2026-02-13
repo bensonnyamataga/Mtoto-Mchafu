@@ -21,13 +21,13 @@
                         </a>
                     </div>
                     
-                    <a href="mailto: info@deeptanzaniatours.com" class="altezza-cta-btn altezza-email-btn">
+                    <a  class="altezza-cta-btn altezza-email-btn" onclick="openBookingPopup()">
                         <div class="btn-icon">
                             <i class="fas fa-envelope"></i>
                         </div>
                         <div class="btn-content">
-                            <span class="btn-title">Email Inquiry</span>
-                            <span class="btn-subtitle">Detailed Quote</span>
+                            <span class="btn-title" onclick="openBookingPopup()">Email Inquiry</span>
+                            <span class="btn-subtitle" onclick="openBookingPopup()">Detailed Quote</span>
                         </div>
                     </a>
                 </div>
