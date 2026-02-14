@@ -57,6 +57,8 @@
         </div>
     </footer>
 
+
+
     <style>
        
  /*New footer contents*/

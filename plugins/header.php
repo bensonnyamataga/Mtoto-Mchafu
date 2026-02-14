@@ -637,6 +637,25 @@
     </style>
 </head>
 <body>
+
+
+
+<!-- GTranslate: https://gtranslate.io/ -->
+<div class="gtranslate_wrapper"></div>
+
+<script>
+  window.gtranslateSettings = {
+    "default_language": "en",
+    "detect_browser_language": true,
+    "languages": ["en","sw","fr","de","es"],
+    "wrapper_selector": ".gtranslate_wrapper",
+    "horizontal_position": "right",
+    "vertical_position": "top"
+  };
+</script>
+
+<script src="https://cdn.gtranslate.net/widgets/latest/float.js" defer></script>
+
     <!-- Header Section with UNIQUE CLASSES -->
     <header class="Travolo-header">
         <div class="Travolo-header-top">
