@@ -52,7 +52,7 @@
             
             
             <div class="footer-bottom">
-                <p>&copy; 2026 Travolo Tanzania. All Rights Reserved. | <a href="#">Privacy Policy</a> | <a href="terms-and-condition.php">Terms of Service</a></p>
+                <p>&copy; 2026 Deep Tanzania Tours. All Rights Reserved. | <a href="#">Privacy Policy</a> | <a href="terms-and-condition.php">Terms of Service</a></p>
             </div>
         </div>
     </footer>
