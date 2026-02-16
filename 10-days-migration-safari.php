@@ -3,12 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>4 Days Mid-Range Safari - Tarangire, Serengeti & Ngorongoro </title>
-    <meta name="description" content="Experience a 4-day mid-range safari adventure in Tanzania's iconic Tarangire, Serengeti, and Ngorongoro Crater.">
-    <meta name="keywords" content="4 days Tanzania safari, mid-range safari, Tarangire, Serengeti, Ngorongoro Crater, safari package, balloon safari">
+    <title>10 Days Great Migration Safari - Serengeti Mara River Crossing</title>
+    <meta name="description" content="Experience a 10-day great migration safari adventure tracking the wildebeest migration in Tanzania's Serengeti. Witness Mara River crossings and stay in mobile tented camps.">
+    <meta name="keywords" content="10 days Tanzania safari, great migration safari, Mara River crossing, Serengeti, wildebeest migration, mobile tented camps, migration tracking">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
-    <link rel="canonical" href="https://deeptanzaniatours.com/4-day-safari-sample.php" />
+    <link rel="canonical" href="https://deeptanzaniatours.com/10-day-migration-safari.php" />
     <link rel="stylesheet" href="style/package.css">
     <link rel="stylesheet" href="style/style.css">
 
@@ -26,8 +26,6 @@
 <link rel="icon" type="image/png" sizes="32x32" href="/img/favicon/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="/img/favicon/favicon-16x16.png">
 
-
-
     <script src="script.js"></script>
     <script src="script/package.js"></script>
 </head>
@@ -37,12 +35,12 @@
 <!-- Hero Section -->
 <section class="hero-altoo" id="home-altoo">
     <div class="hero-altoo-background">
-        <img src="img/4-days-sample-banner.jpg" alt="4 Days Mid-Range Safari – Tarangire, Serengeti & Ngorongoro Crater">
+        <img src="img/10-days-migration-banner.jpg" alt="10 Days Great Migration Safari – Serengeti Mara River Crossing">
         <div class="hero-altoo-overlay"></div>
     </div>
     <div class="container">
         <div class="hero-altoo-content">
-            <h1>4 Days Mid-Range Safari – Tarangire, Serengeti & Ngorongoro Crater</h1>
+            <h1>10 Days Great Migration Safari – Serengeti Mara River Crossing</h1>
 <div class="hero-btns">
                 <a href="#safaris" class="btn btn-primary " >Explore Safaris</a>
                 <a href="#contact" class="btn btn-secondary" onclick="openBookingPopup()">Make a request</a>
@@ -55,13 +53,36 @@
 <section class="kilimanjaro-expedition" id="itinerary">
     <div class="expedition-container">
         <div class="expedition-summary">
-            <h2 class="schedule-heading">Complete 4-Day Mid-Range Safari Itinerary <br> Tarangire, Serengeti & Ngorongoro</h2>
+            <h2 class="schedule-heading">Complete 10-Day Great Migration Safari Itinerary <br> Serengeti Mara River Crossing</h2>
             <p>
-                This four-day adventure takes you through the heart of Tanzania's most celebrated northern safari circuit. You'll experience Tarangire's mighty elephant herds, the boundless savannah of the world-famous Serengeti, and the unparalleled wildlife concentration of the Ngorongoro Crater. Traveling in a comfortable, open-roof 4x4 vehicle with an expert guide, you'll enjoy game drives, comfortable mid-range accommodations, and the opportunity to witness Africa's iconic wildlife in its natural habitat.
+                This ten-day adventure is designed for wildlife enthusiasts seeking the ultimate safari experience—witnessing the Great Migration. You'll track the massive herds of wildebeest and zebra as they traverse the Serengeti ecosystem, with prime time spent in the northern Serengeti where dramatic Mara River crossings occur. Staying in mobile tented camps that move with the migration, you'll be perfectly positioned to witness one of nature's greatest spectacles. Traveling in a comfortable, open-roof 4x4 vehicle with an expert guide, you'll enjoy extensive game drives and the opportunity to witness Africa's iconic wildlife in its natural habitat.
             </p>
         </div>
 
         <div class="trekking-schedule">
+            <!-- Day 0: Arrival -->
+            <div class="trek-day">
+                <div class="day-header-section">
+                    <div class="day-indicator">Arrival Day</div>
+                    <h3 class="day-title-text">Arrival in Arusha</h3>
+                </div>
+                <div class="day-content-section">
+                    <div class="day-description">
+                        <p>
+                            Upon your arrival at Kilimanjaro International Airport (JRO) or Arusha Airport (ARK), our representative will greet you and transfer you to your hotel in Arusha. Take time to relax and recover from your journey. In the evening, you'll meet your safari guide for a pre-safari briefing about the upcoming migration tracking adventure. Enjoy dinner and overnight at your comfortable hotel.
+                        </p>
+                    </div>
+                    <div class="day-visual">
+                        <img src="img/arusha-kibo-palace.jpg" alt="Kibo Palace Hotel Arusha">
+                    </div>
+                </div>
+                <div class="day-stats">
+                    <p>Transfer Time: ~1 hour from airport</p>
+                    <p>Activities: Airport pickup, relaxation, safari briefing</p>
+                    <p>Accommodation: Kibo Palace Hotel Arusha</p>
+                </div>
+            </div>
+
             <!-- Day 1 -->
             <div class="trek-day">
                 <div class="day-header-section">
@@ -71,7 +92,7 @@
                 <div class="day-content-section">
                     <div class="day-description">
                         <p>
-                            After breakfast, depart from Arusha for Tarangire National Park. Known for its massive baobab trees and large elephant populations, Tarangire offers fantastic year-round game viewing. Spend the day on game drives, searching for lions, giraffes, zebras, wildebeests, and numerous bird species. The Tarangire River is a key attraction, drawing thirsty animals during the dry season. In the late afternoon, exit the park and drive to your comfortable mid-range lodge or tented camp located nearby for dinner and overnight.
+                            After breakfast at your hotel, depart from Arusha for Tarangire National Park. Known for its massive baobab trees and large elephant populations, Tarangire offers fantastic year-round game viewing. Spend the day on game drives, searching for lions, giraffes, zebras, wildebeests, and numerous bird species. The Tarangire River is a key attraction, drawing thirsty animals during the dry season. In the late afternoon, exit the park and drive to your comfortable lodge located nearby for dinner and overnight.
                         </p>
                     </div>
                     <div class="day-visual">
@@ -81,7 +102,7 @@
                 <div class="day-stats">
                     <p>Drive Time: ~2 hours</p>
                     <p>Game Viewing: Full day</p>
-                    <p>Accommodation: Mid-range lodge near Tarangire</p>
+                    <p>Accommodation: Tarangire Osupuko Lodge</p>
                 </div>
             </div>
 
@@ -94,7 +115,7 @@
                 <div class="day-content-section">
                     <div class="day-description">
                         <p>
-                            Enjoy an early breakfast before embarking on the journey to the legendary Serengeti. The drive passes through the scenic Ngorongoro Conservation Area. Arrive in the central Seronera region by midday. This area is rich in wildlife due to its permanent rivers. After lunch at your lodge or camp, head out for an afternoon game drive across the iconic Serengeti plains. Look for predators like lions and cheetahs, vast herds of herbivores, and stunning landscapes. Return to your mid-range tented camp or lodge for dinner and overnight, listening to the sounds of the African night.
+                            Enjoy an early breakfast before embarking on the journey to the legendary Serengeti. The drive passes through the scenic Ngorongoro Conservation Area, offering stunning views of the crater from a distance. Arrive in the central Seronera region by midday. This area is rich in wildlife due to its permanent rivers and serves as a transition zone for the migrating herds. After lunch at your lodge, head out for an afternoon game drive across the iconic Serengeti plains. Look for predators like lions and cheetahs, and begin tracking signs of the migration. Return to your comfortable lodge for dinner and overnight.
                         </p>
                     </div>
                     <div class="day-visual">
@@ -104,7 +125,7 @@
                 <div class="day-stats">
                     <p>Drive Time: ~5-6 hours</p>
                     <p>Game Viewing: Afternoon drive</p>
-                    <p>Accommodation: Mid-range camp/lodge in Central Serengeti</p>
+                    <p>Accommodation: Bao Bab Central Serengeti</p>
                 </div>
             </div>
 
@@ -112,22 +133,22 @@
             <div class="trek-day">
                 <div class="day-header-section">
                     <div class="day-indicator">Day 3</div>
-                    <h3 class="day-title-text">Serengeti to Ngorongoro Conservation Area</h3>
+                    <h3 class="day-title-text">Central Serengeti to Northern Serengeti (Kogatende)</h3>
                 </div>
                 <div class="day-content-section">
                     <div class="day-description">
                         <p>
-                            Opt for an early morning game drive in the Serengeti to catch predators at their most active. After breakfast, begin your transfer towards the Ngorongoro Conservation Area. En route, you may choose to visit a Maasai village for a cultural experience (optional extra cost). Arrive at the rim of the Ngorongoro Crater in the afternoon and check into your lodge. The views from the crater rim are spectacular. Enjoy dinner and spend the night at your lodge, perched on the edge of this natural wonder.
+                            After breakfast, begin your journey north towards the Mara River region. The drive itself is a game viewing experience as you traverse through the heart of the Serengeti. Arrive in the Northern Serengeti (Kogatende area) by late afternoon. This region is the stage for one of nature's most dramatic events—the Mara River crossings. Check into your mobile tented camp, perfectly positioned to track the migration. Enjoy dinner and overnight at your camp, listening to the sounds of the African wilderness.
                         </p>
                     </div>
                     <div class="day-visual">
-                        <img src="img/tanzania-photographic-serengeti.jpg" alt="View of Ngorongoro Crater from the rim">
+                        <img src="img/northern-serengeti-landscape.jpg" alt="Northern Serengeti Landscape">
                     </div>
                 </div>
                 <div class="day-stats">
-                    <p>Drive Time: ~3-4 hours</p>
-                    <p>Activities: Morning game drive & travel</p>
-                    <p>Accommodation: Lodge on Ngorongoro crater rim</p>
+                    <p>Drive Time: ~5-6 hours</p>
+                    <p>Activities: Game drive en route, migration tracking</p>
+                    <p>Accommodation: Olmorijo Camp (Northern Serengeti)</p>
                 </div>
             </div>
 
@@ -135,12 +156,127 @@
             <div class="trek-day">
                 <div class="day-header-section">
                     <div class="day-indicator">Day 4</div>
-                    <h3 class="day-title-text">Ngorongoro Crater Tour & Return to Arusha</h3>
+                    <h3 class="day-title-text">Full Day Exploration in Northern Serengeti</h3>
                 </div>
                 <div class="day-content-section">
                     <div class="day-description">
                         <p>
-                            Descend 600 meters into the Ngorongoro Crater floor for a morning of incredible wildlife viewing in what is often called "Africa's Eden." The crater is home to a high density of animals, including the Big Five, and offers excellent chances to see the rare black rhino. Enjoy a picnic lunch by the hippo pool. After a final game drive, ascend the crater walls in the early afternoon and begin your journey back to Arusha. You will be dropped off at your hotel or at the airport for your onward travel, marking the end of your memorable safari.
+                            Rise early for a sunrise game drive focused on tracking the migration. Today you'll explore the northern Serengeti, concentrating on the Mara River areas where wildebeest and zebra gather before attempting crossings. Your expert guide will position you strategically to witness river crossing attempts. Watch for crocodiles lying in wait and predators like lions and leopards following the herds. Enjoy a picnic lunch in the bush near the river, maximizing your time in this wildlife-rich area. Return to your camp as the sun sets, followed by dinner and stories around the campfire.
+                        </p>
+                    </div>
+                    <div class="day-visual">
+                        <img src="img/mara-river-crossing.jpg" alt="Wildebeest Crossing Mara River">
+                    </div>
+                </div>
+                <div class="day-stats">
+                    <p>Game Viewing: Full day with picnic lunch</p>
+                    <p>Activities: Migration tracking, river crossing observation</p>
+                    <p>Accommodation: Olmorijo Camp (Northern Serengeti)</p>
+                </div>
+            </div>
+
+            <!-- Day 5 -->
+            <div class="trek-day">
+                <div class="day-header-section">
+                    <div class="day-indicator">Day 5</div>
+                    <h3 class="day-title-text">Full Day Exploration in Northern Serengeti</h3>
+                </div>
+                <div class="day-content-section">
+                    <div class="day-description">
+                        <p>
+                            Another full day dedicated to tracking the Great Migration. Today you might explore different sections of the Mara River or venture into the rolling hills where the herds graze. The northern Serengeti offers spectacular scenery with its hilly terrain and dense riverine forests. Your guide will use knowledge of animal behavior and radio communications to locate the best wildlife concentrations. Watch for dramatic river crossings, predator-prey interactions, and the endless columns of migrating wildebeest. Return to camp for a well-deserved dinner and overnight.
+                        </p>
+                    </div>
+                    <div class="day-visual">
+                        <img src="img/wildebeest-herd-serengeti.jpg" alt="Wildebeest Herd in Serengeti">
+                    </div>
+                </div>
+                <div class="day-stats">
+                    <p>Game Viewing: Full day with picnic lunch</p>
+                    <p>Activities: Migration tracking, wildlife photography</p>
+                    <p>Accommodation: Olmorijo Camp (Northern Serengeti)</p>
+                </div>
+            </div>
+
+            <!-- Day 6 -->
+            <div class="trek-day">
+                <div class="day-header-section">
+                    <div class="day-indicator">Day 6</div>
+                    <h3 class="day-title-text">Full Day Exploration in Northern Serengeti</h3>
+                </div>
+                <div class="day-content-section">
+                    <div class="day-description">
+                        <p>
+                            Your third full day in the northern Serengeti. By now you'll have a deep appreciation for the scale and drama of the Great Migration. Today's exploration might focus on a different stretch of the Mara River or the surrounding plains where the herds spread out to graze. The northern Serengeti is also excellent for predators including lions, leopards, and cheetahs that follow the migration. Enjoy the flexibility to spend time at sightings that captivate you, whether it's a river crossing, a predator hunt, or simply watching the endless columns of wildebeest stretching to the horizon.
+                        </p>
+                    </div>
+                    <div class="day-visual">
+                        <img src="img/crocodile-mara-river.jpg" alt="Crocodile in Mara River">
+                    </div>
+                </div>
+                <div class="day-stats">
+                    <p>Game Viewing: Full day with picnic lunch</p>
+                    <p>Activities: Migration tracking, wildlife photography</p>
+                    <p>Accommodation: Olmorijo Camp (Northern Serengeti)</p>
+                </div>
+            </div>
+
+            <!-- Day 7 -->
+            <div class="trek-day">
+                <div class="day-header-section">
+                    <div class="day-indicator">Day 7</div>
+                    <h3 class="day-title-text">Northern Serengeti to Central Serengeti</h3>
+                </div>
+                <div class="day-content-section">
+                    <div class="day-description">
+                        <p>
+                            After a final morning game drive in the northern Serengeti, begin your journey south back to the central Seronera region. The drive offers continued game viewing as you pass through different habitats and vegetation zones. Arrive in central Serengeti by late afternoon and check into your lodge. This region offers excellent year-round wildlife concentrations and serves as a perfect transition from the migration-focused north. Enjoy dinner and overnight at your comfortable lodge.
+                        </p>
+                    </div>
+                    <div class="day-visual">
+                        <img src="img/central-serengeti-sunset.jpg" alt="Central Serengeti Sunset">
+                    </div>
+                </div>
+                <div class="day-stats">
+                    <p>Drive Time: ~5-6 hours</p>
+                    <p>Game Viewing: Game drive en route</p>
+                    <p>Accommodation: Bao Bab Central Serengeti</p>
+                </div>
+            </div>
+
+            <!-- Day 8 -->
+            <div class="trek-day">
+                <div class="day-header-section">
+                    <div class="day-indicator">Day 8</div>
+                    <h3 class="day-title-text">Central Serengeti to Ngorongoro Conservation Area</h3>
+                </div>
+                <div class="day-content-section">
+                    <div class="day-description">
+                        <p>
+                            Enjoy an early morning game drive in the central Serengeti to catch predators at their most active. After breakfast, begin your transfer towards the Ngorongoro Conservation Area. En route, you may choose to visit a Maasai village for a cultural experience (optional extra cost). Arrive at the rim of the Ngorongoro Crater in the afternoon and check into your camp. The views from the crater rim are absolutely spectacular, overlooking the 260-square-kilometer caldera below. Enjoy dinner and spend the night at your comfortable camp, perched on the edge of this natural wonder.
+                        </p>
+                    </div>
+                    <div class="day-visual">
+                        <img src="img/ngorongoro-crater-view.jpg" alt="View of Ngorongoro Crater from the rim">
+                    </div>
+                </div>
+                <div class="day-stats">
+                    <p>Drive Time: ~3-4 hours</p>
+                    <p>Activities: Morning game drive & travel</p>
+                    <p>Accommodation: Embarakai Ngorongoro Camp</p>
+                </div>
+            </div>
+
+            <!-- Day 9 -->
+            <div class="trek-day">
+                <div class="day-header-section">
+                    <div class="day-indicator">Day 9</div>
+                    <h3 class="day-title-text">Ngorongoro Crater Tour</h3>
+                </div>
+                <div class="day-content-section">
+                    <div class="day-description">
+                        <p>
+                            Descend 600 meters into the Ngorongoro Crater floor for a full day of incredible wildlife viewing in what is often called "Africa's Eden." The crater is home to a high density of animals, including the Big Five, and offers excellent chances to see the rare black rhino. Enjoy a picnic lunch by the hippo pool surrounded by stunning scenery. After an extensive game drive exploring the crater floor, ascend the crater walls in the late afternoon and return to your camp for dinner and overnight on the rim.
                         </p>
                     </div>
                     <div class="day-visual">
@@ -148,8 +284,31 @@
                     </div>
                 </div>
                 <div class="day-stats">
-                    <p>Crater Tour: 5-6 hours</p>
+                    <p>Crater Tour: Full day</p>
+                    <p>Activities: Crater floor game drive, picnic lunch</p>
+                    <p>Accommodation: Embarakai Ngorongoro Camp</p>
+                </div>
+            </div>
+
+            <!-- Day 10 -->
+            <div class="trek-day">
+                <div class="day-header-section">
+                    <div class="day-indicator">Day 10</div>
+                    <h3 class="day-title-text">Ngorongoro to Arusha & Departure</h3>
+                </div>
+                <div class="day-content-section">
+                    <div class="day-description">
+                        <p>
+                            After breakfast with stunning views of the crater, begin your journey back to Arusha. The drive takes you through the beautiful highlands with opportunities to see traditional Maasai villages and their cattle herds along the way. Arrive in Arusha in the early afternoon. Depending on your flight schedule, you may have time for last-minute souvenir shopping or lunch in town. You will be transferred to Kilimanjaro International Airport or Arusha Airport for your departure flight, marking the end of your unforgettable Great Migration safari.
+                        </p>
+                    </div>
+                    <div class="day-visual">
+                        <img src="img/arusha-city-view.jpg" alt="Arusha City View">
+                    </div>
+                </div>
+                <div class="day-stats">
                     <p>Drive to Arusha: ~4 hours</p>
+                    <p>Activities: Scenic drive, transfer to airport</p>
                     <p>Accommodation: End of safari services</p>
                 </div>
             </div>
@@ -162,7 +321,7 @@
     <div class="container">
         <div class="section-title">
             <span class="subtitle">Package Details</span>
-            <h2>What's Included & Excluded in Your 4-Day Mid-Range Safari</h2>
+            <h2>What's Included & Excluded in Your 10-Day Great Migration Safari</h2>
         </div>
         
         <div class="inclusion-exclusion-container">
@@ -170,21 +329,22 @@
                 <div class="ie-header">
                     <div class="ie-icon include"><i class="fas fa-check-circle"></i></div>
                     <h3>Inclusions</h3>
-                    <p>Everything covered in your 4-day mid-range safari package</p>
+                    <p>Everything covered in your 10-day migration safari package</p>
                 </div>
                 
                 <div class="ie-content">
                     <div class="ie-column">
                         <div class="ie-item"><div class="ie-bullet"><i class="fas fa-check"></i></div><div class="ie-text"><h4>Park & Conservation Fees</h4><p>All national park entrance fees and Ngorongoro Crater vehicle fee</p></div></div>
-                        <div class="ie-item"><div class="ie-bullet"><i class="fas fa-check"></i></div><div class="ie-text"><h4>Accommodation</h4><p>3 nights' accommodation in mid-range lodges and tented camps as per itinerary</p></div></div>
-                        <div class="ie-item"><div class="ie-bullet"><i class="fas fa-check"></i></div><div class="ie-text"><h4>All Meals on Safari</h4><p>Breakfast, lunch, and dinner from lunch on Day 1 to lunch on Day 4</p></div></div>
+                        <div class="ie-item"><div class="ie-bullet"><i class="fas fa-check"></i></div><div class="ie-text"><h4>Accommodation</h4><p>9 nights' accommodation as per itinerary (1 night Arusha, 1 night Tarangire, 2 nights Central Serengeti, 3 nights Northern Serengeti mobile camp, 2 nights Ngorongoro rim)</p></div></div>
+                        <div class="ie-item"><div class="ie-bullet"><i class="fas fa-check"></i></div><div class="ie-text"><h4>All Meals on Safari</h4><p>Breakfast, lunch, and dinner from dinner on arrival day to lunch on Day 10</p></div></div>
                         <div class="ie-item"><div class="ie-bullet"><i class="fas fa-check"></i></div><div class="ie-text"><h4>Drinking Water</h4><p>Unlimited bottled drinking water throughout the safari</p></div></div>
                     </div>
 
                     <div class="ie-column">
-                        <div class="ie-item"><div class="ie-bullet"><i class="fas fa-check"></i></div><div class="ie-text"><h4>Safari Transport</h4><p>4x4 Land Cruiser or similar with open roof for game viewing and experienced driver-guide</p></div></div>
-                        <div class="ie-item"><div class="ie-bullet"><i class="fas fa-check"></i></div><div class="ie-text"><h4>All Game Drives</h4><p>All game drives as mentioned in the itinerary in shared vehicle</p></div></div>
+                        <div class="ie-item"><div class="ie-bullet"><i class="fas fa-check"></i></div><div class="ie-text"><h4>Safari Transport</h4><p>4x4 Land Cruiser or similar with open roof for game viewing and experienced driver-guide specializing in migration tracking</p></div></div>
+                        <div class="ie-item"><div class="ie-bullet"><i class="fas fa-check"></i></div><div class="ie-text"><h4>All Game Drives</h4><p>All game drives as mentioned in the itinerary</p></div></div>
                         <div class="ie-item"><div class="ie-bullet"><i class="fas fa-check"></i></div><div class="ie-text"><h4>Airport Transfers</h4><p>Complimentary arrival and departure airport transfers (Kilimanjaro or Arusha Airport)</p></div></div>
+                        <div class="ie-item"><div class="ie-bullet"><i class="fas fa-check"></i></div><div class="ie-text"><h4>Migration Tracking</h4><p>Specialized guiding focused on locating and following the migration herds</p></div></div>
                     </div>
                 </div>
             </div>
@@ -198,7 +358,7 @@
                 
                 <div class="ie-content">
                     <div class="ie-column">
-                        <div class="ie-item"><div class="ie-bullet"><i class="fas fa-times"></i></div><div class="ie-text"><h4>International Flights</h4><p>Airfare to and from Tanzania is not included</p></div></div>s
+                        <div class="ie-item"><div class="ie-bullet"><i class="fas fa-times"></i></div><div class="ie-text"><h4>International Flights</h4><p>Airfare to and from Tanzania is not included</p></div></div>
                         <div class="ie-item"><div class="ie-bullet"><i class="fas fa-times"></i></div><div class="ie-text"><h4>Tanzania Entry Visa</h4><p>Visa fees are the responsibility of the traveler</p></div></div>
                         <div class="ie-item"><div class="ie-bullet"><i class="fas fa-times"></i></div><div class="ie-text"><h4>Travel Insurance</h4><p>Comprehensive travel and medical insurance is required but not provided</p></div></div>
                     </div>
@@ -213,7 +373,7 @@
         </div>
 
         <div class="ie-note">
-            <p><strong>Note that:</strong> This is a shared group safari. For private safari rates, single traveler supplements, or upgrades to luxury accommodation, please contact our team for a customized quote.</p>
+            <p><strong>Note that:</strong> This is a migration-focused safari with mobile camping in the northern Serengeti. For private safari rates, single traveler supplements, or alternative accommodation options, please contact our team for a customized quote.</p>
         </div>
     </div>
 </section>
@@ -225,12 +385,54 @@
 <section class="section accommodation-section">
     <div class="container">
         <div class="section-title">
-            <span class="subtitle">Your Comfort</span>
-            <h2>Accommodation on Your Safari</h2>
-            <p>Enjoy comfortable mid-range accommodations strategically located for optimal wildlife viewing and relaxation.</p>
+            <span class="subtitle">Your Migration Camp</span>
+            <h2>Accommodation on Your Great Migration Safari</h2>
+            <p>Experience authentic bush accommodation with mobile tented camps that move with the migration, strategically located for optimal wildlife viewing.</p>
         </div>
         
         <div class="accommodation-container">
+            <!-- Arusha Accommodation -->
+            <div class="accommodation-card">
+                <div class="accommodation-image">
+                    <img src="img/arusha-kibo-palace-hotel.jpg" alt="Kibo Palace Hotel Arusha">
+                    <div class="accommodation-location">
+                        <i class="fas fa-map-marker-alt"></i>
+                        <span>Arusha</span>
+                    </div>
+                    <div class="image-overlay">
+                        <a href="https://www.kibopalacehotel.com/" target="_blank" class="view-website-btn">
+                            <i class="fas fa-external-link-alt"></i> View Hotel Website
+                        </a>
+                    </div>
+                </div>
+                <div class="accommodation-content">
+                    <h3>Kibo Palace Hotel Arusha</h3>
+                    
+                    <p class="accommodation-description">
+                        A comfortable hotel in the heart of Arusha, offering well-appointed rooms, friendly service, and modern amenities. The perfect place to begin and end your migration safari adventure with a swimming pool and tranquil garden setting.
+                    </p>
+                    <div class="accommodation-features">
+                        <div class="feature">
+                            <i class="fas fa-wifi"></i>
+                            <span>Free Wi-Fi</span>
+                        </div>
+                        <div class="feature">
+                            <i class="fas fa-swimming-pool"></i>
+                            <span>Swimming Pool</span>
+                        </div>
+                        <div class="feature">
+                            <i class="fas fa-restaurant"></i>
+                            <span>On-site Restaurant</span>
+                        </div>
+                        <div class="feature">
+                            <i class="fas fa-coffee"></i>
+                            <span>Breakfast Included</span>
+                        </div>
+                    </div>
+                    
+                </div>
+            </div>
+
             <!-- Tarangire Accommodation -->
             <div class="accommodation-card">
                 <div class="accommodation-image">
@@ -249,7 +451,7 @@
                     <h3>Tarangire Osupuko Lodge</h3>
                     
                     <p class="accommodation-description">
-                        Nestled on a hill overlooking the Tarangire River Valley, Osupuko Lodge offers breathtaking panoramic views of the surrounding wilderness. The lodge features spacious thatched-roof bungalows with private verandas, modern amenities, and traditional Tanzanian architecture.
+                        Nestled on a hill overlooking the Tarangire River Valley, Osupuko Lodge offers beautiful panoramic views of the surrounding wilderness. The lodge features spacious thatched-roof bungalows with private verandas, modern amenities, and traditional Tanzanian architecture.
                     </p>
                     <div class="accommodation-features">
                         <div class="feature">
@@ -258,40 +460,82 @@
                         </div>
                         <div class="feature">
                             <i class="fas fa-swimming-pool"></i>
-                            <span>Infinity Pool</span>
+                            <span>Swimming Pool</span>
                         </div>
                         <div class="feature">
                             <i class="fas fa-binoculars"></i>
                             <span>Viewing Deck</span>
                         </div>
                         <div class="feature">
-                            <i class="fas fa-spa"></i>
-                            <span>Spa Services</span>
+                            <i class="fas fa-restaurant"></i>
+                            <span>Restaurant & Bar</span>
                         </div>
                     </div>
                     
                 </div>
             </div>
             
-            <!-- Serengeti Accommodation -->
+            <!-- Central Serengeti Accommodation -->
             <div class="accommodation-card">
                 <div class="accommodation-image">
-                    <img src="img/katikati-central-serengeti-camp.jpg" alt="Kati Kati Tented Camp">
+                    <img src="img/bao-bab-central-serengeti.jpg" alt="Bao Bab Central Serengeti">
                     <div class="accommodation-location">
                         <i class="fas fa-map-marker-alt"></i>
                         <span>Central Serengeti</span>
                     </div>
                     <div class="image-overlay">
-                        <a href="https://twctanzania.com/serengeti-national-park/serengeti-kati-kati-tented-camp/" target="_blank" class="view-website-btn">
+                        <a href="#" target="_blank" class="view-website-btn">
+                            <i class="fas fa-external-link-alt"></i> View Lodge Website
+                        </a>
+                    </div>
+                </div>
+                <div class="accommodation-content">
+                    <h3>Bao Bab Central Serengeti</h3>
+                    
+                    <p class="accommodation-description">
+                        A comfortable lodge nestled in the heart of the Serengeti, offering pleasant accommodations with views of the endless plains. Each room features modern comforts, private verandas, and friendly service, providing the perfect base for exploring the Seronera Valley's abundant wildlife.
+                    </p>
+                    <div class="accommodation-features">
+                        <div class="feature">
+                            <i class="fas fa-wifi"></i>
+                            <span>Free Wi-Fi</span>
+                        </div>
+                        <div class="feature">
+                            <i class="fas fa-swimming-pool"></i>
+                            <span>Swimming Pool</span>
+                        </div>
+                        <div class="feature">
+                            <i class="fas fa-utensils"></i>
+                            <span>Restaurant</span>
+                        </div>
+                        <div class="feature">
+                            <i class="fas fa-binoculars"></i>
+                            <span>Game Drives</span>
+                        </div>
+                    </div>
+                    
+                </div>
+            </div>
+            
+            <!-- Northern Serengeti Mobile Camp -->
+            <div class="accommodation-card">
+                <div class="accommodation-image">
+                    <img src="img/olmorijo-mobile-camp.jpg" alt="Olmorijo Mobile Camp">
+                    <div class="accommodation-location">
+                        <i class="fas fa-map-marker-alt"></i>
+                        <span>Northern Serengeti (Kogatende)</span>
+                    </div>
+                    <div class="image-overlay">
+                        <a href="#" target="_blank" class="view-website-btn">
                             <i class="fas fa-external-link-alt"></i> View Camp Website
                         </a>
                     </div>
                 </div>
                 <div class="accommodation-content">
-                    <h3>Kati Kati Tented Camp</h3>
+                    <h3>Olmorijo Mobile Camp</h3>
                     
                     <p class="accommodation-description">
-                        A mobile tented camp located in the heart of the Serengeti, offering an authentic safari experience. Each spacious tent includes comfortable beds, en-suite bathrooms with hot showers, and private verandas. Fall asleep to the sounds of the African wilderness.
+                        An authentic mobile tented camp that moves with the migration, positioned in the northern Serengeti during peak Mara River crossing season. Experience the thrill of being close to nature with comfortable walk-in tents, en-suite bathrooms with hot bucket showers, and delicious meals served in the dining tent. Fall asleep to the sounds of the African wilderness.
                     </p>
                     <div class="accommodation-features">
                         <div class="feature">
@@ -303,12 +547,12 @@
                             <span>Campfire Area</span>
                         </div>
                         <div class="feature">
-                            <i class="fas fa-utensils"></i>
-                            <span>Open-air Dining</span>
+                            <i class="fas fa-shower"></i>
+                            <span>Hot Bucket Showers</span>
                         </div>
                         <div class="feature">
-                            <i class="fas fa-moon"></i>
-                            <span>Starlit Dinners</span>
+                            <i class="fas fa-utensils"></i>
+                            <span>Bush Dining</span>
                         </div>
                     </div>
                     
@@ -318,22 +562,22 @@
             <!-- Ngorongoro Accommodation -->
             <div class="accommodation-card">
                 <div class="accommodation-image">
-                    <img src="img/tortilis-ngorongoro-camp.jpg" alt="Ngorongoro Tortilis Camp">
+                    <img src="img/embarakai-ngorongoro-camp.jpg" alt="Embarakai Ngorongoro Camp">
                     <div class="accommodation-location">
                         <i class="fas fa-map-marker-alt"></i>
-                        <span>Ngorongoro Conservation Area</span>
+                        <span>Ngorongoro Crater Rim</span>
                     </div>
                     <div class="image-overlay">
-                        <a href="https://tortiliscamps.com/ngorongoro/" target="_blank" class="view-website-btn">
+                        <a href="#" target="_blank" class="view-website-btn">
                             <i class="fas fa-external-link-alt"></i> View Camp Website
                         </a>
                     </div>
                 </div>
                 <div class="accommodation-content">
-                    <h3>Ngorongoro Tortilis Camp</h3>
+                    <h3>Embarakai Ngorongoro Camp</h3>
                     
                     <p class="accommodation-description">
-                        Situated on the edge of the Ngorongoro Conservation Area, Tortilis Camp offers luxury tented accommodation with spectacular views. The camp combines comfort with an authentic bush experience, featuring elegantly furnished tents and excellent cuisine.
+                        Perched on the edge of the Ngorongoro Crater rim, this comfortable camp offers spectacular views of the caldera below. Experience an authentic safari stay with spacious tents, en-suite bathrooms, and friendly service, all while being just minutes away from the crater descent.
                     </p>
                     <div class="accommodation-features">
                         <div class="feature">
@@ -341,8 +585,8 @@
                             <span>Crater Views</span>
                         </div>
                         <div class="feature">
-                            <i class="fas fa-fireplace"></i>
-                            <span>Cozy Lounge</span>
+                            <i class="fas fa-campground"></i>
+                            <span>Tented Camp</span>
                         </div>
                         <div class="feature">
                             <i class="fas fa-wine-glass-alt"></i>
@@ -363,7 +607,7 @@
                 <i class="fas fa-info-circle"></i>
             </div>
             <div>
-                <p><strong>Note:</strong> All accommodations include en-suite bathrooms with hot showers, comfortable beds with mosquito netting, 24-hour electricity, and daily housekeeping. Accommodations are subject to availability. <strong>Click the links above to learn more about each property.</strong></p>
+                <p><strong>Note:</strong> All accommodations include en-suite bathrooms with hot showers, comfortable beds with mosquito netting, and daily housekeeping. Mobile camp locations may vary slightly based on migration patterns. Accommodations are subject to availability. <strong>Click the links above to learn more about each property.</strong></p>
                 <p class="note-sub">Need different accommodation? We can customize your stay with various lodge and camp options.</p>
             </div>
         </div>
@@ -394,7 +638,7 @@
                 <li><strong>Meet & Greet:</strong> Our representative will be waiting for you in the arrivals hall with a sign bearing your name.</li>
                 <li><strong>Assisted Luggage Handling:</strong> We help with your luggage and guide you to your waiting vehicle.</li>
                 <li><strong>Comfortable Transfers:</strong> Direct transfer in a clean, private vehicle to your hotel in Arusha or Moshi.</li>
-                <li><strong>Briefing Session:</strong> Your safari guide will often meet you at the hotel for a pre-safari briefing about the upcoming adventure.</li>
+                <li><strong>Briefing Session:</strong> Your safari guide will often meet you at the hotel for a pre-safari briefing about the upcoming migration tracking adventure.</li>
                 <li><strong>Flexible Timing:</strong> Service is available 24/7 to match your flight schedule, whether you arrive day or night.</li>
                 <li><strong>Return Transfers:</strong> At the end of your safari, we'll transfer you back to the airport for your departure flight.</li>
             </ul>
@@ -417,9 +661,9 @@
             <div class="intro-quote"></div>
 
             <!-- Section 1: Overview -->
-            <h2>What makes this safari special:
+            <h2>What makes this Great Migration Safari special:
 </h2>
-            <p>This 4-day mid-range safari is the perfect introduction to Tanzania's world-renowned Northern Circuit, offering an exceptional balance of wildlife viewing, comfort, and value. Designed for travelers who want quality accommodations and expert guiding without luxury prices, this itinerary takes you to three of Africa's most spectacular wildlife destinations in one seamless journey.</p>
+            <p>This 10-day Great Migration safari is the ultimate wildlife experience, designed for travelers who want to witness one of nature's greatest spectacles—the wildebeest migration. With three full days in the northern Serengeti during peak Mara River crossing season, you'll have unparalleled opportunities to see dramatic river crossings, predator-prey interactions, and the endless columns of migrating wildebeest and zebra. Staying in a mobile tented camp that moves with the migration ensures you're perfectly positioned for optimal wildlife viewing.</p>
 
         
             
@@ -427,15 +671,15 @@
                 <div class="highlight-icon">
                     <i class="fas fa-map-marked-alt"></i>
                 </div>
-                <p>In just four days, you'll experience the best of Tanzania's wildlife: from Tarangire's elephant herds to Serengeti's endless plains and Ngorongoro's unique crater ecosystem.</p>
+                <p>In ten days, you'll witness the drama of the Great Migration: from Tarangire's elephant herds to the Mara River crossings in northern Serengeti, and the unique wildlife concentrations of the Ngorongoro Crater.</p>
             </div>
 
             
             
 
             <!-- Section 2: Why Book This Package -->
-            <h2>Why Book This 4-Day Mid-Range Safari?</h2>
-            <p>This carefully curated package is designed to offer the ideal balance of authentic wildlife experiences, comfort, and value. It's the perfect introduction to Tanzania's Northern Circuit for travelers seeking quality without the luxury price tag.</p>
+            <h2>Why Book This 10-Day Great Migration Safari?</h2>
+            <p>This carefully curated package is designed to maximize your chances of witnessing dramatic Mara River crossings and experiencing the full scope of the Great Migration. It's the perfect safari for wildlife enthusiasts and photographers seeking an authentic migration experience.</p>
 
             
             
@@ -443,28 +687,28 @@
                 <div class="highlight-icon">
                     <i class="fas fa-crown"></i>
                 </div>
-                <p>This safari packs the highlights of Tanzania's world-famous Northern Circuit into an efficient and rewarding 4-day itinerary, maximizing wildlife viewing time while ensuring comfortable overnight stays.</p>
+                <p>This safari features extensive time in the northern Serengeti where the migration concentrates during river crossing season, maximizing your opportunities to witness nature's greatest drama.</p>
             </div>
 
             <p>Key benefits of choosing this package:
             <ul>
-                <li><strong>Optimal Park Selection:</strong> Visits three of Tanzania's most iconic and wildlife-rich parks: Tarangire, Serengeti, and the Ngorongoro Crater</li>
-                <li><strong>Quality Mid-Range Comfort:</strong> Stay in well-appointed lodges and tented camps that offer en-suite facilities, great locations, and excellent service without extreme cost</li>
-                <li><strong>Expert Guided Experience:</strong> Travel with professional, English-speaking driver-guides with extensive knowledge of animal behavior and park ecosystems</li>
-                <li><strong>All-Inclusive Value:</strong> The package includes park fees, accommodation, meals, transport, and drinking water, making budgeting straightforward</li>
-                <li><strong>Small Group Atmosphere:</strong> Enjoy a more personalized experience traveling in a shared 4x4 vehicle with a maximum of 6-7 fellow travelers</li>
-                <li><strong>Flexibility & Customization:</strong> The itinerary offers a solid framework that can often be tailored, and optional activities like balloon safaris can be added</li>
+                <li><strong>Migration-Focused Itinerary:</strong> Three full days in northern Serengeti specifically timed for Mara River crossing opportunities</li>
+                <li><strong>Authentic Mobile Camping:</strong> Stay in a mobile tented camp that moves with the migration, ensuring you're always in the right place at the right time</li>
+                <li><strong>Specialized Migration Tracking:</strong> Expert guides with deep knowledge of migration patterns and radio communications to locate the best wildlife concentrations</li>
+                <li><strong>Comprehensive Park Selection:</strong> Visits Tarangire, Central Serengeti, Northern Serengeti (Mara River), and Ngorongoro Crater</li>
+                <li><strong>Extended Game Viewing:</strong> Ten full days of safari with extensive game drives including sunrise starts and full-day explorations</li>
+                <li><strong>Photography Paradise:</strong> Unparalleled opportunities for wildlife photography including dramatic river crossings and predator action</li>
             </ul>
             </p>
 
            
 
             <div class="article-cta">
-                <h3>Ready to Experience the Wonders of Tanzania?</h3>
-                <p>Our safari experts are ready to answer your questions and secure your spot on this unforgettable 4-day mid-range adventure. Contact us today to book your journey into the heart of the African wild.</p>
+                <h3>Ready to Witness the Greatest Wildlife Spectacle on Earth?</h3>
+                <p>Our safari experts are ready to answer your questions and secure your spot on this unforgettable 10-day Great Migration adventure. Contact us today to book your journey into the heart of the African wild.</p>
                 <div class="book-now-container">
                     <button class="book-now-btn" onclick="openBookingPopup()">
-                        <i class="fas fa-calendar-check"></i> Book Your Safari Adventure
+                        <i class="fas fa-calendar-check"></i> Book Your Migration Safari
                     </button>
                 </div>  
             </div>
@@ -480,23 +724,23 @@
         <div class="section-title">
             <span class="subtitle">Optional Adventure</span>
             <h2>Hot Air Balloon Safari</h2>
-            <p>Elevate your safari experience with a breathtaking sunrise balloon flight over the endless plains.</p>
+            <p>Elevate your migration experience with a breathtaking sunrise balloon flight over the endless plains.</p>
         </div>
         
         <div class="balloon-layout">
             <!-- Left: Experience Details -->
             <div class="balloon-details">
                 <div class="detail-block">
-                    <h3>See the Savannah from the Sky</h3>
-                    <p>Add an unforgettable perspective to your safari with a hot air balloon flight. Glide silently above the landscape at dawn, witnessing wildlife and the awakening plains from a unique vantage point.</p>
+                    <h3>See the Migration from the Sky</h3>
+                    <p>Add an unforgettable perspective to your migration safari with a hot air balloon flight. Glide silently above the landscape at dawn, witnessing the massive herds of wildebeest and zebra from a unique vantage point. This optional activity is available during your days in the Serengeti.</p>
                 </div>
                 
                 <div class="experience-points">
                     <div class="point">
                         <i class="fas fa-binoculars"></i>
                         <div>
-                            <h4>Aerial Wildlife Viewing</h4>
-                            <p>Spot herds of elephants, giraffes, and antelope from above</p>
+                            <h4>Aerial Migration Viewing</h4>
+                            <p>See the endless columns of migrating wildebeest from above</p>
                         </div>
                     </div>
                     
@@ -504,7 +748,7 @@
                         <i class="fas fa-sun"></i>
                         <div>
                             <h4>Sunrise Flight</h4>
-                            <p>Experience the magic of an African sunrise from the balloon basket</p>
+                            <p>Experience the magic of an African sunrise over the Serengeti</p>
                         </div>
                     </div>
                     
@@ -523,7 +767,7 @@
                     <div class="timeline">
                         <div class="timeline-step">
                             <span class="time">4:30 AM</span>
-                            <span class="step">Pick-up from lodge</span>
+                            <span class="step">Pick-up from camp</span>
                         </div>
                         <div class="timeline-step">
                             <span class="time">5:30 AM</span>
@@ -558,7 +802,7 @@
                     
                     <div class="card-details">
                         <p><i class="fas fa-clock"></i> 4-5 hours total experience</p>
-                        <p><i class="fas fa-calendar"></i> Available on days in Serengeti</p>
+                        <p><i class="fas fa-calendar"></i> Available during Serengeti days</p>
                         <p><i class="fas fa-user-friends"></i> Shared balloon basket (max 16)</p>
                     </div>
                     
@@ -607,13 +851,13 @@
                     <p class="package-duration">7 Days / 6 Nights</p>
                     <div class="package-features">
                         <span><i class="fas fa-map-marker-alt"></i> Serengeti, Ngorongoro, Tarangire</span>
-                        <span><i class="fas fa-bed"></i> Luxury Lodge Accommodation</span>
+                        <span><i class="fas fa-bed"></i> Mid-Range Lodge Accommodation</span>
                         <span><i class="fas fa-car"></i> Private 4x4 Safari Vehicle</span>
                     </div>
                     <div class="package-footer">
                         <div class="package-price">
                             <span class="from">From</span>
-                            <span class="amount">$3,299</span>
+                            <span class="amount">$2,499</span>
                             <span class="per-person">per person</span>
                         </div>
                         <a href="#" class="btn btn-primary">View Details</a>

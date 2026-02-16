@@ -3,12 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>4 Days Mid-Range Safari - Tarangire, Serengeti & Ngorongoro </title>
-    <meta name="description" content="Experience a 4-day mid-range safari adventure in Tanzania's iconic Tarangire, Serengeti, and Ngorongoro Crater.">
-    <meta name="keywords" content="4 days Tanzania safari, mid-range safari, Tarangire, Serengeti, Ngorongoro Crater, safari package, balloon safari">
+    <title>9 Days Photography Safari - Tarangire, Serengeti & Ngorongoro</title>
+    <meta name="description" content="Experience a 9-day photography safari adventure through Tanzania's iconic Tarangire, Serengeti, and Ngorongoro Crater. Photo-focused vehicle setup with professional guidance.">
+    <meta name="keywords" content="9 days Tanzania safari, photography safari, wildlife photography, Tarangire, Serengeti, Ngorongoro Crater, photo-focused vehicle, professional photography guidance">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
-    <link rel="canonical" href="https://deeptanzaniatours.com/4-day-safari-sample.php" />
+    <link rel="canonical" href="https://deeptanzaniatours.com/9-day-photography-safari.php" />
     <link rel="stylesheet" href="style/package.css">
     <link rel="stylesheet" href="style/style.css">
 
@@ -26,8 +26,6 @@
 <link rel="icon" type="image/png" sizes="32x32" href="/img/favicon/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="/img/favicon/favicon-16x16.png">
 
-
-
     <script src="script.js"></script>
     <script src="script/package.js"></script>
 </head>
@@ -37,12 +35,12 @@
 <!-- Hero Section -->
 <section class="hero-altoo" id="home-altoo">
     <div class="hero-altoo-background">
-        <img src="img/4-days-sample-banner.jpg" alt="4 Days Mid-Range Safari – Tarangire, Serengeti & Ngorongoro Crater">
+        <img src="img/9-days-photography-banner.jpg" alt="9 Days Photography Safari – Tarangire, Serengeti & Ngorongoro Crater">
         <div class="hero-altoo-overlay"></div>
     </div>
     <div class="container">
         <div class="hero-altoo-content">
-            <h1>4 Days Mid-Range Safari – Tarangire, Serengeti & Ngorongoro Crater</h1>
+            <h1>9 Days Photography Safari – Tarangire, Serengeti & Ngorongoro Crater</h1>
 <div class="hero-btns">
                 <a href="#safaris" class="btn btn-primary " >Explore Safaris</a>
                 <a href="#contact" class="btn btn-secondary" onclick="openBookingPopup()">Make a request</a>
@@ -55,13 +53,36 @@
 <section class="kilimanjaro-expedition" id="itinerary">
     <div class="expedition-container">
         <div class="expedition-summary">
-            <h2 class="schedule-heading">Complete 4-Day Mid-Range Safari Itinerary <br> Tarangire, Serengeti & Ngorongoro</h2>
+            <h2 class="schedule-heading">Complete 9-Day Photography Safari Itinerary <br> Tarangire, Serengeti & Ngorongoro</h2>
             <p>
-                This four-day adventure takes you through the heart of Tanzania's most celebrated northern safari circuit. You'll experience Tarangire's mighty elephant herds, the boundless savannah of the world-famous Serengeti, and the unparalleled wildlife concentration of the Ngorongoro Crater. Traveling in a comfortable, open-roof 4x4 vehicle with an expert guide, you'll enjoy game drives, comfortable mid-range accommodations, and the opportunity to witness Africa's iconic wildlife in its natural habitat.
+                This nine-day photography safari is designed exclusively for wildlife photographers and enthusiasts who want to capture the very best of Tanzania's northern circuit. With extended time in prime photography locations, a photo-focused vehicle setup, and professional guidance, you'll have unparalleled opportunities to photograph Africa's iconic wildlife in stunning light and dramatic landscapes. From Tarangire's elephant herds to the endless plains of the Serengeti and the unique Ngorongoro Crater, every day is crafted for optimal image-making.
             </p>
         </div>
 
         <div class="trekking-schedule">
+            <!-- Day 0: Arrival -->
+            <div class="trek-day">
+                <div class="day-header-section">
+                    <div class="day-indicator">Arrival Day</div>
+                    <h3 class="day-title-text">Arrival in Arusha</h3>
+                </div>
+                <div class="day-content-section">
+                    <div class="day-description">
+                        <p>
+                            Upon your arrival at Kilimanjaro International Airport (JRO) or Arusha Airport (ARK), our representative will greet you and transfer you to your hotel in Arusha. Take time to relax and recover from your journey. In the evening, you'll meet your photography guide for a pre-safari briefing about the upcoming photography adventure, discussing equipment, expectations, and the incredible opportunities that await. Enjoy dinner and overnight at your comfortable hotel.
+                        </p>
+                    </div>
+                    <div class="day-visual">
+                        <img src="img/arusha-kibo-palace.jpg" alt="Kibo Palace Hotel Arusha">
+                    </div>
+                </div>
+                <div class="day-stats">
+                    <p>Transfer Time: ~1 hour from airport</p>
+                    <p>Activities: Airport pickup, photography briefing</p>
+                    <p>Accommodation: Kibo Palace Hotel Arusha</p>
+                </div>
+            </div>
+
             <!-- Day 1 -->
             <div class="trek-day">
                 <div class="day-header-section">
@@ -71,7 +92,7 @@
                 <div class="day-content-section">
                     <div class="day-description">
                         <p>
-                            After breakfast, depart from Arusha for Tarangire National Park. Known for its massive baobab trees and large elephant populations, Tarangire offers fantastic year-round game viewing. Spend the day on game drives, searching for lions, giraffes, zebras, wildebeests, and numerous bird species. The Tarangire River is a key attraction, drawing thirsty animals during the dry season. In the late afternoon, exit the park and drive to your comfortable mid-range lodge or tented camp located nearby for dinner and overnight.
+                            After breakfast at your hotel, depart from Arusha for Tarangire National Park. Known for its massive baobab trees and large elephant populations, Tarangire offers fantastic year-round photography opportunities. Spend the day on game drives in our photo-focused vehicle, capturing elephants against the iconic baobab backdrop, searching for lions, giraffes, zebras, and numerous bird species. The Tarangire River is a key attraction, drawing thirsty animals during the dry season. In the late afternoon, exit the park and drive to your comfortable lodge located nearby for dinner and overnight.
                         </p>
                     </div>
                     <div class="day-visual">
@@ -80,8 +101,8 @@
                 </div>
                 <div class="day-stats">
                     <p>Drive Time: ~2 hours</p>
-                    <p>Game Viewing: Full day</p>
-                    <p>Accommodation: Mid-range lodge near Tarangire</p>
+                    <p>Photography Focus: Elephants, baobabs, birdlife</p>
+                    <p>Accommodation: Tarangire Osupuko Lodge</p>
                 </div>
             </div>
 
@@ -94,7 +115,7 @@
                 <div class="day-content-section">
                     <div class="day-description">
                         <p>
-                            Enjoy an early breakfast before embarking on the journey to the legendary Serengeti. The drive passes through the scenic Ngorongoro Conservation Area. Arrive in the central Seronera region by midday. This area is rich in wildlife due to its permanent rivers. After lunch at your lodge or camp, head out for an afternoon game drive across the iconic Serengeti plains. Look for predators like lions and cheetahs, vast herds of herbivores, and stunning landscapes. Return to your mid-range tented camp or lodge for dinner and overnight, listening to the sounds of the African night.
+                            Enjoy an early breakfast before embarking on the journey to the legendary Serengeti. The drive passes through the scenic Ngorongoro Conservation Area, offering stunning views of the crater from a distance. Arrive in the central Seronera region by midday. This area is rich in wildlife due to its permanent rivers and offers exceptional photography opportunities. After lunch at your lodge, head out for an afternoon game drive across the iconic Serengeti plains in your photo-equipped vehicle. Look for predators like lions and cheetahs, vast herds of herbivores, and stunning landscapes bathed in golden light. Return to your comfortable lodge for dinner and overnight.
                         </p>
                     </div>
                     <div class="day-visual">
@@ -103,8 +124,8 @@
                 </div>
                 <div class="day-stats">
                     <p>Drive Time: ~5-6 hours</p>
-                    <p>Game Viewing: Afternoon drive</p>
-                    <p>Accommodation: Mid-range camp/lodge in Central Serengeti</p>
+                    <p>Photography Focus: Scenic landscapes, afternoon light</p>
+                    <p>Accommodation: Bao Bab Central Serengeti</p>
                 </div>
             </div>
 
@@ -112,22 +133,22 @@
             <div class="trek-day">
                 <div class="day-header-section">
                     <div class="day-indicator">Day 3</div>
-                    <h3 class="day-title-text">Serengeti to Ngorongoro Conservation Area</h3>
+                    <h3 class="day-title-text">Full Day Photography in Central Serengeti</h3>
                 </div>
                 <div class="day-content-section">
                     <div class="day-description">
                         <p>
-                            Opt for an early morning game drive in the Serengeti to catch predators at their most active. After breakfast, begin your transfer towards the Ngorongoro Conservation Area. En route, you may choose to visit a Maasai village for a cultural experience (optional extra cost). Arrive at the rim of the Ngorongoro Crater in the afternoon and check into your lodge. The views from the crater rim are spectacular. Enjoy dinner and spend the night at your lodge, perched on the edge of this natural wonder.
+                            Rise early for a sunrise game drive when predators are most active and the light is at its most beautiful. Witness the Serengeti coming to life as the sun paints the savannah in golden hues. Your photography guide will position the vehicle for optimal angles and lighting. Return to the lodge for a hearty breakfast, then head out again for a full day of photography. The Seronera Valley is known for its high concentration of wildlife including lions, leopards, cheetahs, hippos, and vast herds of zebras and wildebeests. Enjoy a picnic lunch in the bush before continuing your afternoon photography session as the light softens. Return to your lodge as the sun sets.
                         </p>
                     </div>
                     <div class="day-visual">
-                        <img src="img/tanzania-photographic-serengeti.jpg" alt="View of Ngorongoro Crater from the rim">
+                        <img src="img/tanzania-photographic-serengeti.jpg" alt="Lion in Serengeti National Park">
                     </div>
                 </div>
                 <div class="day-stats">
-                    <p>Drive Time: ~3-4 hours</p>
-                    <p>Activities: Morning game drive & travel</p>
-                    <p>Accommodation: Lodge on Ngorongoro crater rim</p>
+                    <p>Photography Focus: Sunrise light, predators, golden hour</p>
+                    <p>Activities: Full day with flexible timing for best light</p>
+                    <p>Accommodation: Bao Bab Central Serengeti</p>
                 </div>
             </div>
 
@@ -135,12 +156,81 @@
             <div class="trek-day">
                 <div class="day-header-section">
                     <div class="day-indicator">Day 4</div>
-                    <h3 class="day-title-text">Ngorongoro Crater Tour & Return to Arusha</h3>
+                    <h3 class="day-title-text">Full Day Photography in Central Serengeti</h3>
                 </div>
                 <div class="day-content-section">
                     <div class="day-description">
                         <p>
-                            Descend 600 meters into the Ngorongoro Crater floor for a morning of incredible wildlife viewing in what is often called "Africa's Eden." The crater is home to a high density of animals, including the Big Five, and offers excellent chances to see the rare black rhino. Enjoy a picnic lunch by the hippo pool. After a final game drive, ascend the crater walls in the early afternoon and begin your journey back to Arusha. You will be dropped off at your hotel or at the airport for your onward travel, marking the end of your memorable safari.
+                            Another full day dedicated to capturing the wonders of the Serengeti. Today you might venture to different areas of the central region, perhaps visiting the Seronera River valley or exploring the kopjes (rock outcroppings) that dot the landscape. These rocky areas are favorite haunts for lions and leopards and offer dramatic compositional elements. Your photography guide will tailor the day based on wildlife movements, lighting conditions, and your specific interests. The photo-focused vehicle allows for quick repositioning and stable platforms for long lenses. Return to your lodge for dinner and image review.
+                        </p>
+                    </div>
+                    <div class="day-visual">
+                        <img src="img/serengeti-tanzania-safari.jpg" alt="Cheetah in Serengeti">
+                    </div>
+                </div>
+                <div class="day-stats">
+                    <p>Photography Focus: Kopjes, predators, composition</p>
+                    <p>Activities: Flexible game drives for optimal light</p>
+                    <p>Accommodation: Bao Bab Central Serengeti</p>
+                </div>
+            </div>
+
+            <!-- Day 5 -->
+            <div class="trek-day">
+                <div class="day-header-section">
+                    <div class="day-indicator">Day 5</div>
+                    <h3 class="day-title-text">Full Day Photography in Central Serengeti</h3>
+                </div>
+                <div class="day-content-section">
+                    <div class="day-description">
+                        <p>
+                            Your third full day in the Serengeti offers another opportunity to capture this iconic ecosystem. Today's focus might be on different species or behaviors you haven't yet photographed. The central Serengeti offers exceptional wildlife photography year-round, with excellent chances to capture all members of the Big Five. Your guide will help you anticipate animal behavior and position the vehicle for the best possible images. Enjoy a final day of immersive photography, soaking in the vast landscapes and incredible biodiversity. Return to your lodge for a farewell dinner and image sharing.
+                        </p>
+                    </div>
+                    <div class="day-visual">
+                        <img src="img/central-serengeti-sunset.jpg" alt="Central Serengeti Sunset">
+                    </div>
+                </div>
+                <div class="day-stats">
+                    <p>Photography Focus: Behavior, portraiture, landscapes</p>
+                    <p>Activities: Game drives, image review sessions</p>
+                    <p>Accommodation: Bao Bab Central Serengeti</p>
+                </div>
+            </div>
+
+            <!-- Day 6 -->
+            <div class="trek-day">
+                <div class="day-header-section">
+                    <div class="day-indicator">Day 6</div>
+                    <h3 class="day-title-text">Central Serengeti to Ngorongoro Conservation Area</h3>
+                </div>
+                <div class="day-content-section">
+                    <div class="day-description">
+                        <p>
+                            Enjoy an early morning game drive in the Serengeti to catch predators at their most active and capture the beautiful morning light. After breakfast, begin your transfer towards the Ngorongoro Conservation Area. The drive offers continued photography opportunities as you pass through different habitats. En route, you may choose to visit a Maasai village for cultural photography (optional extra cost). Arrive at the rim of the Ngorongoro Crater in the afternoon and check into your lodge. The views from the crater rim are spectacular and offer wonderful landscape photography opportunities as the sun sets over the caldera. Enjoy dinner and overnight at your comfortable lodge.
+                        </p>
+                    </div>
+                    <div class="day-visual">
+                        <img src="img/ngorongoro-crater-view.jpg" alt="View of Ngorongoro Crater from the rim">
+                    </div>
+                </div>
+                <div class="day-stats">
+                    <p>Drive Time: ~3-4 hours</p>
+                    <p>Photography Focus: Morning light, crater rim sunset</p>
+                    <p>Accommodation: Embarakai Ngorongoro Camp</p>
+                </div>
+            </div>
+
+            <!-- Day 7 -->
+            <div class="trek-day">
+                <div class="day-header-section">
+                    <div class="day-indicator">Day 7</div>
+                    <h3 class="day-title-text">Full Day Photography in Ngorongoro Crater</h3>
+                </div>
+                <div class="day-content-section">
+                    <div class="day-description">
+                        <p>
+                            Descend 600 meters into the Ngorongoro Crater floor for a full day of incredible wildlife photography in what is often called "Africa's Eden." The crater is home to a high density of animals, including the Big Five, and offers excellent chances to photograph the rare black rhino. The crater's varied habitats—from grassland to acacia woodland, freshwater lakes to swamps—provide diverse backdrops for your images. Enjoy a picnic lunch by the hippo pool, where you can photograph hippos at close range. Spend the day moving with the light, capturing the crater's wildlife against stunning volcanic caldera walls. Ascend in the late afternoon and return to your lodge.
                         </p>
                     </div>
                     <div class="day-visual">
@@ -148,8 +238,54 @@
                     </div>
                 </div>
                 <div class="day-stats">
-                    <p>Crater Tour: 5-6 hours</p>
-                    <p>Drive to Arusha: ~4 hours</p>
+                    <p>Photography Focus: Black rhino, crater landscapes, hippos</p>
+                    <p>Activities: Full day crater floor photography</p>
+                    <p>Accommodation: Embarakai Ngorongoro Camp</p>
+                </div>
+            </div>
+
+            <!-- Day 8 -->
+            <div class="trek-day">
+                <div class="day-header-section">
+                    <div class="day-indicator">Day 8</div>
+                    <h3 class="day-title-text">Ngorongoro to Lake Manyara & Return to Arusha</h3>
+                </div>
+                <div class="day-content-section">
+                    <div class="day-description">
+                        <p>
+                            After breakfast, descend from the crater rim and depart for Lake Manyara National Park, famous for its tree-climbing lions, massive flocks of flamingos, and diverse birdlife. The park offers a variety of habitats from groundwater forests to the alkaline lake itself, providing unique photography opportunities. Enjoy a morning game drive through this compact but beautiful park, capturing elephants, hippos, giraffes, and the famous Manyara tree-climbing lions against the backdrop of the Rift Valley escarpment. The shallow lake often hosts thousands of flamingos, creating stunning pink horizons. After lunch, begin your journey back to Arusha, arriving in the late afternoon. You will be dropped off at your hotel for a farewell dinner and overnight.
+                        </p>
+                    </div>
+                    <div class="day-visual">
+                        <img src="img/lake-manyara-tree-climbing-lion.jpg" alt="Lake Manyara National Park">
+                    </div>
+                </div>
+                <div class="day-stats">
+                    <p>Photography Focus: Tree-climbing lions, flamingos, Rift Valley</p>
+                    <p>Drive to Arusha: ~2.5 hours</p>
+                    <p>Accommodation: Kibo Palace Hotel Arusha</p>
+                </div>
+            </div>
+
+            <!-- Day 9 -->
+            <div class="trek-day">
+                <div class="day-header-section">
+                    <div class="day-indicator">Day 9</div>
+                    <h3 class="day-title-text">Arusha to Airport & Departure</h3>
+                </div>
+                <div class="day-content-section">
+                    <div class="day-description">
+                        <p>
+                            Enjoy a leisurely breakfast at your hotel. Depending on your flight schedule, you may have time for last-minute souvenir shopping or simply relax. Our representative will transfer you to Kilimanjaro International Airport or Arusha Airport for your departure flight, marking the end of your unforgettable photography safari adventure.
+                        </p>
+                    </div>
+                    <div class="day-visual">
+                        <img src="img/arusha-city-view.jpg" alt="Arusha City View">
+                    </div>
+                </div>
+                <div class="day-stats">
+                    <p>Transfer Time: ~1 hour to airport</p>
+                    <p>Activities: Breakfast, transfer to airport</p>
                     <p>Accommodation: End of safari services</p>
                 </div>
             </div>
@@ -162,7 +298,7 @@
     <div class="container">
         <div class="section-title">
             <span class="subtitle">Package Details</span>
-            <h2>What's Included & Excluded in Your 4-Day Mid-Range Safari</h2>
+            <h2>What's Included & Excluded in Your 9-Day Photography Safari</h2>
         </div>
         
         <div class="inclusion-exclusion-container">
@@ -170,20 +306,21 @@
                 <div class="ie-header">
                     <div class="ie-icon include"><i class="fas fa-check-circle"></i></div>
                     <h3>Inclusions</h3>
-                    <p>Everything covered in your 4-day mid-range safari package</p>
+                    <p>Everything covered in your 9-day photography safari package</p>
                 </div>
                 
                 <div class="ie-content">
                     <div class="ie-column">
                         <div class="ie-item"><div class="ie-bullet"><i class="fas fa-check"></i></div><div class="ie-text"><h4>Park & Conservation Fees</h4><p>All national park entrance fees and Ngorongoro Crater vehicle fee</p></div></div>
-                        <div class="ie-item"><div class="ie-bullet"><i class="fas fa-check"></i></div><div class="ie-text"><h4>Accommodation</h4><p>3 nights' accommodation in mid-range lodges and tented camps as per itinerary</p></div></div>
-                        <div class="ie-item"><div class="ie-bullet"><i class="fas fa-check"></i></div><div class="ie-text"><h4>All Meals on Safari</h4><p>Breakfast, lunch, and dinner from lunch on Day 1 to lunch on Day 4</p></div></div>
+                        <div class="ie-item"><div class="ie-bullet"><i class="fas fa-check"></i></div><div class="ie-text"><h4>Accommodation</h4><p>8 nights' accommodation in mid-range lodges and camps as per itinerary (2 nights Arusha, 1 night Tarangire, 3 nights Serengeti, 2 nights Ngorongoro rim)</p></div></div>
+                        <div class="ie-item"><div class="ie-bullet"><i class="fas fa-check"></i></div><div class="ie-text"><h4>All Meals on Safari</h4><p>Breakfast, lunch, and dinner from dinner on arrival day to breakfast on Day 9</p></div></div>
                         <div class="ie-item"><div class="ie-bullet"><i class="fas fa-check"></i></div><div class="ie-text"><h4>Drinking Water</h4><p>Unlimited bottled drinking water throughout the safari</p></div></div>
                     </div>
 
                     <div class="ie-column">
-                        <div class="ie-item"><div class="ie-bullet"><i class="fas fa-check"></i></div><div class="ie-text"><h4>Safari Transport</h4><p>4x4 Land Cruiser or similar with open roof for game viewing and experienced driver-guide</p></div></div>
-                        <div class="ie-item"><div class="ie-bullet"><i class="fas fa-check"></i></div><div class="ie-text"><h4>All Game Drives</h4><p>All game drives as mentioned in the itinerary in shared vehicle</p></div></div>
+                        <div class="ie-item"><div class="ie-bullet"><i class="fas fa-check"></i></div><div class="ie-text"><h4>Photo-Focused Safari Vehicle</h4><p>Specially configured 4x4 vehicle with pop-up roof, charging ports, and bean bags for stable photography</p></div></div>
+                        <div class="ie-item"><div class="ie-bullet"><i class="fas fa-check"></i></div><div class="ie-text"><h4>Professional Photography Guide</h4><p>Experienced driver-guide with photography knowledge to position vehicle for optimal images</p></div></div>
+                        <div class="ie-item"><div class="ie-bullet"><i class="fas fa-check"></i></div><div class="ie-text"><h4>All Game Drives</h4><p>All game drives as mentioned in the itinerary with flexible timing for best light</p></div></div>
                         <div class="ie-item"><div class="ie-bullet"><i class="fas fa-check"></i></div><div class="ie-text"><h4>Airport Transfers</h4><p>Complimentary arrival and departure airport transfers (Kilimanjaro or Arusha Airport)</p></div></div>
                     </div>
                 </div>
@@ -198,13 +335,13 @@
                 
                 <div class="ie-content">
                     <div class="ie-column">
-                        <div class="ie-item"><div class="ie-bullet"><i class="fas fa-times"></i></div><div class="ie-text"><h4>International Flights</h4><p>Airfare to and from Tanzania is not included</p></div></div>s
+                        <div class="ie-item"><div class="ie-bullet"><i class="fas fa-times"></i></div><div class="ie-text"><h4>International Flights</h4><p>Airfare to and from Tanzania is not included</p></div></div>
                         <div class="ie-item"><div class="ie-bullet"><i class="fas fa-times"></i></div><div class="ie-text"><h4>Tanzania Entry Visa</h4><p>Visa fees are the responsibility of the traveler</p></div></div>
                         <div class="ie-item"><div class="ie-bullet"><i class="fas fa-times"></i></div><div class="ie-text"><h4>Travel Insurance</h4><p>Comprehensive travel and medical insurance is required but not provided</p></div></div>
                     </div>
 
                     <div class="ie-column">
-                        <div class="ie-item"><div class="ie-bullet"><i class="fas fa-times"></i></div><div class="ie-text"><h4>Alcoholic Beverages</h4><p>Beer, wine, spirits, and soft drinks are not included</p></div></div>
+                        <div class="ie-item"><div class="ie-bullet"><i class="fas fa-times"></i></div><div class="ie-text"><h4>Photography Equipment</h4><p>Cameras, lenses, and photography equipment are not provided</p></div></div>
                         <div class="ie-item"><div class="ie-bullet"><i class="fas fa-times"></i></div><div class="ie-text"><h4>Optional Activities</h4><p>Hot air balloon rides, Maasai village visits, etc., are at extra cost</p></div></div>
                         <div class="ie-item"><div class="ie-bullet"><i class="fas fa-times"></i></div><div class="ie-text"><h4>Tips & Gratuities</h4><p>Tips for your guide, driver, and lodge staff are at your discretion</p></div></div>
                     </div>
@@ -213,7 +350,7 @@
         </div>
 
         <div class="ie-note">
-            <p><strong>Note that:</strong> This is a shared group safari. For private safari rates, single traveler supplements, or upgrades to luxury accommodation, please contact our team for a customized quote.</p>
+            <p><strong>Note that:</strong> This is a private photography safari designed for serious enthusiasts. The vehicle is configured for photography with charging ports and bean bags. For group rates or single traveler supplements, please contact our team for a customized quote.</p>
         </div>
     </div>
 </section>
@@ -226,11 +363,53 @@
     <div class="container">
         <div class="section-title">
             <span class="subtitle">Your Comfort</span>
-            <h2>Accommodation on Your Safari</h2>
-            <p>Enjoy comfortable mid-range accommodations strategically located for optimal wildlife viewing and relaxation.</p>
+            <h2>Accommodation on Your Photography Safari</h2>
+            <p>Enjoy comfortable mid-range accommodations strategically located for optimal wildlife photography and relaxation.</p>
         </div>
         
         <div class="accommodation-container">
+            <!-- Arusha Accommodation -->
+            <div class="accommodation-card">
+                <div class="accommodation-image">
+                    <img src="img/arusha-kibo-palace-hotel.jpg" alt="Kibo Palace Hotel Arusha">
+                    <div class="accommodation-location">
+                        <i class="fas fa-map-marker-alt"></i>
+                        <span>Arusha</span>
+                    </div>
+                    <div class="image-overlay">
+                        <a href="https://www.kibopalacehotel.com/" target="_blank" class="view-website-btn">
+                            <i class="fas fa-external-link-alt"></i> View Hotel Website
+                        </a>
+                    </div>
+                </div>
+                <div class="accommodation-content">
+                    <h3>Kibo Palace Hotel Arusha</h3>
+                    
+                    <p class="accommodation-description">
+                        A comfortable hotel in the heart of Arusha, offering well-appointed rooms, friendly service, and modern amenities. The perfect place to begin and end your photography safari adventure with a swimming pool and tranquil garden setting.
+                    </p>
+                    <div class="accommodation-features">
+                        <div class="feature">
+                            <i class="fas fa-wifi"></i>
+                            <span>Free Wi-Fi</span>
+                        </div>
+                        <div class="feature">
+                            <i class="fas fa-swimming-pool"></i>
+                            <span>Swimming Pool</span>
+                        </div>
+                        <div class="feature">
+                            <i class="fas fa-restaurant"></i>
+                            <span>On-site Restaurant</span>
+                        </div>
+                        <div class="feature">
+                            <i class="fas fa-coffee"></i>
+                            <span>Breakfast Included</span>
+                        </div>
+                    </div>
+                    
+                </div>
+            </div>
+
             <!-- Tarangire Accommodation -->
             <div class="accommodation-card">
                 <div class="accommodation-image">
@@ -249,7 +428,7 @@
                     <h3>Tarangire Osupuko Lodge</h3>
                     
                     <p class="accommodation-description">
-                        Nestled on a hill overlooking the Tarangire River Valley, Osupuko Lodge offers breathtaking panoramic views of the surrounding wilderness. The lodge features spacious thatched-roof bungalows with private verandas, modern amenities, and traditional Tanzanian architecture.
+                        Nestled on a hill overlooking the Tarangire River Valley, Osupuko Lodge offers beautiful panoramic views of the surrounding wilderness. The lodge features spacious thatched-roof bungalows with private verandas, modern amenities, and traditional Tanzanian architecture.
                     </p>
                     <div class="accommodation-features">
                         <div class="feature">
@@ -258,15 +437,15 @@
                         </div>
                         <div class="feature">
                             <i class="fas fa-swimming-pool"></i>
-                            <span>Infinity Pool</span>
+                            <span>Swimming Pool</span>
                         </div>
                         <div class="feature">
                             <i class="fas fa-binoculars"></i>
                             <span>Viewing Deck</span>
                         </div>
                         <div class="feature">
-                            <i class="fas fa-spa"></i>
-                            <span>Spa Services</span>
+                            <i class="fas fa-restaurant"></i>
+                            <span>Restaurant & Bar</span>
                         </div>
                     </div>
                     
@@ -276,39 +455,39 @@
             <!-- Serengeti Accommodation -->
             <div class="accommodation-card">
                 <div class="accommodation-image">
-                    <img src="img/katikati-central-serengeti-camp.jpg" alt="Kati Kati Tented Camp">
+                    <img src="img/bao-bab-central-serengeti.jpg" alt="Bao Bab Central Serengeti">
                     <div class="accommodation-location">
                         <i class="fas fa-map-marker-alt"></i>
                         <span>Central Serengeti</span>
                     </div>
                     <div class="image-overlay">
-                        <a href="https://twctanzania.com/serengeti-national-park/serengeti-kati-kati-tented-camp/" target="_blank" class="view-website-btn">
-                            <i class="fas fa-external-link-alt"></i> View Camp Website
+                        <a href="#" target="_blank" class="view-website-btn">
+                            <i class="fas fa-external-link-alt"></i> View Lodge Website
                         </a>
                     </div>
                 </div>
                 <div class="accommodation-content">
-                    <h3>Kati Kati Tented Camp</h3>
+                    <h3>Bao Bab Central Serengeti</h3>
                     
                     <p class="accommodation-description">
-                        A mobile tented camp located in the heart of the Serengeti, offering an authentic safari experience. Each spacious tent includes comfortable beds, en-suite bathrooms with hot showers, and private verandas. Fall asleep to the sounds of the African wilderness.
+                        A comfortable lodge nestled in the heart of the Serengeti, offering pleasant accommodations with views of the endless plains. Each room features modern comforts, private verandas, and friendly service, providing the perfect base for exploring the Seronera Valley's abundant wildlife.
                     </p>
                     <div class="accommodation-features">
                         <div class="feature">
-                            <i class="fas fa-campground"></i>
-                            <span>Mobile Camp</span>
+                            <i class="fas fa-wifi"></i>
+                            <span>Free Wi-Fi</span>
                         </div>
                         <div class="feature">
-                            <i class="fas fa-fire"></i>
-                            <span>Campfire Area</span>
+                            <i class="fas fa-swimming-pool"></i>
+                            <span>Swimming Pool</span>
                         </div>
                         <div class="feature">
                             <i class="fas fa-utensils"></i>
-                            <span>Open-air Dining</span>
+                            <span>Restaurant</span>
                         </div>
                         <div class="feature">
-                            <i class="fas fa-moon"></i>
-                            <span>Starlit Dinners</span>
+                            <i class="fas fa-binoculars"></i>
+                            <span>Game Drives</span>
                         </div>
                     </div>
                     
@@ -318,22 +497,22 @@
             <!-- Ngorongoro Accommodation -->
             <div class="accommodation-card">
                 <div class="accommodation-image">
-                    <img src="img/tortilis-ngorongoro-camp.jpg" alt="Ngorongoro Tortilis Camp">
+                    <img src="img/embarakai-ngorongoro-camp.jpg" alt="Embarakai Ngorongoro Camp">
                     <div class="accommodation-location">
                         <i class="fas fa-map-marker-alt"></i>
-                        <span>Ngorongoro Conservation Area</span>
+                        <span>Ngorongoro Crater Rim</span>
                     </div>
                     <div class="image-overlay">
-                        <a href="https://tortiliscamps.com/ngorongoro/" target="_blank" class="view-website-btn">
+                        <a href="#" target="_blank" class="view-website-btn">
                             <i class="fas fa-external-link-alt"></i> View Camp Website
                         </a>
                     </div>
                 </div>
                 <div class="accommodation-content">
-                    <h3>Ngorongoro Tortilis Camp</h3>
+                    <h3>Embarakai Ngorongoro Camp</h3>
                     
                     <p class="accommodation-description">
-                        Situated on the edge of the Ngorongoro Conservation Area, Tortilis Camp offers luxury tented accommodation with spectacular views. The camp combines comfort with an authentic bush experience, featuring elegantly furnished tents and excellent cuisine.
+                        Perched on the edge of the Ngorongoro Crater rim, this comfortable camp offers spectacular views of the caldera below. Experience an authentic safari stay with spacious tents, en-suite bathrooms, and friendly service, all while being just minutes away from the crater descent.
                     </p>
                     <div class="accommodation-features">
                         <div class="feature">
@@ -341,8 +520,8 @@
                             <span>Crater Views</span>
                         </div>
                         <div class="feature">
-                            <i class="fas fa-fireplace"></i>
-                            <span>Cozy Lounge</span>
+                            <i class="fas fa-campground"></i>
+                            <span>Tented Camp</span>
                         </div>
                         <div class="feature">
                             <i class="fas fa-wine-glass-alt"></i>
@@ -380,7 +559,7 @@
     <div class="container">
         <div class="article-content">
             <h2>Safari Airport Pickup Information</h2>
-            <p>Your Tanzanian adventure begins the moment you land. A seamless and welcoming airport transfer service is a cornerstone of our safari experience, ensuring you start your journey relaxed and hassle-free.</p>
+            <p>Your Tanzanian adventure begins the moment you land. A seamless and welcoming airport transfer service is a cornerstone of our safari experience, ensuring you start your photography journey relaxed and hassle-free.</p>
 
             <div class="day-images">
                 <img src="img/airport-transfer.jpg" alt="Airport Meet and Greet Service">
@@ -393,8 +572,8 @@
             <ul>
                 <li><strong>Meet & Greet:</strong> Our representative will be waiting for you in the arrivals hall with a sign bearing your name.</li>
                 <li><strong>Assisted Luggage Handling:</strong> We help with your luggage and guide you to your waiting vehicle.</li>
-                <li><strong>Comfortable Transfers:</strong> Direct transfer in a clean, private vehicle to your hotel in Arusha or Moshi.</li>
-                <li><strong>Briefing Session:</strong> Your safari guide will often meet you at the hotel for a pre-safari briefing about the upcoming adventure.</li>
+                <li><strong>Comfortable Transfers:</strong> Direct transfer in a clean, private vehicle to your hotel in Arusha.</li>
+                <li><strong>Photography Briefing:</strong> Your photography guide will meet you at the hotel for a pre-safari briefing about the upcoming photography opportunities.</li>
                 <li><strong>Flexible Timing:</strong> Service is available 24/7 to match your flight schedule, whether you arrive day or night.</li>
                 <li><strong>Return Transfers:</strong> At the end of your safari, we'll transfer you back to the airport for your departure flight.</li>
             </ul>
@@ -417,9 +596,9 @@
             <div class="intro-quote"></div>
 
             <!-- Section 1: Overview -->
-            <h2>What makes this safari special:
+            <h2>What makes this photography safari special:
 </h2>
-            <p>This 4-day mid-range safari is the perfect introduction to Tanzania's world-renowned Northern Circuit, offering an exceptional balance of wildlife viewing, comfort, and value. Designed for travelers who want quality accommodations and expert guiding without luxury prices, this itinerary takes you to three of Africa's most spectacular wildlife destinations in one seamless journey.</p>
+            <p>This 9-day photography safari is designed exclusively for wildlife photographers and enthusiasts who want to capture the very best of Tanzania's northern circuit. With extended time in prime photography locations, a photo-focused vehicle setup, and professional guidance, you'll have unparalleled opportunities to photograph Africa's iconic wildlife in stunning light and dramatic landscapes.</p>
 
         
             
@@ -427,15 +606,15 @@
                 <div class="highlight-icon">
                     <i class="fas fa-map-marked-alt"></i>
                 </div>
-                <p>In just four days, you'll experience the best of Tanzania's wildlife: from Tarangire's elephant herds to Serengeti's endless plains and Ngorongoro's unique crater ecosystem.</p>
+                <p>In nine days, you'll photograph the best of Tanzania's wildlife: from Tarangire's elephant herds against baobab trees to three full days in the Serengeti's endless plains and the unique wildlife concentrations of the Ngorongoro Crater.</p>
             </div>
 
             
             
 
             <!-- Section 2: Why Book This Package -->
-            <h2>Why Book This 4-Day Mid-Range Safari?</h2>
-            <p>This carefully curated package is designed to offer the ideal balance of authentic wildlife experiences, comfort, and value. It's the perfect introduction to Tanzania's Northern Circuit for travelers seeking quality without the luxury price tag.</p>
+            <h2>Why Book This 9-Day Photography Safari?</h2>
+            <p>This carefully curated package is designed to offer the ultimate wildlife photography experience, combining prime locations, extended time, and specialized equipment to maximize your image-making opportunities.</p>
 
             
             
@@ -443,28 +622,28 @@
                 <div class="highlight-icon">
                     <i class="fas fa-crown"></i>
                 </div>
-                <p>This safari packs the highlights of Tanzania's world-famous Northern Circuit into an efficient and rewarding 4-day itinerary, maximizing wildlife viewing time while ensuring comfortable overnight stays.</p>
+                <p>This safari features the highlights of Tanzania's world-famous Northern Circuit with extended time in the Serengeti, ensuring multiple opportunities to capture each species in different light and situations.</p>
             </div>
 
             <p>Key benefits of choosing this package:
             <ul>
-                <li><strong>Optimal Park Selection:</strong> Visits three of Tanzania's most iconic and wildlife-rich parks: Tarangire, Serengeti, and the Ngorongoro Crater</li>
-                <li><strong>Quality Mid-Range Comfort:</strong> Stay in well-appointed lodges and tented camps that offer en-suite facilities, great locations, and excellent service without extreme cost</li>
-                <li><strong>Expert Guided Experience:</strong> Travel with professional, English-speaking driver-guides with extensive knowledge of animal behavior and park ecosystems</li>
-                <li><strong>All-Inclusive Value:</strong> The package includes park fees, accommodation, meals, transport, and drinking water, making budgeting straightforward</li>
-                <li><strong>Small Group Atmosphere:</strong> Enjoy a more personalized experience traveling in a shared 4x4 vehicle with a maximum of 6-7 fellow travelers</li>
-                <li><strong>Flexibility & Customization:</strong> The itinerary offers a solid framework that can often be tailored, and optional activities like balloon safaris can be added</li>
+                <li><strong>Prime Photography Locations:</strong> Visits Tarangire, Serengeti (3 full days), Ngorongoro Crater (full day), and Lake Manyara</li>
+                <li><strong>Photo-Focused Vehicle Setup:</strong> Specially configured 4x4 vehicle with pop-up roof, charging ports, and bean bags for stable long-lens photography</li>
+                <li><strong>Professional Photography Guidance:</strong> Experienced guide who understands light, composition, and animal behavior to position the vehicle for optimal images</li>
+                <li><strong>Flexible Timing:</strong> Game drive schedules designed around the best light—sunrise and golden hour photography prioritized</li>
+                <li><strong>Extended Time in Key Locations:</strong> Three full days in the Serengeti allow for multiple opportunities and the chance to wait for the perfect moment</li>
+                <li><strong>Small Group or Private:</strong> Intimate experience with fellow photographers who share your passion</li>
             </ul>
             </p>
 
            
 
             <div class="article-cta">
-                <h3>Ready to Experience the Wonders of Tanzania?</h3>
-                <p>Our safari experts are ready to answer your questions and secure your spot on this unforgettable 4-day mid-range adventure. Contact us today to book your journey into the heart of the African wild.</p>
+                <h3>Ready to Capture the Wonders of Tanzania?</h3>
+                <p>Our photography safari experts are ready to answer your questions and secure your spot on this unforgettable 9-day photography adventure. Contact us today to book your journey into the heart of the African wild with your camera.</p>
                 <div class="book-now-container">
                     <button class="book-now-btn" onclick="openBookingPopup()">
-                        <i class="fas fa-calendar-check"></i> Book Your Safari Adventure
+                        <i class="fas fa-calendar-check"></i> Book Your Photography Safari
                     </button>
                 </div>  
             </div>
@@ -480,23 +659,23 @@
         <div class="section-title">
             <span class="subtitle">Optional Adventure</span>
             <h2>Hot Air Balloon Safari</h2>
-            <p>Elevate your safari experience with a breathtaking sunrise balloon flight over the endless plains.</p>
+            <p>Elevate your photography with a breathtaking sunrise balloon flight over the endless plains.</p>
         </div>
         
         <div class="balloon-layout">
             <!-- Left: Experience Details -->
             <div class="balloon-details">
                 <div class="detail-block">
-                    <h3>See the Savannah from the Sky</h3>
-                    <p>Add an unforgettable perspective to your safari with a hot air balloon flight. Glide silently above the landscape at dawn, witnessing wildlife and the awakening plains from a unique vantage point.</p>
+                    <h3>Capture the Savannah from the Sky</h3>
+                    <p>Add an unforgettable aerial perspective to your photography portfolio with a hot air balloon flight. Glide silently above the landscape at dawn, capturing wildlife and the awakening plains from a unique vantage point. This optional activity is available during your days in the Serengeti.</p>
                 </div>
                 
                 <div class="experience-points">
                     <div class="point">
-                        <i class="fas fa-binoculars"></i>
+                        <i class="fas fa-camera"></i>
                         <div>
-                            <h4>Aerial Wildlife Viewing</h4>
-                            <p>Spot herds of elephants, giraffes, and antelope from above</p>
+                            <h4>Aerial Photography</h4>
+                            <p>Capture unique images of herds and landscapes from above</p>
                         </div>
                     </div>
                     
@@ -504,7 +683,7 @@
                         <i class="fas fa-sun"></i>
                         <div>
                             <h4>Sunrise Flight</h4>
-                            <p>Experience the magic of an African sunrise from the balloon basket</p>
+                            <p>Photograph the magic of an African sunrise from the balloon basket</p>
                         </div>
                     </div>
                     
@@ -558,7 +737,7 @@
                     
                     <div class="card-details">
                         <p><i class="fas fa-clock"></i> 4-5 hours total experience</p>
-                        <p><i class="fas fa-calendar"></i> Available on days in Serengeti</p>
+                        <p><i class="fas fa-calendar"></i> Available during Serengeti days</p>
                         <p><i class="fas fa-user-friends"></i> Shared balloon basket (max 16)</p>
                     </div>
                     
@@ -607,13 +786,13 @@
                     <p class="package-duration">7 Days / 6 Nights</p>
                     <div class="package-features">
                         <span><i class="fas fa-map-marker-alt"></i> Serengeti, Ngorongoro, Tarangire</span>
-                        <span><i class="fas fa-bed"></i> Luxury Lodge Accommodation</span>
+                        <span><i class="fas fa-bed"></i> Mid-Range Lodge Accommodation</span>
                         <span><i class="fas fa-car"></i> Private 4x4 Safari Vehicle</span>
                     </div>
                     <div class="package-footer">
                         <div class="package-price">
                             <span class="from">From</span>
-                            <span class="amount">$3,299</span>
+                            <span class="amount">$2,499</span>
                             <span class="per-person">per person</span>
                         </div>
                         <a href="#" class="btn btn-primary">View Details</a>
@@ -658,7 +837,7 @@
                     <h3>Luxury Safari Experience</h3>
                     <p class="package-duration">8 Days / 7 Nights</p>
                     <div class="package-features">
-                        <span><i class="fas fa-map-marker-alt"></i> Northern Circuit Highlights</span>
+                        <span><i class="fas fa-map-marker-alt"></i> Tarangire, Ngorongoro, Serengeti</span>
                         <span><i class="fas fa-hotel"></i> 5-Star Lodge & Tented Camps</span>
                         <span><i class="fas fa-concierge-bell"></i> Private Guide & Butler</span>
                     </div>
@@ -717,7 +896,7 @@
                     <div class="package-footer">
                         <div class="package-price">
                             <span class="from">From</span>
-                            <span class="amount">$4,499</span>
+                            <span class="amount">$3,899</span>
                             <span class="per-person">per person</span>
                         </div>
                         <a href="#" class="btn btn-primary">View Details</a>
@@ -728,7 +907,7 @@
             <!-- Package 6 -->
             <div class="package-card">
                 <div class="package-image">
-                    <img src="img/tarangire-5-days-safari.jpg" alt="Budget Safari Option">
+                    <img src="img/tarangire-5-days-safari.jpg" alt="Essential Tanzania Safari">
                     <div class="package-overlay">
                     </div>
                 </div>
@@ -737,7 +916,7 @@
                     <p class="package-duration">5 Days / 4 Nights</p>
                     
                     <div class="package-features">
-                        <span><i class="fas fa-map-marker-alt"></i> Ngorongoro, Manyara, Tarangire</span>
+                        <span><i class="fas fa-map-marker-alt"></i> Tarangire, Ngorongoro, Serengeti</span>
                         <span><i class="fas fa-campground"></i> Comfortable Camping</span>
                         <span><i class="fas fa-users"></i> Small Group Experience</span>
                     </div>
