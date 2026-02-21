@@ -1730,12 +1730,23 @@ body {
     max-width: 40%;
 }
 
-.day-visual img {
+/* ✅ NEW: image frame (box) */
+.day-visual .day-visual-frame {
     width: 100%;
-    height: 300px;
-    object-fit: cover;
+    height: 300px;                 /* keeps your current visual height */
+    overflow: hidden;              /* ✅ hides cropped parts */
     border-radius: 8px;
     box-shadow: 0 3px 10px rgba(117, 104, 44, 0.1);
+    background: #fff;
+}
+
+/* ✅ UPDATED: image fills the box WITHOUT distortion */
+.day-visual img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;             /* ✅ no thin/stretch; crops instead */
+    object-position: center;
+    display: block;
 }
 
 .day-stats {

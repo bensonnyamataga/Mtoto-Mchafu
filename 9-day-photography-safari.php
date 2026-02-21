@@ -35,7 +35,7 @@
 <!-- Hero Section -->
 <section class="hero-altoo" id="home-altoo">
     <div class="hero-altoo-background">
-        <img src="img/9-days-photography-banner.jpg" alt="9 Days Photography Safari – Tarangire, Serengeti & Ngorongoro Crater">
+        <img src="img/photographing-safari-banner-tanzania.jpg" alt="9 Days Photography Safari – Tarangire, Serengeti & Ngorongoro Crater">
         <div class="hero-altoo-overlay"></div>
     </div>
     <div class="container">
@@ -47,7 +47,6 @@
 </div>                            </div>
     </div>
 </section>
-
 
 <!-- Section 3: Day-to-Day Program -->
 <section class="kilimanjaro-expedition" id="itinerary">
@@ -73,7 +72,9 @@
                         </p>
                     </div>
                     <div class="day-visual">
-                        <img src="img/arusha-kibo-palace.jpg" alt="Kibo Palace Hotel Arusha">
+                        <div class="day-visual-frame">
+                            <img src="img/Serengeti-banner.jpg" alt="Kibo Palace Hotel Arusha">
+                        </div>
                     </div>
                 </div>
                 <div class="day-stats">
@@ -96,7 +97,9 @@
                         </p>
                     </div>
                     <div class="day-visual">
-                        <img src="img/tarangire-photography-safari.jpg" alt="Elephants in Tarangire National Park">
+                        <div class="day-visual-frame">
+                            <img src="img/tarangire-photography-safari.jpg" alt="Elephants in Tarangire National Park">
+                        </div>
                     </div>
                 </div>
                 <div class="day-stats">
@@ -119,7 +122,9 @@
                         </p>
                     </div>
                     <div class="day-visual">
-                        <img src="img/tanzania-photo-safari-serengeti.jpg" alt="Serengeti National Park Plains">
+                        <div class="day-visual-frame">
+                            <img src="img/tanzania-photo-safari-serengeti.jpg" alt="Serengeti National Park Plains">
+                        </div>
                     </div>
                 </div>
                 <div class="day-stats">
@@ -142,7 +147,9 @@
                         </p>
                     </div>
                     <div class="day-visual">
-                        <img src="img/tanzania-photographic-serengeti.jpg" alt="Lion in Serengeti National Park">
+                        <div class="day-visual-frame">
+                            <img src="img/central-serengeti-photographing-safari.jpg" alt="Lion in Serengeti National Park">
+                        </div>
                     </div>
                 </div>
                 <div class="day-stats">
@@ -165,7 +172,9 @@
                         </p>
                     </div>
                     <div class="day-visual">
-                        <img src="img/serengeti-tanzania-safari.jpg" alt="Cheetah in Serengeti">
+                        <div class="day-visual-frame">
+                            <img src="img/serengeti-tanzania-safari.jpg" alt="Cheetah in Serengeti">
+                        </div>
                     </div>
                 </div>
                 <div class="day-stats">
@@ -188,7 +197,9 @@
                         </p>
                     </div>
                     <div class="day-visual">
-                        <img src="img/central-serengeti-sunset.jpg" alt="Central Serengeti Sunset">
+                        <div class="day-visual-frame">
+                            <img src="img/central-serengeti-sunset.jpg" alt="Central Serengeti Sunset">
+                        </div>
                     </div>
                 </div>
                 <div class="day-stats">
@@ -211,7 +222,9 @@
                         </p>
                     </div>
                     <div class="day-visual">
-                        <img src="img/ngorongoro-crater-view.jpg" alt="View of Ngorongoro Crater from the rim">
+                        <div class="day-visual-frame">
+                            <img src="img/ngorongoro-crater-view.jpg" alt="View of Ngorongoro Crater from the rim">
+                        </div>
                     </div>
                 </div>
                 <div class="day-stats">
@@ -234,7 +247,9 @@
                         </p>
                     </div>
                     <div class="day-visual">
-                        <img src="img/Photographic-Safari-in-Tanzania.jpg" alt="Wildlife in Ngorongoro Crater">
+                        <div class="day-visual-frame">
+                            <img src="img/Photographic-Safari-in-Tanzania.jpg" alt="Wildlife in Ngorongoro Crater">
+                        </div>
                     </div>
                 </div>
                 <div class="day-stats">
@@ -257,7 +272,9 @@
                         </p>
                     </div>
                     <div class="day-visual">
-                        <img src="img/lake-manyara-tree-climbing-lion.jpg" alt="Lake Manyara National Park">
+                        <div class="day-visual-frame">
+                            <img src="img/lake-manyara-tree-climbing-lion.jpg" alt="Lake Manyara National Park">
+                        </div>
                     </div>
                 </div>
                 <div class="day-stats">
@@ -280,7 +297,9 @@
                         </p>
                     </div>
                     <div class="day-visual">
-                        <img src="img/arusha-city-view.jpg" alt="Arusha City View">
+                        <div class="day-visual-frame">
+                            <img src="img/arusha-city-view.jpg" alt="Arusha City View">
+                        </div>
                     </div>
                 </div>
                 <div class="day-stats">
@@ -292,6 +311,7 @@
         </div>
     </div>
 </section>
+
 
 <!-- Section 4: Inclusions and Exclusions -->
 <section class="section inclusion-exclusion-section">

@@ -198,7 +198,7 @@
                 
                 <div class="ie-content">
                     <div class="ie-column">
-                        <div class="ie-item"><div class="ie-bullet"><i class="fas fa-times"></i></div><div class="ie-text"><h4>International Flights</h4><p>Airfare to and from Tanzania is not included</p></div></div>s
+                        <div class="ie-item"><div class="ie-bullet"><i class="fas fa-times"></i></div><div class="ie-text"><h4>International Flights</h4><p>Airfare to and from Tanzania is not included</p></div></div>
                         <div class="ie-item"><div class="ie-bullet"><i class="fas fa-times"></i></div><div class="ie-text"><h4>Tanzania Entry Visa</h4><p>Visa fees are the responsibility of the traveler</p></div></div>
                         <div class="ie-item"><div class="ie-bullet"><i class="fas fa-times"></i></div><div class="ie-text"><h4>Travel Insurance</h4><p>Comprehensive travel and medical insurance is required but not provided</p></div></div>
                     </div>
