@@ -653,11 +653,7 @@
                 </div>
             </div>
             
-            <!-- Strong CTA at end -->
-            <div style="text-align: center; margin: 40px 0 20px;">
-                <a href="#contact" class="btn btn-primary" onclick="openBookingPopup()" style="padding: 15px 40px; font-size: 18px;"><i class="fas fa-paper-plane"></i> Get Your Free Quote Now</a>
-                <a href="https://wa.me/255XXXXXXXXX" class="btn btn-whatsapp" style="padding: 15px 40px; font-size: 18px; margin-left: 15px; background-color: #25D366; color: white;"><i class="fab fa-whatsapp"></i> WhatsApp Us</a>
-            </div>
+            
 
             <!-- Article Footer -->
             <div class="article-footer">
