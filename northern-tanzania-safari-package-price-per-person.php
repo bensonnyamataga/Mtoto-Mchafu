@@ -4,7 +4,7 @@
        <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Northern Tanzania Safari Package Price Per Person 2026 </title>
-    <meta name="description" content="Discover real Northern Tanzania safari package price per person for 2026. Compare mid-range to luxury, group discounts, what's included + book your dream safari today!">
+    <meta name="description" content=" Real Northern Tanzania safari package price per person for 2026. Compare mid-range to luxury, group discounts, what's included + book your safari today!">
     <meta name="keywords" content="Northern Tanzania safari package price per person, Tanzania safari cost 2026, mid-range safari Tanzania, luxury safari rates">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
