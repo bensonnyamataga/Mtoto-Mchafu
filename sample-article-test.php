@@ -583,6 +583,8 @@
             </div>
         </div>
     </section>
+
+    
 <section class="safari-faq-section" id="safari-faq">
         <div class="safari-container">
              <div class="container">
@@ -661,64 +663,7 @@
         </div>
     </section>
 
-    <!-- FAQ Section (Using your FAQ structure) -->
-    <section class="safari-faq-section">
-        <div class="container">
-            <div class="safari-section-title">
-                <span class="safari-subtitle">Common Questions</span>
-                <h2>Northern Tanzania Safari Pricing FAQs</h2>
-                <p>Answers to the most common questions about Northern Tanzania safari package prices.</p>
-            </div>
-            
-            <div class="safari-faq-container">
-                <div class="safari-faq-item">
-                    <div class="safari-faq-question">
-                        <h4>What is the average Northern Tanzania safari package price per person?</h4>
-                        <span class="safari-faq-toggle"><i class="fas fa-plus"></i></span>
-                    </div>
-                    <div class="safari-faq-answer">
-                        <p>For a 4-day mid-range safari, expect to pay $750-900 per person in low season and $1,050-1,250 in high season. This includes accommodation, park fees, transport, guide, and meals. Budget camping starts at $450, while luxury can exceed $3,800 for 4 days.</p>
-                    </div>
-                </div>
-                
-                <div class="safari-faq-item">
-                    <div class="safari-faq-question">
-                        <h4>How much cheaper is low season vs high season?</h4>
-                        <span class="safari-faq-toggle"><i class="fas fa-plus"></i></span>
-                    </div>
-                    <div class="safari-faq-answer">
-                        <p>Low season (March-May) is typically 30-50% cheaper than high season (June-October). You'll find excellent deals on accommodation and smaller crowds, though you may experience afternoon showers and some camps may close.</p>
-                    </div>
-                </div>
-                
-                <div class="safari-faq-item">
-                    <div class="safari-faq-question">
-                        <h4>What's the deposit required to book?</h4>
-                        <span class="safari-faq-toggle"><i class="fas fa-plus"></i></span>
-                    </div>
-                    <div class="safari-faq-answer">
-                        <p>We require a 30% deposit to confirm your booking, with the balance due 30 days before your safari departure. Deposits can be paid via bank transfer, credit card, or PayPal.</p>
-                    </div>
-                </div>
-                
-                <div class="safari-faq-item">
-                    <div class="safari-faq-question">
-                        <h4>Can I customize my safari package?</h4>
-                        <span class="safari-faq-toggle"><i class="fas fa-plus"></i></span>
-                    </div>
-                    <div class="safari-faq-answer">
-                        <p>Absolutely! We can adjust durations, accommodations, add activities like balloon safaris, or create a completely private safari. Contact us for a personalized quote based on your preferences.</p>
-                    </div>
-                </div>
-            </div>
-            
-            <div class="safari-faq-cta">
-                <p>Still have questions about Northern Tanzania safari prices?</p>
-                <a href="#contact" class="safari-btn-primary" onclick="openBookingPopup()">Ask Our Safari Experts</a>
-            </div>
-        </div>
-    </section>
-
+    
 
     
 <!-- Best Time to Visit Section -->
