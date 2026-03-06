@@ -1,16 +1,26 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
+       <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Northern Tanzania Safari Package Price Per Person 2026 | Best Deals</title>
-    <meta name="description" content="Discover real Northern Tanzania safari package price per person for 2026. Compare mid-range to luxury, group discounts, what's included + book your dream safari today!">
-    <meta name="keywords" content="Northern Tanzania safari package price per person, Tanzania safari cost 2026, Serengeti safari price, Ngorongoro tour package, mid-range safari Tanzania, luxury safari rates">
+    <title>Northern Tanzania Safari Package Price Per Person 2026 </title>
+    <meta name="description" content=" Real Northern Tanzania safari package price per person for 2026. Compare mid-range to luxury, group discounts, what's included + book your safari today!">
+    <meta name="keywords" content="Northern Tanzania safari package price per person, Tanzania safari cost 2026, mid-range safari Tanzania, luxury safari rates">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
-    <link rel="canonical" href="https://deeptanzaniatours.com/northern-tanzania-safari-package-price-per-person.php" />
+    <link rel="canonical" href=https://deeptanzaniatours.com/northern-tanzania-safari-package-price-per-person-in-details.php />
     <link rel="stylesheet" href="style/package.css">
     <link rel="stylesheet" href="style/style.css">
+
+    <!-- Favicon (recommended set) -->
+    <link rel="icon" href="/img/favicon/favicon.ico" sizes="any">
+    <link rel="icon" type="img/svg+xml" href="/img/favicon/favicon.svg">
+    <link rel="apple-touch-icon" href="/img/favicon/apple-touch-icon.png">
+    <link rel="manifest" href="/img/favicon/site.webmanifest">
+    <link rel="icon" type="image/png" sizes="32x32" href="/img/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/img/favicon/favicon-16x16.png">
+    
+   
     
     <!-- Page-specific CSS for price table and factor items -->
     <style>
