@@ -196,7 +196,7 @@
         </div>
         <div class="container">
             <div class="hero-altoo-content">
-                <h1>Northern Tanzania safari package price per person</h1>
+          <h1>Northern Tanzania Safari Package Price Per Person 2026</h1>
                 <p class="hero-subtitle">2026 Complete Pricing Guide: Budget, Mid-Range & Luxury Options | All Fees Explained | Instant Quotes</p>
                 <div class="hero-altoo-btns">
                     <a href="#price-table" class="btn btn-primary">View 2026 Prices</a>
@@ -211,8 +211,7 @@
             <!-- Article Header -->
             <div class="article-header">
                 <span class="article-category">NORTHERN TANZANIA SAFARI PRICING 2026</span>
-                <h1>Northern Tanzania safari package price per person</h1>
-                <div class="article-meta">
+<h1>Complete Guide: Northern Tanzania Safari Package Price Per Person</h1>                <div class="article-meta">
                     <span class="date"><i class="far fa-calendar"></i> Updated for 2026 Season</span>
                     <span class="author"><i class="far fa-user"></i> By Travolo Safari Experts</span>
                     <span class="read-time"><i class="far fa-clock"></i> 10 min read</span>
