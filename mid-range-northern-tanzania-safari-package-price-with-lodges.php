@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mid-Range Northern Tanzania Safari Package Price with Lodges 2026</title>
+    <title>Mid-Range Northern Tanzania Safari Package Price with Lodges </title>
     <meta name="description" content="Exact mid-range Northern Tanzania safari package price with lodges. Compare options from $150-400 per night. All park fees included + free quote.">
     <meta name="keywords" content="mid-range Northern Tanzania safari package price with lodges, Tanzania safari lodges, Serengeti lodge prices, Ngorongoro crater accommodation, mid-range safari Tanzania">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
