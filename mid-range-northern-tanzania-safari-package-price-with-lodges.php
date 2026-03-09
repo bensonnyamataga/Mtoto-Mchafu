@@ -235,7 +235,7 @@
         </div>
         <div class="container">
             <div class="hero-altoo-content">
-                <h1>Mid-range Northern Tanzania safari package price with lodges</h1>
+                <h1>Mid-range Northern Tanzania safari package price with lodges in Details</h1>
                 <p class="hero-subtitle">2026 Complete Pricing Guide: Lodge accommodation from $150-$400 per person/night | All Fees Explained | Free Quote</p>
                 <div class="hero-altoo-btns">
                     <a href="#price-table" class="btn btn-primary">View 2026 Prices</a>
