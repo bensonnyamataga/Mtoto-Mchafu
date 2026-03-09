@@ -11,6 +11,13 @@
     <link rel="canonical" href="https://deeptanzaniatours.com/mid-range-northern-tanzania-safari-package-price-with-lodges.php" />
     <link rel="stylesheet" href="style/package.css">
     <link rel="stylesheet" href="style/style.css">
+
+    <!-- Favicon set -->
+    <link rel="icon" href="/img/favicon/favicon.ico" sizes="any">
+    <link rel="icon" type="img/svg+xml" href="/img/favicon/favicon.svg">
+    <link rel="apple-touch-icon" href="/img/favicon/apple-touch-icon.png">
+    <link rel="manifest" href="/img/favicon/site.webmanifest">
+    
     
     <!-- Page-specific CSS for price table and factor items -->
     <style>
@@ -355,7 +362,7 @@
                 
                 <p>Third, Karatu offers more dining options and often better value for meals. Many lodges in Karatu have excellent restaurants, and there are also independent restaurants if you want variety. The town has a relaxed, friendly atmosphere and is a great place to experience a bit of Tanzanian town life.</p>
                 
-                <p><strong>For Serengeti, however, we generally recommend staying inside the park.</strong> The Serengeti is vast – nearly 15,000 square kilometers. Driving in and out each day would waste hours of valuable game viewing time. For a true Serengeti experience, staying at lodges or camps inside the park is worthwhile. The Central Serengeti (Seronera area) has several excellent mid-range lodges that are perfectly positioned for game drives in the prime wildlife areas.</p>
+                <p>For Serengeti, however, we generally recommend staying inside the park.The Serengeti is vast – nearly 15,000 square kilometers. Driving in and out each day would waste hours of valuable game viewing time. For a true Serengeti experience, staying at lodges or camps inside the park is worthwhile. The Central Serengeti (Seronera area) has several excellent mid-range lodges that are perfectly positioned for game drives in the prime wildlife areas.</p>
                 
                 <div class="highlight-box">
                     <div class="highlight-icon">
