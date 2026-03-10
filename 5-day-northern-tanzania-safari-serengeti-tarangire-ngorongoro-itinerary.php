@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>5-Day Northern Tanzania Safari, Serengeti, Tarangire & Ngorongoro</title>
+    <title>5-Day Tanzania Safari, Serengeti, Tarangire & Ngorongoro</title>
     <meta name="description" content="Book a 5-day Northern Tanzania safari Serengeti Tarangire Ngorongoro. Visit three iconic parks with full-day Serengeti exploration.">
     <meta name="keywords" content="5-day Northern Tanzania safari Serengeti Tarangire Ngorongoro itinerary, Tanzania safari 5 days, Serengeti safari, Tarangire National Park, Ngorongoro Crater tour, Northern Circuit safari">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
