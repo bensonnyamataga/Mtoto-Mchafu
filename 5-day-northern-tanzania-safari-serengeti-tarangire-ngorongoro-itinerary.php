@@ -223,7 +223,7 @@
                 
                 <h2>Why This 5-Day Northern Tanzania Safari Serengeti Tarangire Ngorongoro Itinerary Is the Ultimate Northern Circuit Experience</h2>
                 
-                <p>This <strong>5-day Northern Tanzania safari Serengeti Tarangire Ngorongoro itinerary</strong> is designed for travelers who want to experience the complete Northern Circuit without feeling rushed. With five days, you'll have time to truly immerse yourself in three of Tanzania's most iconic parks: Tarangire's elephant-filled baobab landscapes, the endless plains of the Serengeti, and the wildlife-dense Ngorongoro Crater. This is the perfect balance of depth and efficiency.</p>
+                <p>This 5-day Northern Tanzania safari Serengeti Tarangire Ngorongoro itineraryis designed for travelers who want to experience the complete Northern Circuit without feeling rushed. With five days, you'll have time to truly immerse yourself in three of Tanzania's most iconic parks: Tarangire's elephant-filled baobab landscapes, the endless plains of the Serengeti, and the wildlife-dense Ngorongoro Crater. This is the perfect balance of depth and efficiency.</p>
                 
                 <div class="highlight-box">
                     
@@ -524,7 +524,7 @@
                     <img src="img/kilimanjaro-airport-ro.jpg" alt="Kilimanjaro Airport arrival">
                 </div>
                 
-                <p>This <strong>5-day Northern Tanzania safari Serengeti Tarangire Ngorongoro itinerary</strong> is designed for convenience and value. Here's why starting in Arusha works so well:</p>
+                <p>This 5-day Northern Tanzania safari Serengeti Tarangire Ngorongoro itinerary is designed for convenience and value. Here's why starting in Arusha works so well:</p>
                 
                 <div class="two-column-content">
                     <div class="column">
