@@ -44,7 +44,7 @@
         <div class="hero-altoo-content">
             <h1>4 Days Mid-Range Safari – Tarangire, Serengeti & Ngorongoro Crater</h1>
 <div class="hero-btns">
-                <a href="#safaris" class="btn btn-primary " >Explore Safaris</a>
+                <a href="#expedition-container" class="btn btn-primary " >view itinerary</a>
                 <a href="#contact" class="btn btn-secondary" onclick="openBookingPopup()">Make a request</a>
 </div>                            </div>
     </div>
