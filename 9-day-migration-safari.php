@@ -3,13 +3,22 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Majestic 9 Days Great Migration Safari Adventure | Tanzania Wildlife Experience</title>
-    <meta name="description" content="Experience a 9-day Tanzanian safari tracking the Great Wildebeest Migration, visiting Serengeti, Ngorongoro, and Tarangire, with expert guides and mid-range lodges.">
+    <title>Majestic 9 Days Great Migration Safari Adventure</title>
+    <meta name="description" content="Experience a 9-day Tanzanian safari tracking the Great Wildebeest Migration, with expert guides and mid-range lodges.">
     <meta name="keywords" content="9 days Tanzania migration safari, great wildebeest migration safari, Serengeti, Ngorongoro, Tarangire, Tanzania safari adventure">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="canonical" href="https://deeptanzaniatours.com/9-day-migration-safari.php" />
     <link rel="stylesheet" href="style/style.css">
     <script src="script/script.js"></script>
+    <!-- Favicon -->
+    <link rel="icon" href="/img/favicon/favicon.ico" sizes="any">
+    <link rel="icon" type="img/svg+xml" href="/img/favicon/favicon.svg">
+    <link rel="apple-touch-icon" href="/img/favicon/apple-touch-icon.png">
+    <link rel="manifest" href="/img/favicon/site.webmanifest">
+    <link rel="icon" type="image/png" sizes="32x32" href="/img/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/img/favicon/favicon-16x16.png">
+
 </head>
 <body>
 
@@ -17,7 +26,7 @@
 
 <section class="hero-altoo" id="home-altoo">
     <div class="hero-altoo-background">
-        <img src="img/9-days-great-migration-safari.jpg" alt="Majestic 9 Days Great Migration Safari Adventure">
+        <img src="img/great-migration-banner.jpg" alt="Majestic 9 Days Great Migration Safari Adventure">
         <div class="hero-altoo-overlay"></div>
     </div>
     <div class="container">
@@ -68,7 +77,7 @@
         </div>
 
 <div class="trekking-schedule">
- <!-- Day 1 -->
+ <!-- Day 1: Arusha → Tarangire (Arusha - Tara) -->
 <div class="trek-day">
     <div class="day-header-section">
         <div class="day-indicator">Day 1</div>
@@ -87,196 +96,193 @@
     <div class="day-stats">
         <p>Drive Time: 2-3 hours</p>
         <p>Game Viewing: Afternoon</p>
-        <p>Accommodation: Mid-range lodge</p>
+        <p>Accommodation: Tarangire Lodge</p>
     </div>
 </div>
 
-<!-- Day 2 -->
+<!-- Day 2: Tarangire → Central Serengeti (Tara-central) -->
 <div class="trek-day">
     <div class="day-header-section">
         <div class="day-indicator">Day 2</div>
-        <h3 class="day-title-text">Tarangire to Lake Manyara</h3>
+        <h3 class="day-title-text">Tarangire to Central Serengeti via Ngorongoro Highlands</h3>
     </div>
     <div class="day-content-section">
         <div class="day-description">
             <p>
-                After breakfast, depart from Tarangire and head to Lake Manyara National Park. Along the way, enjoy scenic views and occasional wildlife sightings. Arrive at Lake Manyara, renowned for its tree-climbing lions, diverse birdlife, and pink flamingos. Embark on an afternoon safari, spotting elephants, baboons, and giraffes. Stop for photography opportunities and a picnic lunch within the park. After exploring the lush landscapes, return to your lodge near the park, where you can relax and share the day’s exciting adventures.
+                After breakfast, depart from Tarangire and drive towards the Central Serengeti. The route takes you through the stunning Ngorongoro Highlands, with panoramic views and opportunities to see Maasai villages along the way. Enjoy a picnic lunch en route. Arrive in Central Serengeti in the late afternoon and embark on a short game drive as you transfer to your lodge. Settle in for the night, surrounded by the sounds of the African bush.
             </p>
         </div>
         <div class="day-visual">
-            <img src="img/lake-manyara-3-day-camping.jpg" alt="Lake Manyara Safari">
+            <img src="img/central-serengeti.jpg" alt="Central Serengeti">
         </div>
     </div>
     <div class="day-stats">
-        <p>Drive Time: 3-4 hours</p>
-        <p>Game Viewing: Afternoon</p>
-        <p>Accommodation: Lodge near Lake Manyara</p>
+        <p>Drive Time: 6-7 hours</p>
+        <p>Game Viewing: En route / late afternoon</p>
+        <p>Accommodation: Central Serengeti Lodge</p>
     </div>
 </div>
 
-<!-- Day 3 -->
+<!-- Day 3: Central Serengeti → Northern Serengeti (central-northern) -->
 <div class="trek-day">
     <div class="day-header-section">
         <div class="day-indicator">Day 3</div>
-        <h3 class="day-title-text">Lake Manyara to Ngorongoro Crater</h3>
+        <h3 class="day-title-text">Central Serengeti to Northern Serengeti (Mara River)</h3>
     </div>
     <div class="day-content-section">
         <div class="day-description">
             <p>
-                Depart after breakfast from Lake Manyara and drive toward the Ngorongoro Conservation Area. Stop for scenic views of farmland, rolling hills, and Maasai villages. Descend into the Ngorongoro Crater for a full-day safari and encounter lions, elephants, rhinos, hippos, and zebras in one of the world’s most unique ecosystems. Enjoy a picnic lunch surrounded by breathtaking scenery. Conclude the day with an overnight stay at a lodge on the crater rim, taking in panoramic sunset views across the vast crater.
+                After breakfast, begin your journey north towards the renowned Mara River region. This scenic drive offers excellent wildlife viewing, with chances to spot elephants, giraffes, and lions along the way. Enjoy a picnic lunch under an acacia tree. Arrive at your Northern Serengeti lodge in the late afternoon, perfectly positioned for the upcoming river crossing spectacles. Evening relaxation and dinner at the lodge.
             </p>
         </div>
         <div class="day-visual">
-            <img src="img/ngorongoro-crater.jpg" alt="Ngorongoro Crater Safari">
-        </div>
-    </div>
-    <div class="day-stats">
-        <p>Drive Time: 2-3 hours</p>
-        <p>Game Viewing: Full day</p>
-        <p>Accommodation: Lodge overlooking crater</p>
-    </div>
-</div>
-
-<!-- Day 4 -->
-<div class="trek-day">
-    <div class="day-header-section">
-        <div class="day-indicator">Day 4</div>
-        <h3 class="day-title-text">Ngorongoro Crater to Central Serengeti</h3>
-    </div>
-    <div class="day-content-section">
-        <div class="day-description">
-            <p>
-                Begin the day with breakfast and drive from Ngorongoro to Central Serengeti, enjoying scenic landscapes and wildlife along the route. Stop for a picnic lunch while observing antelopes, zebras, and giraffes. Arrive in Central Serengeti in the afternoon and embark on your first game drive within this iconic ecosystem. Spot lions, cheetahs, and vast herds of wildebeest. End the day at a mid-range lodge, sharing stories of your wildlife encounters and preparing for an immersive experience in the Serengeti plains the following day.
-            </p>
-        </div>
-        <div class="day-visual">
-            <img src="img/central-serengeti.jpg" alt="Central Serengeti Safari">
-        </div>
-    </div>
-    <div class="day-stats">
-        <p>Drive Time: 5-6 hours</p>
-        <p>Game Viewing: Afternoon</p>
-        <p>Accommodation: Mid-range lodge</p>
-    </div>
-</div>
-
-<!-- Day 5 -->
-<div class="trek-day">
-    <div class="day-header-section">
-        <div class="day-indicator">Day 5</div>
-        <h3 class="day-title-text">Full Day Central Serengeti Safari</h3>
-    </div>
-    <div class="day-content-section">
-        <div class="day-description">
-            <p>
-                Spend the day exploring Central Serengeti, witnessing the magnificent wildebeest migration across vast plains. Observe zebras, gazelles, and other herbivores alongside their predators. Capture breathtaking photographs of the wildlife and rolling landscapes. Enjoy a picnic lunch in the middle of the park. Continue your afternoon safari, seeking lions, cheetahs, and elephants. Return to your lodge in the evening to relax. Share your memorable experiences of the Serengeti’s abundant wildlife while preparing for the journey to Northern Serengeti the next day.
-            </p>
-        </div>
-        <div class="day-visual">
-            <img src="img/central-serengeti-great-migration.jpg" alt="Serengeti Migration Safari">
-        </div>
-    </div>
-    <div class="day-stats">
-        <p>Game Viewing: Full day</p>
-        <p>Migration Focus: Intensive</p>
-        <p>Accommodation: Mid-range lodge</p>
-    </div>
-</div>
-
-<!-- Day 6 -->
-<div class="trek-day">
-    <div class="day-header-section">
-        <div class="day-indicator">Day 6</div>
-        <h3 class="day-title-text">Central to Northern Serengeti</h3>
-    </div>
-    <div class="day-content-section">
-        <div class="day-description">
-            <p>
-                Depart Central Serengeti after breakfast and drive north toward the Mara River region, known for thrilling wildlife encounters. Observe herds of wildebeest, zebras, elephants, and predators along the way. Stop for photographs and a picnic lunch in the savannah. Arrive at your Northern Serengeti lodge in the late afternoon. Prepare for the upcoming Mara River crossing observation and enjoy a sunset game drive near the lodge. Take in the beauty of endless plains and wildlife as the day comes to a close.
-            </p>
-        </div>
-        <div class="day-visual">
-            <img src="img/great-wildebeest-migration-serengeti.jpg" alt="Northern Serengeti Safari">
+            <img src="img/great-wildebeest-migration-serengeti.jpg" alt="Northern Serengeti">
         </div>
     </div>
     <div class="day-stats">
         <p>Drive Time: 4-5 hours</p>
-        <p>Game Viewing: Transit day</p>
-        <p>Accommodation: Northern Serengeti lodge</p>
+        <p>Game Viewing: Transit with stops</p>
+        <p>Accommodation: Northern Serengeti Lodge</p>
     </div>
 </div>
 
-<!-- Day 7 -->
+<!-- Day 4: Full Day Northern Serengeti (full day northern) -->
 <div class="trek-day">
     <div class="day-header-section">
-        <div class="day-indicator">Day 7</div>
-        <h3 class="day-title-text">Northern Serengeti – Mara River Adventure</h3>
+        <div class="day-indicator">Day 4</div>
+        <h3 class="day-title-text">Full Day Game Drives in Northern Serengeti – Mara River Focus</h3>
     </div>
     <div class="day-content-section">
         <div class="day-description">
             <p>
-                Begin early with a full-day game drive around the Mara River, witnessing the awe-inspiring wildebeest and zebra migration. Capture thrilling moments of river crossings and predator interactions. Enjoy a picnic lunch amidst the Serengeti plains. Observe lions, cheetahs, elephants, and hippos along the riverbanks. Continue exploring the northern corridors for photographs and memorable wildlife experiences. Return to your lodge in the late afternoon to relax, share stories of the day’s adventures, and prepare for another exciting day in the Serengeti tomorrow.
+                Today is dedicated to exploring the Northern Serengeti, with a primary focus on the Mara River. After an early breakfast, head out with a picnic lunch to spend the day along the riverbanks. Witness the dramatic wildebeest and zebra river crossings if the herds are active. Keep an eye out for crocodiles and big cats that patrol these waters. This is the heart of the migration experience – a full day of thrilling wildlife action.
             </p>
         </div>
         <div class="day-visual">
-            <img src="img/mara-river-crossing.jpg" alt="Mara River Safari">
+            <img src="img/mara-river-crossing.jpg" alt="Mara River Crossing">
         </div>
     </div>
     <div class="day-stats">
         <p>Game Viewing: Full day</p>
         <p>Migration Focus: Mara River</p>
-        <p>Accommodation: Northern Serengeti lodge</p>
+        <p>Accommodation: Northern Serengeti Lodge</p>
     </div>
 </div>
 
-<!-- Day 8 -->
+<!-- Day 5: Full Day Northern Serengeti (full day northern) -->
 <div class="trek-day">
     <div class="day-header-section">
-        <div class="day-indicator">Day 8</div>
+        <div class="day-indicator">Day 5</div>
+        <h3 class="day-title-text">Another Full Day in Northern Serengeti – Exploring the Kogatende Region</h3>
+    </div>
+    <div class="day-content-section">
+        <div class="day-description">
+            <p>
+                Another full day to immerse yourself in the Northern Serengeti's wonders. Today we explore different sectors such as Kogatende, known for its high concentration of wildlife and frequent river crossings. With flexible timing, we follow the herds and predator activity. Enjoy a packed lunch in the bush. Continue your search for the Big Five and marvel at the vast landscapes. Return to the lodge at sunset for dinner and stories around the campfire.
+            </p>
+        </div>
+        <div class="day-visual">
+            <img src="img/serengeti-sunset.jpg" alt="Serengeti Sunset">
+        </div>
+    </div>
+    <div class="day-stats">
+        <p>Game Viewing: Full day</p>
+        <p>Wildlife Focus: Migration & Predators</p>
+        <p>Accommodation: Northern Serengeti Lodge</p>
+    </div>
+</div>
+
+<!-- Day 6: Full Day Northern Serengeti (full day northern) -->
+<div class="trek-day">
+    <div class="day-header-section">
+        <div class="day-indicator">Day 6</div>
+        <h3 class="day-title-text">Third Full Day – Northern Serengeti & Mara River</h3>
+    </div>
+    <div class="day-content-section">
+        <div class="day-description">
+            <p>
+                Your final full day in the Northern Serengeti. With three dedicated days here, you have maximum chances to witness the spectacular river crossings. Today we might visit less crowded crossing points or follow a large herd that has been gathering. Your expert guide will use their knowledge to position you for the best action. Late afternoon game drive back to the lodge, celebrating another incredible day in the wild.
+            </p>
+        </div>
+        <div class="day-visual">
+            <img src="img/great-migration.jpg" alt="Wildebeest Herd">
+        </div>
+    </div>
+    <div class="day-stats">
+        <p>Game Viewing: Full day</p>
+        <p>River Crossings: High possibility</p>
+        <p>Accommodation: Northern Serengeti Lodge</p>
+    </div>
+</div>
+
+<!-- Day 7: Northern Serengeti → Central Serengeti (northern-central) -->
+<div class="trek-day">
+    <div class="day-header-section">
+        <div class="day-indicator">Day 7</div>
         <h3 class="day-title-text">Northern Serengeti to Central Serengeti</h3>
     </div>
     <div class="day-content-section">
         <div class="day-description">
             <p>
-                After breakfast, depart Northern Serengeti and drive south toward Central Serengeti. Enjoy a scenic drive through vast plains, spotting wildlife along the way, including elephants, giraffes, and wildebeest. Stop for a picnic lunch in the heart of the Serengeti. Embark on an afternoon game drive in Central Serengeti to capture more stunning wildlife encounters. Return to your lodge for a relaxing evening, reflecting on the Serengeti’s beauty and abundance. Prepare for the journey toward Ngorongoro Crater tomorrow morning.
+                After breakfast, we bid farewell to the northern wilderness and begin our journey south back to Central Serengeti. The drive offers game viewing en route, with opportunities to spot animals you might have missed. Enjoy a picnic lunch in the bush. Arrive at your Central Serengeti lodge in the late afternoon, with time to relax and reflect on the thrilling days spent at the Mara River.
             </p>
         </div>
         <div class="day-visual">
-            <img src="img/central-serengeti-safari.jpg" alt="Central Serengeti Safari Drive">
+            <img src="img/central-serengeti-safari.jpg" alt="Central Serengeti Plains">
         </div>
     </div>
     <div class="day-stats">
-        <p>Drive Time: 5-6 hours</p>
-        <p>Game Viewing: Transit day</p>
-        <p>Accommodation: Central Serengeti lodge</p>
+        <p>Drive Time: 4-5 hours</p>
+        <p>Game Viewing: En route</p>
+        <p>Accommodation: Central Serengeti Lodge</p>
     </div>
 </div>
 
-<!-- Day 9 -->
+<!-- Day 8: Central Serengeti → Ngorongoro Crater (central-crater) -->
 <div class="trek-day">
     <div class="day-header-section">
-        <div class="day-indicator">Day 9</div>
-        <h3 class="day-title-text">Central Serengeti to Ngorongoro Crater Rim & Return to Arusha</h3>
+        <div class="day-indicator">Day 8</div>
+        <h3 class="day-title-text">Central Serengeti to Ngorongoro Crater</h3>
     </div>
     <div class="day-content-section">
         <div class="day-description">
             <p>
-                Depart Central Serengeti after an early breakfast and drive back toward Ngorongoro Conservation Area. Stop along the way to capture photographs of wildlife, scenic landscapes, and Maasai villages. Arrive at Ngorongoro Crater rim and enjoy panoramic views of the magnificent crater below. Spend some time exploring the area or relaxing at your lodge. Afterward, continue your journey back to Arusha, where your safari concludes. Enjoy the scenic drive, reflecting on the incredible wildlife, landscapes, and memories you have experienced over the past nine days in Tanzania.
+                Early breakfast, then depart Central Serengeti for the Ngorongoro Conservation Area. Arrive at the crater rim in time for lunch at your lodge with stunning views. In the afternoon, descend into the Ngorongoro Crater for a half-day safari. This UNESCO World Heritage Site is home to lions, elephants, rhinos, hippos, and countless other animals. Game drive until sunset, then ascend back to your crater rim lodge for dinner and overnight.
             </p>
         </div>
         <div class="day-visual">
-            <img src="img/ngorongoro-nice-view.jpg" alt="Ngorongoro Crater Rim">
+            <img src="img/ngorongoro-crater.jpg" alt="Ngorongoro Crater">
         </div>
     </div>
     <div class="day-stats">
-        <p>Drive Time: 6-7 hours</p>
-        <p>Game Viewing: Afternoon</p>
-        <p>Accommodation: Return to Arusha (End of Safari)</p>
+        <p>Drive Time: 3-4 hours</p>
+        <p>Game Viewing: Afternoon in Crater</p>
+        <p>Accommodation: Crater Rim Lodge</p>
     </div>
 </div>
 
-
-
+<!-- Day 9: Ngorongoro → Arusha (crater-arusha) -->
+<div class="trek-day">
+    <div class="day-header-section">
+        <div class="day-indicator">Day 9</div>
+        <h3 class="day-title-text">Ngorongoro Crater to Arusha – Safari Conclusion</h3>
+    </div>
+    <div class="day-content-section">
+        <div class="day-description">
+            <p>
+                After breakfast with spectacular crater views, begin your journey back to Arusha. Drive through the scenic highlands with stops for photos and last glimpses of Maasai homesteads. Enjoy lunch at a reputable restaurant in Karatu or Mto wa Mbu. Arrive in Arusha in the afternoon, where you will be transferred to your hotel or to Kilimanjaro International Airport for your departure, marking the end of your majestic 9-day migration safari.
+            </p>
+        </div>
+        <div class="day-visual">
+            <img src="img/ngorongoro-nice-view.jpg" alt="Ngorongoro Crater Rim View">
+        </div>
+    </div>
+    <div class="day-stats">
+        <p>Drive Time: 3-4 hours</p>
+        <p>Last Views: Ngorongoro Highlands</p>
+        <p>Drop-off: Arusha / Airport</p>
+    </div>
+</div>
 
         </div>
     </div>
@@ -468,7 +474,6 @@
     </div>
 </section>
 
-<?php include 'plugins/call-to-action.php';?>
 
 
 
@@ -735,10 +740,8 @@
     </div>
 </section>
 <!-- Call to Action Section - Altezza Style with Customer Care -->
-<?php include 'plugins/whats-email.php';?>
 
 
-<?php include 'plugins/pop-up-expert.php';?>
 <script>
     // FAQ Toggle Functionality with unique class names
     document.addEventListener('DOMContentLoaded', function() {
@@ -765,9 +768,15 @@
     });
 </script>
 
-<?php include 'plugins/footer.php';?>
+<?php include 'plugins/call-to-action.php';?>
 
+
+<?php include 'plugins/pop-up-expert.php';?>
 <?php include 'plugins/mobile-footer.php';?>
+<?php include 'plugins/booking-form.php';?>
+
+
+<?php include 'plugins/footer.php';?>
 
 </body>
 </html>
