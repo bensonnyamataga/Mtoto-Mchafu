@@ -703,7 +703,6 @@
 <?php include 'plugins/whats-email.php';?>
 
 
-<?php include 'plugins/pop-up-expert.php';?>
 <script>
     // FAQ Toggle Functionality with unique class names
     document.addEventListener('DOMContentLoaded', function() {
