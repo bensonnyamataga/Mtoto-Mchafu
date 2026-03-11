@@ -94,7 +94,7 @@
                 <div class="day-content-section">
                     <div class="day-description">
                         <p>
-                            Your migration safari begins with an early morning pickup from your Arusha accommodation. After a comprehensive briefing from your professional guide, we depart for the Serengeti National Park, driving through the scenic landscapes of northern Tanzania. We'll stop for lunch at the Naabi Hill Gate before entering the vast plains of the Serengeti.<br> <br> Our afternoon game drive focuses on tracking the Great Migration, with opportunities to witness thousands of wildebeest and zebra. We'll also search for predators attracted to the migration herds. In the late afternoon, we proceed to your comfortable lodge for relaxation, dinner, and overnight stay.
+                            Your 4 days migration safari begins with an early morning pickup from your Arusha accommodation. After a comprehensive briefing from your professional guide, we depart for the Serengeti National Park, driving through the scenic landscapes of northern Tanzania. We'll stop for lunch at the Naabi Hill Gate before entering the vast plains of the Serengeti.<br> <br> Our afternoon game drive focuses on tracking the Great Migration, with opportunities to witness thousands of wildebeest and zebra. We'll also search for predators attracted to the migration herds. In the late afternoon, we proceed to your comfortable lodge for relaxation, dinner, and overnight stay.
                         </p>
                     </div>
                     <div class="day-visual">
