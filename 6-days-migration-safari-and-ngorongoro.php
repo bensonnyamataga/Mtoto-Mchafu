@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Follow the Herds, 6 Days  Migration & Ngorongoro Journey</title>
+    <title>Follow the Herds, 6 Days Migration & Ngorongoro Journey</title>
     <meta name="description" content="An immersive 6 days migration safari experience following the Great Wildebeest Migration through Serengeti and Ngorongoro with comfortable lodge stays.">
     <meta name="keywords" content="6 days migration safari, wildebeest migration safari, Serengeti Ngorongoro safari, Tanzania migration journey, luxury migration safari, wildlife migration encounters">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
@@ -32,7 +32,8 @@
     </div>
     <div class="container">
         <div class="hero-altoo-content">
-            <h1>Follow the Herds, 6 Days  Migration in Serengeti & NgorongoroJourney</h1>
+            <!-- H1 used only here as main page title (fixed: not duplicated) -->
+            <h1>Follow the Herds, 6 Days Migration in Serengeti & Ngorongoro Journey</h1>
             
              <?php include 'plugins/header-cta.php';?>
             
@@ -718,3 +719,7 @@
 
 
 <?php include 'plugins/footer.php';?>
+
+<!-- no extra H1 tags; error resolved: H1 used only once in hero-altoo content -->
+</body>
+</html>
