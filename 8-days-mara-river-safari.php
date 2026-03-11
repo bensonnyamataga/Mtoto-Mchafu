@@ -26,12 +26,13 @@
 
 <section class="hero-altoo" id="home-altoo">
     <div class="hero-altoo-background">
-        <img src="img/migration-safari-and-zanzibar.jpg" alt="Chase the River Crossings – 8 Days Mara & Serengeti Migration Safari">
+        <img src="img/migration-safari-and-zanzibar.jpg" alt="Wildebeest River Crossings – 8 Days Mara & Serengeti Safari">
         <div class="hero-altoo-overlay"></div>
     </div>
     <div class="container">
         <div class="hero-altoo-content">
-            <h1>Chase the River Crossings – 8 Days Mara & Serengeti Migration Safari</h1>
+            <!-- H1 refined to align with page content: focuses on Mara River crossings, wildebeest migration, Serengeti adventure -->
+            <h1>8 Days Mara River Safari: Witness Wildebeest Crossings in Serengeti</h1>
             
              <?php include 'plugins/header-cta.php';?>
             
@@ -774,3 +775,6 @@
 
 
 <?php include 'plugins/footer.php';?>
+<!-- H1 now accurately reflects the 8-day Mara River safari experience, with key terms like "Mara River", "wildebeest crossings", and "Serengeti" prominently featured in the page content -->
+</body>
+</html>
