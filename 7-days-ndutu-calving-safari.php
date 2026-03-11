@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Witness New Life – 7 Days Wildebeest Calving Season in Ndutu | Tanzania Wildlife Experience</title>
+    <title>7 Days Wildebeest Calving Season in Ndutu </title>
     <meta name="description" content="An immersive 7 days Ndutu calving safari experience witnessing the Great Wildebeest Migration calving season in Ndutu with comfortable lodge stays.">
     <meta name="keywords" content="7 days Ndutu calving safari, wildebeest calving safari, Ndutu calving season, Tanzania calving safari, luxury calving safari, wildlife calving encounters">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
