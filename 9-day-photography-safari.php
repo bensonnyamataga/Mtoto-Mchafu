@@ -1,8 +1,6 @@
-<!DOCTYPE html>
-<html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- KEEP THIS ONE ONLY -->
     <title>9 Days Photography Safari, Tarangire, Serengeti & Ngorongoro</title>
     <meta name="description" content="Experience a 9-day photography safari adventure through Tanzania's iconic Tarangire, Serengeti, and Ngorongoro Crater.">
     <meta name="keywords" content="9 days Tanzania safari, photography safari, wildlife photography, Tarangire, Serengeti, Ngorongoro Crater, photo-focused vehicle, professional photography guidance">
@@ -18,9 +16,7 @@
     <link rel="manifest" href="/img/favicon/site.webmanifest">
     <link rel="icon" type="image/png" sizes="32x32" href="/img/favicon/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="/img/favicon/favicon-16x16.png">
-
-
- 
+    <!-- REMOVED THE DUPLICATE VIEWPORT TAG FROM HERE -->
 
     <script src="script.js"></script>
     <script src="script/package.js"></script>
