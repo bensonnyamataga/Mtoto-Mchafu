@@ -3,13 +3,23 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Follow the Herds – 6 Days Serengeti & Ngorongoro Migration Journey | Tanzania Wildlife Experience</title>
+    <title>Follow the Herds, 6 Days  Migration & Ngorongoro Journey</title>
     <meta name="description" content="An immersive 6 days migration safari experience following the Great Wildebeest Migration through Serengeti and Ngorongoro with comfortable lodge stays.">
     <meta name="keywords" content="6 days migration safari, wildebeest migration safari, Serengeti Ngorongoro safari, Tanzania migration journey, luxury migration safari, wildlife migration encounters">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="canonical" href="https://deeptanzaniatours.com/6-days-migration-safari-and-ngorongoro.php" />
+    
    <link rel="stylesheet" href="style/style.css">
    <script src="script/script.js"></script>
+   <!-- Favicon -->
+    <link rel="icon" href="/img/favicon/favicon.ico" sizes="any">
+    <link rel="icon" type="img/svg+xml" href="/img/favicon/favicon.svg">
+    <link rel="apple-touch-icon" href="/img/favicon/apple-touch-icon.png">
+    <link rel="manifest" href="/img/favicon/site.webmanifest">
+    <link rel="icon" type="image/png" sizes="32x32" href="/img/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/img/favicon/favicon-16x16.png">
+
 </head>
 <body>
 
@@ -22,7 +32,7 @@
     </div>
     <div class="container">
         <div class="hero-altoo-content">
-            <h1>Follow the Herds – 6 Days Serengeti & Ngorongoro Migration Journey</h1>
+            <h1>Follow the Herds, 6 Days  Migration in Serengeti & NgorongoroJourney</h1>
             
              <?php include 'plugins/header-cta.php';?>
             
@@ -700,6 +710,13 @@
         });
     });
 </script>
+
+<?php include 'plugins/call-to-action.php';?>
+
+
+<?php include 'plugins/pop-up-expert.php';?>
 <?php include 'plugins/mobile-footer.php';?>
+<?php include 'plugins/booking-form.php';?>
+
 
 <?php include 'plugins/footer.php';?>
