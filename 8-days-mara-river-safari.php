@@ -3,13 +3,22 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Chase the River Crossings – 8 Days Mara & Serengeti Migration Safari | Tanzania Wildlife Experience</title>
-    <meta name="description" content="An immersive 8 days Mara River safari experience witnessing the dramatic wildebeest river crossings in the Mara River with comfortable lodge stays.">
+    <title>8 Days Mara & Serengeti Migration Safari</title>
+    <meta name="description" content="An immersive 8 days Mara River safari experience witnessing the dramatic wildebeest river crossings in the Mara River.">
     <meta name="keywords" content="8 days Mara River safari, wildebeest river crossings, Mara River migration, Tanzania river safari, luxury Mara safari, wildlife river crossings">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="canonical" href="https://deeptanzaniatours.com/8-days-mara-river-safari.php" />
    <link rel="stylesheet" href="style/style.css">
    <script src="script/script.js"></script>
+   <!-- Favicon -->
+    <link rel="icon" href="/img/favicon/favicon.ico" sizes="any">
+    <link rel="icon" type="img/svg+xml" href="/img/favicon/favicon.svg">
+    <link rel="apple-touch-icon" href="/img/favicon/apple-touch-icon.png">
+    <link rel="manifest" href="/img/favicon/site.webmanifest">
+    <link rel="icon" type="image/png" sizes="32x32" href="/img/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/img/favicon/favicon-16x16.png">
+
 </head>
 <body>
 
@@ -462,7 +471,6 @@
     </div>
 </section>
 
-<?php include 'plugins/call-to-action.php';?>
 
 
 <section class="safari-faq-section" id="safari-faq">
@@ -731,10 +739,7 @@
     </div>
 </section>
 <!-- Call to Action Section - Altezza Style with Customer Care -->
-<?php include 'plugins/whats-email.php';?>
 
-
-<?php include 'plugins/pop-up-expert.php';?>
 <script>
     // FAQ Toggle Functionality with unique class names
     document.addEventListener('DOMContentLoaded', function() {
@@ -760,6 +765,12 @@
         });
     });
 </script>
+<?php include 'plugins/call-to-action.php';?>
+
+
+<?php include 'plugins/pop-up-expert.php';?>
 <?php include 'plugins/mobile-footer.php';?>
+<?php include 'plugins/booking-form.php';?>
+
 
 <?php include 'plugins/footer.php';?>
