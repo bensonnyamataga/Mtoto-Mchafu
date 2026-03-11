@@ -35,14 +35,9 @@
         <div class="hero-altoo-content">
             <h1>The Best 2 Days Mid-Range Safaris in Tanzania</h1>
             <p class="hero-subtitle">A quick yet enriching safari experience with comfortable lodge stays and incredible wildlife encounters</p>
-            <div class="hero-altoo-btns">
-                <a href="#itinerary" class="btn btn-whatsapp">
-                    <i class="fab fa-whatsapp"></i> Chat On WhatsApp
-                </a>
-                <a href="#booking-form" class="btn btn-email">
-                    <i class="far fa-envelope"></i> Request a Quote
-                </a>
-            </div>
+            
+                         <?php include 'plugins/header-cta.php';?>
+
         </div>
     </div>
 </section>
@@ -346,7 +341,6 @@
     </div>
 </section>
 
-<?php include 'plugins/call-to-action.php';?>
 
 <!-- Safari Packages Section -->
 <section class="section safari-packages">
@@ -517,7 +511,6 @@
     </div>
 </section>
 <!-- Call to Action Section - Altezza Style with Customer Care -->
-<?php include 'plugins/whats-email.php';?>
 
 
 <section class="safari-faq-section" id="safari-faq">
@@ -595,7 +588,6 @@
         </div>
     </div>
 </section>
-<?php include 'plugins/pop-up-expert.php';?>
 <script>
     // FAQ Toggle Functionality with unique class names
     document.addEventListener('DOMContentLoaded', function() {
@@ -621,6 +613,10 @@
         });
     });
 </script>
+<?php include 'plugins/call-to-action.php';?>
+
+
+<?php include 'plugins/pop-up-expert.php';?>
 <?php include 'plugins/mobile-footer.php';?>
 <?php include 'plugins/booking-form.php';?>
 
