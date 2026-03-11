@@ -32,7 +32,7 @@
     <div class="container">
         <div class="hero-altoo-content">
             <!-- H1 refined to reflect page focus: enjoying the wildebeest migration, 4 days Serengeti adventure -->
-            <h1>Enjoy the Wildebeest Migration, 4 Days Serengeti Adventure</h1>
+            <h1>Wildebeest Migration, 4 Days Serengeti Adventure</h1>
             <p class="hero-subtitle">An immersive safari experience tracking the Great Migration with comfortable lodge stays and incredible wildlife encounters</p>
                  
             <?php include 'plugins/header-cta.php';?>
