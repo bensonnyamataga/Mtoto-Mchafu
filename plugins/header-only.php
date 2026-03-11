@@ -983,5 +983,6 @@
         // Load language preference on page load
         window.addEventListener('DOMContentLoaded', loadLanguagePreference);
     </script>
+
 </body>
 </html>

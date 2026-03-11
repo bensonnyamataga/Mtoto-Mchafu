@@ -1128,5 +1128,7 @@
         languageDropdown.addEventListener('click', e => e.stopPropagation());
         mobileLanguageDropdown.addEventListener('click', e => e.stopPropagation());
     </script>
+<?php include 'plugins/mobile-footer.php';?>
+
 </body>
 </html>

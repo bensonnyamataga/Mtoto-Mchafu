@@ -58,5 +58,7 @@
 </head>
 <body>
     <!-- Your HTML content remains the same -->
+<?php include 'plugins/mobile-footer.php';?>
+
 </body>
 </html>

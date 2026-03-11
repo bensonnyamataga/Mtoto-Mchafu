@@ -721,5 +721,7 @@
     <!-- Additional sections would continue here for Kilimanjaro, Itineraries, About Tanzania, etc. -->
 
     
+<?php include 'plugins/mobile-footer.php';?>
+
 </body>
 </html>

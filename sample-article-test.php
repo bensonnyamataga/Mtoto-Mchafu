@@ -1417,5 +1417,7 @@
             });
         });
     </script>
+<?php include 'plugins/mobile-footer.php';?>
+
 </body>
 </html>

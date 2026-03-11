@@ -3,13 +3,23 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>From Savannah to Sea – 10 Days Migration Safari & Zanzibar Escape | Tanzania Wildlife Experience</title>
-    <meta name="description" content="An immersive 10 days migration safari Zanzibar experience combining the Great Wildebeest Migration with tropical beach relaxation on Zanzibar Island.">
+    <title>10 Days Migration Safari & Zanzibar Escape</title>
+    <meta name="description" content="10 days migration safari Zanzibar experience combining the Great Wildebeest Migration with beach relaxation on Zanzibar Island.">
     <meta name="keywords" content="10 days migration safari Zanzibar, wildebeest migration and beach, Tanzania safari and Zanzibar, luxury migration safari with beach, wildlife and beach combination">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="canonical" href="https://deeptanzaniatours.com/10-days-migration-safari-zanzibar.php" />
    <link rel="stylesheet" href="style/style.css">
    <script src="script/script.js"></script>
+
+   <!-- Favicon -->
+    <link rel="icon" href="/img/favicon/favicon.ico" sizes="any">
+    <link rel="icon" type="img/svg+xml" href="/img/favicon/favicon.svg">
+    <link rel="apple-touch-icon" href="/img/favicon/apple-touch-icon.png">
+    <link rel="manifest" href="/img/favicon/site.webmanifest">
+    <link rel="icon" type="image/png" sizes="32x32" href="/img/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/img/favicon/favicon-16x16.png">
+
 </head>
 <body>
 
@@ -766,5 +776,6 @@
         });
     });
 </script>
+<?php include 'plugins/mobile-footer.php';?>
 
 <?php include 'plugins/footer.php';?>

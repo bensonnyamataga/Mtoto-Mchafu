@@ -1209,5 +1209,7 @@
         // Load language preference on page load
         window.addEventListener('DOMContentLoaded', loadLanguagePreference);
     </script>
+<?php include 'plugins/mobile-footer.php';?>
+
 </body>
 </html>

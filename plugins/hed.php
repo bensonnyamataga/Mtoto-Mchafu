@@ -973,5 +973,6 @@
         // Load language preference on page load
         window.addEventListener('DOMContentLoaded', TravoloLoadLanguagePreference);
     </script>
+
 </body>
 </html>

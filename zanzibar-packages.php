@@ -998,6 +998,8 @@
             });
         });
     </script>
+<?php include 'plugins/mobile-footer.php';?>
+
 </body>
 </html>
 
@@ -1628,5 +1630,7 @@
     <!-- Additional sections would continue here for Zanzibar, Itineraries, About Tanzania, etc. -->
 
     
+<?php include 'plugins/mobile-footer.php';?>
+
 </body>
 </html>

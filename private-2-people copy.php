@@ -1069,5 +1069,7 @@
     <?php include 'plugins/footer.php';?>
     <?php include 'plugins/booking-form.php';?>
 
+<?php include 'plugins/mobile-footer.php';?>
+
 </body>
 </html>

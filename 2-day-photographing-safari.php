@@ -439,5 +439,7 @@
 </script>
 
 <?php include 'plugins/footer.php';?>
+<?php include 'plugins/mobile-footer.php';?>
+
 </body>
 </html>

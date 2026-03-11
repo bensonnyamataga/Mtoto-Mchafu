@@ -760,5 +760,6 @@
         });
     });
 </script>
+<?php include 'plugins/mobile-footer.php';?>
 
 <?php include 'plugins/footer.php';?>
