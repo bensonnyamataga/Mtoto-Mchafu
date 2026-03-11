@@ -1,7 +1,3 @@
- 
-<?php include 'plugins/mobile-footer.php';?>
- 
- 
  <footer id="contact">
         <div class="container">
             <div class="footer-grid">
