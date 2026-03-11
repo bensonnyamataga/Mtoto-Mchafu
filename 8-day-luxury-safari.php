@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>8 Days Luxury Tanzania Safari, Tarangire, Ngorongoro & Serengeti</title>
+    <title>8 Days Luxury Safari, Tarangire, Ngorongoro & Serengeti</title>
     <meta name="description" content="Experience an 8-day luxury safari adventure through Tanzania's iconic Tarangire, Ngorongoro Crater, and Serengeti. ">
     <meta name="keywords" content="8 days Tanzania safari, luxury safari, Tarangire, Ngorongoro Crater, Serengeti, luxury lodge accommodation, private safari, flying safari">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
