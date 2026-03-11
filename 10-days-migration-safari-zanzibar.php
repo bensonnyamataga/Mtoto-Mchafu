@@ -34,8 +34,14 @@
         <div class="hero-altoo-content">
             <h1>From Savannah to Sea – 10 Days Migration Safari & Zanzibar Escape</h1>
             
-             <?php include 'plugins/header-cta.php';?>
-            
+<div class="hero-altoo-btns">
+                <a href="https://wa.me/+255655147108" class="btn btn-whatsapp">
+                    <i class="fab fa-whatsapp"></i> Chat On WhatsApp
+                </a>
+                <a class="btn btn-email" onclick="openBookingPopup()">
+                    <i class="far fa-envelope" ></i> Request a Quote
+                </a>
+            </div>            
         </div>
     </div>
 </section>
@@ -776,6 +782,9 @@
         });
     });
 </script>
+
+                <?php include 'plugins/booking-form.php';?>
+
 <?php include 'plugins/mobile-footer.php';?>
 
 <?php include 'plugins/footer.php';?>

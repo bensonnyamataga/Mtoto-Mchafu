@@ -3,13 +3,24 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>The Best 2 Days Mid-Range Safaris in Tanzania | Tanzania Wildlife Experience</title>
+    <title>The Best 2 Days Mid-Range Safaris in Tanzania </title>
     <meta name="description" content="A quick yet enriching safari experience with comfortable lodge stays and incredible wildlife encounters in Tanzania's top national parks.">
     <meta name="keywords" content="2 day mid-range safari Tanzania, comfortable lodge safari, short Tanzania safari, Tarangire National Park, Ngorongoro Crater, luxury safari Tanzania, wildlife encounters">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="canonical" href="https://deeptanzaniatours.com/2-days-camping-safari.php" />
    <link rel="stylesheet" href="style/style.css">
    <script src="script/script.js"></script>
+   <!-- Favicon -->
+    <link rel="icon" href="/img/favicon/favicon.ico" sizes="any">
+    <link rel="icon" type="img/svg+xml" href="/img/favicon/favicon.svg">
+    <link rel="apple-touch-icon" href="/img/favicon/apple-touch-icon.png">
+    <link rel="manifest" href="/img/favicon/site.webmanifest">
+    <link rel="icon" type="image/png" sizes="32x32" href="/img/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/img/favicon/favicon-16x16.png">
+
+
+
 </head>
 <body>
 
@@ -611,5 +622,7 @@
     });
 </script>
 <?php include 'plugins/mobile-footer.php';?>
+<?php include 'plugins/booking-form.php';?>
+
 
 <?php include 'plugins/footer.php';?>

@@ -3,13 +3,22 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>4 Day Exclusive Mid Range Safari Tanzania | Tarangire, Serengeti & Ngorongoro</title>
-    <meta name="description" content="Experience our exclusive 4-day mid-range safari in Tanzania's finest national parks. Enjoy comfortable lodges, expert guides, and incredible wildlife viewing in Tarangire, Serengeti & Ngorongoro.">
+    <title>4 Day Mid Range Safari Tarangire, Serengeti & Ngorongoro</title>
+    <meta name="description" content="Experience our  4-day mid-range safari in Tanzania's finest national parks expert guides, and incredible wildlife viewing.">
     <meta name="keywords" content="4 day safari Tanzania, mid-range Tanzania safari, Tarangire National Park, Serengeti safari, Ngorongoro Crater tour, affordable Tanzania safari, luxury camping Tanzania, exclusive African safari">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="canonical" href="https://deeptanzaniatours.com/4-day-camping-safari-safari.php" />
    <link rel="stylesheet" href="style/style.css">
-   <script src="script/script.js"></script>
+   <script src="script/script.js"></script> 
+   <!-- Favicon -->
+    <link rel="icon" href="/img/favicon/favicon.ico" sizes="any">
+    <link rel="icon" type="img/svg+xml" href="/img/favicon/favicon.svg">
+    <link rel="apple-touch-icon" href="/img/favicon/apple-touch-icon.png">
+    <link rel="manifest" href="/img/favicon/site.webmanifest">
+    <link rel="icon" type="image/png" sizes="32x32" href="/img/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/img/favicon/favicon-16x16.png">
+
 </head>
 <body>
 
@@ -665,5 +674,5 @@
     </script>
 <?php include 'plugins/mobile-footer.php';?>
 
-    <?php include 'plugins/footer.php';?>
+<?php include 'plugins/footer.php';?>
 <?php include 'plugins/booking-form.php';?>
