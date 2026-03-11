@@ -8,8 +8,17 @@
     <meta name="keywords" content="7 days Ndutu calving safari, wildebeest calving safari, Ndutu calving season, Tanzania calving safari, luxury calving safari, wildlife calving encounters">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="canonical" href="https://deeptanzaniatours.com/7-days-ndutu-calving-safari.php" />
    <link rel="stylesheet" href="style/style.css">
    <script src="script/script.js"></script>
+   <!-- Favicon -->
+    <link rel="icon" href="/img/favicon/favicon.ico" sizes="any">
+    <link rel="icon" type="img/svg+xml" href="/img/favicon/favicon.svg">
+    <link rel="apple-touch-icon" href="/img/favicon/apple-touch-icon.png">
+    <link rel="manifest" href="/img/favicon/site.webmanifest">
+    <link rel="icon" type="image/png" sizes="32x32" href="/img/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/img/favicon/favicon-16x16.png">
+
 </head>
 <body>
 
@@ -443,7 +452,6 @@
     </div>
 </section>
 
-<?php include 'plugins/call-to-action.php';?>
 
 
 
@@ -721,6 +729,12 @@
         });
     });
 </script>
+<?php include 'plugins/call-to-action.php';?>
+
+
+<?php include 'plugins/pop-up-expert.php';?>
 <?php include 'plugins/mobile-footer.php';?>
+<?php include 'plugins/booking-form.php';?>
+
 
 <?php include 'plugins/footer.php';?>
