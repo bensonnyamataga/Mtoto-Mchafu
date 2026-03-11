@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>8 Days Luxury Tanzania Safari - Tarangire, Ngorongoro & Serengeti</title>
-    <meta name="description" content="Experience an 8-day luxury safari adventure through Tanzania's iconic Tarangire, Ngorongoro Crater, and Serengeti. Stay at premium lodges and enjoy exclusive game viewing.">
+    <title>8 Days Luxury Tanzania Safari, Tarangire, Ngorongoro & Serengeti</title>
+    <meta name="description" content="Experience an 8-day luxury safari adventure through Tanzania's iconic Tarangire, Ngorongoro Crater, and Serengeti. ">
     <meta name="keywords" content="8 days Tanzania safari, luxury safari, Tarangire, Ngorongoro Crater, Serengeti, luxury lodge accommodation, private safari, flying safari">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
@@ -12,19 +12,14 @@
     <link rel="stylesheet" href="style/package.css">
     <link rel="stylesheet" href="style/style.css">
 
-    <!-- Favicon (recommended set) -->
-<link rel="icon" href="/img/favicon/favicon.ico" sizes="any">
-<link rel="icon" type="img/svg+xml" href="/img/favicon/favicon.svg">
+    <!-- Favicon -->
+    <link rel="icon" href="/img/favicon/favicon.ico" sizes="any">
+    <link rel="icon" type="img/svg+xml" href="/img/favicon/favicon.svg">
+    <link rel="apple-touch-icon" href="/img/favicon/apple-touch-icon.png">
+    <link rel="manifest" href="/img/favicon/site.webmanifest">
+    <link rel="icon" type="image/png" sizes="32x32" href="/img/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/img/favicon/favicon-16x16.png">
 
-<!-- Apple / iOS -->
-<link rel="apple-touch-icon" href="/img/favicon/apple-touch-icon.png">
-
-<!-- Android / PWA -->
-<link rel="manifest" href="/img/favicon/site.webmanifest">
-
-<!-- Optional: classic PNG fallbacks -->
-<link rel="icon" type="image/png" sizes="32x32" href="/img/favicon/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="/img/favicon/favicon-16x16.png">
 
     <script src="script.js"></script>
     <script src="script/package.js"></script>
@@ -35,7 +30,7 @@
 <!-- Hero Section -->
 <section class="hero-altoo" id="home-altoo">
     <div class="hero-altoo-background">
-        <img src="img/8-days-luxury-banner.jpg" alt="8 Days Luxury Tanzania Safari – Tarangire, Ngorongoro & Serengeti">
+        <img src="img/tanzania-8days-luxury-safari.jpg" alt="8 Days Luxury Tanzania Safari – Tarangire, Ngorongoro & Serengeti">
         <div class="hero-altoo-overlay"></div>
     </div>
     <div class="container">
@@ -73,7 +68,7 @@
                         </p>
                     </div>
                     <div class="day-visual">
-                        <img src="img/arusha-kibo-palace.jpg" alt="Kibo Palace Hotel Arusha">
+                        <img src="img/kibo-palace-arusha-luxury.jpg" alt="Kibo Palace Hotel Arusha">
                     </div>
                 </div>
                 <div class="day-stats">
@@ -96,7 +91,7 @@
                         </p>
                     </div>
                     <div class="day-visual">
-                        <img src="img/tarangire-photography-safari.jpg" alt="Elephants in Tarangire National Park">
+                        <img src="img/Tarangire-National-Park.jpg" alt="Elephants in Tarangire National Park">
                     </div>
                 </div>
                 <div class="day-stats">
@@ -119,7 +114,7 @@
                         </p>
                     </div>
                     <div class="day-visual">
-                        <img src="img/ngorongoro-crater-view.jpg" alt="View of Ngorongoro Crater from the rim">
+                        <img src="img/Ngorongoro-Crater.jpg" alt="View of Ngorongoro Crater from the rim">
                     </div>
                 </div>
                 <div class="day-stats">
@@ -142,7 +137,7 @@
                         </p>
                     </div>
                     <div class="day-visual">
-                        <img src="img/Photographic-Safari-in-Tanzania.jpg" alt="Wildlife in Ngorongoro Crater">
+                        <img src="img/kubukubucamp2.jpg" alt="kuku kubu tented logde">
                     </div>
                 </div>
                 <div class="day-stats">
@@ -165,7 +160,7 @@
                         </p>
                     </div>
                     <div class="day-visual">
-                        <img src="img/tanzania-photographic-serengeti.jpg" alt="Lion in Serengeti National Park">
+                        <img src="img/kubu-kubu-tented-lodge-serengeti-tanzania.jpg" alt="kubu kubu">
                     </div>
                 </div>
                 <div class="day-stats">
@@ -188,7 +183,7 @@
                         </p>
                     </div>
                     <div class="day-visual">
-                        <img src="img/serengeti-tanzania-safari.jpg" alt="Cheetah in Serengeti">
+                        <img src="img/lion-in-serengeti.jpg" alt="Cheetah in Serengeti">
                     </div>
                 </div>
                 <div class="day-stats">
@@ -211,7 +206,7 @@
                         </p>
                     </div>
                     <div class="day-visual">
-                        <img src="img/central-serengeti-sunset.jpg" alt="Central Serengeti Sunset">
+                        <img src="img/serengeti-sun-set.jpg" alt="Central Serengeti Sunset">
                     </div>
                 </div>
                 <div class="day-stats">
@@ -234,7 +229,7 @@
                         </p>
                     </div>
                     <div class="day-visual">
-                        <img src="img/serengeti-aerial-view.jpg" alt="Aerial View of Serengeti">
+                        <img src="img/Aerial-View-Serengeti-Landscape-Golden-Hour-Tanzania.jpg" alt="Aerial View of Serengeti">
                     </div>
                 </div>
                 <div class="day-stats">
@@ -332,7 +327,6 @@
     </div>
 </section>
 
- <?php include 'plugins/call-to-action.php';?>
 
 
  <!-- Accommodation Section -->
@@ -348,13 +342,13 @@
             <!-- Arusha Accommodation -->
             <div class="accommodation-card">
                 <div class="accommodation-image">
-                    <img src="img/arusha-kibo-palace-hotel.jpg" alt="Kibo Palace Hotel Arusha">
+                    <img src="img/kibo-palace-arusha-luxury.jpg" alt="Kibo Palace Hotel Arusha">
                     <div class="accommodation-location">
                         <i class="fas fa-map-marker-alt"></i>
                         <span>Arusha</span>
                     </div>
                     <div class="image-overlay">
-                        <a href="https://www.kibopalacehotel.com/" target="_blank" class="view-website-btn">
+                        
                             <i class="fas fa-external-link-alt"></i> View Hotel Website
                         </a>
                     </div>
@@ -390,13 +384,13 @@
             <!-- Tarangire Accommodation -->
             <div class="accommodation-card">
                 <div class="accommodation-image">
-                    <img src="img/lake-burunge-baobab-lodge.jpg" alt="Lake Burunge Baobab Tented Lodge">
+                    <img src="img/Burunge-Baobabb-Swimming-pool.jpg" alt="Lake Burunge Baobab Tented Lodge">
                     <div class="accommodation-location">
                         <i class="fas fa-map-marker-alt"></i>
                         <span>Tarangire Area</span>
                     </div>
                     <div class="image-overlay">
-                        <a href="#" target="_blank" class="view-website-btn">
+                      
                             <i class="fas fa-external-link-alt"></i> View Lodge Website
                         </a>
                     </div>
@@ -432,13 +426,12 @@
             <!-- Ngorongoro Accommodation -->
             <div class="accommodation-card">
                 <div class="accommodation-image">
-                    <img src="img/masek-tented-lodge.jpg" alt="Masek Tented Lodge">
+                    <img src="img/masek-tented-logde.jpg" alt="Masek Tented Lodge">
                     <div class="accommodation-location">
                         <i class="fas fa-map-marker-alt"></i>
                         <span>Ngorongoro Highlands</span>
                     </div>
                     <div class="image-overlay">
-                        <a href="#" target="_blank" class="view-website-btn">
                             <i class="fas fa-external-link-alt"></i> View Lodge Website
                         </a>
                     </div>
@@ -474,7 +467,7 @@
             <!-- Serengeti Accommodation -->
             <div class="accommodation-card">
                 <div class="accommodation-image">
-                    <img src="img/kubu-kubu-tented-lodge.jpg" alt="Kubu Kubu Tented Lodge">
+                    <img src="img/kubu-kubu-tented-lodge-serengeti-tanzania.jpg" alt="Kubu Kubu Tented Lodge">
                     <div class="accommodation-location">
                         <i class="fas fa-map-marker-alt"></i>
                         <span>Central Serengeti</span>
@@ -910,7 +903,6 @@
         </div>
     </div>
 </section>
-   <?php include 'plugins/mobile-footer.php';?>
 
 <!--Call to actions-->
  <?php include 'plugins/call-to-action.php';?>
