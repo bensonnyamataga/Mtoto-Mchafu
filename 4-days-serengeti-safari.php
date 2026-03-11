@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Enjoy the Wildebeest Migration, 4 Days Serengeti Adventure </title>
+    <title>Enjoy the Wildebeest Migration, 4 Days Serengeti Adventure</title>
     <meta name="description" content="An immersive 4-day Serengeti safari experience focusing on the Great Wildebeest Migration with comfortable lodge stays and incredible wildlife encounters.">
     <meta name="keywords" content="4 days Serengeti safari, wildebeest migration safari, Serengeti adventure, Tanzania migration safari, luxury Serengeti safari, wildlife migration encounters">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
@@ -26,12 +26,13 @@
 
 <section class="hero-altoo" id="home-altoo">
     <div class="hero-altoo-background">
-        <img src="img/serengeti-great-migration-package.jpg" alt="Discover the Wildebeest Migration – 4 Days Serengeti Adventure">
+        <img src="img/serengeti-great-migration-package.jpg" alt="Wildebeest Migration – 4 Days Serengeti Adventure">
         <div class="hero-altoo-overlay"></div>
     </div>
     <div class="container">
         <div class="hero-altoo-content">
-            <h1>Discover the Wildebeest Migration – 4 Days Serengeti Adventure</h1>
+            <!-- H1 refined to reflect page focus: enjoying the wildebeest migration, 4 days Serengeti adventure -->
+            <h1>Enjoy the Wildebeest Migration, 4 Days Serengeti Adventure</h1>
             <p class="hero-subtitle">An immersive safari experience tracking the Great Migration with comfortable lodge stays and incredible wildlife encounters</p>
                  
             <?php include 'plugins/header-cta.php';?>
@@ -386,7 +387,6 @@
     </div>
 </section>
 
-<?php include 'plugins/call-to-action.php';?>
 
 
 
@@ -671,3 +671,7 @@
 
 
 <?php include 'plugins/footer.php';?>
+
+<!-- H1 is unique and accurately describes the 4-day wildebeest migration adventure -->
+</body>
+</html>

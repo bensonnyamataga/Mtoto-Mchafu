@@ -3,15 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>3 Days Camping Safari Adventures Wildlife Experience</title>
-    <meta name="description" content="Immerse yourself in nature with our affordable 3-day camping safari adventure in Tanzania's top national parks.">
-    <meta name="keywords" content="3 day camping safari Tanzania, premium camping safari, affordable Tanzania safari, Tarangire National Park, Lake Manyara, Ngorongoro Crater, budget safari Tanzania, wildlife camping adventure">
+    <title>Enjoy the Wildebeest Migration, 4 Days Serengeti Adventure</title>
+    <meta name="description" content="An immersive 4-day Serengeti safari experience focusing on the Great Wildebeest Migration with comfortable lodge stays and incredible wildlife encounters.">
+    <meta name="keywords" content="4 days Serengeti safari, wildebeest migration safari, Serengeti adventure, Tanzania migration safari, luxury Serengeti safari, wildlife migration encounters">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
-    <link rel="canonical" href="https://deeptanzaniatours.com/3-days-camping-safari.php" />
+    <link rel="canonical" href="https://deeptanzaniatours.com/4-days-serengeti-safari.php" />
    <link rel="stylesheet" href="style/style.css">
    <script src="script/script.js"></script>
-
    <!-- Favicon -->
     <link rel="icon" href="/img/favicon/favicon.ico" sizes="any">
     <link rel="icon" type="img/svg+xml" href="/img/favicon/favicon.svg">
@@ -25,20 +24,19 @@
 
      <?php include 'plugins/header.php';?>
 
-<!-- Hero Section -->
 <section class="hero-altoo" id="home-altoo">
     <div class="hero-altoo-background">
-        <img src="img/tanzania-adventure-safari-banner.jpg" alt="3 Days Premium Camping Safari Adventures in Tanzania - Wildlife Experience">
+        <img src="img/serengeti-great-migration-package.jpg" alt="Wildebeest Migration – 4 Days Serengeti Adventure">
         <div class="hero-altoo-overlay"></div>
     </div>
     <div class="container">
         <div class="hero-altoo-content">
-            <h1>3 Days Premium Camping Safari Adventures</h1>
-            <p class="hero-subtitle">Immerse yourself in nature with this affordable and exciting camping safari adventure</p>
-            <div class="hero-altoo-btns">
-                <a href="#itinerary" class="btn btn-primary">Explore Itinerary</a>
-                <a href="#booking-form" class="btn btn-secondary">Book Now</a>
-            </div>
+            <!-- H1 refined to reflect page focus: enjoying the wildebeest migration, 4 days Serengeti adventure -->
+            <h1>Enjoy the Wildebeest Migration, 4 Days Serengeti Adventure</h1>
+            <p class="hero-subtitle">An immersive safari experience tracking the Great Migration with comfortable lodge stays and incredible wildlife encounters</p>
+                 
+            <?php include 'plugins/header-cta.php';?>
+
         </div>
     </div>
 </section>
@@ -46,42 +44,42 @@
 <section class="kilimanjaro-expedition" id="itinerary">
     <div class="expedition-container">
         <div class="expedition-summary">
-            <h2 class="schedule-heading">3 Days Premium Camping Safari Adventures</h2>
+            <h2 class="schedule-heading">4 Days Serengeti Safari - Wildebeest Migration Focus</h2>
             <p>
-                Experience the authentic wilderness of Tanzania with our 3-day premium camping safari. This adventure offers the perfect blend of affordability and comfort, allowing you to immerse yourself in nature while enjoying well-equipped campsites. Our carefully curated itinerary takes you through Tanzania's most iconic parks, providing incredible wildlife encounters and unforgettable memories under the African sky.
+                Experience one of nature's greatest spectacles with our carefully designed 4-day Serengeti migration safari. This immersive itinerary offers the perfect balance of luxury and adventure, featuring comfortable lodge accommodations and expertly guided game drives through the Serengeti's prime migration areas. Designed for wildlife enthusiasts, this safari delivers maximum migration encounters while ensuring your comfort with quality accommodations and personalized service.
             </p>
             
             <div class="overview-features">
                 <div class="feature-box">
                     <div class="feature-icon">
-                        <i class="fas fa-campground"></i>
+                        <i class="fas fa-hotel"></i>
                     </div>
-                    <h4>Premium Camping</h4>
-                    <p>Comfortable tents with mattresses and all necessary camping equipment provided</p>
+                    <h4>Comfortable Lodges</h4>
+                    <p>Quality mid-range lodge accommodation with modern amenities and beautiful settings</p>
                 </div>
                 
                 <div class="feature-box">
                     <div class="feature-icon">
                         <i class="fas fa-utensils"></i>
                     </div>
-                    <h4>Full Board Meals</h4>
-                    <p>Delicious meals prepared by our professional safari chef throughout your adventure</p>
+                    <h4>Gourmet Dining</h4>
+                    <p>Delicious meals featuring local and international cuisine at our selected lodges</p>
                 </div>
                 
                 <div class="feature-box">
                     <div class="feature-icon">
                         <i class="fas fa-binoculars"></i>
                     </div>
-                    <h4>Wildlife Focus</h4>
-                    <p>Optimal game viewing in Tarangire, Lake Manyara, and Ngorongoro Crater</p>
+                    <h4>Migration Tracking</h4>
+                    <p>Expert tracking of the Great Wildebeest Migration with knowledgeable guides</p>
                 </div>
                 
                 <div class="feature-box">
                     <div class="feature-icon">
-                        <i class="fas fa-user-friends"></i>
+                        <i class="fas fa-car"></i>
                     </div>
-                    <h4>Small Groups</h4>
-                    <p>Intimate safari experience with personalized attention from our guides</p>
+                    <h4>Private Transport</h4>
+                    <p>Comfortable 4x4 safari vehicle with pop-up roof for optimal photography</p>
                 </div>
             </div>
         </div>
@@ -91,23 +89,22 @@
             <div class="trek-day">
                 <div class="day-header-section">
                     <div class="day-indicator">Day 1</div>
-                    <h3 class="day-title-text">Arusha to Tarangire National Park</h3>
+                    <h3 class="day-title-text">Arusha to Central Serengeti</h3>
                 </div>
                 <div class="day-content-section">
                     <div class="day-description">
                         <p>
-                            Your camping safari begins with an early morning pickup from Arusha hotel, followed by a briefing from your guide. Then, drive approximately two hours to Tarangire National Park, famous for its large elephant herds and iconic baobab trees, passing through scenic rural landscapes along the way. Upon arrival, complete entry formalities and embark on your first game drive. Tarangire’s rich ecosystem also hosts lions, leopards, giraffes, and numerous antelope species. Enjoy a picnic lunch at a scenic spot, continue wildlife viewing in the afternoon, then relax at your campsite for dinner under the stars, surrounded by the sounds of the African bush.
+                            Your migration safari begins with an early morning pickup from your Arusha accommodation. After a comprehensive briefing from your professional guide, we depart for the Serengeti National Park, driving through the scenic landscapes of northern Tanzania. We'll stop for lunch at the Naabi Hill Gate before entering the vast plains of the Serengeti.<br> <br> Our afternoon game drive focuses on tracking the Great Migration, with opportunities to witness thousands of wildebeest and zebra. We'll also search for predators attracted to the migration herds. In the late afternoon, we proceed to your comfortable lodge for relaxation, dinner, and overnight stay.
                         </p>
-                        
                     </div>
                     <div class="day-visual">
-                        <img src="img/tarangire-3-day-camping.jpg" alt="Elephants in Tarangire National Park">
+                        <img src="img/central-serengeti-great-migration.jpg" alt="Serengeti Plains and Wildlife">
                     </div>
                 </div>
                 <div class="day-stats">
-                    <p>Drive Time: 2 hours</p>
-                    <p>Game Viewing: Full day</p>
-                    <p>Accommodation: Premium campsite</p>
+                    <p>Drive Time: 6-7 hours</p>
+                    <p>Game Viewing: Afternoon</p>
+                    <p>Accommodation: Mid-range lodge</p>
                 </div>
             </div>
 
@@ -115,23 +112,22 @@
             <div class="trek-day">
                 <div class="day-header-section">
                     <div class="day-indicator">Day 2</div>
-                    <h3 class="day-title-text">Tarangire to Ngorongoro Conservation Area</h3>
+                    <h3 class="day-title-text">Full Day Migration Tracking</h3>
                 </div>
                 <div class="day-content-section">
                     <div class="day-description">
                         <p>
-                            Wake up to the sounds of the bush and enjoy breakfast before departing for the Ngorongoro Conservation Area, a UNESCO World Heritage Site. Along the way, admire views of the Great Rift Valley and Maasai herders with their cattle. At the crater viewpoint, capture stunning photos before descending 600 meters to the floor. Known as “Africa’s Eden,” the crater hosts around 25,000 animals, including elephants, lions, buffalo, and the rare black rhino. A picnic lunch near the hippo pool is followed by continued exploration. By late afternoon, ascend to the rim, relax at camp, and enjoy dinner with panoramic views.
+                            After an early breakfast at the lodge, we embark on a full day of migration tracking in the Serengeti. Depending on the season, we'll head to areas where the wildebeest herds are concentrated. Your expert guide will use radio communication and local knowledge to locate the migration.<br> <br>Witness the dramatic river crossings if we're in the right area and season. The day is filled with incredible wildlife viewing opportunities as we follow the moving herds. We enjoy a picnic lunch at a scenic location in the park. In the late afternoon, we return to the lodge to share stories of the day's sightings over dinner.
                         </p>
-                        
                     </div>
                     <div class="day-visual">
-                        <img src="img/ngorongoro-crater-3-days-camping.jpg" alt="Ngorongoro Crater landscape">
+                        <img src="img/great-migration.jpg" alt="Wildebeest Migration in Serengeti">
                     </div>
                 </div>
                 <div class="day-stats">
-                    <p>Drive Time: 3 hours</p>
-                    <p>Crater Exploration: Full day</p>
-                    <p>Accommodation: Crater rim campsite</p>
+                    <p>Game Viewing: Full day</p>
+                    <p>Migration Focus: Primary activity</p>
+                    <p>Accommodation: Mid-range lodge</p>
                 </div>
             </div>
 
@@ -139,22 +135,45 @@
             <div class="trek-day">
                 <div class="day-header-section">
                     <div class="day-indicator">Day 3</div>
-                    <h3 class="day-title-text">Lake Manyara National Park to Arusha</h3>
+                    <h3 class="day-title-text">Northern Serengeti Exploration</h3>
                 </div>
                 <div class="day-content-section">
                     <div class="day-description">
                         <p>
-                            After breakfast, depart for Lake Manyara National Park, a small yet diverse reserve with habitats ranging from forests to alkaline lake shores. The park is famous for its tree-climbing lions and the pink hues of flamingos along the lake. During the morning game drive, explore ecosystems rich with elephants, hippos, giraffes, and playful monkeys. Scenic landscapes create excellent photo opportunities throughout the day. After enjoying a picnic lunch, begin the return journey to Arusha. Expect to arrive in the late afternoon for drop-off at your hotel or the airport, closing your safari with lasting wildlife and nature mem
+                            Today we venture toward the northern regions of the Serengeti, home to the famous Mara River where dramatic river crossings occur during certain months. Even outside peak crossing season, this area offers spectacular wildlife viewing. We'll search for big cats, elephants, and other resident wildlife while continuing to track migration movements.<br> <br> The landscape changes dramatically as we move north, with more wooded areas and rocky outcrops. We enjoy lunch at a picturesque spot before continuing our exploration. In the late afternoon, we either return to our lodge or transfer to our northern Serengeti accommodation based on migration patterns.
                         </p>
                     </div>
                     <div class="day-visual">
-                        <img src="img/lake-manyara-3-day-camping.jpg" alt="Lake Manyara National Park">
+                        <img src="img/great-wildebeest-migration-serengeti.jpg" alt="Northern Serengeti Landscape">
                     </div>
                 </div>
                 <div class="day-stats">
-                    <p>Game Drive: Half day</p>
+                    <p>Game Viewing: Full day</p>
+                    <p>Location: Northern Serengeti</p>
+                    <p>Accommodation: Mid-range lodge</p>
+                </div>
+            </div>
+
+            <!-- Day 4 -->
+            <div class="trek-day">
+                <div class="day-header-section">
+                    <div class="day-indicator">Day 4</div>
+                    <h3 class="day-title-text">Serengeti to Arusha</h3>
+                </div>
+                <div class="day-content-section">
+                    <div class="day-description">
+                        <p>
+                            After an early breakfast, we enjoy a final morning game drive in the Serengeti, making the most of our last opportunity to witness the migration and other wildlife. We might encounter predators on their morning hunt or catch a final glimpse of the massive wildebeest herds. <br> <br>After our morning drive, we begin our journey back to Arusha, stopping for lunch at a scenic spot along the way. The drive back offers time to reflect on the incredible wildlife spectacles we've witnessed over the past three days. We arrive in Arusha in the late afternoon, where we'll drop you at your accommodation or the airport for your onward journey.
+                        </p>
+                    </div>
+                    <div class="day-visual">
+                        <img src="img/great-migration-kenya-banner.jpg" alt="Serengeti Sunrise and Wildlife">
+                    </div>
+                </div>
+                <div class="day-stats">
+                    <p>Drive Time: 6-7 hours</p>
+                    <p>Game Viewing: Morning</p>
                     <p>Return to Arusha: Afternoon</p>
-                    <p>Accommodation: Not included</p>
                 </div>
             </div>
         </div>
@@ -165,7 +184,7 @@
     <div class="container">
         <div class="section-title">
             <span class="subtitle">Package Details</span>
-            <h2>What's Included & Excluded in Your 3-Day Camping Safari</h2>
+            <h2>What's Included & Excluded in Your 4-Day Serengeti Safari</h2>
         </div>
         
         <div class="inclusion-exclusion-container">
@@ -175,7 +194,7 @@
                         <i class="fas fa-check-circle"></i>
                     </div>
                     <h3>Inclusions</h3>
-                    <p>Everything you get with this premium camping safari package</p>
+                    <p>Everything you get with this Serengeti migration safari package</p>
                 </div>
                 
                 <div class="ie-content">
@@ -186,7 +205,7 @@
                             </div>
                             <div class="ie-text">
                                 <h4>Park Entry Fees</h4>
-                                <p>All national park entry fees, conservation charges and camping fees</p>
+                                <p>All national park entry fees, conservation charges and vehicle fees</p>
                             </div>
                         </div>
                         
@@ -196,7 +215,7 @@
                             </div>
                             <div class="ie-text">
                                 <h4>Professional Guide</h4>
-                                <p>Experienced English-speaking safari guide with extensive wildlife knowledge</p>
+                                <p>Experienced English-speaking safari guide with extensive migration knowledge</p>
                             </div>
                         </div>
                         
@@ -205,8 +224,8 @@
                                 <i class="fas fa-check"></i>
                             </div>
                             <div class="ie-text">
-                                <h4>Camping Equipment</h4>
-                                <p>Quality tents, sleeping mats, and all necessary camping gear</p>
+                                <h4>Lodge Accommodation</h4>
+                                <p>Three nights at quality mid-range lodges based on twin sharing</p>
                             </div>
                         </div>
                         
@@ -216,7 +235,7 @@
                             </div>
                             <div class="ie-text">
                                 <h4>All Meals</h4>
-                                <p>Breakfast, lunch, and dinner prepared by our safari chef</p>
+                                <p>Breakfast, lunch, and dinner at selected lodges and picnic sites</p>
                             </div>
                         </div>
                     </div>
@@ -247,8 +266,8 @@
                                 <i class="fas fa-check"></i>
                             </div>
                             <div class="ie-text">
-                                <h4>Camping Crew</h4>
-                                <p>Dedicated cook and camp assistants to ensure your comfort</p>
+                                <h4>All Taxes</h4>
+                                <p>All government taxes and tourism levies included</p>
                             </div>
                         </div>
                         
@@ -257,8 +276,8 @@
                                 <i class="fas fa-check"></i>
                             </div>
                             <div class="ie-text">
-                                <h4>All Taxes</h4>
-                                <p>All government taxes and tourism levies included</p>
+                                <h4>Hotel Transfers</h4>
+                                <p>Round-trip transfers from your Arusha accommodation</p>
                             </div>
                         </div>
                     </div>
@@ -271,7 +290,7 @@
                         <i class="fas fa-times-circle"></i>
                     </div>
                     <h3>Exclusions</h3>
-                    <p>Additional costs not covered in this camping safari package</p>
+                    <p>Additional costs not covered in this safari package</p>
                 </div>
                 
                 <div class="ie-content">
@@ -311,8 +330,8 @@
                                 <i class="fas fa-times"></i>
                             </div>
                             <div class="ie-text">
-                                <h4>Sleeping Bags</h4>
-                                <p>Sleeping bags available for rent at additional cost if needed</p>
+                                <h4>Alcoholic Beverages</h4>
+                                <p>Beer, wine, spirits and other alcoholic drinks not included</p>
                             </div>
                         </div>
                     </div>
@@ -324,7 +343,7 @@
                             </div>
                             <div class="ie-text">
                                 <h4>Gratuities</h4>
-                                <p>Tips for guides and camp staff (recommended $15-20 per day)</p>
+                                <p>Tips for guides and lodge staff (recommended $15-20 per day)</p>
                             </div>
                         </div>
                         
@@ -343,8 +362,8 @@
                                 <i class="fas fa-times"></i>
                             </div>
                             <div class="ie-text">
-                                <h4>Alcoholic Beverages</h4>
-                                <p>Beer, wine, spirits and other alcoholic drinks not included</p>
+                                <h4>Additional Activities</h4>
+                                <p>Optional activities like walking safaris or hot air balloon rides</p>
                             </div>
                         </div>
                         
@@ -363,7 +382,86 @@
         </div>
         
         <div class="ie-note">
-            <p><strong>Note:</strong> This 3-day premium camping safari itinerary can be customized to include additional parks or activities. <a href="contact.php" class="text-link">Contact our safari experts</a> for personalized options and special requests.</p>
+            <p><strong>Note:</strong> This 4-day Serengeti migration safari itinerary can be customized to include different areas or activities. Contact our safari experts</a> for personalized options and special requests.</p>
+        </div>
+    </div>
+</section>
+
+
+
+
+<section class="safari-faq-section" id="safari-faq">
+    <div class="safari-container">
+        <div class="container">
+            <div class="section-title">
+                <span class="subtitle">Safari Planning Assistance</span>
+                <h2>Frequently Asked Questions About Serengeti Migration Safaris</h2>
+                <p>Find answers to common questions about our Serengeti migration safari adventures in Tanzania.</p>
+            </div>
+            
+            <div class="safari-faq-container">
+                <div class="safari-faq-item">
+                    <div class="safari-faq-question">
+                        <h4>When is the best time to see the wildebeest migration?</h4>
+                        <span class="safari-faq-toggle">+</span>
+                    </div>
+                    <div class="safari-faq-answer">
+                        <p>The Great Migration is a year-round phenomenon, but specific highlights occur at different times. The dramatic river crossings typically happen in the northern Serengeti from July to October. Calving season in the southern plains occurs from January to March. Our expert guides track the herds year-round to maximize your viewing opportunities regardless of when you visit.</p>
+                    </div>
+                </div>
+                
+                <div class="safari-faq-item">
+                    <div class="safari-faq-question">
+                        <h4>Is a 4-day safari enough time to see the migration?</h4>
+                        <span class="safari-faq-toggle">+</span>
+                    </div>
+                    <div class="safari-faq-answer">
+                        <p>Our carefully designed 4-day itinerary focuses on prime migration areas, ensuring excellent viewing opportunities. While longer safaris allow for more comprehensive coverage, this condensed experience delivers remarkable migration encounters in the Serengeti's most productive areas, perfect for travelers with limited time who want to witness this natural spectacle.</p>
+                    </div>
+                </div>
+                
+                <div class="safari-faq-item">
+                    <div class="safari-faq-question">
+                        <h4>What type of accommodation can I expect?</h4>
+                        <span class="safari-faq-toggle">+</span>
+                    </div>
+                    <div class="safari-faq-answer">
+                        <p>You'll stay in comfortable mid-range lodges featuring private rooms with en-suite bathrooms, comfortable beds, and authentic safari decor. These lodges typically offer swimming pools, restaurants, and beautiful settings that enhance your safari experience while providing all necessary modern comforts in the heart of the Serengeti.</p>
+                    </div>
+                </div>
+                
+                <div class="safari-faq-item">
+                    <div class="safari-faq-question">
+                        <h4>How much time is spent driving each day?</h4>
+                        <span class="safari-faq-toggle">+</span>
+                    </div>
+                    <div class="safari-faq-answer">
+                        <p>Our itinerary balances driving time with wildlife viewing. Day 1 involves approximately 6-7 hours driving to reach the Serengeti, with an afternoon game drive. Days 2 and 3 are primarily dedicated to game drives with minimal transit. Day 4 includes a morning game drive and 6-7 hours return to Arusha. Our comfortable vehicles make transit enjoyable with regular stops.</p>
+                    </div>
+                </div>
+                
+                <div class="safari-faq-item">
+                    <div class="safari-faq-question">
+                        <h4>Can this safari be customized?</h4>
+                        <span class="safari-faq-toggle">+</span>
+                    </div>
+                    <div class="safari-faq-answer">
+                        <p>Yes, we can customize this safari to include different areas of the Serengeti, additional parks, or extended duration. Popular additions include Ngorongoro Crater, hot air balloon safaris, or cultural visits to Maasai villages. We can also adjust the itinerary based on current migration locations. Contact us to discuss personalized options.</p>
+                    </div>
+                </div>
+                
+                <div class="safari-faq-item">
+                    <div class="safari-faq-question">
+                        <h4>What wildlife can I expect to see besides the migration?</h4>
+                        <span class="safari-faq-toggle">+</span>
+                    </div>
+                    <div class="safari-faq-answer">
+                        <p>Beyond the spectacular wildebeest and zebra herds, the Serengeti supports incredible biodiversity. You can expect to see lions, leopards, cheetahs, elephants, giraffes, hippos, crocodiles, and numerous antelope species. The park is also a birdwatcher's paradise with over 500 bird species. Your expert guide will help you spot and identify these incredible animals.</p>
+                    </div>
+                </div>
+            </div>
+            
+    
         </div>
     </div>
 </section>
@@ -536,88 +634,44 @@
         </div>
     </div>
 </section>
+<!-- Call to Action Section - Altezza Style with Customer Care -->
 
-<section class="safari-faq-section" id="safari-faq">
-    <div class="safari-container">
-        <div class="container">
-            <div class="section-title">
-                <span class="subtitle">Safari Planning Assistance</span>
-                <h2>Frequently Asked Questions About Camping Safaris</h2>
-                <p>Find answers to common questions about our premium camping safari adventures in Tanzania.</p>
-            </div>
-            
-            <div class="safari-faq-container">
-                <div class="safari-faq-item">
-                    <div class="safari-faq-question">
-                        <h4>What makes your camping safari "premium"?</h4>
-                        <span class="safari-faq-toggle">+</span>
-                    </div>
-                    <div class="safari-faq-answer">
-                        <p>Our premium camping safari offers higher quality equipment, more comfortable tents with proper mattresses, experienced guides, and a dedicated camp crew including a professional chef. We use designated campsites with facilities and focus on smaller groups for personalized attention.</p>
-                    </div>
-                </div>
+<script>
+    // FAQ Toggle Functionality with unique class names
+    document.addEventListener('DOMContentLoaded', function() {
+        const safariFaqQuestions = document.querySelectorAll('.safari-faq-question');
+        
+        safariFaqQuestions.forEach(question => {
+            question.addEventListener('click', () => {
+                const answer = question.nextElementSibling;
+                const toggle = question.querySelector('.safari-faq-toggle');
                 
-                <div class="safari-faq-item">
-                    <div class="safari-faq-question">
-                        <h4>What facilities are available at the campsites?</h4>
-                        <span class="safari-faq-toggle">+</span>
-                    </div>
-                    <div class="safari-faq-answer">
-                        <p>Our designated campsites offer basic facilities including shared bathroom blocks with toilets and showers (sometimes with hot water), cooking areas, and security. Facilities vary by location but we select the best available public campsites for comfort and safety.</p>
-                    </div>
-                </div>
+                // Toggle active class
+                answer.classList.toggle('active');
                 
-                <div class="safari-faq-item">
-                    <div class="safari-faq-question">
-                        <h4>Is a 3-day camping safari enough time?</h4>
-                        <span class="safari-faq-toggle">+</span>
-                    </div>
-                    <div class="safari-faq-answer">
-                        <p>Our 3-day itinerary is perfect for travelers with limited time, covering three diverse parks with excellent wildlife viewing. While longer safaris allow deeper exploration, this compact itinerary provides an authentic Tanzanian wilderness experience with efficient routing between parks.</p>
-                    </div>
-                </div>
-                
-                <div class="safari-faq-item">
-                    <div class="safari-faq-question">
-                        <h4>What should I pack for a camping safari?</h4>
-                        <span class="safari-faq-toggle">+</span>
-                    </div>
-                    <div class="safari-faq-answer">
-                        <p>Essential items include warm layers for cool evenings, comfortable walking shoes, rain jacket, hat, sunscreen, flashlight, personal toiletries, camera, and any medications. We provide detailed packing lists upon booking to ensure you're well-prepared for your adventure.</p>
-                    </div>
-                </div>
-                
-                <div class="safari-faq-item">
-                    <div class="safari-faq-question">
-                        <h4>How safe is camping in Tanzania's national parks?</h4>
-                        <span class="safari-faq-toggle">+</span>
-                    </div>
-                    <div class="safari-faq-answer">
-                        <p>Camping in designated campsites within national parks is very safe. These areas are monitored by park rangers, and our experienced guides follow all safety protocols. Animals generally avoid campsites, especially with campfires and human activity, but we maintain proper food storage and safety measures.</p>
-                    </div>
-                </div>
-                
-                <div class="safari-faq-item">
-                    <div class="safari-faq-question">
-                        <h4>What type of meals are provided on camping safaris?</h4>
-                        <span class="safari-faq-toggle">+</span>
-                    </div>
-                    <div class="safari-faq-answer">
-                        <p>Our safari chef prepares delicious, hearty meals including full breakfasts, picnic lunches, and multi-course dinners. We accommodate dietary restrictions with advance notice and maintain high hygiene standards. Meals are a highlight of the camping experience with fresh ingredients and varied menus.</p>
-                    </div>
-                </div>
-            </div>
-            
-            <div class="safari-faq-cta">
-                <p>Still have questions? Our safari experts are here to help!</p>
-                <a href="contact.php" class="safari-btn-primary">Contact Us</a>
-            </div>
-        </div>
-    </div>
-</section>
+                // Change toggle symbol and add rotation effect
+                if (answer.classList.contains('active')) {
+                    toggle.textContent = '−';
+                    toggle.classList.add('rotate');
+                } else {
+                    toggle.textContent = '+';
+                    toggle.classList.remove('rotate');
+                }
+            });
+        });
+    });
+</script>
 
+<?php include 'plugins/call-to-action.php';?>
+
+
+<?php include 'plugins/pop-up-expert.php';?>
 <?php include 'plugins/mobile-footer.php';?>
 <?php include 'plugins/booking-form.php';?>
 
 
 <?php include 'plugins/footer.php';?>
+
+<!-- H1 is unique and accurately describes the 4-day wildebeest migration adventure -->
+</body>
+</html>
