@@ -432,7 +432,6 @@
     </div>
 </section>
 
-<?php include 'plugins/call-to-action.php';?>
 
 
 
