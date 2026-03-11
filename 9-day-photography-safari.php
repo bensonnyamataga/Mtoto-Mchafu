@@ -3,28 +3,24 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>9 Days Photography Safari - Tarangire, Serengeti & Ngorongoro</title>
-    <meta name="description" content="Experience a 9-day photography safari adventure through Tanzania's iconic Tarangire, Serengeti, and Ngorongoro Crater. Photo-focused vehicle setup with professional guidance.">
+    <title>9 Days Photography Safari, Tarangire, Serengeti & Ngorongoro</title>
+    <meta name="description" content="Experience a 9-day photography safari adventure through Tanzania's iconic Tarangire, Serengeti, and Ngorongoro Crater.">
     <meta name="keywords" content="9 days Tanzania safari, photography safari, wildlife photography, Tarangire, Serengeti, Ngorongoro Crater, photo-focused vehicle, professional photography guidance">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <link rel="canonical" href="https://deeptanzaniatours.com/9-day-photography-safari.php" />
     <link rel="stylesheet" href="style/package.css">
     <link rel="stylesheet" href="style/style.css">
+    <!-- Favicon -->
+    <link rel="icon" href="/img/favicon/favicon.ico" sizes="any">
+    <link rel="icon" type="img/svg+xml" href="/img/favicon/favicon.svg">
+    <link rel="apple-touch-icon" href="/img/favicon/apple-touch-icon.png">
+    <link rel="manifest" href="/img/favicon/site.webmanifest">
+    <link rel="icon" type="image/png" sizes="32x32" href="/img/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/img/favicon/favicon-16x16.png">
 
-    <!-- Favicon (recommended set) -->
-<link rel="icon" href="/img/favicon/favicon.ico" sizes="any">
-<link rel="icon" type="img/svg+xml" href="/img/favicon/favicon.svg">
 
-<!-- Apple / iOS -->
-<link rel="apple-touch-icon" href="/img/favicon/apple-touch-icon.png">
-
-<!-- Android / PWA -->
-<link rel="manifest" href="/img/favicon/site.webmanifest">
-
-<!-- Optional: classic PNG fallbacks -->
-<link rel="icon" type="image/png" sizes="32x32" href="/img/favicon/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="/img/favicon/favicon-16x16.png">
+ 
 
     <script src="script.js"></script>
     <script src="script/package.js"></script>
@@ -198,7 +194,7 @@
                     </div>
                     <div class="day-visual">
                         <div class="day-visual-frame">
-                            <img src="img/central-serengeti-sunset.jpg" alt="Central Serengeti Sunset">
+                            <img src="img/serengeti-sun-set.jpg" alt="Central Serengeti Sunset">
                         </div>
                     </div>
                 </div>
@@ -223,7 +219,7 @@
                     </div>
                     <div class="day-visual">
                         <div class="day-visual-frame">
-                            <img src="img/ngorongoro-crater-view.jpg" alt="View of Ngorongoro Crater from the rim">
+                            <img src="img/ngorongoro-crater-from-arusha.jpg" alt="View of Ngorongoro Crater from the rim">
                         </div>
                     </div>
                 </div>
@@ -248,7 +244,7 @@
                     </div>
                     <div class="day-visual">
                         <div class="day-visual-frame">
-                            <img src="img/Photographic-Safari-in-Tanzania.jpg" alt="Wildlife in Ngorongoro Crater">
+                            <img src="img/ngorongoro-crater-view.jpg" alt="Wildlife in Ngorongoro Crater">
                         </div>
                     </div>
                 </div>
@@ -273,7 +269,7 @@
                     </div>
                     <div class="day-visual">
                         <div class="day-visual-frame">
-                            <img src="img/lake-manyara-tree-climbing-lion.jpg" alt="Lake Manyara National Park">
+                            <img src="img/lake-manyara-national-park-tour.jpg" alt="Lake Manyara National Park">
                         </div>
                     </div>
                 </div>
