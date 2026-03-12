@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>7 Days Classic Safari - Tarangire, Serengeti & Ngorongoro Crater</title>
-    <meta name="description" content="Experience a 7-day mid-range safari adventure through Tanzania's iconic Tarangire, Serengeti, and Ngorongoro Crater. Stay at comfortable camps and enjoy private 4x4 game drives.">
+    <title>7 Days Classic Safari, Tarangire, Serengeti & Ngorongoro</title>
+    <meta name="description" content="Experience a 7-day mid-range safari adventure through Tanzania's iconic Tarangire, Serengeti, and Ngorongoro Crater.">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <link rel="canonical" href="https://deeptanzaniatours.com/7-day-classic-safari.php" />
