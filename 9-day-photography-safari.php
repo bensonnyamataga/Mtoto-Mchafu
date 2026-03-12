@@ -386,15 +386,14 @@
             <!-- Arusha Accommodation -->
             <div class="accommodation-card">
                 <div class="accommodation-image">
-                    <img src="img/arusha-kibo-palace-hotel.jpg" alt="Kibo Palace Hotel Arusha">
+                    <img src="img/kibo-palace-arusha-luxury.jpg" alt="Kibo Palace Hotel Arusha">
                     <div class="accommodation-location">
                         <i class="fas fa-map-marker-alt"></i>
                         <span>Arusha</span>
                     </div>
                     <div class="image-overlay">
-                        <a href="https://www.kibopalacehotel.com/" target="_blank" class="view-website-btn">
-                            <i class="fas fa-external-link-alt"></i> View Hotel Website
-                        </a>
+                        
+                          
                     </div>
                 </div>
                 <div class="accommodation-content">
@@ -434,9 +433,7 @@
                         <span>Tarangire National Park</span>
                     </div>
                     <div class="image-overlay">
-                        <a href="https://new.osupukolodges.com/tarangire-osupuko-lodges/" target="_blank" class="view-website-btn">
-                            <i class="fas fa-external-link-alt"></i> View Lodge Website
-                        </a>
+                        
                     </div>
                 </div>
                 <div class="accommodation-content">
@@ -470,15 +467,13 @@
             <!-- Serengeti Accommodation -->
             <div class="accommodation-card">
                 <div class="accommodation-image">
-                    <img src="img/bao-bab-central-serengeti.jpg" alt="Bao Bab Central Serengeti">
+                    <img src="img/Bao-Bab-central-serengeti.jpg" alt="Bao Bab Central Serengeti">
                     <div class="accommodation-location">
                         <i class="fas fa-map-marker-alt"></i>
                         <span>Central Serengeti</span>
                     </div>
                     <div class="image-overlay">
-                        <a href="#" target="_blank" class="view-website-btn">
-                            <i class="fas fa-external-link-alt"></i> View Lodge Website
-                        </a>
+                       
                     </div>
                 </div>
                 <div class="accommodation-content">
@@ -517,11 +512,7 @@
                         <i class="fas fa-map-marker-alt"></i>
                         <span>Ngorongoro Crater Rim</span>
                     </div>
-                    <div class="image-overlay">
-                        <a href="#" target="_blank" class="view-website-btn">
-                            <i class="fas fa-external-link-alt"></i> View Camp Website
-                        </a>
-                    </div>
+                    
                 </div>
                 <div class="accommodation-content">
                     <h3>Embarakai Ngorongoro Camp</h3>
