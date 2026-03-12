@@ -700,7 +700,6 @@
     </div>
 </section>
 <!-- Call to Action Section - Altezza Style with Customer Care -->
-<?php include 'plugins/whats-email.php';?>
 
 
 <script>
