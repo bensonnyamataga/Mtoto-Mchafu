@@ -753,10 +753,7 @@
     </div>
 </section>
 <!-- Call to Action Section - Altezza Style with Customer Care -->
-<?php include 'plugins/whats-email.php';?>
 
-
-<?php include 'plugins/pop-up-expert.php';?>
 <script>
     // FAQ Toggle Functionality with unique class names
     document.addEventListener('DOMContentLoaded', function() {
@@ -782,9 +779,12 @@
         });
     });
 </script>
+<?php include 'plugins/call-to-action.php';?>
 
-                <?php include 'plugins/booking-form.php';?>
 
+<?php include 'plugins/pop-up-expert.php';?>
 <?php include 'plugins/mobile-footer.php';?>
+<?php include 'plugins/booking-form.php';?>
+
 
 <?php include 'plugins/footer.php';?>
