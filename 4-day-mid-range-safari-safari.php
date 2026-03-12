@@ -637,10 +637,7 @@
                 </div>
             </div>
             
-            <div class="safari-faq-cta">
-                <p>Still have questions? Our safari experts are here to help!</p>
-                <a href="contact.php" class="safari-btn-primary">Contact Us</a>
-            </div>
+            
         </div>
     </div>
 </section>
@@ -672,7 +669,12 @@
             });
         });
     </script>
+<?php include 'plugins/call-to-action.php';?>
+
+
+<?php include 'plugins/pop-up-expert.php';?>
 <?php include 'plugins/mobile-footer.php';?>
+<?php include 'plugins/booking-form.php';?>
+
 
 <?php include 'plugins/footer.php';?>
-<?php include 'plugins/booking-form.php';?>
