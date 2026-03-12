@@ -710,7 +710,6 @@
     });
 </script>
 
-<?php include 'plugins/call-to-action.php';?>
 
 
 <?php include 'plugins/pop-up-expert.php';?>
