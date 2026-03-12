@@ -4,10 +4,20 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>6 Days Ultimate Wilderness Camping Safari</title>
+    <meta name="description" content=" On a 6-day immersive wilderness camping safari in Tanzania, exploring Tarangire, Lake Manyara, Serengeti, and Ngorongoro Crater.">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
-   <link rel="stylesheet" href="style/style.css">
+    <link rel="canonical" href="https://deeptanzaniatours.com/6-days-wilderness-camping-safari.php" />
+<link rel="stylesheet" href="style/style.css">
    <script src="script/script.js"></script>
+   <!-- Favicon -->
+    <link rel="icon" href="/img/favicon/favicon.ico" sizes="any">
+    <link rel="icon" type="img/svg+xml" href="/img/favicon/favicon.svg">
+    <link rel="apple-touch-icon" href="/img/favicon/apple-touch-icon.png">
+    <link rel="manifest" href="/img/favicon/site.webmanifest">
+    <link rel="icon" type="image/png" sizes="32x32" href="/img/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/img/favicon/favicon-16x16.png">
+
 </head>
 <body>
 
@@ -23,10 +33,9 @@
         <div class="hero-altoo-content">
             <h1>6 Days Ultimate Wilderness Camping Safari</h1>
             <p>An immersive 6-day adventure in the heart of Africa, where you camp under the stars and experience Tanzania's wildlife like never before.</p>
-            <div class="hero-altoo-btns">
-                <a href="#tours" class="btn btn-primary">View Packages</a>
-                <a href="#book" class="btn btn-secondary">Book Now</a>
-            </div>
+            
+            <?php include 'plugins/header-cta.php';?>
+
         </div>
     </div>
 </section>
@@ -654,10 +663,7 @@
                 
             </div>
             
-            <div class="safari-faq-cta">
-                <p>Still have questions? Our safari experts are here to help!</p>
-                <a href="#contact" class="safari-btn-primary">Contact Us</a>
-            </div>
+            
         </div>
     </div>
 </section>
@@ -688,14 +694,14 @@
             });
         });
     </script>
+<?php include 'plugins/call-to-action.php';?>
 
-<?php include 'plugins/footer.php';?>
+
+<?php include 'plugins/pop-up-expert.php';?>
+<?php include 'plugins/mobile-footer.php';?>
 <?php include 'plugins/booking-form.php';?>
 
-    <!-- Additional sections would continue here for Kilimanjaro, Itineraries, About Tanzania, etc. -->
 
-    
-<?php include 'plugins/mobile-footer.php';?>
-
+<?php include 'plugins/footer.php';?>
 </body>
 </html>
