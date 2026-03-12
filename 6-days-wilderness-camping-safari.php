@@ -7,7 +7,7 @@
     <meta name="description" content=" On a 6-day immersive wilderness camping safari in Tanzania, exploring Tarangire, Lake Manyara, Serengeti, and Ngorongoro Crater.">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
-    <link rel="canonical" href="https://deeptanzaniatours.com/6-days-wilderness-camping-saf-safari.php" />
+    <link rel="canonical" href="https://deeptanzaniatours.com/6-days-wilderness-camping-safari.php" />
 <link rel="stylesheet" href="style/style.css">
    <script src="script/script.js"></script>
    <!-- Favicon -->
