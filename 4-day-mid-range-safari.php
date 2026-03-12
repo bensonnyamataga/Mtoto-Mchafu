@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>4 Day Exclusive Mid Range Safari Experiences | Tanzania Wildlife</title>
+    <title>4 Day Exclusive Mid Range Safari Experiences </title>
     <meta name="description" content="A 4-day safari that takes you deep into the heart of the wilderness, providing an exclusive and luxurious wildlife experience in Tanzania's premier national parks.">
     <meta name="keywords" content="4 day exclusive safari Tanzania, mid-range luxury safari, Tarangire National Park, Serengeti, Ngorongoro Crater, exclusive wildlife experience, Tanzania luxury safari">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
