@@ -681,7 +681,7 @@
     </div>
 </section>
 <!-- Call to Action Section - Altezza Style with Customer Care -->
-<?php include 'plugins/whats-email.php';?>
+
 
 
 <script>
@@ -710,6 +710,7 @@
     });
 </script>
 
+<?php include 'plugins/call-to-action.php';?>
 
 
 <?php include 'plugins/pop-up-expert.php';?>
