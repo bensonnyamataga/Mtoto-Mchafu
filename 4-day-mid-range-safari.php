@@ -27,7 +27,7 @@
             <p class="hero-subtitle">A 4-day safari that takes you deep into the heart of the wilderness, providing an exclusive and luxurious wildlife experience</p>
             <div class="hero-altoo-btns">
                 <a href="#itinerary" class="btn btn-primary">Explore Itinerary</a>
-                <a href="#booking-form" class="btn btn-secondary">Book Now</a>
+                <a href="#booking-form" class="btn btn-secondary" onclick="openBookingPopup()">Send Inquiry</a>
             </div>
         </div>
     </div>
@@ -613,10 +613,7 @@
                 </div>
             </div>
             
-            <div class="safari-faq-cta">
-                <p>Still have questions? Our safari experts are here to help!</p>
-                <a href="contact.php" class="safari-btn-primary">Contact Us</a>
-            </div>
+            
         </div>
     </div>
 </section>
@@ -649,6 +646,12 @@
         });
     });
 </script>
+<?php include 'plugins/call-to-action.php';?>
+
+
+<?php include 'plugins/pop-up-expert.php';?>
 <?php include 'plugins/mobile-footer.php';?>
+<?php include 'plugins/booking-form.php';?>
+
 
 <?php include 'plugins/footer.php';?>
