@@ -34,7 +34,7 @@
 <!-- Hero Section -->
 <section class="hero-altoo" id="home-altoo">
     <div class="hero-altoo-background">
-        <img src="img/7-days-classic-safari-banner.jpg" alt="7 Days Classic Tanzania Safari – Tarangire, Serengeti & Ngorongoro Crater">
+        <img src="img/day-ngorongoro-crater-safari-banner.jpg" alt="7 Days Classic Tanzania Safari – Tarangire, Serengeti & Ngorongoro Crater">
         <div class="hero-altoo-overlay"></div>
     </div>
     <div class="container">
@@ -71,7 +71,7 @@
                         </p>
                     </div>
                     <div class="day-visual">
-                        <img src="img/arusha-kibo-palace.jpg" alt="Kibo Palace Hotel Arusha">
+                        <img src="img/kibo-palace-arusha-luxury.jpg" alt="Kibo Palace Hotel Arusha">
                     </div>
                 </div>
                 <div class="day-stats">
@@ -232,7 +232,7 @@
                         </p>
                     </div>
                     <div class="day-visual">
-                        <img src="img/lake-manyara-tree-climbing-lion.jpg" alt="Lake Manyara National Park">
+                        <img src="img/lake-manyara-national-park-tour.jpg" alt="Lake Manyara National Park">
                     </div>
                 </div>
                 <div class="day-stats">
@@ -322,16 +322,12 @@
             <!-- Arusha Accommodation -->
             <div class="accommodation-card">
                 <div class="accommodation-image">
-                    <img src="img/arusha-kibo-palace-hotel.jpg" alt="Kibo Palace Hotel Arusha">
+                    <img src="img/kibo-palace-arusha-luxury.jpg" alt="Kibo Palace Hotel Arusha">
                     <div class="accommodation-location">
                         <i class="fas fa-map-marker-alt"></i>
                         <span>Arusha</span>
                     </div>
-                    <div class="image-overlay">
-                        <a href="https://www.kibopalacehotel.com/" target="_blank" class="view-website-btn">
-                            <i class="fas fa-external-link-alt"></i> View Hotel Website
-                        </a>
-                    </div>
+                    
                 </div>
                 <div class="accommodation-content">
                     <h3>Kibo Palace Hotel Arusha</h3>
@@ -490,7 +486,7 @@
             <!-- Karatu Accommodation -->
             <div class="accommodation-card">
                 <div class="accommodation-image">
-                    <img src="img/kankari-lodge-karatu.jpg" alt="Kankari Lodge Karatu">
+                    <img src="img/kankari-logde-karatu.jpg" alt="Kankari Lodge Karatu">
                     <div class="accommodation-location">
                         <i class="fas fa-map-marker-alt"></i>
                         <span>Karatu Highlands</span>
