@@ -1,93 +1,3 @@
-<?php
-$statusMessage = '';
-$statusType = '';
-
-if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['booking_form_submit'])) {
-    $fullName        = trim($_POST['full-name'] ?? '');
-    $email           = trim($_POST['email'] ?? '');
-    $phone           = trim($_POST['phone'] ?? '');
-    $startDate       = trim($_POST['start-date'] ?? '');
-    $adults          = trim($_POST['adults'] ?? '');
-    $children        = trim($_POST['children'] ?? '');
-    $packageType     = trim($_POST['package-type'] ?? '');
-    $specialRequests = trim($_POST['special-requests'] ?? '');
-
-    if ($fullName === '' || $email === '' || $phone === '' || $startDate === '' || $packageType === '') {
-        $statusMessage = 'Please fill in all required fields.';
-        $statusType = 'error';
-    } elseif (!filter_var($email, FILTER_VALIDATE_EMAIL)) {
-        $statusMessage = 'Please enter a valid email address.';
-        $statusType = 'error';
-    } else {
-        $blocked = ["\r", "\n", "%0a", "%0d", "content-type:", "bcc:", "cc:", "to:"];
-        $hasBadInput = false;
-
-        foreach ($blocked as $bad) {
-            if (
-                stripos($fullName, $bad) !== false ||
-                stripos($email, $bad) !== false ||
-                stripos($phone, $bad) !== false
-            ) {
-                $hasBadInput = true;
-                break;
-            }
-        }
-
-        if ($hasBadInput) {
-            $statusMessage = 'Invalid form input detected.';
-            $statusType = 'error';
-        } else {
-            $to = "info@deeptanzaniatours.com, deeptanzania@gmail.com";
-            $subject = "New Booking Inquiry - Deep Tanzania Tours";
-
-            $fullNameSafe        = htmlspecialchars($fullName, ENT_QUOTES, 'UTF-8');
-            $emailSafe           = htmlspecialchars($email, ENT_QUOTES, 'UTF-8');
-            $phoneSafe           = htmlspecialchars($phone, ENT_QUOTES, 'UTF-8');
-            $startDateSafe       = htmlspecialchars($startDate, ENT_QUOTES, 'UTF-8');
-            $adultsSafe          = htmlspecialchars($adults, ENT_QUOTES, 'UTF-8');
-            $childrenSafe        = htmlspecialchars($children, ENT_QUOTES, 'UTF-8');
-            $packageTypeSafe     = htmlspecialchars($packageType, ENT_QUOTES, 'UTF-8');
-            $specialRequestsSafe = nl2br(htmlspecialchars($specialRequests, ENT_QUOTES, 'UTF-8'));
-
-            $message = "
-            <html>
-            <head>
-                <meta charset='UTF-8'>
-                <title>New Booking Inquiry</title>
-            </head>
-            <body style='font-family: Arial, sans-serif; color: #333; line-height: 1.6;'>
-                <h2 style='color: #75682c;'>New Booking Inquiry Received</h2>
-                <table cellpadding='10' cellspacing='0' border='1' style='border-collapse: collapse; width: 100%; max-width: 700px;'>
-                    <tr><td><strong>Full Name</strong></td><td>{$fullNameSafe}</td></tr>
-                    <tr><td><strong>Email Address</strong></td><td>{$emailSafe}</td></tr>
-                    <tr><td><strong>Mobile Number</strong></td><td>{$phoneSafe}</td></tr>
-                    <tr><td><strong>Planned Start Date</strong></td><td>{$startDateSafe}</td></tr>
-                    <tr><td><strong>Adults</strong></td><td>{$adultsSafe}</td></tr>
-                    <tr><td><strong>Children</strong></td><td>{$childrenSafe}</td></tr>
-                    <tr><td><strong>Package Type</strong></td><td>{$packageTypeSafe}</td></tr>
-                    <tr><td><strong>Message / Special Requests</strong></td><td>{$specialRequestsSafe}</td></tr>
-                </table>
-            </body>
-            </html>
-            ";
-
-            $headers  = "MIME-Version: 1.0\r\n";
-            $headers .= "Content-type: text/html; charset=UTF-8\r\n";
-            $headers .= "From: Deep Tanzania Tours <info@deeptanzaniatours.com>\r\n";
-            $headers .= "Reply-To: {$fullName} <{$email}>\r\n";
-
-            if (mail($to, $subject, $message, $headers)) {
-                $statusMessage = 'Thank you! Your booking inquiry has been sent successfully.';
-                $statusType = 'success';
-                $_POST = [];
-            } else {
-                $statusMessage = 'Failed to send your inquiry. Please try again later.';
-                $statusType = 'error';
-            }
-        }
-    }
-}
-?>
 
 <style>
     /* BOOKING POPUP MODAL STYLES - SEPARATE CSS */
@@ -456,46 +366,38 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['booking_form_submit']
         <div class="booking-popup-heading">
             <h3>Book Your African Adventure</h3>
             <p>Reserve your spot for this unforgettable Kilimanjaro, Safari, or Zanzibar experience</p>
-
-            <?php if ($statusMessage !== ''): ?>
-                <div style="margin-top:15px; padding:12px 14px; border-radius:8px; font-size:14px; font-weight:600; background: <?php echo $statusType === 'success' ? '#e8f7ed' : '#fdecec'; ?>; color: <?php echo $statusType === 'success' ? '#1f6b37' : '#a12626'; ?>;">
-                    <?php echo htmlspecialchars($statusMessage, ENT_QUOTES, 'UTF-8'); ?>
-                </div>
-            <?php endif; ?>
         </div>
         
-        <form class="booking-popup-form" id="universal-booking-form" method="POST" action="">
-            <input type="hidden" name="booking_form_submit" value="1">
-
+        <form class="booking-popup-form" id="universal-booking-form">
             <div class="popup-form-group">
                 <label for="popup-full-name">Your Full Name</label>
-                <input type="text" id="popup-full-name" name="full-name" required value="<?php echo htmlspecialchars($_POST['full-name'] ?? '', ENT_QUOTES, 'UTF-8'); ?>">
+                <input type="text" id="popup-full-name" name="full-name" required>
             </div>
             
             <div class="popup-form-group">
                 <label for="popup-email">Your Email Address</label>
-                <input type="email" id="popup-email" name="email" required value="<?php echo htmlspecialchars($_POST['email'] ?? '', ENT_QUOTES, 'UTF-8'); ?>">
+                <input type="email" id="popup-email" name="email" required>
             </div>
             
             <div class="popup-form-group">
                 <label for="popup-phone">Mobile Number</label>
-                <input type="tel" id="popup-phone" name="phone" required value="<?php echo htmlspecialchars($_POST['phone'] ?? '', ENT_QUOTES, 'UTF-8'); ?>">
+                <input type="tel" id="popup-phone" name="phone" required>
             </div>
             
             <div class="popup-form-group">
                 <label for="popup-start-date">When are you planning to come?*</label>
-                <input type="date" id="popup-start-date" name="start-date" required value="<?php echo htmlspecialchars($_POST['start-date'] ?? '', ENT_QUOTES, 'UTF-8'); ?>">
+                <input type="date" id="popup-start-date" name="start-date" required>
             </div>
             
             <div class="popup-form-row">
                 <div class="popup-form-group">
                     <label for="popup-adults">Number of Adults</label>
-                    <input type="text" id="popup-adults" name="adults" placeholder="e.g. 2" value="<?php echo htmlspecialchars($_POST['adults'] ?? '', ENT_QUOTES, 'UTF-8'); ?>">
+                    <input type="text" id="popup-adults" name="adults" placeholder="e.g. 2">
                 </div>
                 
                 <div class="popup-form-group">
                     <label for="popup-children">Number of Children</label>
-                    <input type="text" id="popup-children" name="children" placeholder="e.g. 1" value="<?php echo htmlspecialchars($_POST['children'] ?? '', ENT_QUOTES, 'UTF-8'); ?>">
+                    <input type="text" id="popup-children" name="children" placeholder="e.g. 1">
                 </div>
             </div>
             
@@ -503,21 +405,21 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['booking_form_submit']
                 <label for="popup-package-type">Which package are you interested in?</label>
                 <select id="popup-package-type" name="package-type" required>
                     <option value="">Select package</option>
-                    <option value="Kilimanjaro Trekking" <?php echo (($_POST['package-type'] ?? '') === 'Kilimanjaro Trekking') ? 'selected' : ''; ?>>Kilimanjaro Trekking</option>
-                    <option value="Safari Adventure" <?php echo (($_POST['package-type'] ?? '') === 'Safari Adventure') ? 'selected' : ''; ?>>Safari Adventure</option>
-                    <option value="Zanzibar Beach" <?php echo (($_POST['package-type'] ?? '') === 'Zanzibar Beach') ? 'selected' : ''; ?>>Zanzibar Beach Holiday</option>
-                    <option value="Kilimanjaro + Safari" <?php echo (($_POST['package-type'] ?? '') === 'Kilimanjaro + Safari') ? 'selected' : ''; ?>>Kilimanjaro & Safari Combo</option>
-                    <option value="Safari + Zanzibar" <?php echo (($_POST['package-type'] ?? '') === 'Safari + Zanzibar') ? 'selected' : ''; ?>>Safari & Zanzibar Combo</option>
-                    <option value="Complete Experience" <?php echo (($_POST['package-type'] ?? '') === 'Complete Experience') ? 'selected' : ''; ?>>Complete Tanzania Experience</option>
+                    <option value="Kilimanjaro Trekking">Kilimanjaro Trekking</option>
+                    <option value="Safari Adventure">Safari Adventure</option>
+                    <option value="Zanzibar Beach">Zanzibar Beach Holiday</option>
+                    <option value="Kilimanjaro + Safari">Kilimanjaro & Safari Combo</option>
+                    <option value="Safari + Zanzibar">Safari & Zanzibar Combo</option>
+                    <option value="Complete Experience">Complete Tanzania Experience</option>
                 </select>
             </div>
             
             <div class="popup-form-group">
                 <label for="popup-special-requests">Message / Special Requests</label>
-                <textarea id="popup-special-requests" name="special-requests" rows="4"><?php echo htmlspecialchars($_POST['special-requests'] ?? '', ENT_QUOTES, 'UTF-8'); ?></textarea>
+                <textarea id="popup-special-requests" name="special-requests" rows="4"></textarea>
             </div>
             
-            <button type="submit" class="popup-btn-primary" id="booking-submit-btn">
+            <button type="submit" class="popup-btn-primary">
                 <i class="fas fa-paper-plane"></i> Submit Inquiry
             </button>
             
@@ -527,26 +429,19 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['booking_form_submit']
         </form>
     </div>
 </div>
-
 <script>
     document.addEventListener('DOMContentLoaded', function() {
-        const bookingForm = document.getElementById('universal-booking-form');
-        const submitBtn = document.getElementById('booking-submit-btn');
-
-        if (bookingForm && submitBtn) {
-            bookingForm.addEventListener('submit', function() {
-                submitBtn.disabled = true;
-                submitBtn.innerHTML = '<i class="fas fa-spinner fa-spin"></i> Sending...';
-            });
-        }
+        // Form submission
+        const bookingForm = document.getElementById('kilimanjaro-booking-form');
+        bookingForm.addEventListener('submit', function(e) {
+            e.preventDefault();
+            alert('Thank you for your Kilimanjaro and Serengeti booking request! We will contact you shortly to confirm your adventure.');
+            closeBookingPopup();
+        });
         
         // Set minimum date to today for date inputs
         const today = new Date().toISOString().split('T')[0];
         document.getElementById('popup-start-date').min = today;
-
-        <?php if ($statusMessage !== ''): ?>
-            openBookingPopup();
-        <?php endif; ?>
     });
 
     // Booking Popup Functions
