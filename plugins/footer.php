@@ -58,9 +58,6 @@
 
         <div class="footer-line"></div>
 
-        
-
-
         <div class="footer-grid">
             <div class="footer-col">
                 <h3>About Us</h3>
@@ -248,52 +245,6 @@
     display: block;
 }
 
-.footer-cta-row {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    gap: 16px;
-    flex-wrap: wrap;
-    margin-bottom: 24px;
-}
-
-.footer-cta-btn {
-    display: inline-flex;
-    align-items: center;
-    justify-content: center;
-    gap: 10px;
-    min-width: 180px;
-    padding: 12px 22px;
-    border-radius: 999px;
-    text-decoration: none;
-    font-size: 14px;
-    font-weight: 600;
-    transition: all 0.3s ease;
-    border: 1px solid rgba(117, 104, 44, 0.20);
-    box-shadow: 0 6px 18px rgba(117, 104, 44, 0.08);
-}
-
-.footer-email-btn {
-    background: #ffffff;
-    color: var(--primary);
-}
-
-.footer-email-btn:hover {
-    transform: translateY(-2px);
-    background: #f8f6ef;
-}
-
-.footer-whatsapp-btn {
-    background: #25D366;
-    color: #ffffff;
-    border-color: #25D366;
-}
-
-.footer-whatsapp-btn:hover {
-    transform: translateY(-2px);
-    box-shadow: 0 8px 20px rgba(37, 211, 102, 0.25);
-}
-
 .footer-grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
@@ -315,8 +266,8 @@
 
 .footer-col p {
     margin-bottom: 12px;
-    line-height: 1.6;
-    font-size: 14px;
+    line-height: 1.7;
+    font-size: 15.5px;
     color: #333;
 }
 
@@ -361,7 +312,7 @@
     text-decoration: none;
     transition: all 0.3s ease;
     display: inline-block;
-    font-size: 14px;
+    font-size: 15.5px;
     font-weight: 500;
 }
 
@@ -374,14 +325,14 @@
     color: var(--primary);
     margin-right: 8px;
     width: 18px;
-    font-size: 14px;
+    font-size: 15px;
 }
 
 .footer-bottom {
     border-top: 1px solid rgba(117, 104, 44, 0.3);
     padding-top: 18px;
     text-align: center;
-    font-size: 14px;
+    font-size: 15px;
     color: #333;
     font-weight: 500;
 }
@@ -391,7 +342,7 @@
     text-decoration: none;
     transition: color 0.3s ease;
     font-weight: 500;
-    font-size: 14px;
+    font-size: 15px;
 }
 
 .footer-bottom a:hover {
@@ -454,16 +405,6 @@
         text-align: center;
     }
 
-    .footer-cta-row {
-        flex-direction: column;
-        gap: 12px;
-    }
-
-    .footer-cta-btn {
-        width: 100%;
-        max-width: 320px;
-    }
-
     .footer-grid {
         grid-template-columns: 1fr;
         gap: 18px;
@@ -479,7 +420,7 @@
 
     .footer-col p,
     .footer-links a {
-        font-size: 14px;
+        font-size: 15px;
     }
 
     .partner-logos-grid,
@@ -490,6 +431,11 @@
     .partner-logo-box,
     .payment-method-box {
         height: 74px;
+    }
+
+    .footer-bottom,
+    .footer-bottom a {
+        font-size: 14.5px;
     }
 }
 
@@ -511,7 +457,7 @@
     .footer-links a,
     .footer-bottom,
     .footer-bottom a {
-        font-size: 13px;
+        font-size: 14px;
     }
 
     .partner-logos-grid,
@@ -524,12 +470,6 @@
     .payment-method-box {
         height: 68px;
         padding: 8px;
-    }
-
-    .footer-cta-btn {
-        min-width: 100%;
-        font-size: 13px;
-        padding: 11px 18px;
     }
 }
 </style>
