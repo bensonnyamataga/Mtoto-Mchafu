@@ -5,16 +5,8 @@
             <div class="footer-brand-logo-box">
                 <img src="img/footer-logo.png" alt="Deep Tanzania Tours Logo">
             </div>
-
-            <div class="footer-email-center-box">
-                <a href="mailto:info@deeptanzaniatours.com" class="footer-email-btn-inline">
-                    <i class="fas fa-envelope"></i>
-                    <span>Email Us</span>
-                </a>
-            </div>
-
             <div class="footer-brand-slogan">
-                <h2>Travel Deep, Travel Right!</h2>
+                <h2>"Dive into the Heart of Tanzania"</h2> <br>
             </div>
         </div>
 
@@ -116,6 +108,7 @@
 </footer>
 
 <style>
+
 #contact {
     background:
         linear-gradient(rgba(246, 244, 242, 0.88), rgba(246, 244, 242, 0.94)),
@@ -127,7 +120,6 @@
     padding: 70px 0 25px;
     margin-top: 60px;
     position: relative;
-    border-top: 4px solid #79b53e;
 }
 
 #contact::before {
@@ -147,11 +139,12 @@
 }
 
 .footer-top-logo-row {
-    display: grid;
-    grid-template-columns: 130px minmax(260px, 340px) 1fr;
+    display: flex;
     align-items: center;
-    gap: 28px;
+    justify-content: space-between;
+    gap: 25px;
     padding-bottom: 22px;
+    flex-wrap: wrap;
 }
 
 .footer-brand-logo-box {
@@ -161,6 +154,7 @@
     align-items: center;
     justify-content: center;
     overflow: hidden;
+    flex-shrink: 0;
 }
 
 .footer-brand-logo-box img {
@@ -170,55 +164,13 @@
     display: block;
 }
 
-.footer-email-center-box {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
-.footer-email-btn-inline {
-    display: inline-flex;
-    align-items: center;
-    justify-content: center;
-    gap: 12px;
-    width: 100%;
-    min-height: 64px;
-    padding: 14px 26px;
-    background: rgba(255, 255, 255, 0.94);
-    color: #86663b;
-    text-decoration: none;
-    border-radius: 999px;
-    border: 1px solid rgba(117, 104, 44, 0.18);
-    box-shadow: 0 8px 18px rgba(117, 104, 44, 0.10);
-    font-size: 18px;
-    font-weight: 700;
-    transition: all 0.3s ease;
-}
-
-.footer-email-btn-inline i {
-    font-size: 21px;
-}
-
-.footer-email-btn-inline:hover {
-    transform: translateY(-2px);
-    background: #ffffff;
-    box-shadow: 0 10px 22px rgba(117, 104, 44, 0.16);
-}
-
-.footer-brand-slogan {
-    display: flex;
-    align-items: center;
-    justify-content: flex-end;
-}
-
 .footer-brand-slogan h2 {
     margin: 0;
     font-size: 24px;
     line-height: 1.2;
-    color: #8a6a40;
+    color: #000;
     font-family: var(--heading);
     font-weight: 600;
-    text-align: right;
 }
 
 .footer-line {
@@ -398,15 +350,6 @@
 }
 
 @media (max-width: 1100px) {
-    .footer-top-logo-row {
-        grid-template-columns: 120px minmax(220px, 300px) 1fr;
-        gap: 18px;
-    }
-
-    .footer-email-btn-inline {
-        font-size: 17px;
-    }
-
     .partner-logos-grid,
     .payment-methods-grid {
         grid-template-columns: repeat(5, 1fr);
@@ -421,21 +364,6 @@
 }
 
 @media (max-width: 992px) {
-    .footer-top-logo-row {
-        grid-template-columns: 1fr;
-        justify-items: center;
-        text-align: center;
-    }
-
-    .footer-brand-slogan {
-        justify-content: center;
-    }
-
-    .footer-brand-slogan h2 {
-        text-align: center;
-        font-size: 22px;
-    }
-
     .footer-top-extras {
         grid-template-columns: 1fr;
     }
@@ -443,6 +371,10 @@
     .partner-logos-grid,
     .payment-methods-grid {
         grid-template-columns: repeat(3, 1fr);
+    }
+
+    .footer-brand-slogan h2 {
+        font-size: 22px;
     }
 }
 
@@ -452,20 +384,16 @@
         padding: 55px 0 20px;
     }
 
+    .footer-top-logo-row {
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+        gap: 15px;
+    }
+
     .footer-brand-logo-box {
         width: 100px;
         height: 100px;
-    }
-
-    .footer-email-btn-inline {
-        max-width: 320px;
-        font-size: 16px;
-        padding: 14px 22px;
-        min-height: 58px;
-    }
-
-    .footer-email-btn-inline i {
-        font-size: 19px;
     }
 
     .footer-brand-slogan h2 {
@@ -480,6 +408,10 @@
     .footer-grid {
         grid-template-columns: 1fr;
         gap: 18px;
+    }
+
+    .footer-col {
+        text-align: left;
     }
 
     .footer-col h3 {
@@ -513,16 +445,6 @@
     }
 
     .footer-brand-slogan h2 {
-        font-size: 18px;
-    }
-
-    .footer-email-btn-inline {
-        font-size: 15px;
-        padding: 13px 18px;
-        min-height: 54px;
-    }
-
-    .footer-email-btn-inline i {
         font-size: 18px;
     }
 
