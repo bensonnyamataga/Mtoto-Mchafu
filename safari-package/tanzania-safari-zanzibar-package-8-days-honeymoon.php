@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Tanzania Safari and Zanzibar Package 8 Days Honeymoon</title>
-    <meta name="description" content="Book an 8-day Tanzania safari and Zanzibar package honeymoon. Perfect blend of wildlife adventure and beach relaxation. Private 4x4, flights, romantic accommodations.">
+    <meta name="description" content="Book an 8-day Tanzania safari and Zanzibar package honeymoon. Perfect blend of wildlife adventure and beach relaxation.">
     <meta name="keywords" content="Tanzania safari and Zanzibar package 8 days honeymoon, honeymoon safari Tanzania, Zanzibar beach holiday, Tanzania honeymoon package, safari and beach combo">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
