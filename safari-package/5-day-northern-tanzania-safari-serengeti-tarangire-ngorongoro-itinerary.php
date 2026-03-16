@@ -872,14 +872,11 @@
     <!-- Final CTA removed as it's covered by plugins -->
 
     
-    <?php include __DIR__ . '../../plugins/call-to-action.php'; ?>
-
-    <?php include __DIR__ . '../../plugins/pop-up-expert.php'; ?>
-
-    <?php include __DIR__ . '../../plugins/footer.php'; ?>
-
-     <?php include __DIR__ . '../../plugins/booking-form.php'; ?>
-    <?php include __DIR__ . '../../plugins/mobile-footer.php'; ?>
+    <?php include __DIR__ . '../../plugins-folder/call-to-action.php'; ?>
+    <?php include __DIR__ . '../../plugins-folder/pop-up-expert.php'; ?>
+    <?php include __DIR__ . '../../plugins-folder/footer.php'; ?>
+    <?php include __DIR__ . '../../plugins-folder/booking-form.php'; ?>
+    <?php include __DIR__ . '../../plugins-folder/mobile-footer.php'; ?>
 
 
 
