@@ -10,51 +10,7 @@
             </div>
         </div>
 
-        <div class="footer-line"></div>
-
-        <div class="footer-top-extras">
-            <div class="footer-top-block">
-                <h3>Our Trusted Partners</h3>
-                <div class="partner-logos-grid">
-                    <div class="partner-logo-box">
-                        <img src="img/kilimanjaro-trekking-organization.jpg" alt="Partner 1">
-                    </div>
-                    <div class="partner-logo-box">
-                        <img src="img/ATTA-logo.png" alt="Partner 2">
-                    </div>
-                    <div class="partner-logo-box">
-                        <img src="img/travel-life.jpg" alt="Partner 3">
-                    </div>
-                    <div class="partner-logo-box">
-                        <img src="img/tripadivasor.png" alt="Partner 4">
-                    </div>
-                    <div class="partner-logo-box">
-                        <img src="img/kpap-logo.jpg" alt="Partner 5">
-                    </div>
-                </div>
-            </div>
-
-            <div class="footer-top-block">
-                <h3>Payment Accepted</h3>
-                <div class="payment-methods-grid">
-                    <div class="payment-method-box">
-                        <img src="img/pesapal-logo.png" alt="Pesapal">
-                    </div>
-                    <div class="payment-method-box">
-                        <img src="img/visa-logo.png" alt="Visa">
-                    </div>
-                    <div class="payment-method-box">
-                        <img src="img/master-card.png" alt="Mastercard">
-                    </div>
-                    <div class="payment-method-box">
-                        <img src="img/american-express.png" alt="American Express">
-                    </div>
-                    <div class="payment-method-box">
-                        <img src="img/paypal.png" alt="PayPal">
-                    </div>
-                </div>
-            </div>
-        </div>
+      
 
         <div class="footer-line"></div>
 
@@ -100,10 +56,56 @@
                 <p><i class="fas fa-clock"></i> Mon-Fri: 8AM - 5PM</p>
             </div>
         </div>
+  <div class="footer-line"></div>
+
+        <div class="footer-top-extras">
+            <div class="footer-top-block">
+                <h3>Our Trusted Partners</h3>
+                <div class="partner-logos-grid">
+                    <div class="partner-logo-box">
+                        <img src="img/kilimanjaro-trekking-organization.jpg" alt="Partner 1">
+                    </div>
+                    <div class="partner-logo-box">
+                        <img src="img/ATTA-logo.png" alt="Partner 2">
+                    </div>
+                    <div class="partner-logo-box">
+                        <img src="img/travel-life.jpg" alt="Partner 3">
+                    </div>
+                    <div class="partner-logo-box">
+                        <img src="img/tripadivasor.png" alt="Partner 4">
+                    </div>
+                    <div class="partner-logo-box">
+                        <img src="img/kpap-logo.jpg" alt="Partner 5">
+                    </div>
+                </div>
+            </div>
+
+            <div class="footer-top-block">
+                <h3>Payment Accepted</h3>
+                <div class="payment-methods-grid">
+                    <div class="payment-method-box">
+                        <img src="img/pesapal-logo.png" alt="Pesapal">
+                    </div>
+                    <div class="payment-method-box">
+                        <img src="img/visa-logo.png" alt="Visa">
+                    </div>
+                    <div class="payment-method-box">
+                        <img src="img/master-card.png" alt="Mastercard">
+                    </div>
+                    <div class="payment-method-box">
+                        <img src="img/american-express.png" alt="American Express">
+                    </div>
+                    <div class="payment-method-box">
+                        <img src="img/paypal.png" alt="PayPal">
+                    </div>
+                </div>
+            </div>
+        </div>
 
         <div class="footer-bottom">
             <p>&copy; 2026 Deep Tanzania Tours. All Rights Reserved. | <a href="#">Privacy Policy</a> | <a href="terms-and-condition.php">Terms of Service</a></p>
         </div>
+
     </div>
 </footer>
 

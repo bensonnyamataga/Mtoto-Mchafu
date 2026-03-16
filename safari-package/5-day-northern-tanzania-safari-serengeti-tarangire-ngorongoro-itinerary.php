@@ -524,7 +524,7 @@
                 <h2>Why Starting from Arusha Makes Sense</h2>
                 
                 <div class="day-images">
-                    <img src="img/Arusha_National_Park_Mount_Meru_12.jpg." alt="Arusha city view with Mount Meru">
+                    <img src="img/arusha-city-mount-meru.jpg." alt="Arusha city view with Mount Meru">
                     <img src="img/kilimanjaro-airport-ro.jpg" alt="Kilimanjaro Airport arrival">
                 </div>
                 
