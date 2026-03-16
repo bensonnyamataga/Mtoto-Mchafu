@@ -199,7 +199,7 @@
 <body>
 
 
-    <?php include __DIR__ . '../../plugins/header.php'; ?>
+    <?php include __DIR__ . '../../plugins-folder/header.php'; ?>
 
 
     <!-- Hero Section -->
@@ -877,8 +877,6 @@
     <?php include __DIR__ . '../../plugins-folder/footer.php'; ?>
     <?php include __DIR__ . '../../plugins-folder/booking-form.php'; ?>
     <?php include __DIR__ . '../../plugins-folder/mobile-footer.php'; ?>
-
-
 
 
 </body>
