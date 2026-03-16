@@ -196,7 +196,7 @@
 </head>
 <body>
 
-    <?php include __DIR__ . '../../plugins/header.php'; ?>
+    <?php include __DIR__ . '../../plugins-folder/header.php'; ?>
 
     <!-- Hero Section -->
     <section class="hero-altoo" id="home-altoo">
