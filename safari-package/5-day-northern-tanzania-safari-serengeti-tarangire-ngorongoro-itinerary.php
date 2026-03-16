@@ -9,8 +9,8 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <link rel="canonical" href="https://deeptanzaniatours.com/5-day-northern-tanzania-safari-serengeti-tarangire-ngorongoro-itinerary.php" />
-    <link rel="stylesheet" href="style/package.css">
-    <link rel="stylesheet" href="style/style.css">
+    <link rel="stylesheet" href="../style/package.css">
+    <link rel="stylesheet" href="../style/style.css">
 
 
 
@@ -205,7 +205,7 @@
     <!-- Hero Section -->
     <section class="hero-altoo" id="home-altoo">
         <div class="hero-altoo-background">
-            <img src="img/5-days-tanzania-wildlife-safari-banner.jpg" alt="5-Day Northern Tanzania Safari Serengeti Tarangire Ngorongoro Itinerary - Safari vehicle with wildlife">
+            <img src="../img/5-days-tanzania-wildlife-safari-banner.jpg" alt="5-Day Northern Tanzania Safari Serengeti Tarangire Ngorongoro Itinerary - Safari vehicle with wildlife">
             <div class="hero-altoo-overlay"></div>
         </div>
         <div class="container">
@@ -265,7 +265,7 @@
                             </p>
                         </div>
                         <div class="day-visual">
-                            <img src="img/boabab-tarangire-national-park.jpg" alt="Elephants in Tarangire National Park with baobab trees">
+                            <img src="../img/boabab-tarangire-national-park.jpg" alt="Elephants in Tarangire National Park with baobab trees">
                         </div>
                     </div>
                     <div class="day-stats">
@@ -288,7 +288,7 @@
                             </p>
                         </div>
                         <div class="day-visual">
-                            <img src="img/Lion-and-Cub-in-Serengeti-National.jpg" alt="First view of Serengeti plains">
+                            <img src="../img/Lion-and-Cub-in-Serengeti-National.jpg" alt="First view of Serengeti plains">
                         </div>
                     </div>
                     <div class="day-stats">
@@ -311,7 +311,7 @@
                             </p>
                         </div>
                         <div class="day-visual">
-                            <img src="img/serengeti-national-park-in-5-days.jpg" alt="Full day game drive in Serengeti">
+                            <img src="../img/serengeti-national-park-in-5-days.jpg" alt="Full day game drive in Serengeti">
                         </div>
                     </div>
                     <div class="day-stats">
@@ -334,7 +334,7 @@
                             </p>
                         </div>
                         <div class="day-visual">
-                            <img src="img/ngorongoro-crater-from-arusha.jpg" alt="Ngorongoro Crater view from rim lodge">
+                            <img src="../img/ngorongoro-crater-from-arusha.jpg" alt="Ngorongoro Crater view from rim lodge">
                         </div>
                     </div>
                     <div class="day-stats">
@@ -357,7 +357,7 @@
                             </p>
                         </div>
                         <div class="day-visual">
-                            <img src="img/ngorongoro-crater-tour.jpg" alt="Wildlife on Ngorongoro Crater floor">
+                            <img src="../img/ngorongoro-crater-tour.jpg" alt="Wildlife on Ngorongoro Crater floor">
                         </div>
                     </div>
                     <div class="day-stats">
@@ -440,8 +440,8 @@
                 <h2>What Makes This 5-Day Northern Tanzania Safari Itinerary Competitive</h2>
                 
                 <div class="day-images">
-                    <img src="img/safari-in-serengeti.jpg" alt="Private 4x4 safari vehicle with pop-up roof">
-                    <img src="img/4x4-safari-land-cruiser.jpg" alt="Professional safari guide with guests">
+                    <img src="../img/safari-in-serengeti.jpg" alt="Private 4x4 safari vehicle with pop-up roof">
+                    <img src="../img/4x4-safari-land-cruiser.jpg" alt="Professional safari guide with guests">
                 </div>
                 
                 <div class="why-point">
@@ -524,8 +524,8 @@
                 <h2>Why Starting from Arusha Makes Sense</h2>
                 
                 <div class="day-images">
-                    <img src="img/Arusha_City.jpg" alt="Arusha city view with Mount Meru">
-                    <img src="img/kilimanjaro-airport-ro.jpg" alt="Kilimanjaro Airport arrival">
+                    <img src="../img/Arusha_City.jpg" alt="Arusha city view with Mount Meru">
+                    <img src="../img/kilimanjaro-airport-ro.jpg" alt="Kilimanjaro Airport arrival">
                 </div>
                 
                 <p>This 5-day Northern Tanzania safari Serengeti Tarangire Ngorongoro itinerary is designed for convenience and value. Here's why starting in Arusha works so well:</p>
@@ -583,8 +583,8 @@
                 </div>
                 
                 <div class="day-images">
-                    <img src="img/lion-in-serengeti.jpg" alt="Lion in Serengeti National Park">
-                    <img src="img/animals-in-ngorongoro.jpg" alt="Wildlife in Ngorongoro Crater">
+                    <img src="../img/lion-in-serengeti.jpg" alt="Lion in Serengeti National Park">
+                    <img src="../img/animals-in-ngorongoro.jpg" alt="Wildlife in Ngorongoro Crater">
                 </div>
                 
                 <p><strong>Tarangire National Park</strong> is famous for its massive elephant herds, sometimes up to 300 individuals gathering along the Tarangire River. The park is also known for its ancient baobab trees and healthy populations of lions, leopards, and over 550 bird species. The swamps attract wildlife year-round.</p>
@@ -669,7 +669,7 @@
                 <!-- Tarangire Area Accommodation -->
                 <div class="accommodation-card">
                     <div class="accommodation-image">
-                        <img src="img/tarangire-osupuko-logde.jpg" alt="Lodge near Tarangire National Park">
+                        <img src="../img/tarangire-osupuko-logde.jpg" alt="Lodge near Tarangire National Park">
                         <div class="accommodation-location">
                             <i class="fas fa-map-marker-alt"></i>
                             <span>Tarangire Area / Karatu</span>
@@ -700,7 +700,7 @@
                 <!-- Serengeti Accommodation -->
                 <div class="accommodation-card">
                     <div class="accommodation-image">
-                        <img src="img/central-serengeti-mid-range-camp.jpg" alt="Lodge or camp in Central Serengeti">
+                        <img src="../img/central-serengeti-mid-range-camp.jpg" alt="Lodge or camp in Central Serengeti">
                         <div class="accommodation-location">
                             <i class="fas fa-map-marker-alt"></i>
                             <span>Central Serengeti</span>
@@ -731,7 +731,7 @@
                 <!-- Ngorongoro Rim Lodge -->
                 <div class="accommodation-card">
                     <div class="accommodation-image">
-                        <img src="img/tortilis-ngorongoro-camp.jpg" alt="Lodge on Ngorongoro Crater rim">
+                        <img src="../img/tortilis-ngorongoro-camp.jpg" alt="Lodge on Ngorongoro Crater rim">
                         <div class="accommodation-location">
                             <i class="fas fa-map-marker-alt"></i>
                             <span>Ngorongoro Crater Rim</span>
@@ -883,7 +883,6 @@
 
 
 
-<?php include 'plugins/mobile-footer.php';?>
 
 </body>
 </html>
