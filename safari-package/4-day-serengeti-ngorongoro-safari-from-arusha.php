@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>4-Day Serengeti and Ngorongoro Safari from Arusha</title>
-    <meta name="description" content="Book a 4-day Serengeti and Ngorongoro safari from Arusha. Visit two world-famous parks with a full day in the Serengeti. Private 4x4, expert guide, all fees included.">
+    <meta name="description" content="Book a 4-day Serengeti and Ngorongoro safari from Arusha. Visit two world-famous parks with a full day in the Serengeti.">
     <meta name="keywords" content="4-day Serengeti and Ngorongoro safari from Arusha, Serengeti safari 4 days, Ngorongoro Crater tour, Tanzania short safari, Northern Circuit safari">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
