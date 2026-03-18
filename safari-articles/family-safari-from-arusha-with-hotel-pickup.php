@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Family Safari from Arusha with Hotel Pickup - Kid-Friendly Tanzania Tours</title>
+    <title>Family Safari from Arusha with Hotel Pickup</title>
     <meta name="description" content="Kid-friendly guides, child-safe accommodations, flexible pacing for children and expert guides.">
     <meta name="keywords" content="family safari from Arusha with hotel pickup, Tanzania family safari, safari with kids, kid-friendly safari, family safari packages, children's safari Tanzania">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
