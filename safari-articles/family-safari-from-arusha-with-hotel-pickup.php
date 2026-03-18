@@ -567,7 +567,7 @@
                     <div class="testimonial-author">— Sarah, mother of two, traveled with us in 2024</div>
                 </div>
                 
-                <p>Sarah's message perfectly captures what makes a family safari successful. Let's break down her priorities and show you exactly how we address each one in our <strong>family safari from Arusha with hotel pickup</strong> packages.</p>
+                <p>Sarah's message perfectly captures what makes a family safari successful. Let's break down her priorities and show you exactly how we address each one in our family safari from Arusha with hotel pickup packages.</p>
 
                 <!-- Section: Key Factors for Family Safari Success -->
                 <h2 id="family-guide">7 Essential Factors for a Successful Family Safari from Arusha</h2>
