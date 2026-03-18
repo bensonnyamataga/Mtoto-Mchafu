@@ -654,7 +654,7 @@
                     </div>
                 </div>
                 
-                <!-- Factor 4: Travel Season – Why Avoid the Long Rains -->
+                <!-- Factor 4: Travel Season – Why Ae Long Rains -->
                 <div class="price-factor-item">
                     <div class="price-factor-icon">
                         <i class="fas fa-cloud-rain"></i>
