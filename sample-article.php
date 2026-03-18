@@ -238,45 +238,6 @@
 
        
 
- <!-- Safari Intro Section -->
-<section class="section safari-intro-section">
-    <div class="container">
-        <div class="section-title">
-            <span class="subtitle">Tanzanian Wilderness</span>
-            <h2>Experience the Ultimate African Safari</h2>
-            <p>Tanzania offers some of the most spectacular wildlife viewing on the planet, with diverse ecosystems teeming with incredible biodiversity.</p>
-        </div>
-        
-        <div class="safari-intro-content">
-            <div class="safari-intro-text">
-                <p>Home to the legendary Serengeti, breathtaking Ngorongoro Crater, and vast wilderness areas, Tanzania represents the quintessential African safari experience. Our safari packages are carefully designed to provide immersive encounters with Africa's magnificent wildlife while ensuring comfort, safety, and minimal environmental impact.</p>
-                
-                <p>Each year, Tanzania hosts the Great Migration, one of nature's most awe-inspiring spectacles where over two million wildebeest, zebras, and gazelles traverse the ecosystem in a continuous cycle of life and death. This incredible journey is just one of the many wonders you'll witness on a Tanzanian safari.</p>
-                
-                <p>Our expert guides, with their deep knowledge of animal behavior and tracking skills, will transform your game drives into educational journeys, revealing the intricate relationships between species and their environment.</p>
-                
-                <div class="safari-highlights">
-                    <div class="highlight-item">
-                        <i class="fas fa-check-circle"></i>
-                        <span>Witness the Great Migration river crossings</span>
-                    </div>
-                    <div class="highlight-item">
-                        <i class="fas fa-check-circle"></i>
-                        <span>See the Big Five in their natural habitat</span>
-                    </div>
-                    <div class="highlight-item">
-                        <i class="fas fa-check-circle"></i>
-                        <span>Explore diverse ecosystems from crater floors to savannah plains</span>
-                    </div>
-                </div>
-            </div>
-            
-            <div class="safari-intro-image">
-                <img src="img/tanzania-safari-experience2.jpg" alt="Tanzania Safari Experience">
-            </div>
-        </div>
-    </div>
-</section>
 
 
 
