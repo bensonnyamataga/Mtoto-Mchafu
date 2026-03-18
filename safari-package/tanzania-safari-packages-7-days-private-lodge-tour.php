@@ -8,7 +8,7 @@
     <meta name="keywords" content="Tanzania safari packages 7 days private lodge tour, private safari Tanzania, Serengeti lodge safari, Ngorongoro crater tour, Tarangire safari, luxury safari lodges">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
-    <link rel="canonical" href="https://deeptanzaniatours.com/tanzania-safari-packages-7-days-private-lodge-tour.php" />
+    <link rel="canonical" href="https://deeptanzaniatours.com/safari-package/tanzania-safari-packages-7-days-private-lodge-tour.php" />
     <link rel="stylesheet" href="../style/package.css">
     <link rel="stylesheet" href="../style/style.css">
 
