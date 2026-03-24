@@ -8,7 +8,7 @@
     <meta name="keywords" content="Serengeti safari from Arusha 4 days by road, road safari to Serengeti, Tanzania safari 4 days, Tarangire Serengeti Ngorongoro tour, Arusha to Serengeti road trip">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
-    <link rel="canonical" href="https://deeptanzaniatours.com/serengeti-safari-from-arusha-4-days-by-road.php" />
+    <link rel="canonical" href="https://deeptanzaniatours.com/safari-package/serengeti-safari-from-arusha-4-days-by-road.php" />
     <link rel="stylesheet" href="../style/package.css">
     <link rel="stylesheet" href="../style/style.css">
 
