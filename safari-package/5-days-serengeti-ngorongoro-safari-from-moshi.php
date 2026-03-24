@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>5 Days Serengeti and Ngorongoro Safari from Moshi – Direct from Kilimanjaro</title>
+    <title>5 Days Serengeti and Ngorongoro Safari from Moshi </title>
     <meta name="description" content="Book a 5 days Serengeti and Ngorongoro safari from Moshi. Direct pickup after Kilimanjaro trekking. No Arusha overnight needed.">
     <meta name="keywords" content="5 days Serengeti and Ngorongoro safari from Moshi, Serengeti safari from Moshi, Ngorongoro Crater tour from Moshi, post Kilimanjaro safari, Moshi to Serengeti safari">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
