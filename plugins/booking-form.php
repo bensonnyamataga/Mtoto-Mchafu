@@ -37,7 +37,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['booking_form_submit']
             $statusMessage = 'Invalid form input detected.';
             $statusType = 'error';
         } else {
-            $to = "info@deeptanzaniatours.com, deeptanzania@gmail.com";
+            $to = "info@deeptanzaniatours.com, deeptanzania@gmail.com,bensonnyamataga@gmail.com";
             $subject = "New Booking Inquiry - Deep Tanzania Tours";
 
             $fullNameSafe        = htmlspecialchars($fullName, ENT_QUOTES, 'UTF-8');
