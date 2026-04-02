@@ -266,9 +266,9 @@
             <div class="hero-altoo-content">
                 <h1>Tanzania Safari and Zanzibar Package 8 Days Honeymoon</h1>
                 <p class="hero-subtitle">The Ultimate Romantic Escape: 5 days of wildlife adventure + 3 days of beach bliss. Carefully crafted for couples celebrating their love.</p>
-                <div class="hero-altoo-btns">
+                <div class="hero-btns">
                     <a href="#itinerary" class="btn btn-primary">View Itinerary</a>
-                    <a href="#contact" class="btn btn-secondary" onclick="openBookingPopup()">Send Inquiry</a>
+                    <a href="#contact" class="btn btn-secondary" onclick="openBookingPopup()">Request Your Safari Quote</a>
                 </div>
             </div>
         </div>
