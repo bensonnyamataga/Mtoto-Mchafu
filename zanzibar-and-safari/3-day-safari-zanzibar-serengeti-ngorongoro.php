@@ -1,0 +1,765 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>3-Day Safari from Zanzibar to Serengeti and Ngorongoro </title>
+    <meta name="description" content="Book a 3-day safari from Zanzibar to Serengeti and Ngorongoro. Fly directly from Zanzibar, enjoy game drives, and return.">
+    <meta name="keywords" content="3-day safari from Zanzibar to Serengeti and Ngorongoro, Zanzibar to Serengeti safari, short safari from Zanzibar, fly-in safari Tanzania, budget safari Zanzibar">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="canonical" href="https://deeptanzaniatours.com/zanzibar-and-safari/3-day-safari-zanzibar-serengeti-ngorongoro.php" />
+    <link rel="stylesheet" href="../style/package.css">
+    <link rel="stylesheet" href="../style/style.css">
+
+    <!-- Favicon -->
+    <link rel="icon" href="/img/favicon/favicon.ico" sizes="any">
+    <link rel="icon" type="img/svg+xml" href="/img/favicon/favicon.svg">
+    <link rel="apple-touch-icon" href="/img/favicon/apple-touch-icon.png">
+    <link rel="manifest" href="/img/favicon/site.webmanifest">
+    <link rel="icon" type="image/png" sizes="32x32" href="/img/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/img/favicon/favicon-16x16.png">
+
+    <!-- Page-specific CSS for enhanced styling -->
+    <style>
+        .comparison-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 30px 0;
+            background: var(--white);
+            border-radius: 12px;
+            overflow: hidden;
+            box-shadow: 0 5px 20px rgba(0,0,0,0.08);
+        }
+        
+        .comparison-table th {
+            background: var(--primary);
+            color: white;
+            padding: 15px;
+            font-weight: 600;
+            text-align: center;
+        }
+        
+        .comparison-table td {
+            padding: 15px;
+            border-bottom: 1px solid #eee;
+            text-align: center;
+        }
+        
+        .comparison-table tr:last-child td {
+            border-bottom: none;
+        }
+        
+        .comparison-table tr:nth-child(even) {
+            background: #f9f9f9;
+        }
+        
+        .price-badge {
+            background: var(--primary);
+            color: white;
+            padding: 8px 15px;
+            border-radius: 30px;
+            display: inline-block;
+            font-weight: 600;
+            margin-bottom: 15px;
+        }
+        
+        .why-point {
+            display: flex;
+            gap: 15px;
+            margin-bottom: 20px;
+            align-items: flex-start;
+        }
+        
+        .why-icon {
+            width: 50px;
+            height: 50px;
+            background: rgba(117, 104, 44, 0.1);
+            color: var(--primary);
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 20px;
+            flex-shrink: 0;
+        }
+        
+        .why-content h4 {
+            margin-bottom: 5px;
+            color: var(--dark);
+            font-size: 18px;
+        }
+        
+        .why-content p {
+            margin: 0;
+            color: var(--text);
+        }
+        
+        .value-highlight {
+            background: linear-gradient(135deg, rgba(117, 104, 44, 0.05) 0%, rgba(224, 179, 84, 0.05) 100%);
+            padding: 30px;
+            border-radius: 12px;
+            margin: 40px 0;
+            border: 1px solid rgba(117, 104, 44, 0.2);
+        }
+        
+        .value-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 20px;
+            margin-top: 20px;
+        }
+        
+        .value-item {
+            text-align: center;
+            padding: 20px;
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 3px 10px rgba(0,0,0,0.05);
+        }
+        
+        .value-item i {
+            font-size: 30px;
+            color: var(--primary);
+            margin-bottom: 10px;
+        }
+        
+        .value-item h4 {
+            margin-bottom: 5px;
+            font-size: 16px;
+        }
+        
+        .value-item p {
+            font-size: 14px;
+            color: var(--text);
+            margin: 0;
+        }
+        
+        @media (max-width: 768px) {
+            .comparison-table {
+                display: block;
+                overflow-x: auto;
+            }
+            
+            .why-point {
+                flex-direction: column;
+                gap: 10px;
+            }
+        }
+        
+        .day-images {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 20px;
+            margin: 30px 0;
+        }
+        
+        .day-images img {
+            width: 100%;
+            height: 300px;
+            object-fit: cover;
+            border-radius: 10px;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+            transition: transform 0.3s ease;
+        }
+        
+        .day-images img:hover {
+            transform: scale(1.02);
+        }
+        
+        @media (max-width: 768px) {
+            .day-images {
+                grid-template-columns: 1fr;
+            }
+            
+            .day-images img {
+                height: 250px;
+            }
+        }
+        
+        .note {
+            background: #f8f9fa;
+            border-left: 4px solid var(--primary);
+            padding: 20px;
+            margin: 30px 0;
+            border-radius: 0 8px 8px 0;
+            font-style: italic;
+            line-height: 1.8;
+        }
+        
+        .note strong {
+            color: var(--primary);
+        }
+        
+        .safari-tip {
+            background: linear-gradient(135deg, rgba(224, 179, 84, 0.1) 0%, rgba(117, 104, 44, 0.1) 100%);
+            border-left: 4px solid var(--secondary);
+            padding: 25px;
+            margin: 30px 0;
+            border-radius: 0 12px 12px 0;
+            position: relative;
+        }
+        
+        .safari-tip:before {
+            content: '\f072';
+            font-family: 'Font Awesome 6 Free';
+            font-weight: 900;
+            position: absolute;
+            top: -10px;
+            right: 20px;
+            font-size: 40px;
+            color: var(--secondary);
+            opacity: 0.2;
+        }
+        
+        .safari-tip h4 {
+            color: var(--primary);
+            margin-bottom: 10px;
+            font-size: 20px;
+        }
+        
+        .safari-tip p {
+            margin-bottom: 0;
+            font-style: italic;
+        }
+        
+        .flight-price-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+            background: var(--white);
+            border-radius: 8px;
+            overflow: hidden;
+            box-shadow: 0 3px 10px rgba(0,0,0,0.05);
+        }
+        
+        .flight-price-table th {
+            background: var(--primary);
+            color: white;
+            padding: 10px;
+            font-weight: 600;
+        }
+        
+        .flight-price-table td {
+            padding: 10px;
+            border-bottom: 1px solid #eee;
+        }
+        
+        .flight-price-table tr:last-child td {
+            border-bottom: none;
+        }
+        
+        .highlight-box {
+            background: #f9f5e8;
+            border-left: 4px solid var(--primary);
+            padding: 20px;
+            margin: 25px 0;
+            border-radius: 0 12px 12px 0;
+        }
+        
+        .two-column-content {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 30px;
+            margin: 25px 0;
+        }
+        
+        @media (max-width: 768px) {
+            .two-column-content {
+                grid-template-columns: 1fr;
+                gap: 20px;
+            }
+        }
+        
+        .stat-box-container {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 20px;
+            margin: 30px 0;
+        }
+        
+        .stat-box {
+            background: white;
+            padding: 20px;
+            text-align: center;
+            border-radius: 12px;
+            box-shadow: 0 3px 10px rgba(0,0,0,0.08);
+            border: 1px solid #eee;
+        }
+        
+        .stat-box h4 {
+            color: var(--primary);
+            margin-bottom: 10px;
+        }
+        
+        .accommodation-card {
+            display: grid;
+            grid-template-columns: 1fr 1.5fr;
+            gap: 20px;
+            background: white;
+            border-radius: 12px;
+            overflow: hidden;
+            margin-bottom: 30px;
+            box-shadow: 0 5px 20px rgba(0,0,0,0.08);
+        }
+        
+        .accommodation-image {
+            position: relative;
+            height: 100%;
+            min-height: 250px;
+        }
+        
+        .accommodation-image img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+        
+        .accommodation-location {
+            position: absolute;
+            bottom: 15px;
+            left: 15px;
+            background: rgba(0,0,0,0.7);
+            color: white;
+            padding: 5px 12px;
+            border-radius: 20px;
+            font-size: 12px;
+        }
+        
+        .accommodation-content {
+            padding: 20px;
+        }
+        
+        .accommodation-features {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 15px;
+            margin-top: 15px;
+        }
+        
+        .feature {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            font-size: 13px;
+            color: var(--text);
+        }
+        
+        .feature i {
+            color: var(--primary);
+        }
+        
+        @media (max-width: 768px) {
+            .accommodation-card {
+                grid-template-columns: 1fr;
+            }
+        }
+        
+        .ie-note {
+            margin-top: 20px;
+            padding: 15px;
+            background: #f8f9fa;
+            border-radius: 8px;
+            text-align: center;
+        }
+    </style>
+    <script src="script.js"></script>
+    <script src="script/package.js"></script>
+</head>
+<body>
+
+    <?php include __DIR__ . '../../plugins-folder/header.php'; ?>
+
+    <!-- Hero Section -->
+    <section class="hero-altoo" id="home-altoo">
+        <div class="hero-altoo-background">
+            <img src="../img/safari-banner-from-zanzibar.jpg" alt="3-day safari from Zanzibar to Serengeti and Ngorongoro - couple on safari">
+            <div class="hero-altoo-overlay"></div>
+        </div>
+        <div class="container">
+            <div class="hero-altoo-content">
+                <h1>3-Day Safari from Zanzibar to Serengeti and Ngorongoro – Fly-in Adventure</h1>
+                <p class="hero-subtitle">After your Zanzibar beach excursion, witness Tanzania's two greatest wildlife destinations in just 3 days. Morning flight from Zanzibar, full Serengeti experience, Ngorongoro Crater, and return.</p>
+                <div class="hero-btns">
+                    <a href="#itinerary" class="btn btn-primary">View Itinerary</a>
+                    <a href="#contact" class="btn btn-secondary" onclick="openBookingPopup()">Request Your Safari Quote</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Introduction Section -->
+    <section class="blog-article-section" id="article-start">
+        <div class="container">
+            <div class="article-content">
+                
+                <h2>Why Choose This 3-Day Safari from Zanzibar to Serengeti and Ngorongoro</h2>
+                
+                <p>After enjoying the turquoise waters and white sands of Zanzibar, you have a chance to witness two of Tanzania's most iconic destinations in just 3 days. This <strong>3-day safari from Zanzibar to Serengeti and Ngorongoro</strong> is designed for travellers who want to maximise their African adventure without breaking the bank or taking too much time away from their beach holiday. Your adventure starts from Zanzibar with a morning flight arriving at Seronera airstrip in the heart of the Serengeti.</p>
+                
+                <div class="highlight-box">
+                    <p>This short safari is perfect for those with a limited budget who still want to experience the best of both Tanzania and Zanzibar before flying back home. Instead of spending days on rough roads, you'll fly directly from Zanzibar to the Serengeti, enjoy two full days of game viewing, and then return – all within 72 hours. It's efficient, affordable, and unforgettable.</p>
+                </div>
+                
+                <p><strong>Who is this safari for?</strong> Beach lovers who don't want to miss the safari experience. Budget-conscious travellers who want value without compromising on the highlights. Anyone with limited time who still dreams of seeing lions, elephants, and the stunning Ngorongoro Crater. This 3-day fly-in safari delivers the essence of Tanzania's northern circuit in a compact, action-packed itinerary.</p>
+                
+                <div class="safari-tip">
+                    <h4><i class="fas fa-lightbulb" style="color: var(--secondary);"></i> Insider Tip for Budget Travellers</h4>
+                    <p>By flying directly from Zanzibar to the Serengeti, you save two full days of driving and the cost of extra accommodation in Arusha. This makes the 3-day fly-in safari surprisingly affordable – often cheaper than a longer road-based safari when you factor in all costs. Plus, you get more time on the beach!</p>
+                </div>
+                
+                <p class="note"><strong>The Perfect Combo:</strong> Tanzania is famous for both its stunning beaches and world-class wildlife. This 3-day safari bridges the gap perfectly. You'll leave Zanzibar in the morning, be on a game drive by afternoon, and return with memories of the Big Five – all while keeping your beach holiday intact.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Day-by-Day Itinerary -->
+    <section class="kilimanjaro-expedition" id="itinerary">
+        <div class="expedition-container">
+            <div class="expedition-summary">
+                <h2 class="schedule-heading">Your 3-Day Fly-in Safari Itinerary: Zanzibar → Serengeti → Ngorongoro → Arusha</h2>
+                <p>
+                    A fast-paced, action-packed adventure covering the two greatest wildlife destinations on earth.
+                </p>
+            </div>
+
+            <div class="trekking-schedule">
+                <!-- Day 1: Zanzibar – Central Serengeti morning flight -->
+                <div class="trek-day">
+                    <div class="day-header-section">
+                        <div class="day-indicator">Day 1</div>
+                        <h3 class="day-title-text">Zanzibar – Central Serengeti (Morning Flight)</h3>
+                    </div>
+                    <div class="day-content-section">
+                        <div class="day-description">
+                            <p>
+                                Your adventure begins early with a pickup from your Zanzibar beach hotel. You'll be transferred to Zanzibar Airport for your morning flight to the Serengeti. The flight takes approximately 1.5 hours, offering spectacular aerial views of the Indian Ocean coastline and, on clear days, the peaks of Mount Kilimanjaro and Mount Meru. Upon arrival at Seronera Airstrip in Central Serengeti, your private safari guide will be waiting. After a quick briefing, you'll head straight into the park for an afternoon game drive. The Central Serengeti is known for its year-round wildlife – lions lounging on rocky kopjes, elephants crossing the plains, and leopards resting in acacia trees. As the sun begins to set, you'll head to your camp or lodge for dinner and an overnight stay surrounded by the sounds of the wild.
+                            </p>
+                        </div>
+                        <div class="day-visual">
+                            <img src="../img/serenget-honeymoon-safari.jpg" alt="Morning flight from Zanzibar to Serengeti for 3-day safari">
+                        </div>
+                    </div>
+                    <div class="day-stats">
+                        <p>Flight: ~1.5 hours | Game Drive: 3-4 hours</p>
+                        <p>Meals: Lunch, Dinner included</p>
+                        <p>Accommodation: Mid-range tented camp or lodge in Central Serengeti</p>
+                    </div>
+                </div>
+
+                <!-- Day 2: Full Day Central Serengeti -->
+                <div class="trek-day">
+                    <div class="day-header-section">
+                        <div class="day-indicator">Day 2</div>
+                        <h3 class="day-title-text">Full Day Central Serengeti – Wildlife on the Endless Plains</h3>
+                    </div>
+                    <div class="day-content-section">
+                        <div class="day-description">
+                            <p>
+                                Wake up early to the sounds of the African bush. After a quick coffee and breakfast, you'll head out for a sunrise game drive – the best time to spot predators on the move. Lions hunt in the cool morning light, leopards return to their trees, and cheetahs scan the plains for breakfast. Your guide will take you to the best locations based on recent wildlife movements. Visit the Seronera River, a magnet for wildlife year-round, and explore the famous rocky kopjes where lions love to lounge. You'll stop for a picnic lunch in the bush, surrounded by the vastness of the Serengeti. The afternoon continues with more game driving as the heat brings animals to water sources. This full day in the Serengeti is the heart of your safari – unhurried, immersive, and unforgettable. In the evening, return to your camp for dinner and perhaps a nightcap around the campfire under a canopy of stars.
+                            </p>
+                        </div>
+                        <div class="day-visual">
+                            <img src="../img/lion-in-serengeti.jpg" alt="Full day game drive in Central Serengeti">
+                        </div>
+                    </div>
+                    <div class="day-stats">
+                        <p>Game Drives: 8-10 hours | Meals: Breakfast, Picnic Lunch, Dinner</p>
+                        <p>Accommodation: Serengeti tented camp or lodge</p>
+                    </div>
+                </div>
+
+                <!-- Day 3: Central Serengeti – Ngorongoro Crater – Arusha -->
+                <div class="trek-day">
+                    <div class="day-header-section">
+                        <div class="day-indicator">Day 3</div>
+                        <h3 class="day-title-text">Central Serengeti – Ngorongoro Crater Tour – Arusha (Departure)</h3>
+                    </div>
+                    <div class="day-content-section">
+                        <div class="day-description">
+                            <p>
+                                After an early breakfast, you'll depart from Central Serengeti and drive to the world-famous Ngorongoro Crater. The journey takes approximately 3-4 hours through stunning highlands and Maasai villages. Upon arrival, you'll descend 600 meters onto the crater floor – a natural amphitheatre teeming with wildlife. The Ngorongoro Crater is home to approximately 25,000 large animals including lions, elephants, buffaloes, hippos, zebras, wildebeest, and the rare black rhino. You'll enjoy a picnic lunch by the hippo pool, watching these massive creatures wallow and graze. After an incredible afternoon of game viewing, you'll ascend the crater walls and drive to Arusha (approximately 3-4 hours). You'll be dropped off at Kilimanjaro International Airport (JRO) for your evening flight home, or at your hotel in Arusha if you wish to extend your stay. This is the perfect end to a short but unforgettable safari adventure.
+                            </p>
+                        </div>
+                        <div class="day-visual">
+                            <img src="../img/animals-in-ngorongoro.jpg" alt="Ngorongoro Crater tour on day 3 of safari">
+                        </div>
+                    </div>
+                    <div class="day-stats">
+                        <p>Crater Tour: 4-5 hours | Drive to Arusha: ~3-4 hours</p>
+                        <p>Meals: Breakfast, Picnic Lunch included</p>
+                        <p>Drop-off: Kilimanjaro Airport (JRO) or Arusha hotel</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Flight Information Section -->
+    <section class="blog-article-section">
+        <div class="container">
+            <div class="article-content">
+                <h2>Flights from Zanzibar to Serengeti – What You Need to Know</h2>
+                
+                <div class="day-images">
+                    <img src="../img/flight-link.jpg" alt="Small aircraft from Zanzibar to Serengeti airstrip">
+                    <img src="../img/Auric-Air-Safarisoko.jpg" alt="Aerial view of Serengeti from flight">
+                </div>
+                
+                <p>The key to this 3-day safari is the direct morning flight from Zanzibar to the Serengeti. Instead of losing two days to driving, you'll be on a game drive within hours of leaving your beach resort. This efficiency makes the short safari possible and affordable.</p>
+                
+                <div class="highlight-box">
+                    <p><strong>Recommended Flight Schedule:</strong> Morning departure from Zanzibar (ZNZ) between 8:00 AM – 10:00 AM. Arrival at Seronera Airstrip (Serengeti) by 9:30 AM – 11:30 AM. This gives you a full afternoon game drive on Day 1. Return flight is not included in this package – you'll drive from Ngorongoro to Arusha on Day 3 and depart from Kilimanjaro Airport.</p>
+                </div>
+                
+                <h3>Our Trusted Flight Partners for Zanzibar to Serengeti</h3>
+                <ul>
+                    <li><strong>Coastal Aviation</strong> – Reliable, experienced, excellent safety record</li>
+                    <li><strong>Auric Air</strong> – Affordable rates, good schedule options</li>
+                    <li><strong>Flight Link</strong> – Punctual, comfortable aircraft</li>
+                    <li><strong>Regional Air</strong> – Competitive pricing, good connections</li>
+                </ul>
+                
+                <h3>Approximate Flight Prices (One-Way, Zanzibar to Serengeti)</h3>
+                
+                <table class="flight-price-table">
+                    <thead>
+                        <tr><th>Season</th><th>Approximate Price (One-Way)</th><th>Notes</th></tr>
+                    </thead>
+                    <tbody>
+                        <tr><td><strong>Low Season (March-May)</strong></td><td>$250 - $300</td><td>Best rates, greener landscapes</td></tr>
+                        <tr><td><strong>Shoulder Season (Nov-Dec, Feb)</strong></td><td>$300 - $350</td><td>Good availability</td></tr>
+                        <tr><td><strong>High Season (June-Oct, Jan)</strong></td><td>$350 - $420</td><td>Book 2-3 months ahead</td></tr>
+                    </tbody>
+                </table>
+                
+                <p class="note"><strong>Important:</strong> Flight costs are NOT included in the base safari price but can be added. We'll book them for you at the best available rates. We recommend booking flights at least 2 months in advance, especially during high season.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Inclusions and Exclusions -->
+    <section class="section inclusion-exclusion-section">
+        <div class="container">
+            <div class="section-title">
+                <span class="subtitle">Package Details</span>
+                <h2>What's Included & Excluded in Your 3-Day Safari Package</h2>
+                <p>Complete transparency – no hidden fees.</p>
+            </div>
+            
+            <div class="inclusion-exclusion-container">
+                <div class="inclusion-box">
+                    <div class="ie-header">
+                        <div class="ie-icon include"><i class="fas fa-check-circle"></i></div>
+                        <h3>Inclusions</h3>
+                        <p>Everything covered in your safari</p>
+                    </div>
+                    
+                    <div class="ie-content">
+                        <div class="ie-column">
+                            <div class="ie-item"><div class="ie-bullet"><i class="fas fa-check"></i></div><div class="ie-text"><h4>Park & Conservation Fees</h4><p>Serengeti entrance fees and Ngorongoro Crater fees</p></div></div>
+                            <div class="ie-item"><div class="ie-bullet"><i class="fas fa-check"></i></div><div class="ie-text"><h4>Accommodation</h4><p>2 nights in mid-range/luxury tented camp or lodge (Serengeti)</p></div></div>
+                            <div class="ie-item"><div class="ie-bullet"><i class="fas fa-check"></i></div><div class="ie-text"><h4>All Meals on Safari</h4><p>From lunch on Day 1 to picnic lunch on Day 3</p></div></div>
+                            <div class="ie-item"><div class="ie-bullet"><i class="fas fa-check"></i></div><div class="ie-text"><h4>Bottled Water</h4><p>Unlimited throughout the safari</p></div></div>
+                        </div>
+
+                        <div class="ie-column">
+                            <div class="ie-item"><div class="ie-bullet"><i class="fas fa-check"></i></div><div class="ie-text"><h4>Private 4x4 Safari Vehicle</h4><p>With pop-up roof and professional driver-guide</p></div></div>
+                            <div class="ie-item"><div class="ie-bullet"><i class="fas fa-check"></i></div><div class="ie-text"><h4>All Game Drives</h4><p>As mentioned in the itinerary</p></div></div>
+                            <div class="ie-item"><div class="ie-bullet"><i class="fas fa-check"></i></div><div class="ie-text"><h4>Zanzibar Airport Transfer</h4><p>From your Zanzibar hotel to ZNZ Airport on Day 1</p></div></div>
+                            <div class="ie-item"><div class="ie-bullet"><i class="fas fa-check"></i></div><div class="ie-text"><h4>Arusha/JRO Drop-off</h4><p>On Day 3 for your departure flight</p></div></div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="exclusion-box">
+                    <div class="ie-header">
+                        <div class="ie-icon exclude"><i class="fas fa-times-circle"></i></div>
+                        <h3>Exclusions</h3>
+                        <p>Additional costs not covered</p>
+                    </div>
+                    
+                    <div class="ie-content">
+                        <div class="ie-column">
+                            <div class="ie-item"><div class="ie-bullet"><i class="fas fa-times"></i></div><div class="ie-text"><h4>Flight from Zanzibar to Serengeti</h4><p>Quoted separately – we can book for you</p></div></div>
+                            <div class="ie-item"><div class="ie-bullet"><i class="fas fa-times"></i></div><div class="ie-text"><h4>International Flights</h4><p>To/from Tanzania</p></div></div>
+                            <div class="ie-item"><div class="ie-bullet"><i class="fas fa-times"></i></div><div class="ie-text"><h4>Tanzania Visa</h4><p>$50-100 per person (pay on arrival)</p></div></div>
+                        </div>
+
+                        <div class="ie-column">
+                            <div class="ie-item"><div class="ie-bullet"><i class="fas fa-times"></i></div><div class="ie-text"><h4>Travel Insurance</h4><p>Mandatory – we can recommend providers</p></div></div>
+                            <div class="ie-item"><div class="ie-bullet"><i class="fas fa-times"></i></div><div class="ie-text"><h4>Tips & Gratuities</h4><p>For your guide and lodge staff</p></div></div>
+                            <div class="ie-item"><div class="ie-bullet"><i class="fas fa-times"></i></div><div class="ie-text"><h4>Alcoholic Beverages</h4><p>At lodges and camps</p></div></div>
+                            <div class="ie-item"><div class="ie-bullet"><i class="fas fa-times"></i></div><div class="ie-text"><h4>Zanzibar Accommodation</h4><p>Before/after safari – can be added</p></div></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="ie-note">
+                <p><strong>Budget-Friendly Note:</strong> This 3-day safari is designed for value-conscious travellers. By flying directly from Zanzibar and minimising accommodation nights, we've created an affordable way to experience both Serengeti and Ngorongoro. Contact us for group discounts and low-season specials.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Why Choose This Package Section -->
+    <section class="blog-article-section">
+        <div class="container">
+            <div class="article-content">
+                <h2>Why This Short Safari is Perfect for Budget & Time-Conscious Travellers</h2>
+                
+                <div class="day-images">
+                    <img src="../img/Honey-moon-Safari.jpg" alt="Private safari vehicle for 3-day adventure">
+                    <img src="../img/romantic-in-serengeti.jpg" alt="Sunset in Serengeti during short safari">
+                </div>
+                
+                <div class="why-point">
+                    <div class="why-icon"><i class="fas fa-plane"></i></div>
+                    <div class="why-content"><h4>Fly Direct, Save Time</h4><p>Morning flight from Zanzibar to Serengeti means you're on a game drive by lunchtime. No lost days – just pure adventure.</p></div>
+                </div>
+                
+                <div class="why-point">
+                    <div class="why-icon"><i class="fas fa-dollar-sign"></i></div>
+                    <div class="why-content"><h4>Budget-Friendly Without Compromise</h4><p>By focusing on just 3 days, you save on accommodation, meals, and transport costs. You still see the Big Five – just in a shorter, smarter package.</p></div>
+                </div>
+                
+                <div class="why-point">
+                    <div class="why-icon"><i class="fas fa-clock"></i></div>
+                    <div class="why-content"><h4>Perfect for Last-Minute Add-Ons</h4><p>Already in Zanzibar and realise you can't leave without seeing the Serengeti? This 3-day safari fits perfectly into most itineraries with minimal disruption.</p></div>
+                </div>
+                
+                <div class="why-point">
+                    <div class="why-icon"><i class="fas fa-tree"></i></div>
+                    <div class="why-content"><h4>Two Iconic Destinations in One Trip</h4><p>Serengeti for the endless plains and predators. Ngorongoro Crater for the highest density of wildlife in Africa. You get both in just 72 hours.</p></div>
+                </div>
+                
+                <div class="why-point">
+                    <div class="why-icon"><i class="fas fa-car"></i></div>
+                    <div class="why-content"><h4>Private Vehicle, Personalised Experience</h4><p>Your safari vehicle is exclusively for your group. No crowded minibuses – just you, your guide, and the wildlife.</p></div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Wildlife Expectations Section -->
+    <section class="blog-article-section">
+        <div class="container">
+            <div class="article-content">
+                <h2>Wildlife You Can Expect to See on This 3-Day Safari</h2>
+                
+                <div class="stat-box-container">
+                    <div class="stat-box"><h4>Big Five</h4><p>Lion, leopard, elephant, buffalo, rhino (in Ngorongoro)</p></div>
+                    <div class="stat-box"><h4>Big Cats</h4><p>Lions, leopards, cheetahs in Serengeti</p></div>
+                    <div class="stat-box"><h4>Large Herbivores</h4><p>Elephant, buffalo, zebra, wildebeest, giraffe, hippo</p></div>
+                    <div class="stat-box"><h4>Birdlife</h4><p>Over 500 species including flamingos, ostriches, eagles</p></div>
+                </div>
+                
+                <p><strong>Central Serengeti (Days 1-2):</strong> The Seronera area is famous for year-round wildlife. Lions are commonly spotted on the rocky kopjes, leopards lounging in acacia trees, and elephants wandering through the valleys. Cheetahs hunt on the open plains, and hyenas are never far away. The Seronera River attracts large herds of zebra and wildebeest even when the migration is elsewhere.</p>
+                
+                <p><strong>Ngorongoro Crater (Day 3):</strong> This UNESCO World Heritage site offers the highest density of large mammals in Africa. In just a few hours on the crater floor, you're almost guaranteed to see lions, hyenas, elephants, buffaloes, hippos, and the rare black rhino. The crater is also home to thousands of flamingos on Lake Magadi.</p>
+                
+                <div class="highlight-box">
+                    <p><strong>Seasonal Note:</strong> While the Great Migration passes through different areas of the Serengeti depending on the season, Central Serengeti offers excellent resident game year-round. Your guide will know exactly where to go for the best sightings during your visit.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Quick Comparison Section -->
+    <section class="blog-article-section">
+        <div class="container">
+            <div class="article-content">
+                <h2>3-Day Safari vs. Longer Safaris – The Best Value Choice</h2>
+                
+                <table class="comparison-table">
+                    <thead>
+                        <tr><th>Safari Duration</th><th>Destinations</th><th>Approx Cost (p/p)</th><th>Best For</th></tr>
+                    </thead>
+                    <tbody>
+                        <tr><td><strong>3 Days (This Package)</strong></td><td>Serengeti + Ngorongoro Crater</td><td>$850 - $1,200</td><td>Budget travellers, time-limited, Zanzibar add-ons</td></tr>
+                        <tr><td><strong>5 Days</strong></td><td>Serengeti + Ngorongoro + Tarangire/Manyara</td><td>$1,400 - $1,900</td><td>More park diversity</td></tr>
+                        <tr><td><strong>7+ Days</strong></td><td>Multiple parks + migration focus</td><td>$2,200+</td><td>Die-hard wildlife enthusiasts</td></tr>
+                    </tbody>
+                </table>
+                
+                <p class="note"><strong>The Best Value:</strong> For travellers already in Zanzibar who want to add a safari without breaking the bank or extending their trip significantly, this 3-day package offers the best cost-to-experience ratio. You see the two most famous parks in Tanzania in the most efficient way possible.</p>
+            </div>
+        </div>
+    </section>
+
+   <!-- Accommodation Section -->
+    <section class="section accommodation-section">
+        <div class="container">
+            <div class="section-title">
+                <span class="subtitle">Your Safari Comfort</span>
+                <h2>Where You'll Stay During Your 3-Day Safari</h2>
+                <p>Comfortable, well-located accommodations selected for value and experience.</p>
+            </div>
+            
+            <div class="accommodation-container">
+                <div class="accommodation-card">
+                    <div class="accommodation-image">
+                        <img src="../img/central-serengeti-mid-range-camp.jpg" alt="Central Serengeti tented camp">
+                        
+                    </div>
+                    <div class="accommodation-content">
+                        <h3>Baobab Central Serengeti Camp (or similar)</h3>
+                        <p>Located in the heart of the Serengeti, this camp offers spacious safari tents with en-suite bathrooms, hot showers, and private verandas. You'll fall asleep to the sounds of the bush – hyenas whooping, lions roaring in the distance. The camp's central location means you're perfectly positioned for both afternoon and morning game drives. Comfortable, authentic, and great value.</p>
+                        <div class="accommodation-features"><div class="feature"><i class="fas fa-campground"></i><span>Inside the Park</span></div><div class="feature"><i class="fas fa-fire"></i><span>Campfire Evenings</span></div><div class="feature"><i class="fas fa-binoculars"></i><span>Prime Location</span></div></div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="accommodation-note">
+                <p><strong>Note:</strong> Accommodation is subject to availability. We will substitute with a property of equal or higher standard. For budget travellers, we also offer basic camping options – ask for a quote.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Booking & Flexibility Section -->
+    <section class="blog-article-section">
+        <div class="container">
+            <div class="article-content">
+                <h2>Booking Flexibility & Payment Options</h2>
+                
+                <div class="two-column-content">
+                    <div class="column"><h4><i class="fas fa-calendar-check"></i> Easy Booking Process</h4><p>Contact us with your Zanzibar dates and group size. We'll check flight availability and send a detailed quote within 24 hours.</p></div>
+                    <div class="column"><h4><i class="fas fa-credit-card"></i> Simple Deposit</h4><p>30% deposit confirms your safari and flights. Balance due 30 days before departure. Multiple payment methods accepted.</p></div>
+                </div>
+                
+                <div class="two-column-content">
+                    <div class="column"><h4><i class="fas fa-sync-alt"></i> Flexible Changes</h4><p>Need to adjust dates? We accommodate changes with reasonable notice – we know travel plans evolve.</p></div>
+                    <div class="column"><h4><i class="fab fa-whatsapp"></i> Instant Assistance</h4><p>Questions about this 3-day safari? Our team is available on WhatsApp for quick, friendly responses.</p></div>
+                </div>
+                
+                <div class="highlight-box">
+                    <p>This <strong>3-day safari from Zanzibar to Serengeti and Ngorongoro</strong> is available year-round. Whether you're travelling solo, as a couple, or with friends, we can tailor the experience to your budget and preferences. Contact us today – your African adventure is just a flight away from your Zanzibar beach holiday.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Value Highlights Section -->
+    <section class="value-highlight">
+        <div class="container">
+            <h3 style="text-align: center; margin-bottom: 20px;">Why This 3-Day Safari Offers Incredible Value</h3>
+            <div class="value-grid">
+                <div class="value-item"><i class="fas fa-plane"></i><h4>Fly Direct</h4><p>No wasted days – morning flight from Zanzibar</p></div>
+                <div class="value-item"><i class="fas fa-paw"></i><h4>Two Iconic Parks</h4><p>Serengeti + Ngorongoro in 3 days</p></div>
+                <div class="value-item"><i class="fas fa-dollar-sign"></i><h4>Budget-Friendly</h4><p>Affordable way to see the best of Tanzania</p></div>
+                <div class="value-item"><i class="fas fa-car"></i><h4>Private Vehicle</h4><p>Exclusive safari experience</p></div>
+                <div class="value-item"><i class="fas fa-clock"></i><h4>Perfect Add-On</h4><p>Ideal for Zanzibar beach holidays</p></div>
+            </div>
+        </div>
+    </section>
+
+   
+
+    <?php include __DIR__ . '../../plugins-folder/call-to-action.php'; ?>
+    <?php include __DIR__ . '../../plugins-folder/pop-up-expert.php'; ?>
+    <?php include __DIR__ . '../../plugins-folder/footer.php'; ?>
+    <?php include __DIR__ . '../../plugins-folder/booking-form.php'; ?>
+    <?php include __DIR__ . '../../plugins-folder/mobile-footer.php'; ?>
+
+</body>
+</html>
