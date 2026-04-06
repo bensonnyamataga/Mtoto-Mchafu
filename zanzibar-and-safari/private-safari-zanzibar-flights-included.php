@@ -8,7 +8,7 @@
     <meta name="keywords" content="private safari from Zanzibar with flights included, fly in safari Zanzibar, Zanzibar to Serengeti flights, Tanzania fly-in safari, luxury safari from Zanzibar, beach and bush safari">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
-    <link rel="canonical" href="https://deeptanzaniatours.com/safari-package/private-safari-zanzibar-flights-included.php" />
+    <link rel="canonical" href="https://deeptanzaniatours.com/zanzibar-and-safari/private-safari-zanzibar-flights-included.php" />
     <link rel="stylesheet" href="../style/package.css">
     <link rel="stylesheet" href="../style/style.css">
 
