@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Private Safari from Zanzibar with Flights Included | Fly-in Safari & Beach</title>
-    <meta name="description" content="Book a private safari from Zanzibar with flights included. Fly direct to Serengeti, enjoy game drives, and return to your beach resort. Perfect for couples and luxury travellers.">
+    <title>Private Safari from Zanzibar with Flights Included </title>
+    <meta name="description" content="Book a private safari from Zanzibar with flights included. Fly direct to Serengeti, enjoy game drives, and return to your beach resort.">
     <meta name="keywords" content="private safari from Zanzibar with flights included, fly in safari Zanzibar, Zanzibar to Serengeti flights, Tanzania fly-in safari, luxury safari from Zanzibar, beach and bush safari">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">

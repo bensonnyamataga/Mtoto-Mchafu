@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Family Safari and Zanzibar Holiday Tanzania – 9 Days of Wildlife & Beach</title>
-    <meta name="description" content="Book a family safari and Zanzibar holiday Tanzania. 6 days safari in Tarangire, Serengeti & Ngorongoro plus 3 days Zanzibar beach. Kid-friendly guides, family accommodations, child discounts.">
+    <title>Family Safari and Zanzibar Holiday Tanzania </title>
+    <meta name="description" content="Book a family safari and Zanzibar holiday Tanzania. 6 days safari in Tarangire, Serengeti & Ngorongoro plus 3 days Zanzibar beach.">
     <meta name="keywords" content="family safari and Zanzibar holiday Tanzania, family safari Tanzania, Zanzibar family holiday, Tanzania safari with kids, safari and beach family package">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
