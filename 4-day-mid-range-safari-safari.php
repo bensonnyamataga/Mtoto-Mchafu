@@ -10,7 +10,17 @@
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <link rel="canonical" href="https://deeptanzaniatours.com/4-day-camping-safari-safari.php" />
    <link rel="stylesheet" href="style/style.css">
-   <script src="script/script.js"></script> 
+   <script src="script/script.js"></script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-FP1EW3J4H7"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-FP1EW3J4H7');
+</script> 
    <!-- Favicon -->
     <link rel="icon" href="/img/favicon/favicon.ico" sizes="any">
     <link rel="icon" type="img/svg+xml" href="/img/favicon/favicon.svg">
