@@ -21,7 +21,7 @@
     </div>
     <div class="container">
         <div class="hero-content">
-            <h1>Experience the Wonders of Tanzania</h1>
+            <h1>Experience the Wonders of AFRICA</h1>
             <p>Discover the breathtaking wildlife of the Serengeti, conquer Mount Kilimanjaro, and relax on the pristine beaches of Zanzibar with our expert-guided tours.</p>
             <div class="hero-btns">
                 <a href="#safaris" class="btn btn-primary">Explore Safaris</a>
