@@ -7,8 +7,8 @@
     --light: #F6F4F2;
     --white:#F6F4F2;
     --text: #444444;
-    --heading: 'Mazzard H', 'Futura', 'Trebuchet MS', Arial, sans-serif;
-    --body: 'Mazzard H', 'Futura', 'Trebuchet MS', Arial, sans-serif;
+    --heading: 'MazzardH',  Arial, sans-serif;
+    --body: 'MazzardH',Arial, sans-serif;
 }
 
 
@@ -16,7 +16,7 @@
 /* Mazzard H Font Family (Fixed for Mobile) */
 /* IMPORTANT: ensure this folder exists: /fonts/  (edit path if your fonts are elsewhere) */
 @font-face{
-  font-family:"Mazzard H";
+  font-family:"MazzardH";
   src:url("/style/fonts/MazzardH-ExtraLight.otf") format("opentype");
   font-weight:200;
   font-style:normal;
@@ -24,23 +24,23 @@
 }
 
 @font-face{
-  font-family:"Mazzard H";
-  src:url("/style/fonts/mazzard-h-light.otf") format("opentype");
+  font-family:"MazzardH";
+  src:url("/style/fonts/MazzardH-light.otf") format("opentype");
   font-weight:300;
   font-style:normal;
   font-display:swap;
 }
 
 @font-face{
-  font-family:"Mazzard H";
-  src:url("/style/fonts/mazzard-h-regular.otf") format("opentype");
+  font-family:"MazzardH";
+  src:url("/style/fonts/MazzardH-regular.otf") format("opentype");
   font-weight:400;
   font-style:normal;
   font-display:swap;
 }
 
 @font-face{
-  font-family:"Mazzard H";
+  font-family:"MazzardH";
   src:url("/style/fonts/MazzardH-Bold.otf") format("opentype");
   font-weight:700;
   font-style:normal;
@@ -48,7 +48,7 @@
 }
 
 @font-face{
-  font-family:"Mazzard H";
+  font-family:"MazzardH";
   src:url("/style/fonts/MazzardH-BoldItalic.otf") format("opentype");
   font-weight:700;
   font-style:italic;
@@ -56,7 +56,7 @@
 }
 
 @font-face{
-  font-family:"Mazzard H";
+  font-family:"MazzardH";
   src:url("/style/fonts/MazzardH-ExtraBold.otf") format("opentype");
   font-weight:800;
   font-style:normal;
@@ -64,7 +64,7 @@
 }
 
 @font-face{
-  font-family:"Mazzard H";
+  font-family:"MazzardH";
   src:url("/style/fonts/MazzardH-ExtraBoldItalic.otf") format("opentype");
   font-weight:800;
   font-style:italic;
@@ -72,7 +72,7 @@
 }
 
 @font-face{
-  font-family:"Mazzard H";
+  font-family:"MazzardH";
   src:url("/style/fonts/MazzardH-Black.otf") format("opentype");
   font-weight:900;
   font-style:normal;
@@ -80,7 +80,7 @@
 }
 
 @font-face{
-  font-family:"Mazzard H";
+  font-family:"MazzardH";
   src:url("/style/fonts/MazzardH-BlackItalic.otf") format("opentype");
   font-weight:900;
   font-style:italic;
