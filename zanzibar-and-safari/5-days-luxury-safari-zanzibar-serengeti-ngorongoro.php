@@ -11,7 +11,15 @@
     <link rel="canonical" href="https://deeptanzaniatours.com/safari-package/5-days-luxury-safari-zanzibar-serengeti-ngorongoro.php" />
     <link rel="stylesheet" href="../style/package.css">
     <link rel="stylesheet" href="../style/style.css">
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-FP1EW3J4H7"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
+  gtag('config', 'G-FP1EW3J4H7');
+</script>
     <!-- Favicon -->
     <link rel="icon" href="/img/favicon/favicon.ico" sizes="any">
     <link rel="icon" type="img/svg+xml" href="/img/favicon/favicon.svg">
@@ -297,7 +305,7 @@
     <!-- Hero Section -->
     <section class="hero-altoo" id="home-altoo">
         <div class="hero-altoo-background">
-            <img src="../img/honeymoon-safari-banner-8-days-with-zanzibar.jpg" alt="5 days luxury safari from Zanzibar to Serengeti and Ngorongoro Crater">
+            <img src="../img/melia-ngorongoro-02.jpg" alt="5 days luxury safari from Zanzibar to Serengeti and Ngorongoro Crater">
             <div class="hero-altoo-overlay"></div>
         </div>
         <div class="container">
@@ -319,8 +327,7 @@
                 
                 <h2>Why This 5 Days Luxury Safari from Zanzibar to Serengeti and Ngorongoro Crater Is Perfect for You</h2>
                 
-                <div class="personal-note">
-                    <h4><i class="fas fa-heart"></i> Hello Honeymooners, Hello Friends, Hello Family Members</h4>
+                <div class="highlight-box">
                     <p>To all who want to have an unforgettable holiday in the heart of Tanzania – I mean the top two main destinations in Tanzania, Serengeti and Ngorongoro. This is a perfect program designed just for you. With luxury accommodation, you will have 5 days exploring Serengeti and ending with Ngorongoro. Take your camera, take your ticket, wear your safari outfit and be ready to start this unforgettable experience. Now let's break your day-to-day program with luxury accommodation.</p>
                 </div>
                 
@@ -332,15 +339,7 @@
                 
                 <p>This itinerary is best for couples, honeymooners, family members, or friends who want to experience luxury accommodations while exploring the greatest wildlife destinations on earth. The Serengeti offers endless plains, the Great Migration, and the highest concentration of predators in Africa. Ngorongoro Crater is a UNESCO World Heritage Site with the densest population of large mammals anywhere, including the rare black rhino.</p>
                 
-                <div class="insight-box">
-                    <h4><i class="fas fa-star"></i> What Makes Serengeti Unique</h4>
-                    <p>The Serengeti is unique for its endless rolling plains, the Great Migration of over 1.5 million wildebeest, and the highest density of big cats in Africa – lions, leopards, and cheetahs. The landscape offers open grasslands, rocky kopjes, and river valleys that attract wildlife year-round. It's a photographer's paradise and a wildlife lover's dream.</p>
-                </div>
                 
-                <div class="insight-box">
-                    <h4><i class="fas fa-mountain"></i> What Makes Ngorongoro Crater Unique</h4>
-                    <p>Ngorongoro is unique as the world's largest intact volcanic caldera, creating a natural enclosure for approximately 25,000 large animals – including the rare black rhino, lions, elephants, buffalo, hippos, and thousands of flamingos on Lake Magadi. The crater floor offers the highest density of large mammals in Africa, making game viewing incredibly rewarding.</p>
-                </div>
                 
                 <p class="note"><strong>Luxury Accommodation Advantage:</strong> Staying at Meliá Serengeti Lodge and Ngorongoro Lodge Meliá Collection means you enjoy spacious suites, private verandas with stunning views, gourmet dining, spa facilities, and personalized service. These accommodations can be upgraded depending on your request.</p>
             </div>
@@ -371,7 +370,7 @@
                             </p>
                         </div>
                         <div class="day-visual">
-                            <img src="../img/serengeti-from-zanzibar.jpg" alt="Arrival at Serengeti luxury safari">
+                            <img src="../img/melia-serengeti.jpg" alt="Arrival at Serengeti luxury safari">
                         </div>
                     </div>
                     <div class="day-stats">
@@ -415,7 +414,7 @@
                             </p>
                         </div>
                         <div class="day-visual">
-                            <img src="../img/romantic-in-serengeti.jpg" alt="Sunset in Serengeti">
+                            <img src="../img/meliaserengetilodge3.jpg" alt="Sunset in Serengeti">
                         </div>
                     </div>
                     <div class="day-stats">
@@ -438,7 +437,7 @@
                             </p>
                         </div>
                         <div class="day-visual">
-                            <img src="../img/honey-moon-ngorongoro.jpg" alt="Ngorongoro Crater rim lodge">
+                            <img src="../img/melia-ngorongoro.jpg" alt="Ngorongoro Crater rim lodge">
                         </div>
                     </div>
                     <div class="day-stats">
@@ -499,8 +498,8 @@
                     <li><strong>Regional Air</strong> – Comfortable service and competitive rates</li>
                 </ul>
                 
-                <div class="travel-tip">
-                    <h4><i class="fas fa-clock"></i> Why Booking Early Matters</h4>
+     
+              <div class="highlight-box">    </i> Why Booking Early Matters</h4>
                     <p>Flights from Zanzibar to Serengeti have limited capacity. During high season, seats can sell out well in advance, so early booking is highly recommended for the best availability. We can book the flight for you as part of your package – just let us know your dates.</p>
                 </div>
                 
@@ -551,7 +550,7 @@
                 <!-- Serengeti Accommodation -->
                 <div class="accommodation-card">
                     <div class="accommodation-image">
-                        <img src="../img/Baobab-Mara-Luxury-Camp.jpg" alt="Meliá Serengeti Lodge">
+                        <img src="../img/melia-serengeti.jpg" alt="Meliá Serengeti Lodge">
                         <div class="accommodation-location">
                             <i class="fas fa-map-marker-alt"></i>
                             <span>Central Serengeti</span>
@@ -573,7 +572,7 @@
                 <!-- Ngorongoro Accommodation -->
                 <div class="accommodation-card">
                     <div class="accommodation-image">
-                        <img src="../img/kankari-logde-karatu.jpg" alt="Ngorongoro Lodge Meliá Collection">
+                        <img src="../img/melia-ngorongoro.jpg" alt="Ngorongoro Lodge Meliá Collection">
                         <div class="accommodation-location">
                             <i class="fas fa-map-marker-alt"></i>
                             <span>Ngorongoro Crater Rim</span>
@@ -786,10 +785,7 @@
                     </div>
                 </div>
                 
-                <div class="travel-tip">
-                    <h4><i class="fas fa-calendar-alt"></i> Book Early – Limited Availability at Meliá Lodges</h4>
-                    <p>Since this package includes luxury accommodation at Meliá Serengeti Lodge and Ngorongoro Lodge Meliá Collection, we recommend booking at least 3 months in advance – especially during high season (June to October). These lodges have limited suites and fill up quickly. The earlier you book, the better your chances of securing your preferred dates.</p>
-                </div>
+                
                 
                 <div class="highlight-box">
                     <p>This <strong>5 days luxury safari from Zanzibar to Serengeti and Ngorongoro Crater</strong> is an excellent choice for travellers who want a complete luxury safari after Zanzibar with good pacing, strong wildlife value, and easy logistics. Perfect for honeymooners, couples, families, and friends.</p>
