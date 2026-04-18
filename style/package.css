@@ -7,8 +7,8 @@
     --light: #F6F4F2;
     --white:#F6F4F2;
     --text: #444444;
-    --heading: 'Mazzard H', 'Futura', 'Trebuchet MS', Arial, sans-serif;
-    --body: 'Mazzard H', 'Futura', 'Trebuchet MS', Arial, sans-serif;
+    --heading: 'Mazzard H',  Arial, sans-serif;
+    --body: 'Mazzard H', Arial, sans-serif;
 }
 
 /* Mazzard H Font Family (Fixed for Mobile) */
@@ -26,7 +26,7 @@
 
 @font-face{
   font-family:"Mazzard H";
-  src:url("/style/fonts/mazzard-h-light.otf") format("opentype");
+  src:url("/style/fonts/MazzardH-light.otf") format("opentype");
   font-weight:300;
   font-style:normal;
   font-display:swap;
@@ -34,7 +34,7 @@
 
 @font-face{
   font-family:"Mazzard H";
-  src:url("/style/fonts/mazzard-h-regular.otf") format("opentype");
+  src:url("/style/fonts/MazzardH-regular.otf") format("opentype");
   font-weight:400;
   font-style:normal;
   font-display:swap;
