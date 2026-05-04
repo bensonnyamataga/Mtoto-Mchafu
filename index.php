@@ -599,6 +599,777 @@
     </div>
 </section>
 
+
+<!-- TripAdvisor Reviews Section -->
+<section class="tripadvisor-reviews">
+    <div class="container">
+        <div class="section-title">
+            <span class="subtitle">Client Experiences</span>
+            <h2>What Our Travelers Say</h2>
+            <p>Read authentic reviews from adventurers who explored Tanzania with Deep Tanzania Tours</p>
+        </div>
+        
+        <div class="reviews-grid">
+            <!-- Safari Review 1 -->
+            <div class="review-card">
+                <div class="review-header">
+                    <div class="client-avatar">
+                        <img src="img/Client-1.jpg" alt="James H">
+                    </div>
+                    <div class="client-info">
+                        <h4>James H</h4>
+                        <span class="review-date">Oct 2025</span>
+                    </div>
+                    <div class="tripadvisor-brand">
+                        <span class="trip">trip</span><span class="advisor">advisor</span>
+                    </div>
+                </div>
+                
+                <div class="review-title">
+                    <h3>Unforgettable Safari Experience!</h3>
+                </div>
+                
+                <div class="star-rating">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                </div>
+                
+                <div class="review-content">
+                    <div class="review-excerpt">
+                        <p>Deep Tanzania Tours made our safari dreams come true! Our group of 4 spent 5 days in the Serengeti and Ngorongoro Crater. The wildlife sightings were incredible – we saw the Big Five before lunch on our second day...</p>
+                    </div>
+                    <div class="review-full">
+                        <p>Deep Tanzania Tours made our safari dreams come true! Our group of 4 spent 5 days in the Serengeti and Ngorongoro Crater. The wildlife sightings were incredible – we saw the Big Five before lunch on our second day. Our guide, Emmanuel, had an eagle eye for spotting lions, leopards, and even a rhino in the distance. The safari vehicle was comfortable with open roof panels for perfect photography. The camp we stayed at was luxurious yet authentic. Deep Tanzania Tours handled every detail perfectly, from airport transfers to hot meals in the bush. I cannot recommend them enough for anyone wanting a top-tier Tanzanian safari!</p>
+                    </div>
+                </div>
+                
+                <div class="review-footer">
+                    <button class="read-review-btn">
+                        <span class="read-text">Read Full Review</span>
+                        <span class="collapse-text" style="display: none;">Show Less</span>
+                    </button>
+                </div>
+            </div>
+            
+            <!-- Safari Review 2 -->
+            <div class="review-card">
+                <div class="review-header">
+                    <div class="client-avatar">
+                        <img src="img/client-2.jpg" alt="Linda M">
+                    </div>
+                    <div class="client-info">
+                        <h4>Linda M</h4>
+                        <span class="review-date">Oct 2025</span>
+                    </div>
+                    <div class="tripadvisor-brand">
+                        <span class="trip">trip</span><span class="advisor">advisor</span>
+                    </div>
+                </div>
+                
+                <div class="review-title">
+                    <h3>Five Star Safari & Cultural Tour</h3>
+                </div>
+                
+                <div class="star-rating">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                </div>
+                
+                <div class="review-content">
+                    <div class="review-excerpt">
+                        <p>The team led by David (our safari guide), Joseph, and Grace gave us an experience beyond words. Their knowledge of animal behavior and the Tanzanian bush was extraordinary. We saw elephants, giraffes, zebras, and a cheetah hunt...</p>
+                    </div>
+                    <div class="review-full">
+                        <p>The team led by David (our safari guide), Joseph, and Grace gave us an experience beyond words. Their knowledge of animal behavior and the Tanzanian bush was extraordinary. We saw elephants, giraffes, zebras, and a cheetah hunt on the open plains of the Serengeti. Beyond wildlife, they arranged a visit to a Maasai village where we learned about their traditions and even tried spear-throwing. The picnic lunches under acacia trees were magical. Deep Tanzania Tours perfectly blended adventure, education, and comfort. This safari exceeded all our expectations, and we are already planning our return!</p>
+                    </div>
+                </div>
+                
+                <div class="review-footer">
+                    <button class="read-review-btn">
+                        <span class="read-text">Read Full Review</span>
+                        <span class="collapse-text" style="display: none;">Show Less</span>
+                    </button>
+                </div>
+            </div>
+            
+            <!-- Kilimanjaro Review 1 -->
+            <div class="review-card">
+                <div class="review-header">
+                    <div class="client-avatar">
+                        <img src="img/client-3.jpg" alt="Robert K">
+                    </div>
+                    <div class="client-info">
+                        <h4>Robert K</h4>
+                        <span class="review-date">Sep 2025</span>
+                    </div>
+                    <div class="tripadvisor-brand">
+                        <span class="trip">trip</span><span class="advisor">advisor</span>
+                    </div>
+                </div>
+                
+                <div class="review-title">
+                    <h3>Summited Kilimanjaro with the Best!</h3>
+                </div>
+                
+                <div class="star-rating">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                </div>
+                
+                <div class="review-content">
+                    <div class="review-excerpt">
+                        <p>From the moment we booked with Deep Tanzania Tours until our summit celebration, every detail was flawless. Our guides, James and Peter, were experienced, encouraging, and highly professional. The porters and chef worked miracles on the mountain...</p>
+                    </div>
+                    <div class="review-full">
+                        <p>From the moment we booked with Deep Tanzania Tours until our summit celebration, every detail was flawless. Our guides, James and Peter, were experienced, encouraging, and highly professional. The porters and chef worked miracles on the mountain – providing hot meals, clean tents, and warm smiles every day. Their daily health checks gave us confidence, and their "pole pole" pacing helped all 6 of us reach Uhuru Peak. Standing on the roof of Africa as the sun rose is a moment I will cherish forever. Deep Tanzania Tours turned a challenging climb into a life-changing triumph. Asante sana!</p>
+                    </div>
+                </div>
+                
+                <div class="review-footer">
+                    <button class="read-review-btn">
+                        <span class="read-text">Read Full Review</span>
+                        <span class="collapse-text" style="display: none;">Show Less</span>
+                    </button>
+                </div>
+            </div>
+            
+            <!-- Safari Review 3 -->
+            <div class="review-card">
+                <div class="review-header">
+                    <div class="client-avatar">
+                        <img src="img/client-4.jpg" alt="Patricia W">
+                    </div>
+                    <div class="client-info">
+                        <h4>Patricia W</h4>
+                        <span class="review-date">Aug 2025</span>
+                    </div>
+                    <div class="tripadvisor-brand">
+                        <span class="trip">trip</span><span class="advisor">advisor</span>
+                    </div>
+                </div>
+                
+                <div class="review-title">
+                    <h3>Best Family Safari Adventure</h3>
+                </div>
+                
+                <div class="star-rating">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                </div>
+                
+                <div class="review-content">
+                    <div class="review-excerpt">
+                        <p>We traveled as a family of 5 (kids aged 10, 13, 15) and Deep Tanzania Tours made it perfect for everyone. Our guide, Samson, was patient, knowledgeable, and fantastic with the children. He taught them how to track animals and identify bird calls...</p>
+                    </div>
+                    <div class="review-full">
+                        <p>We traveled as a family of 5 (kids aged 10, 13, 15) and Deep Tanzania Tours made it perfect for everyone. Our guide, Samson, was patient, knowledgeable, and fantastic with the children. He taught them how to track animals and identify bird calls. We saw countless elephants, hippos, and even a leopard with her cub. The lodges chosen were family-friendly with pools and excellent food. The highlight was a hot air balloon safari over the Serengeti at sunrise, followed by a champagne breakfast in the bush. Deep Tanzania Tours exceeded all our expectations. This was truly the vacation of a lifetime for our entire family!</p>
+                    </div>
+                </div>
+                
+                <div class="review-footer">
+                    <button class="read-review-btn">
+                        <span class="read-text">Read Full Review</span>
+                        <span class="collapse-text" style="display: none;">Show Less</span>
+                    </button>
+                </div>
+            </div>
+            
+            <!-- Kilimanjaro Review 2 -->
+            <div class="review-card">
+                <div class="review-header">
+                    <div class="client-avatar">
+                        <img src="img/client-5.jpg" alt="Thomas B">
+                    </div>
+                    <div class="client-info">
+                        <h4>Thomas B</h4>
+                        <span class="review-date">Jul 2025</span>
+                    </div>
+                    <div class="tripadvisor-brand">
+                        <span class="trip">trip</span><span class="advisor">advisor</span>
+                    </div>
+                </div>
+                
+                <div class="review-title">
+                    <h3>Professional and Caring Mountain Crew</h3>
+                </div>
+                
+                <div class="star-rating">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                </div>
+                
+                <div class="review-content">
+                    <div class="review-excerpt">
+                        <p>Deep Tanzania Tours provided an exceptional Kilimanjaro climb. The attention to safety, food quality, and equipment was outstanding. Our head guide, William, checked our oxygen saturation twice daily and adjusted our hydration and pace accordingly...</p>
+                    </div>
+                    <div class="review-full">
+                        <p>Deep Tanzania Tours provided an exceptional Kilimanjaro climb. The attention to safety, food quality, and equipment was outstanding. Our head guide, William, checked our oxygen saturation twice daily and adjusted our hydration and pace accordingly. When one climber from another group needed help, our team immediately offered assistance – this spoke volumes about their character. The summit night was tough, but William's constant encouragement and perfect pacing kept me moving. Waking up to hot tea in my tent and singing from the porters each morning made the tough days easier. I reached Uhuru Peak and cried tears of joy. Deep Tanzania Tours has my deepest gratitude and highest recommendation!</p>
+                    </div>
+                </div>
+                
+                <div class="review-footer">
+                    <button class="read-review-btn">
+                        <span class="read-text">Read Full Review</span>
+                        <span class="collapse-text" style="display: none;">Show Less</span>
+                    </button>
+                </div>
+            </div>
+            
+            <!-- Zanzibar Review 1 -->
+            <div class="review-card">
+                <div class="review-header">
+                    <div class="client-avatar">
+                        <img src="img/client-6.jpg" alt="Sophia R">
+                    </div>
+                    <div class="client-info">
+                        <h4>Sophia R</h4>
+                        <span class="review-date">Jun 2025</span>
+                    </div>
+                    <div class="tripadvisor-brand">
+                        <span class="trip">trip</span><span class="advisor">advisor</span>
+                    </div>
+                </div>
+                
+                <div class="review-title">
+                    <h3>Paradise Found in Zanzibar</h3>
+                </div>
+                
+                <div class="star-rating">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                </div>
+                
+                <div class="review-content">
+                    <div class="review-excerpt">
+                        <p>After our safari, Deep Tanzania Tours arranged 4 days in Zanzibar – and it was the perfect ending to our trip. The beaches of Nungwi were like something from a postcard: white sand, turquoise water, and breathtaking sunsets. They organized a spice tour...</p>
+                    </div>
+                    <div class="review-full">
+                        <p>After our safari, Deep Tanzania Tours arranged 4 days in Zanzibar – and it was the perfect ending to our trip. The beaches of Nungwi were like something from a postcard: white sand, turquoise water, and breathtaking sunsets. They organized a spice tour where we tasted tropical fruits straight from the trees, a historical walk through Stone Town, and a traditional dhow cruise where we swam with wild dolphins. Our local guide, Fatima, shared the island's rich Swahili culture and history with warmth and expertise. The beach resort was luxurious with incredible seafood. Deep Tanzania Tours created a seamless, stress-free transition from bush to beach. This was the honeymoon of our dreams!</p>
+                    </div>
+                </div>
+                
+                <div class="review-footer">
+                    <button class="read-review-btn">
+                        <span class="read-text">Read Full Review</span>
+                        <span class="collapse-text" style="display: none;">Show Less</span>
+                    </button>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Read More Reviews Button -->
+        <div class="more-reviews-cta">
+            <a href="#" class="tripadvisor-btn">
+                Read More Reviews
+            </a>
+        </div>
+        
+    </div>
+</section>
+
+<style>
+/* TripAdvisor Reviews Section Styles */
+.tripadvisor-reviews {
+    padding: px 0;
+    background: var(--white);
+    position: relative;
+}
+
+.reviews-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 25px;
+    margin-bottom: 40px; /* Reduced margin to accommodate new button */
+}
+
+/* NEW: Read More Reviews Button Styles */
+.more-reviews-cta {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.tripadvisor-btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    background: #00AA6C; /* TripAdvisor green */
+    color: white;
+    text-decoration: none;
+    padding: 14px 32px;
+    border-radius: 8px;
+    font-weight: 600;
+    font-size: 16px;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 15px rgba(0, 170, 108, 0.3);
+    border: 2px solid #00AA6C;
+    position: relative;
+    overflow: hidden;
+}
+
+.tripadvisor-btn:hover {
+    background: white;
+    color: #00AA6C;
+    transform: translateY(-3px);
+    box-shadow: 0 8px 25px rgba(0, 170, 108, 0.4);
+}
+
+.tripadvisor-btn:active {
+    transform: translateY(-1px);
+}
+
+/* Rest of the existing styles remain the same */
+.review-card {
+    background: var(--light);
+    border-radius: 10px;
+    padding: 25px;
+    box-shadow: 0 3px 15px rgba(0,0,0,0.06);
+    transition: all 0.4s ease;
+    border: 1px solid rgba(117, 104, 44, 0.08);
+    display: flex;
+    flex-direction: column;
+    height: auto;
+    position: relative;
+    overflow: hidden;
+}
+
+.review-card.expanded {
+    position: relative;
+    z-index: 10;
+    box-shadow: 0 10px 40px rgba(0,0,0,0.15);
+    transform: translateY(-5px);
+}
+
+.review-header {
+    display: flex;
+    align-items: center;
+    margin-bottom: 18px;
+    position: relative;
+}
+
+.client-avatar {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    overflow: hidden;
+    margin-right: 12px;
+    border: 2px solid var(--primary);
+    flex-shrink: 0;
+}
+
+.client-avatar img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.client-info {
+    flex: 1;
+    text-align: left;
+}
+
+.client-info h4 {
+    font-size: 16px;
+    margin-bottom: 4px;
+    color: var(--dark);
+    font-weight: 600;
+}
+
+.review-date {
+    font-size: 13px;
+    color: var(--text);
+    opacity: 0.7;
+}
+
+.tripadvisor-brand {
+    font-size: 14px;
+    font-weight: 700;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+.trip {
+    color: #000000;
+}
+
+.advisor {
+    color: #00AA6C;
+}
+
+.review-title {
+    margin-bottom: 12px;
+    text-align: left;
+}
+
+.review-title h3 {
+    font-size: 18px;
+    color: var(--dark);
+    margin: 0;
+    font-weight: 600;
+    line-height: 1.3;
+}
+
+.star-rating {
+    margin-bottom: 15px;
+    display: flex;
+    gap: 2px;
+    justify-content: flex-start;
+}
+
+.star-rating i {
+    color: #00AA6C;
+    font-size: 14px;
+}
+
+.review-content {
+    flex: 1;
+    margin-bottom: 20px;
+    position: relative;
+    text-align: left;
+}
+
+.review-excerpt p {
+    color: var(--text);
+    line-height: 1.5;
+    margin: 0;
+    font-size: 14px;
+    display: -webkit-box;
+    -webkit-line-clamp: 4;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+
+.review-full {
+    display: none;
+    color: var(--text);
+    line-height: 1.6;
+    margin: 0;
+    font-size: 14px;
+}
+
+.review-card.expanded .review-excerpt {
+    display: none;
+}
+
+.review-card.expanded .review-full {
+    display: block;
+    animation: fadeIn 0.5s ease;
+}
+
+.review-footer {
+    padding-top: 15px;
+    border-top: 1px solid rgba(117, 104, 44, 0.1);
+    margin-top: auto;
+    text-align: left;
+}
+
+.read-review-btn {
+    background: none;
+    border: none;
+    color: var(--primary);
+    font-weight: 600;
+    font-size: 13px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    display: flex;
+    align-items: center;
+    padding: 5px 0;
+}
+
+.read-review-btn:after {
+    content: '↓';
+    margin-left: 5px;
+    transition: transform 0.3s ease;
+    font-size: 12px;
+}
+
+.read-review-btn.expanded:after {
+    content: '↑';
+}
+
+.read-review-btn:hover {
+    color: var(--secondary);
+}
+
+.reviews-cta {
+    background: var(--light);
+    border-radius: 12px;
+    padding: 40px;
+    text-align: center;
+    box-shadow: 0 3px 15px rgba(0,0,0,0.05);
+    border: 1px solid rgba(117, 104, 44, 0.1);
+}
+
+.cta-content h3 {
+    font-size: 24px;
+    margin-bottom: 12px;
+    color: var(--dark);
+}
+
+.cta-content p {
+    color: var(--text);
+    margin-bottom: 25px;
+    font-size: 15px;
+    max-width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.cta-buttons {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    flex-wrap: wrap;
+}
+
+/* Animations */
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(10px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.review-card {
+    animation: fadeInUp 0.5s ease forwards;
+}
+
+.review-card:nth-child(1) { animation-delay: 0.1s; }
+.review-card:nth-child(2) { animation-delay: 0.2s; }
+.review-card:nth-child(3) { animation-delay: 0.3s; }
+.review-card:nth-child(4) { animation-delay: 0.4s; }
+.review-card:nth-child(5) { animation-delay: 0.5s; }
+.review-card:nth-child(6) { animation-delay: 0.6s; }
+
+@keyframes fadeInUp {
+    from {
+        opacity: 0;
+        transform: translateY(15px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* Responsive Styles */
+@media (max-width: 1024px) {
+    .reviews-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (max-width: 768px) {
+    .tripadvisor-reviews {
+        padding: 60px 0;
+    }
+    
+    .reviews-grid {
+        grid-template-columns: 1fr;
+        max-width: 450px;
+        margin: 0 auto 40px;
+    }
+    
+    .review-card {
+        padding: 20px;
+    }
+    
+    .review-header {
+        flex-direction: row;
+        text-align: left;
+        gap: 0;
+    }
+    
+    .client-avatar {
+        margin-right: 12px;
+        margin-bottom: 0;
+    }
+    
+    .client-info {
+        text-align: left;
+        flex: 1;
+    }
+    
+    .tripadvisor-brand {
+        position: absolute;
+        top: 0;
+        right: 0;
+        margin-top: 0;
+    }
+    
+    .review-title {
+        text-align: left;
+    }
+    
+    .star-rating {
+        justify-content: flex-start;
+    }
+    
+    .review-content {
+        text-align: left;
+    }
+    
+    .review-footer {
+        text-align: left;
+    }
+    
+    /* NEW: Mobile styles for the button */
+    .tripadvisor-btn {
+        padding: 12px 28px;
+        font-size: 15px;
+        width: 100%;
+        max-width: 280px;
+    }
+    
+    .reviews-cta {
+        padding: 30px;
+    }
+    
+    .cta-content h3 {
+        font-size: 22px;
+    }
+    
+    .cta-buttons {
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .cta-buttons .btn {
+        width: 100%;
+        max-width: 220px;
+    }
+}
+
+@media (max-width: 576px) {
+    .review-header {
+        flex-direction: row;
+        align-items: flex-start;
+    }
+    
+    .client-avatar {
+        width: 45px;
+        height: 45px;
+        margin-right: 10px;
+    }
+    
+    .client-info h4 {
+        font-size: 15px;
+    }
+    
+    .review-date {
+        font-size: 12px;
+    }
+    
+    .tripadvisor-brand {
+        font-size: 13px;
+        position: absolute;
+        top: 0;
+        right: 0;
+    }
+    
+    .review-title h3 {
+        font-size: 17px;
+    }
+    
+    /* NEW: Smaller mobile button */
+    .tripadvisor-btn {
+        padding: 11px 24px;
+        font-size: 14px;
+        max-width: 260px;
+    }
+    
+    .reviews-cta {
+        padding: 25px 20px;
+    }
+    
+    .cta-content h3 {
+        font-size: 20px;
+    }
+}
+</style>
+
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    const readReviewButtons = document.querySelectorAll('.read-review-btn');
+    
+    readReviewButtons.forEach(button => {
+        button.addEventListener('click', function() {
+            const reviewCard = this.closest('.review-card');
+            const readText = this.querySelector('.read-text');
+            const collapseText = this.querySelector('.collapse-text');
+            
+            // Toggle expanded class
+            reviewCard.classList.toggle('expanded');
+            this.classList.toggle('expanded');
+            
+            // Toggle button text
+            if (reviewCard.classList.contains('expanded')) {
+                readText.style.display = 'none';
+                collapseText.style.display = 'inline';
+            } else {
+                readText.style.display = 'inline';
+                collapseText.style.display = 'none';
+            }
+            
+            // Close other expanded reviews
+            if (reviewCard.classList.contains('expanded')) {
+                document.querySelectorAll('.review-card.expanded').forEach(card => {
+                    if (card !== reviewCard) {
+                        card.classList.remove('expanded');
+                        const otherButton = card.querySelector('.read-review-btn');
+                        otherButton.classList.remove('expanded');
+                        const otherReadText = otherButton.querySelector('.read-text');
+                        const otherCollapseText = otherButton.querySelector('.collapse-text');
+                        otherReadText.style.display = 'inline';
+                        otherCollapseText.style.display = 'none';
+                    }
+                });
+            }
+        });
+    });
+    
+    // Close expanded reviews when clicking outside
+    document.addEventListener('click', function(event) {
+        if (!event.target.closest('.review-card')) {
+            document.querySelectorAll('.review-card.expanded').forEach(card => {
+                card.classList.remove('expanded');
+                const button = card.querySelector('.read-review-btn');
+                button.classList.remove('expanded');
+                const readText = button.querySelector('.read-text');
+                const collapseText = button.querySelector('.collapse-text');
+                readText.style.display = 'inline';
+                collapseText.style.display = 'none';
+            });
+        }
+    });
+});
+
+</script>
+
+
      <?php include 'plugins/mobile-footer.php';?>
 
 <!--Call to actions-->
