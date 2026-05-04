@@ -877,7 +877,7 @@
         
         <!-- Read More Reviews Button -->
         <div class="more-reviews-cta">
-            <a href="#" class="tripadvisor-btn">
+            <a href="https://www.tripadvisor.com.sg/Attraction_Review-g317084-d34166119-Reviews-Deep_Tanzania_Tours-Moshi_Kilimanjaro_Region.html" class="tripadvisor-btn">
                 Read More Reviews
             </a>
         </div>
