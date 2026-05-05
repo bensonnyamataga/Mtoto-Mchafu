@@ -35,32 +35,11 @@
             <p>Discover the breathtaking wildlife of the Serengeti, conquer Mount Kilimanjaro, and relax on the pristine beaches of Zanzibar with our expert-guided tours.</p>
             <div class="hero-btns">
                 <a href="#safaris" class="btn btn-primary">Explore Safaris</a>
-                <a href="#contact" class="btn btn-secondary">Plan Your Trip</a>
-</div>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+                <a href="#contact" class="btn btn-secondary" onclick="openBookingPopup()">Plan Your Trip</a>
+            </div>
         </div>
     </div>
 </section>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 <!-- About Section -->
@@ -486,9 +465,133 @@
     </section>
 
 
+<style>
+.brand-cta-section{
+    width:100%;
+    min-height:520px;
+    position:relative;
+    overflow:hidden;
+    display:flex;
+    align-items:center;
+}
 
+.brand-cta-section img{
+    position:absolute;
+    inset:0;
+    width:100%;
+    height:100%;
+    object-fit:cover;
+    z-index:1;
+}
 
+.brand-cta-section::before{
+    content:"";
+    position:absolute;
+    inset:0;
+    z-index:2;
+    background:linear-gradient(
+        90deg,
+        rgba(26,26,26,0.95) 0%,
+        rgba(117,104,44,0.90) 42%,
+        rgba(117,104,44,0.35) 68%,
+        rgba(0,0,0,0.05) 100%
+    );
+}
 
+.brand-cta-content{
+    position:relative;
+    z-index:3;
+    width:100%;
+    max-width:1200px;
+    margin:0 auto;
+    padding:80px 20px;
+    text-align:left;
+}
+
+.brand-cta-box{
+    max-width:520px;
+    text-align:left;
+}
+
+.brand-cta-box h1{
+    font-size:36px;
+    color:#ffffff;
+    margin-bottom:20px;
+    font-weight:800;
+    line-height:1.3;
+}
+
+.brand-cta-box p{
+    font-size:18px;
+    color:rgba(255,255,255,0.9);
+    line-height:1.7;
+    margin-bottom:30px;
+}
+
+.brand-cta-btn{
+    display:inline-block;
+    padding:12px 25px;
+    border-radius:50px;
+    font-size:14px;
+    font-weight:600;
+    text-transform:uppercase;
+    letter-spacing:1px;
+    background:#e0b354;
+    color:#1a1a1a;
+    text-decoration:none;
+    transition:all 0.3s ease;
+    box-shadow:0 4px 15px rgba(224,179,84,0.3);
+}
+
+.brand-cta-btn:hover{
+    background:#d4a336;
+    transform:translateY(-3px);
+    box-shadow:0 10px 25px rgba(224,179,84,0.4);
+}
+
+@media(max-width:768px){
+    .brand-cta-section{
+        min-height:600px;
+    }
+
+    .brand-cta-section::before{
+        background:linear-gradient(
+            90deg,
+            rgba(26,26,26,0.95) 0%,
+            rgba(117,104,44,0.90) 70%,
+            rgba(0,0,0,0.25) 100%
+        );
+    }
+
+    .brand-cta-box h1{
+        font-size:28px;
+    }
+
+    .brand-cta-box p{
+        font-size:16px;
+    }
+}
+</style>
+
+<section class="brand-cta-section">
+    <img src="img/cheetah-banner.jpg" alt="Tanzania safari adventure">
+
+    <div class="brand-cta-content">
+        <div class="brand-cta-box">
+
+            <h1>Discover your next Tanzania adventure today!</h1>
+
+            <p>
+                Are you ready to explore the beauty of Tanzania? Deep Tanzania Tours offers unforgettable safari experiences across Serengeti, Ngorongoro Crater, Tarangire, and beyond.We provide expertly guided journeys designed to match your travel style and budget.
+            </p>
+
+            <a href="#" class="brand-cta-btn" onclick="openBookingPopup()">
+                Checkout Tour Package
+            </a>
+
+        </div>
+    </div>
+</section>
 
 
 <!-- Blog Articles Section -->
@@ -702,7 +805,7 @@
             <div class="review-card">
                 <div class="review-header">
                     <div class="client-avatar">
-                        <img src="img/client-3.jpg" alt="Robert K">
+                        <img src="img/Client-3.jpg" alt="Robert K">
                     </div>
                     <div class="client-info">
                         <h4>Robert K</h4>
@@ -746,7 +849,7 @@
             <div class="review-card">
                 <div class="review-header">
                     <div class="client-avatar">
-                        <img src="img/client-4.jpg" alt="Patricia W">
+                        <img src="img/Client-4.jpg" alt="Patricia W">
                     </div>
                     <div class="client-info">
                         <h4>Patricia W</h4>
@@ -1370,6 +1473,7 @@ document.addEventListener('DOMContentLoaded', function() {
 </script>
 
 
+
      <?php include 'plugins/mobile-footer.php';?>
 
 <!--Call to actions-->
@@ -1379,9 +1483,9 @@ document.addEventListener('DOMContentLoaded', function() {
     <!--Call to actions ends-->
 
 
-
 <?php include 'plugins/footer.php';?>
 <?php include 'plugins/booking-form.php';?>
+
 
 
 
