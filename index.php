@@ -851,7 +851,7 @@
                     <div class="client-avatar">
                         <img src="img/Client-4.jpg" alt="Patricia W">
                     </div>
-                    <div class="client-info">
+                    <div class="Client-info">
                         <h4>Patricia W</h4>
                         <span class="review-date">Aug 2025</span>
                     </div>
@@ -893,9 +893,9 @@
             <div class="review-card">
                 <div class="review-header">
                     <div class="client-avatar">
-                        <img src="img/client-5.jpg" alt="Thomas B">
+                        <img src="img/Client-5.jpg" alt="Thomas B">
                     </div>
-                    <div class="client-info">
+                    <div class="Client-info">
                         <h4>Thomas B</h4>
                         <span class="review-date">Jul 2025</span>
                     </div>
@@ -937,7 +937,7 @@
             <div class="review-card">
                 <div class="review-header">
                     <div class="client-avatar">
-                        <img src="img/client-6.jpg" alt="Sophia R">
+                        <img src="img/Client-6.jpg" alt="Sophia R">
                     </div>
                     <div class="client-info">
                         <h4>Sophia R</h4>
