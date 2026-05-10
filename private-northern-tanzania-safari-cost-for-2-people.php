@@ -1030,25 +1030,7 @@
 
 <?php include 'plugins/call-to-action.php';?>
 
-            <!-- Article Footer -->
-            <div class="article-footer">
-                <div class="tags">
-                    <span><i class="fas fa-tags"></i> Tags:</span>
-                    <a href="#">Private Northern Tanzania Safari</a>
-                    <a href="#">Safari for Couples</a>
-                    <a href="#">Private Safari Cost 2026</a>
-                    <a href="#">Honeymoon Safari</a>
-                    <a href="#">Tanzania for Two</a>
-                </div>
-                <div class="social-share">
-                    <span>Share this guide:</span>
-                    <a href="#"><i class="fab fa-facebook-f"></i></a>
-                    <a href="#"><i class="fab fa-twitter"></i></a>
-                    <a href="#"><i class="fab fa-pinterest"></i></a>
-                    <a href="#"><i class="fab fa-linkedin-in"></i></a>
-                    <a href="#"><i class="fas fa-envelope"></i></a>
-                </div>
-            </div>
+    
         </div>
     </section>
 

@@ -9,8 +9,8 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <link rel="canonical" href="https://deeptanzaniatours.com/safari-articles/family-safari-from-arusha-with-hotel-pickup.php" />
-    <link rel="stylesheet" href="style/package.css">
-    <link rel="stylesheet" href="style/style.css">
+    <link rel="stylesheet" href="../style/package.css">
+    <link rel="stylesheet" href="../style/style.css">
 
     <!-- Favicon set -->
     <link rel="icon" href="/img/favicon/favicon.ico" sizes="any">
@@ -516,8 +516,8 @@
 </head>
 <body>
 
-    <?php include 'plugins/header.php';?>
 
+    <?php include __DIR__ . '../../plugins-folder/header.php'; ?>
     <!-- Hero Section - Updated for family safari -->
     <section class="hero-altoo" id="home-altoo">
         <div class="hero-altoo-background">
@@ -1151,12 +1151,12 @@
             
         </div>
     </section>
-
-    <?php include 'plugins/pop-up-expert.php';?>
-    <?php include 'plugins/footer.php';?>
-    <?php include 'plugins/booking-form.php';?>
-
-<?php include 'plugins/mobile-footer.php';?>
+ 
+    <?php include __DIR__ . '../../plugins-folder/call-to-action.php'; ?>
+    <?php include __DIR__ . '../../plugins-folder/pop-up-expert.php'; ?>
+    <?php include __DIR__ . '../../plugins-folder/footer.php'; ?>
+    <?php include __DIR__ . '../../plugins-folder/booking-form.php'; ?>
+    <?php include __DIR__ . '../../plugins-folder/mobile-footer.php'; ?>
 
 </body>
 </html>
