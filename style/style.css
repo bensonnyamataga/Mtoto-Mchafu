@@ -4194,7 +4194,394 @@ body {
 
 
 
+/* Serengeti Great Migration Season Tables - Internal CSS */
+.sg-migration-season-block {
+    padding: 60px 0 40px;
+    margin: 0;
+    background: var(--white);
+}
 
+.sg-migration-season-inner {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+.sg-migration-season-block h2 {
+    color: #1a1a1a;
+    font-size: 26px;
+    font-weight: 700;
+    margin: 35px 0 15px;
+    padding-bottom: 10px;
+    text-align: center;
+    position: relative;
+}
+
+.sg-migration-season-block h2:after {
+    content: '';
+    position: absolute;
+    width: 50px;
+    height: 3px;
+    background: var(--secondary);
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.sg-migration-season-inner > p {
+    color: var(--text);
+    font-size: 16px;
+    line-height: 1.8;
+    margin-bottom: 30px;
+}
+
+.sg-season-item {
+    margin: 35px 0 45px;
+}
+
+.sg-season-item h3 {
+    color: var(--dark);
+    font-size: 20px;
+    font-weight: 700;
+    margin: 25px 0 12px;
+}
+
+.sg-season-item p {
+    color: var(--text);
+    font-size: 16px;
+    line-height: 1.8;
+    margin-bottom: 18px;
+}
+
+.sg-season-table {
+    width: 100%;
+    border-collapse: collapse;
+    border-spacing: 0;
+    margin: 18px 0 30px;
+    background: #ffffff;
+    border: 1px solid rgba(117, 104, 44, 0.35);
+    border-radius: 0;
+    box-shadow: none;
+}
+
+.sg-season-table th {
+    background: var(--primary);
+    color: var(--white);
+    padding: 13px 16px;
+    font-size: 15px;
+    font-weight: 700;
+    text-align: center;
+    border: 1px solid rgba(255, 255, 255, 0.25);
+    border-radius: 0;
+}
+
+.sg-season-table td {
+    padding: 13px 16px;
+    color: var(--text);
+    font-size: 15px;
+    line-height: 1.7;
+    vertical-align: top;
+    border: 1px solid rgba(117, 104, 44, 0.25);
+    border-radius: 0;
+}
+
+.sg-season-table tbody tr:nth-child(even) td {
+    background: rgba(117, 104, 44, 0.06);
+}
+
+.sg-season-table tbody tr:nth-child(odd) td {
+    background: #ffffff;
+}
+
+.sg-season-table td:first-child {
+    color: var(--dark);
+    font-weight: 500;
+}
+
+@media (max-width: 768px) {
+    .sg-migration-season-block {
+        padding: 45px 0 30px;
+    }
+
+    .sg-migration-season-inner {
+        padding: 0 15px;
+    }
+
+    .sg-migration-season-block h2 {
+        font-size: 24px;
+    }
+
+    .sg-season-item h3 {
+        font-size: 19px;
+    }
+
+    .sg-season-table {
+        display: block;
+        overflow-x: auto;
+        white-space: normal;
+    }
+
+    .sg-season-table th,
+    .sg-season-table td {
+        min-width: 260px;
+        font-size: 14px;
+        padding: 12px;
+    }
+}
+
+* Recommended Serengeti Safari Packages - Internal CSS */
+.sg-packages-block {
+    padding: 60px 0 40px;
+    margin: 0;
+    background: var(--white);
+}
+
+.sg-packages-inner {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+.sg-packages-block h2 {
+    color: #1a1a1a;
+    font-size: 26px;
+    font-weight: 700;
+    margin: 35px 0 15px;
+    padding-bottom: 10px;
+    text-align: center;
+    position: relative;
+}
+
+.sg-packages-block h2:after {
+    content: '';
+    position: absolute;
+    width: 50px;
+    height: 3px;
+    background: var(--secondary);
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.sg-packages-inner > p {
+    color: var(--text);
+    font-size: 16px;
+    line-height: 1.8;
+    margin-bottom: 30px;
+}
+
+.sg-packages-table {
+    width: 100%;
+    border-collapse: collapse;
+    border-spacing: 0;
+    margin: 18px 0 30px;
+    background: #ffffff;
+    border: 1px solid rgba(117, 104, 44, 0.35);
+    border-radius: 0;
+    box-shadow: none;
+}
+
+.sg-packages-table th {
+    background: var(--primary);
+    color: var(--white);
+    padding: 13px 16px;
+    font-size: 15px;
+    font-weight: 700;
+    text-align: center;
+    border: 1px solid rgba(255, 255, 255, 0.25);
+    border-radius: 0;
+}
+
+.sg-packages-table td {
+    padding: 13px 16px;
+    color: var(--text);
+    font-size: 15px;
+    line-height: 1.7;
+    vertical-align: top;
+    border: 1px solid rgba(117, 104, 44, 0.25);
+    border-radius: 0;
+}
+
+.sg-packages-table tbody tr:nth-child(even) td {
+    background: rgba(117, 104, 44, 0.06);
+}
+
+.sg-packages-table tbody tr:nth-child(odd) td {
+    background: #ffffff;
+}
+
+.sg-packages-table td:first-child {
+    color: var(--dark);
+    font-weight: 600;
+}
+
+.sg-packages-note {
+    background: rgba(117, 104, 44, 0.08);
+    padding: 18px 20px;
+    border-left: 4px solid var(--primary);
+    margin-top: 20px;
+    color: var(--text);
+    font-size: 15px;
+    line-height: 1.7;
+}
+
+.sg-packages-note strong {
+    color: var(--dark);
+}
+
+@media (max-width: 768px) {
+    .sg-packages-block {
+        padding: 45px 0 30px;
+    }
+
+    .sg-packages-inner {
+        padding: 0 15px;
+    }
+
+    .sg-packages-block h2 {
+        font-size: 24px;
+    }
+
+    .sg-packages-table {
+        display: block;
+        overflow-x: auto;
+        white-space: normal;
+    }
+
+    .sg-packages-table th,
+    .sg-packages-table td {
+        min-width: 230px;
+        font-size: 14px;
+        padding: 12px;
+    }
+}
+
+/* Great Migration Monthly Movement Guide - Internal CSS */
+.sg-monthly-movement-block {
+    padding: 60px 0 40px;
+    margin: 0;
+    background: var(--white);
+}
+
+.sg-monthly-movement-inner {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+.sg-monthly-movement-block h2 {
+    color: #1a1a1a;
+    font-size: 26px;
+    font-weight: 700;
+    margin: 35px 0 15px;
+    padding-bottom: 10px;
+    text-align: center;
+    position: relative;
+}
+
+.sg-monthly-movement-block h2:after {
+    content: '';
+    position: absolute;
+    width: 50px;
+    height: 3px;
+    background: var(--secondary);
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.sg-monthly-movement-inner > p {
+    color: var(--text);
+    font-size: 16px;
+    line-height: 1.8;
+    margin-bottom: 30px;
+}
+
+.sg-monthly-table {
+    width: 100%;
+    border-collapse: collapse;
+    border-spacing: 0;
+    margin: 18px 0 30px;
+    background: #ffffff;
+    border: 1px solid rgba(117, 104, 44, 0.35);
+    border-radius: 0;
+    box-shadow: none;
+}
+
+.sg-monthly-table th {
+    background: var(--primary);
+    color: var(--white);
+    padding: 13px 16px;
+    font-size: 15px;
+    font-weight: 700;
+    text-align: center;
+    border: 1px solid rgba(255, 255, 255, 0.25);
+    border-radius: 0;
+}
+
+.sg-monthly-table td {
+    padding: 13px 16px;
+    color: var(--text);
+    font-size: 15px;
+    line-height: 1.7;
+    vertical-align: top;
+    border: 1px solid rgba(117, 104, 44, 0.25);
+    border-radius: 0;
+}
+
+.sg-monthly-table tbody tr:nth-child(even) td {
+    background: rgba(117, 104, 44, 0.06);
+}
+
+.sg-monthly-table tbody tr:nth-child(odd) td {
+    background: #ffffff;
+}
+
+.sg-monthly-table td:first-child {
+    color: var(--dark);
+    font-weight: 600;
+}
+
+.sg-monthly-note {
+    background: rgba(117, 104, 44, 0.08);
+    padding: 18px 20px;
+    border-left: 4px solid var(--primary);
+    margin-top: 20px;
+    color: var(--text);
+    font-size: 15px;
+    line-height: 1.7;
+}
+
+.sg-monthly-note strong {
+    color: var(--dark);
+}
+
+@media (max-width: 768px) {
+    .sg-monthly-movement-block {
+        padding: 45px 0 30px;
+    }
+
+    .sg-monthly-movement-inner {
+        padding: 0 15px;
+    }
+
+    .sg-monthly-movement-block h2 {
+        font-size: 24px;
+    }
+
+    .sg-monthly-table {
+        display: block;
+        overflow-x: auto;
+        white-space: normal;
+    }
+
+    .sg-monthly-table th,
+    .sg-monthly-table td {
+        min-width: 230px;
+        font-size: 14px;
+        padding: 12px;
+    }
+}
 
 
 /* Hero Section - UPDATED */

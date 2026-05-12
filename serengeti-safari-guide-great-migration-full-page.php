@@ -482,7 +482,7 @@
                 
                 <p>Responsible guiding creates a better experience because animals remain relaxed and natural. It also supports conservation and keeps Serengeti safe for future visitors.</p>
 
-                Recommend<style>
+               <style>
 /* Recommended Serengeti Safari Packages - Internal CSS */
 .sg-packages-block {
     padding: 60px 0 40px;
