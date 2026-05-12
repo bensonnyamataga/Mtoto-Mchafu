@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Serengeti Safari Guide: Great Migration, Wildlife Areas & Best Safari Planning Tips</title>
-    <meta name="description" content="Plan your Serengeti safari with Tanzania Adventures Group. Learn Great Migration facts, best Serengeti areas, wildlife seasons, fly-in safari options, routes, costs and booking tips.">
+    <meta name="description" content="Plan your Serengeti safari with Deep Tanzania Tours. Learn Great Migration facts, best Serengeti areas, wildlife seasons, fly-in safari options, routes, costs and booking tips.">
     <meta name="keywords" content="Serengeti safari guide, Serengeti Great Migration, Serengeti safari from Arusha, Serengeti fly-in safari, Serengeti migration safari, Serengeti safari packages Tanzania">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
@@ -429,10 +429,11 @@
 
     <?php include 'plugins/header.php';?>
 
+    <br>
     <!-- Hero Section - Serengeti Safari Guide -->
     <section class="hero-altoo" id="home-altoo">
         <div class="hero-altoo-background">
-            <img src="img/serengeti-safari-guide-tanzania.jpg" alt="Serengeti Safari Guide Tanzania - Great Migration wildlife safari">
+            <img src="img/4-days-safari-from-arusha.jpg" alt="Serengeti Safari Guide Tanzania - Great Migration wildlife safari">
             <div class="hero-altoo-overlay"></div>
         </div>
         <div class="container">
@@ -441,8 +442,8 @@
                 <h1>Serengeti Safari Guide: Great Migration, Wildlife Areas & Best Safari Planning Tips</h1>
                 <p class="hero-subtitle">2026, 2027 & 2028 Serengeti safari planning guide | Great Migration facts | Central, Northern, Southern and Western Serengeti routes | Private, joining group and fly-in safari options</p>
                 <div class="hero-altoo-btns">
-                    <a href="#migration-guide" class="btn btn-primary">View Migration Seasons</a>
-                    <a href="#booking-form" class="btn btn-secondary" onclick="openBookingPopup()">Plan Your Safari</a>
+                    <a href="#itinerary" class="btn btn-primary">View Itinerary</a>
+                    <a href="#contact" class="btn btn-secondary" onclick="openBookingPopup()">Request Your Safari Quote</a>
                 </div>
             </div>
         </div>
@@ -456,7 +457,7 @@
                 <h1>Serengeti Safari Guide: Great Migration, Wildlife Areas & Best Safari Planning Tips</h1>
                 <div class="article-meta">
                     <span class="date"><i class="far fa-calendar"></i> Updated for 2026, 2027 & 2028 Seasons</span>
-                    <span class="author"><i class="far fa-user"></i> By Tanzania Adventures Group</span>
+                    <span class="author"><i class="far fa-user"></i> By Deep Tanzania Tours</span>
                     <span class="read-time"><i class="far fa-clock"></i> Professional Safari Planning Guide</span>
                 </div>
             </div>
@@ -473,7 +474,7 @@
                 
                 <p>Many travellers know Serengeti because of the Great Migration, but the park is valuable throughout the year. Central Serengeti is reliable for big cats and resident wildlife. Northern Serengeti is famous for migration movement and the Mara River region from July to October. Southern Serengeti and Ndutu are excellent from December to March for calving season, cheetahs and predator activity. Western Serengeti becomes important when the herds move toward the Grumeti area, usually around May and June depending on rainfall.</p>
 
-                <p>For customers planning a safari, the most important point is simple: do not book Serengeti only by name. Book Serengeti by <strong>season, route, travel month, budget, accommodation level and number of days</strong>. Tanzania Adventures Group helps you choose the most suitable Serengeti safari plan based on your exact travel date and expectations.</p>
+                <p>For customers planning a safari, the most important point is simple: do not book Serengeti only by name. Book Serengeti by <strong>season, route, travel month, budget, accommodation level and number of days</strong>. Deep Tanzania Tours helps you choose the most suitable Serengeti safari plan based on your exact travel date and expectations.</p>
 
                 <div class="highlight-box">
                     <p><strong>Quick Serengeti planning advice:</strong> If this is your first safari in Tanzania, combine Serengeti with Ngorongoro Crater. If your budget allows, spend at least two nights inside Serengeti. If your main goal is the Great Migration, choose the Serengeti region based on the month you travel.</p>
@@ -482,8 +483,8 @@
                 <h2>Why Serengeti National Park Is One of Africa’s Best Safari Destinations</h2>
                 
                 <div class="day-images">
-                    <img src="img/serengeti-safari-guide-tanzania.jpg" alt="Serengeti safari plains and wildlife in Tanzania">
-                    <img src="img/serengeti-great-migration-safari.jpg" alt="Great Migration safari in Serengeti National Park">
+                    <img src="img/5-days-tanzania-wildlife-safari-banner.jpg" alt="Serengeti safari plains and wildlife in Tanzania">
+                    <img src="img/6-days-from-KIA.jpg" alt="Great Migration safari in Serengeti National Park">
                 </div>
 
                 <p>The Serengeti is famous for open plains, big cats, dramatic wildlife behavior and one of the greatest natural movements on earth: the Great Migration. The name Serengeti is often connected with the Maasai meaning of endless plains, and this feeling becomes clear when you enter the park and see grasslands stretching far into the horizon.</p>
@@ -747,7 +748,7 @@
         <div class="sg-monthly-note">
             <strong>Important note:</strong> The Great Migration does not follow an exact calendar.
             Rainfall, grass quality and water availability can change the timing each year.
-            Tanzania Adventures Group recommends confirming your route based on your travel month,
+            Deep Tanzania Tours recommends confirming your route based on your travel month,
             recent herd movement and accommodation availability.
         </div>
 
@@ -858,7 +859,7 @@
                 <p>This is very important in Serengeti because wildlife behavior changes throughout the day. Cheetahs need open plains and enough distance before a chase. Lions often rest during hot hours and move more in cooler periods. Leopards may remain hidden in trees. Hyenas may follow predator activity. A skilled guide helps the client understand what is happening instead of simply seeing animals from far away.</p>
                 
                 <div class="highlight-box secondary">
-                    <p><strong>Tanzania Adventures Group advantage:</strong> We arrange Serengeti safaris with experienced local guides who understand seasonal movement, park routes, wildlife behavior and the timing needed for stronger safari experiences.</p>
+                    <p><strong>Deep Tanzania Tours advantage:</strong> We arrange Serengeti safaris with experienced local guides who understand seasonal movement, park routes, wildlife behavior and the timing needed for stronger safari experiences.</p>
                 </div>
 
                 <h2>Responsible Serengeti Safari: Better for Wildlife and Better for Guests</h2>
@@ -1001,7 +1002,7 @@
 
         <h2>Recommended Serengeti Safari Packages</h2>
         <p>
-            Tanzania Adventures Group arranges Serengeti safari packages based on your travel month,
+            Deep Tanzania Tours arranges Serengeti safari packages based on your travel month,
             budget, accommodation preference and the wildlife experience you want most. The options
             below help you choose the right Serengeti route, whether you prefer a short safari,
             Great Migration safari, private safari, joining group safari or fly-in safari.
@@ -1084,7 +1085,7 @@
                 </div>
 
                 <h2>What Is Included in a Serengeti Safari Package?</h2>
-                <p>Exact inclusions depend on whether you book a joining group safari, private safari, fly-in safari or luxury package. Most Tanzania Adventures Group Serengeti safaris include the main services below.</p>
+                <p>Exact inclusions depend on whether you book a joining group safari, private safari, fly-in safari or luxury package. Most Deep Tanzania Tours Serengeti safaris include the main services below.</p>
                 
                 <div class="inclusion-exclusion-container">
                     <div class="inclusion-box">
