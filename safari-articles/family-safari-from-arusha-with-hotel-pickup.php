@@ -529,10 +529,11 @@
                 
                 <h1>Family Safari from Arusha with Hotel Pickup</h1>
                 <p class="hero-subtitle">2026 Complete Guide: Stress-free family safaris starting from your Arusha hotel. Kid-friendly guides, child-safe accommodations, and flexible pacing for children of all ages.</p>
-                <div class="hero-altoo-btns">
-                    <a href="#family-guide" class="btn btn-primary">View Family Safari Guide</a>
-                    <a href="#booking-form" class="btn btn-secondary" onclick="openBookingPopup()">Get Your Family Quote</a>
-                </div>
+                <div class="safari-hero-actions">
+    <a href="#itinerary" class="safari-hero-btn safari-hero-btn--light">View Itinerary</a>
+    <a href="#contact" class="safari-hero-btn safari-hero-btn--dark" onclick="openBookingPopup()">Request Your Safari Quote</a>
+</div>
+
             </div>
         </div>
     </section>

@@ -147,10 +147,11 @@
             <div class="hero-altoo-content">
                 <h1>Northern Tanzania safari package price per person</h1>
                 <p class="hero-subtitle">2026 Complete Pricing Guide: Budget, Mid-Range & Luxury Options | All Fees Explained | Instant Quotes</p>
-                <div class="hero-altoo-btns">
-                    <a href="#price-table" class="btn btn-primary">View 2026 Prices</a>
-                    <a href="#contact" class="btn btn-secondary" onclick="openBookingPopup()">Get Instant Quote</a>
-                </div>
+               <div class="safari-hero-actions">
+    <a href="#itinerary" class="safari-hero-btn safari-hero-btn--light">View Itinerary</a>
+    <a href="#contact" class="safari-hero-btn safari-hero-btn--dark" onclick="openBookingPopup()">Request Your Safari Quote</a>
+</div>
+
             </div>
         </div>
     </section>
