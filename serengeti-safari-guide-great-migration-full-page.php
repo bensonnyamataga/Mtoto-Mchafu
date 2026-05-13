@@ -101,6 +101,7 @@
                     <img src="img/6-days-from-KIA.jpg" alt="Great Migration safari in Serengeti National Park">
                 </div>
 
+
                 <p>The Serengeti is famous for open plains, big cats, dramatic wildlife behavior and one of the greatest natural movements on earth: the Great Migration. The name Serengeti is often connected with the Maasai meaning of endless plains, and this feeling becomes clear when you enter the park and see grasslands stretching far into the horizon.</p>
                 
                 <p>Serengeti is not a single-experience destination. It is a living ecosystem with permanent wildlife and seasonal movement. Lions rest under acacia trees during the heat of the day, cheetahs scan open plains for gazelles, elephants move through woodlands, giraffes browse on acacia leaves, hyenas follow predator activity, and vultures gather where the natural cycle of life and death continues.</p>
@@ -419,6 +420,8 @@
                     </div>
                 </div>
 
+                               <div><img src="img/serengeti-map.png" alt="Serengeti Safari map"> </div>
+
                 <h2>Serengeti Wildlife: What You Can Expect to See</h2>
                 
                 <p>Serengeti is one of the best wildlife destinations in Africa because it supports both resident animals and seasonal herds. Even when the Great Migration is not exactly in your area, the park remains rewarding because of resident lions, leopards, cheetahs, elephants, giraffes, buffaloes, zebras, hyenas, hippos, crocodiles and many bird species.</p>
@@ -462,9 +465,15 @@
                     </div>
                 </div>
                 
+<div class="day-images">
+                    <img src="img/Fly-in-Safari-packagex.jpg" alt="fly-in Serengeti safari in Tanzania">
+                    <img src="img/drive-in-safari.jpg" alt="drive-in Serengeti safari in Tanzania">
+                </div>
+
                 <div class="highlight-box">
                     <p><strong>Our recommendation:</strong> Choose a road safari if you want the best value and a complete Northern Circuit route. Choose a fly-in safari if you want comfort, less driving, faster access to wildlife areas or a smooth connection from Dar es Salaam or Zanzibar.</p>
                 </div>
+ 
 
                 <h2>Why Your Serengeti Guide Matters</h2>
                 
