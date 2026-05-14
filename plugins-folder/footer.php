@@ -114,7 +114,7 @@
 #contact {
     background:
         linear-gradient(rgba(246, 244, 242, 0.88), rgba(246, 244, 242, 0.94)),
-        url('img/savana.png');
+        url('../img/savana.png');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;

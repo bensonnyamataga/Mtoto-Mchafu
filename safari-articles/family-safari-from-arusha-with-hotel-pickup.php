@@ -521,7 +521,7 @@
     <!-- Hero Section - Updated for family safari -->
     <section class="hero-altoo" id="home-altoo">
         <div class="hero-altoo-background">
-            <img src="img/tanzania-family-safari-banner.jpg" alt="Family safari from Arusha with hotel pickup - Family enjoying safari together in Tanzania">
+            <img src="../img/tanzania-family-safari-banner.jpg" alt="Family safari from Arusha with hotel pickup - Family enjoying safari together in Tanzania">
             <div class="hero-altoo-overlay"></div>
         </div>
         <div class="container">
@@ -584,8 +584,8 @@
                 <h2 id="family-guide">7 Essential Factors for a Successful Family Safari from Arusha</h2>
                 
                 <div class="day-images">
-                    <img src="img/safari-with-kids-in-tanzania.jpg" alt="Family with children in safari vehicle enjoying game drive">
-                    <img src="img/maasai-with-kids.jpg" alt="Kid-friendly safari guide explaining wildlife to children">
+                    <img src="../img/safari-with-kids-in-tanzania.jpg" alt="Family with children in safari vehicle enjoying game drive">
+                    <img src="../img/maasai-with-kids.jpg" alt="Kid-friendly safari guide explaining wildlife to children">
                 </div>
                 
                 <p>When you're traveling with children, every detail matters. Here are the key factors we consider when designing a <strong>family safari from Arusha with hotel pickup</strong>.</p>
@@ -635,8 +635,8 @@
                 
                 <!-- Additional images -->
                 <div class="day-images">
-                    <img src="img/happy-on-safari.jpg" alt="Family-friendly lodge with swimming pool for children">
-                    <img src="img/luxury-rooms-four-seasons-safari-lodge-serengeti-large.jpg" alt="Family room with mosquito nets and comfortable beds">
+                    <img src="../img/happy-on-safari.jpg" alt="Family-friendly lodge with swimming pool for children">
+                    <img src="../img/luxury-rooms-four-seasons-safari-lodge-serengeti-large.jpg" alt="Family room with mosquito nets and comfortable beds">
                 </div>
                 
                 <!-- Factor 3: Avoiding Long Drives – Smart Park Selection -->
@@ -891,8 +891,8 @@
                 <p class="price-note">*All prices are estimates total for a family of 4 (2 adults + 2 children under 12 sharing one room). Actual pricing depends on specific accommodation choices, exact dates, and children's ages. Contact us for a personalized quote.</p>
                 
                 <div class="day-images">
-                    <img src="img/game-drive-family.jpg" alt="Family enjoying game drive together in Tanzania">
-                    <img src="img/family-safari-in-Tanzania.jpg" alt="Children using binoculars on safari">
+                    <img src="../img/game-drive-family.jpg" alt="Family enjoying game drive together in Tanzania">
+                    <img src="../img/family-safari-in-Tanzania.jpg" alt="Children using binoculars on safari">
                 </div>
 
                 <!-- Inclusions & Exclusions Section -->
