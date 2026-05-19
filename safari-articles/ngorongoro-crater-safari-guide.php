@@ -917,7 +917,7 @@
 
         <div class="ngcr-map-box">
             <!-- Replace the image path below with your prepared Ngorongoro map image -->
-            <img src="../img/ngorongoro-crater-map.jpg" alt="Ngorongoro Crater safari map showing Karatu, crater rim, crater floor and route to Serengeti">
+            <img src="../img/ngorongoro-map.png" alt="Ngorongoro Crater safari map showing Karatu, crater rim, crater floor and route to Serengeti">
             <p class="ngcr-map-caption">
                 Ngorongoro Crater safari map showing the crater area, Karatu route, crater viewpoint, game drive areas and connection toward Serengeti.
             </p>
