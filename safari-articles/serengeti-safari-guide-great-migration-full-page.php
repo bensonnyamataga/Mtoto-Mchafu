@@ -52,7 +52,10 @@
                 <h1>Serengeti Safari Guide: Great Migration, Wildlife Areas & Best Safari Planning Tips</h1>
                 <p class="hero-subtitle">Serengeti safari planning guide | Great Migration facts | Central, Northern, Southern and Western Serengeti routes | Private, joining group and fly-in safari options</p>
 
-
+<div class="safari-hero-actions">
+    <a href="#itinerary" class="safari-hero-btn safari-hero-btn--light">View Itinerary</a>
+    <a href="#contact" class="safari-hero-btn safari-hero-btn--dark" onclick="openBookingPopup()">Request Your Safari Quote</a>
+</div>
 
 
             </div>
