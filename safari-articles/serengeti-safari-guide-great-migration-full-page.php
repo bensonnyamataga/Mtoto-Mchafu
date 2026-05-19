@@ -476,56 +476,8 @@
                 <p>Serengeti is large, and each region offers a different experience. Choosing the wrong region for the wrong month can reduce the quality of the safari. Choosing correctly can greatly improve your chance of seeing the wildlife experience you came for.</p>
                 
 
-<style>
-      .price-factor-item {
-            display: flex;
-            gap: 20px;
-            margin-bottom: 40px;
-            align-items: flex-start;
-        }
-        
-        .price-factor-icon {
-            width: 60px;
-            height: 60px;
-            background: rgba(117, 104, 44, 0.1);
-            color: var(--primary);
-            border-radius: 50%;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            font-size: 24px;
-            flex-shrink: 0;
-        }
-        
-        .factor-content h4 {
-            margin-bottom: 15px;
-            color: var(--dark);
-            font-size: 22px;
-        }
-        
-        .factor-content p {
-            margin-bottom: 15px;
-            line-height: 1.8;
-        }
-        
-        @media (max-width: 768px) {
-            .price-factor-item {
-                flex-direction: column;
-                gap: 15px;
-            }
-            
-            .price-guide-table {
-                display: block;
-                overflow-x: auto;
-            }
-            
-            .stat-box-container {
-                grid-template-columns: 1fr 1fr ;
-            }
-        }
-        
-</style>
 
+                
                 <div class="price-factor-item">
                     <div class="price-factor-icon">
                         <i class="fas fa-map-marker-alt"></i>
