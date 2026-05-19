@@ -37,7 +37,7 @@
 </head>
 <body>
 
-    <?php include 'plugins/header.php';?>
+<?php include __DIR__ . '../../plugins-folder/header.php'; ?>
 
     <br>
     <!-- Hero Section - Serengeti Safari Guide -->
