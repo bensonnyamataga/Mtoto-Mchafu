@@ -47,14 +47,14 @@
         <div class="container">
             <div class="section-title">
                 <span class="subtitle">Discover Our Story</span>
-                <h2>About Deep Africa</h2>
+                <h2>About Deep Tanzania Tours</h2>
             </div>
             
             
                 
                 <div class="about-text">
                     <h2>Your Authentic Tanzanian Adventure</h2>
-                    <p>Welcome to Deep Africa, a locally-owned tour company based in Tanzania, specializing in creating unforgettable safari experiences and Mount Kilimanjaro treks. We offer personalized adventures that showcase Tanzania's spectacular natural beauty and rich cultural heritage.</p>
+                    <p>Welcome to Deep Tanzania Tours, a locally-owned tour company based in Tanzania, specializing in creating unforgettable safari experiences and Mount Kilimanjaro treks. We offer personalized adventures that showcase Tanzania's spectacular natural beauty and rich cultural heritage.</p>
                     
                     <p>Our experienced team is dedicated to providing authentic, eco-friendly journeys whether you're seeking wildlife encounters on safari, the challenge of conquering Africa's highest peak, or meaningful connections with local communities. At Deep Africa, we take pride in crafting tailored tours that reflect our deep commitment to responsible travel and our passion for Tanzania's wonders.</p>
                     
@@ -100,7 +100,6 @@
                         </div>
                     </div>
                     
-                    <a href="#" class="btn btn-primary">Learn More About Us</a>
                 </div>
             </div>
         </div>
@@ -301,6 +300,321 @@
             </div>
         </div>
     </section>
+
+<!-- Safari Packages Section -->
+<section class="section safari-packages">
+    <div class="container">
+        <div class="section-title">
+            <span class="subtitle">Premium Safari Experiences</span>
+            <h2>Our Safari Packages</h2>
+        </div>
+        
+        <div class="packages-grid">
+
+            <!-- Package 1 -->
+            <div class="package-card">
+                <div class="package-image">
+                    <img src="img/from-zanzibar-2-day-serengeti-safari-with-flights-5126388.jpg" alt="3 Days Safari from Zanzibar">
+                    <div class="package-overlay"></div>
+                </div>
+                <div class="package-content">
+                    <h3>3 Days Safari from Zanzibar</h3>
+                    <p class="package-duration">3 Days / 2 Nights</p>
+                    <div class="package-features">
+                        <span><i class="fas fa-map-marker-alt"></i> Serengeti, Ngorongoro Crater</span>
+                        <span><i class="fas fa-plane"></i> Fly-in Safari from Zanzibar</span>
+                        <span><i class="fas fa-car"></i> Private 4x4 Safari Vehicle</span>
+                    </div>
+                    <div class="package-footer">
+                        <div class="package-price">
+                            <span class="from">From</span>
+                            <span class="amount">$1,450</span>
+                            <span class="per-person">per person</span>
+                        </div>
+                        <a href="zanzibar-packages.php" class="btn btn-primary">View Details</a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Package 2 -->
+            <div class="package-card">
+                <div class="package-image">
+                    <img src="img/safari-to-tarangire.jpg" alt="5 Day Tanzania Safari">
+                    <div class="package-overlay"></div>
+                </div>
+                <div class="package-content">
+                    <h3>5 Day Tanzania Safari</h3>
+                    <p class="package-duration">5 Days / 4 Nights</p>
+                    <div class="package-features">
+                        <span><i class="fas fa-map-marker-alt"></i> Tarangire, Serengeti, Ngorongoro</span>
+                        <span><i class="fas fa-bed"></i> Lodge & Tented Camp Accommodation</span>
+                        <span><i class="fas fa-binoculars"></i> Big Five Safari Experience</span>
+                    </div>
+                    <div class="package-footer">
+                        <div class="package-price">
+                            <span class="from">From</span>
+                            <span class="amount">$1,750</span>
+                            <span class="per-person">per person</span>
+                        </div>
+                        <a href="5-day-tanzania-safari.php" class="btn btn-primary">View Details</a>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- Package 3 -->
+            <div class="package-card">
+                <div class="package-image">
+                    <img src="img/tarangire-5-days-safari.jpg" alt="5 Day Essential Safari">
+                    <div class="package-overlay"></div>
+                </div>
+                <div class="package-content">
+                    <h3>5 Day Essential Safari</h3>
+                    <p class="package-duration">5 Days / 4 Nights</p>
+                    <div class="package-features">
+                        <span><i class="fas fa-map-marker-alt"></i> Tarangire, Lake Manyara, Ngorongoro</span>
+                        <span><i class="fas fa-users"></i> Best for Couples & Small Groups</span>
+                        <span><i class="fas fa-camera"></i> Wildlife Viewing & Scenic Landscapes</span>
+                    </div>
+                    <div class="package-footer">
+                        <div class="package-price">
+                            <span class="from">From</span>
+                            <span class="amount">$1,550</span>
+                            <span class="per-person">per person</span>
+                        </div>
+                        <a href="5-day-essential-safari.php" class="btn btn-primary">View Details</a>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- Package 4 -->
+            <div class="package-card">
+                <div class="package-image">
+                    <img src="img/visit-taragire-national-park.jpg" alt="6 Day Family Safari">
+                    <div class="package-overlay"></div>
+                </div>
+                <div class="package-content">
+                    <h3>6 Day Family Safari</h3>
+                    <p class="package-duration">6 Days / 5 Nights</p>
+                    <div class="package-features">
+                        <span><i class="fas fa-map-marker-alt"></i> Tarangire, Serengeti, Ngorongoro</span>
+                        <span><i class="fas fa-child"></i> Family-Friendly Safari Program</span>
+                        <span><i class="fas fa-bed"></i> Comfortable Safari Lodges</span>
+                    </div>
+                    <div class="package-footer">
+                        <div class="package-price">
+                            <span class="from">From</span>
+                            <span class="amount">$2,250</span>
+                            <span class="per-person">per person</span>
+                        </div>
+                        <a href="6-day-family-safari.php" class="btn btn-primary">View Details</a>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- Package 5 -->
+            <div class="package-card">
+                <div class="package-image">
+                    <img src="img/safari-in-serengeti.jpg" alt="7 Day Classic Safari">
+                    <div class="package-overlay"></div>
+                </div>
+                <div class="package-content">
+                    <h3>7 Day Classic Safari</h3>
+                    <p class="package-duration">7 Days / 6 Nights</p>
+                    <div class="package-features">
+                        <span><i class="fas fa-map-marker-alt"></i> Serengeti, Ngorongoro, Tarangire</span>
+                        <span><i class="fas fa-car"></i> Private Safari with Professional Guide</span>
+                        <span><i class="fas fa-paw"></i> Big Cats, Elephants & Rhino Experience</span>
+                    </div>
+                    <div class="package-footer">
+                        <div class="package-price">
+                            <span class="from">From</span>
+                            <span class="amount">$2,650</span>
+                            <span class="per-person">per person</span>
+                        </div>
+                        <a href="7-day-classic-safari.php" class="btn btn-primary">View Details</a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Package 6 -->
+            <div class="package-card">
+                <div class="package-image">
+                    <img src="img/serengeti-tanzania-safari.jpg" alt="8 Day Luxury Safari">
+                    <div class="package-overlay"></div>
+                </div>
+                <div class="package-content">
+                    <h3>8 Day Luxury Safari</h3>
+                    <p class="package-duration">8 Days / 7 Nights</p>
+                    <div class="package-features">
+                        <span><i class="fas fa-map-marker-alt"></i> Northern Tanzania Safari Circuit</span>
+                        <span><i class="fas fa-hotel"></i> Luxury Lodges & Premium Camps</span>
+                        <span><i class="fas fa-concierge-bell"></i> Private Guide & Tailor-Made Service</span>
+                    </div>
+                    <div class="package-footer">
+                        <div class="package-price">
+                            <span class="from">From</span>
+                            <span class="amount">$4,250</span>
+                            <span class="per-person">per person</span>
+                        </div>
+                        <a href="8-day-luxury-safari.php" class="btn btn-primary">View Details</a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Package 7 -->
+            <div class="package-card">
+                <div class="package-image">
+                    <img src="img/safari-in-serengeti.jpg" alt="8 Days Mara River Safari">
+                    <div class="package-overlay"></div>
+                </div>
+                <div class="package-content">
+                    <h3>8 Days Mara River Safari</h3>
+                    <p class="package-duration">8 Days / 7 Nights</p>
+                    <div class="package-features">
+                        <span><i class="fas fa-map-marker-alt"></i> Northern Serengeti, Mara River</span>
+                        <span><i class="fas fa-binoculars"></i> Great Migration River Crossing Area</span>
+                        <span><i class="fas fa-campground"></i> Seasonal Tented Camp Experience</span>
+                    </div>
+                    <div class="package-footer">
+                        <div class="package-price">
+                            <span class="from">From</span>
+                            <span class="amount">$3,450</span>
+                            <span class="per-person">per person</span>
+                        </div>
+                        <a href="8-days-mara-river-safari.php" class="btn btn-primary">View Details</a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Package 8 -->
+            <div class="package-card">
+                <div class="package-image">
+                    <img src="img/serengeti-tanzania-safari.jpg" alt="9 Day Migration Safari">
+                    <div class="package-overlay"></div>
+                </div>
+                <div class="package-content">
+                    <h3>9 Day Migration Safari</h3>
+                    <p class="package-duration">9 Days / 8 Nights</p>
+                    <div class="package-features">
+                        <span><i class="fas fa-map-marker-alt"></i> Serengeti Migration Route</span>
+                        <span><i class="fas fa-paw"></i> Wildebeest Migration & Predators</span>
+                        <span><i class="fas fa-car"></i> Private Game Drives</span>
+                    </div>
+                    <div class="package-footer">
+                        <div class="package-price">
+                            <span class="from">From</span>
+                            <span class="amount">$3,750</span>
+                            <span class="per-person">per person</span>
+                        </div>
+                        <a href="9-day-migration-safari.php" class="btn btn-primary">View Details</a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Package 9 -->
+            <div class="package-card">
+                <div class="package-image">
+                    <img src="img/safari-in-serengeti.jpg" alt="7 Days Ndutu Calving Safari">
+                    <div class="package-overlay"></div>
+                </div>
+                <div class="package-content">
+                    <h3>7 Days Ndutu Calving Safari</h3>
+                    <p class="package-duration">7 Days / 6 Nights</p>
+                    <div class="package-features">
+                        <span><i class="fas fa-map-marker-alt"></i> Ndutu, Southern Serengeti, Ngorongoro</span>
+                        <span><i class="fas fa-paw"></i> Calving Season Wildlife Viewing</span>
+                        <span><i class="fas fa-camera"></i> Excellent Photography Safari</span>
+                    </div>
+                    <div class="package-footer">
+                        <div class="package-price">
+                            <span class="from">From</span>
+                            <span class="amount">$2,850</span>
+                            <span class="per-person">per person</span>
+                        </div>
+                        <a href="7-days-ndutu-calving-safari.php" class="btn btn-primary">View Details</a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Package 10 -->
+            <div class="package-card">
+                <div class="package-image">
+                    <img src="img/from-zanzibar-2-day-serengeti-safari-with-flights-5126388.jpg" alt="10 Day Tanzania Safari and Zanzibar Holiday">
+                    <div class="package-overlay"></div>
+                </div>
+                <div class="package-content">
+                    <h3>10 Day Safari & Zanzibar Holiday</h3>
+                    <p class="package-duration">10 Days / 9 Nights</p>
+                    <div class="package-features">
+                        <span><i class="fas fa-map-marker-alt"></i> Safari Parks & Zanzibar Beach</span>
+                        <span><i class="fas fa-plane"></i> Safari and Beach Combination</span>
+                        <span><i class="fas fa-umbrella-beach"></i> Wildlife Safari with Zanzibar Relaxation</span>
+                    </div>
+                    <div class="package-footer">
+                        <div class="package-price">
+                            <span class="from">From</span>
+                            <span class="amount">$3,950</span>
+                            <span class="per-person">per person</span>
+                        </div>
+                        <a href="zanzibar-packages.php" class="btn btn-primary">View Details</a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Package 11 -->
+            <div class="package-card">
+                <div class="package-image">
+                    <img src="img/safari-to-tarangire.jpg" alt="4 Day Mid Range Safari">
+                    <div class="package-overlay"></div>
+                </div>
+                <div class="package-content">
+                    <h3>4 Day Mid-Range Safari</h3>
+                    <p class="package-duration">4 Days / 3 Nights</p>
+                    <div class="package-features">
+                        <span><i class="fas fa-map-marker-alt"></i> Tarangire, Serengeti, Ngorongoro</span>
+                        <span><i class="fas fa-bed"></i> Comfortable Mid-Range Lodges</span>
+                        <span><i class="fas fa-car"></i> Private Safari Vehicle</span>
+                    </div>
+                    <div class="package-footer">
+                        <div class="package-price">
+                            <span class="from">From</span>
+                            <span class="amount">$1,350</span>
+                            <span class="per-person">per person</span>
+                        </div>
+                        <a href="4-day-mid-range-safari.php" class="btn btn-primary">View Details</a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Package 12 -->
+            <div class="package-card">
+                <div class="package-image">
+                    <img src="img/from-zanzibar-2-day-serengeti-safari-with-flights-5126388.jpg" alt="Private Safari and Zanzibar Package">
+                    <div class="package-overlay"></div>
+                </div>
+                <div class="package-content">
+                    <h3>Private Safari & Zanzibar Package</h3>
+                    <p class="package-duration">Tailor-Made Program</p>
+                    <div class="package-features">
+                        <span><i class="fas fa-map-marker-alt"></i> Tanzania Safari & Zanzibar Island</span>
+                        <span><i class="fas fa-users"></i> Best for Couples, Families & Groups</span>
+                        <span><i class="fas fa-route"></i> Flexible Safari and Beach Itinerary</span>
+                    </div>
+                    <div class="package-footer">
+                        <div class="package-price">
+                            <span class="from">From</span>
+                            <span class="amount">$2,950</span>
+                            <span class="per-person">per person</span>
+                        </div>
+                        <a href="zanzibar-and-safari/zanzibar.php" class="btn btn-primary">View Details</a>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>
+
 <!-- Add this section where you want the Instagram posts to appear -->
     <section class="instagram-section">
         <div class="container">
@@ -376,222 +690,7 @@
         
     </section>
 
-<!-- Blog Articles Section -->
 
-</section>
-    <!-- Safari Types Section -->
-    <section class="section safari-types" id="safaris">
-        <div class="container">
-            <div class="section-title">
-                <span class="subtitle">Tanzanian Safaris</span>
-                <h2>Our Safari Experiences</h2>
-                <p>Choose from our carefully crafted safari packages designed to showcase Tanzania's incredible wildlife.</p>
-            </div>
-            
-            <div class="safari-types-grid">
-                <div class="safari-type-card">
-                    <img src="img/kilimanjaro-trekking.jpg" alt="Kilimanjaro trek" class="tanzania-luxury-safari">
-                    <div class="safari-type-content">
-                        <h3>Classic Safari</h3>
-                        <p>7-day adventure through Serengeti and Ngorongoro Crater with luxury lodge accommodations.</p>
-                        <div class="tour-footer">
-                            <div class="tour-price">$3,299+</div>
-                            <a href="#" class="btn btn-primary">Details</a>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="safari-type-card">
-                    <img src="img/tanzania-classic-safari.jpg" alt="Kilimanjaro trek" class="tanzania-luxury-safari">
-                    <div class="safari-type-content">
-                        <h3>Great Migration</h3>
-                        <p>10-day journey following the wildebeest migration with expert guides and mobile camps.</p>
-                        <div class="tour-footer">
-                            <div class="tour-price">$4,599+</div>
-                            <a href="#" class="btn btn-primary">Details</a>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="safari-type-card">
-                   <img src="img/tanzania-classic-safari.jpg" alt="Kilimanjaro trek" class="tanzania-luxury-safari">
-                    <div class="safari-type-content">
-                        <h3>Family Safari</h3>
-                        <p>5-day kid-friendly adventure with special activities and family-sized accommodations.</p>
-                        <div class="tour-footer">
-                            <div class="tour-price">$2,899+</div>
-                            <a href="#" class="btn btn-primary">Details</a>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="safari-type-card">
-                   <img src="img/tanzania-classic-safari.jpg" alt="Kilimanjaro trek" class="tanzania-luxury-safari">
-                    <div class="safari-type-content">
-                        <h3>Family Safari</h3>
-                        <p>5-day kid-friendly adventure with special activities and family-sized accommodations.</p>
-                        <div class="tour-footer">
-                            <div class="tour-price">$2,899+</div>
-                            <a href="#" class="btn btn-primary">Details</a>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="safari-type-card">
-                   <img src="img/tanzania-classic-safari.jpg" alt="Kilimanjaro trek" class="tanzania-luxury-safari">
-                    <div class="safari-type-content">
-                        <h3>Family Safari</h3>
-                        <p>5-day kid-friendly adventure with special activities and family-sized accommodations.</p>
-                        <div class="tour-footer">
-                            <div class="tour-price">$2,899+</div>
-                            <a href="#" class="btn btn-primary">Details</a>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="safari-type-card">
-                   <img src="img/tanzania-classic-safari.jpg" alt="Kilimanjaro trek" class="tanzania-luxury-safari">
-                    <div class="safari-type-content">
-                        <h3>Family Safari</h3>
-                        <p>5-day kid-friendly adventure with special activities and family-sized accommodations.</p>
-                        <div class="tour-footer">
-                            <div class="tour-price">$2,899+</div>
-                            <a href="#" class="btn btn-primary">Details</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-
-
-<style>
-.brand-cta-section{
-    width:100%;
-    min-height:520px;
-    position:relative;
-    overflow:hidden;
-    display:flex;
-    align-items:center;
-}
-
-.brand-cta-section img{
-    position:absolute;
-    inset:0;
-    width:100%;
-    height:100%;
-    object-fit:cover;
-    z-index:1;
-}
-
-.brand-cta-section::before{
-    content:"";
-    position:absolute;
-    inset:0;
-    z-index:2;
-    background:linear-gradient(
-        90deg,
-        rgba(26,26,26,0.95) 0%,
-        rgba(117,104,44,0.90) 42%,
-        rgba(117,104,44,0.35) 68%,
-        rgba(0,0,0,0.05) 100%
-    );
-}
-
-.brand-cta-content{
-    position:relative;
-    z-index:3;
-    width:100%;
-    max-width:1200px;
-    margin:0 auto;
-    padding:80px 20px;
-    text-align:left;
-}
-
-.brand-cta-box{
-    max-width:520px;
-    text-align:left;
-}
-
-.brand-cta-box h1{
-    font-size:36px;
-    color:#ffffff;
-    margin-bottom:20px;
-    font-weight:800;
-    line-height:1.3;
-}
-
-.brand-cta-box p{
-    font-size:18px;
-    color:rgba(255,255,255,0.9);
-    line-height:1.7;
-    margin-bottom:30px;
-}
-
-.brand-cta-btn{
-    display:inline-block;
-    padding:12px 25px;
-    border-radius:50px;
-    font-size:14px;
-    font-weight:600;
-    text-transform:uppercase;
-    letter-spacing:1px;
-    background:#e0b354;
-    color:#1a1a1a;
-    text-decoration:none;
-    transition:all 0.3s ease;
-    box-shadow:0 4px 15px rgba(224,179,84,0.3);
-}
-
-.brand-cta-btn:hover{
-    background:#d4a336;
-    transform:translateY(-3px);
-    box-shadow:0 10px 25px rgba(224,179,84,0.4);
-}
-
-@media(max-width:768px){
-    .brand-cta-section{
-        min-height:600px;
-    }
-
-    .brand-cta-section::before{
-        background:linear-gradient(
-            90deg,
-            rgba(26,26,26,0.95) 0%,
-            rgba(117,104,44,0.90) 70%,
-            rgba(0,0,0,0.25) 100%
-        );
-    }
-
-    .brand-cta-box h1{
-        font-size:28px;
-    }
-
-    .brand-cta-box p{
-        font-size:16px;
-    }
-}
-</style>
-
-<section class="brand-cta-section">
-    <img src="img/cheetah-banner.jpg" alt="Tanzania safari adventure">
-
-    <div class="brand-cta-content">
-        <div class="brand-cta-box">
-
-            <h1>Discover your next Tanzania adventure today!</h1>
-
-            <p>
-                Are you ready to explore the beauty of Tanzania? Deep Tanzania Tours offers unforgettable safari experiences across Serengeti, Ngorongoro Crater, Tarangire, and beyond.We provide expertly guided journeys designed to match your travel style and budget.
-            </p>
-
-            <a href="#" class="brand-cta-btn" onclick="openBookingPopup()">
-                Checkout Tour Package
-            </a>
-
-        </div>
-    </div>
-</section>
 
 
 <!-- Blog Articles Section -->

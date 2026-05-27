@@ -10,72 +10,102 @@
             </div>
         </div>
 
-      
-
         <div class="footer-line"></div>
 
         <div class="footer-grid">
             <div class="footer-col">
                 <h3>About Us</h3>
-                <p>We are Tanzania's premier safari operator, offering unforgettable wildlife experiences with a commitment to sustainable tourism.</p>
+                <p>Deep Tanzania Tours is a local Tanzania tour operator offering unforgettable Tanzania safaris, Kilimanjaro trekking, day trips, Zanzibar holidays, and tailor-made safari packages.</p>
                 <div class="social-links">
-                    <a href="#"><i class="fab fa-facebook-f"></i></a>
-                    <a href="#"><i class="fab fa-twitter"></i></a>
-                    <a href="#"><i class="fab fa-instagram"></i></a>
-                    <a href="#"><i class="fab fa-linkedin-in"></i></a>
+                    <a href="https://wa.me/255655147108" target="_blank" aria-label="WhatsApp"><i class="fab fa-whatsapp"></i></a>
+                    <a href="mailto:info@deeptanzaniatours.com" aria-label="Email"><i class="fas fa-envelope"></i></a>
+                    <a href="contact-us.php" aria-label="Contact Deep Tanzania Tours"><i class="fas fa-phone"></i></a>
+                    <a href="safari-article.php" aria-label="Safari Articles"><i class="fas fa-newspaper"></i></a>
                 </div>
             </div>
             
             <div class="footer-col">
                 <h3>Quick Links</h3>
                 <ul class="footer-links">
-                    <li><a href="#">Home</a></li>
-                    <li><a href="#">Safaris</a></li>
-                    <li><a href="#">Kilimanjaro</a></li>
-                    <li><a href="#">About Tanzania</a></li>
-                    <li><a href="#">Contact Us</a></li>
+                    <li><a href="index.php">Home</a></li>
+                    <li><a href="about-us.php">About Us</a></li>
+                    <li><a href="contact-us.php">Contact Us</a></li>
+                    <li><a href="kilimanjaro-trekking.php">Kilimanjaro Trekking</a></li>
+                    <li><a href="daytrips.php">Tanzania Day Trips</a></li>
+                    <li><a href="zanzibar-packages.php">Zanzibar Packages</a></li>
+                    <li><a href="terms-and-condition.php">Terms and Conditions</a></li>
                 </ul>
             </div>
             
             <div class="footer-col">
                 <h3>Safari Packages</h3>
                 <ul class="footer-links">
-                    <li><a href="#">Classic Safaris</a></li>
-                    <li><a href="#">Luxury Safaris</a></li>
-                    <li><a href="#">Family Safaris</a></li>
-                    <li><a href="#">Great Migration</a></li>
-                    <li><a href="#">Custom Safaris</a></li>
+                    <li><a href="../5-day-tanzania-safari.php">5 Day Tanzania Safari</a></li>
+                    <li><a href="../5-day-essential-safari.php">5 Day Essential Safari</a></li>
+                    <li><a href="../6-day-family-safari.php">6 Day Family Safari</a></li>
+                    <li><a href="../7-day-classic-safari.php">7 Day Classic Safari</a></li>
+                    <li><a href="../8-day-luxury-safari.php">8 Day Luxury Safari</a></li>
+                    <li><a href="../4-day-mid-range-safari.php">4 Day Mid-Range Safari</a></li>
+                    <li><a href="../2-days-mid-range-safari.php">2 Days Mid-Range Safari</a></li>
+                </ul>
+            </div>
+
+            <div class="footer-col">
+                <h3>Migration Safaris</h3>
+                <ul class="footer-links">
+                    <li><a href="9-day-migration-safari.php">9 Day Migration Safari</a></li>
+                    <li><a href="8-days-mara-river-safari.php">8 Days Mara River Safari</a></li>
+                    <li><a href="7-days-ndutu-calving-safari.php">7 Days Ndutu Calving Safari</a></li>
+                    <li><a href="migrational-seasonal/7-days-dry-season.php">7 Days Dry Season Safari</a></li>
+                    <li><a href="safari-package/4-day-safari-sample.php">4 Day Safari Package</a></li>
+                    <li><a href="safari-article.php">Safari Articles</a></li>
+                    <li><a href="article.php">Travel Articles</a></li>
+                </ul>
+            </div>
+
+            <div class="footer-col">
+                <h3>Zanzibar & Safari</h3>
+                <ul class="footer-links">
+                    <li><a href="zanzibar-packages.php">Zanzibar Packages</a></li>
+                    <li><a href="zanzibar-and-safari/zanzibar.php">Zanzibar Island</a></li>
+                    <li><a href="zanzibar-and-safari/zanzibar-holiday.php">Zanzibar Holiday</a></li>
+                    <li><a href="daytrips.php">Day Trips in Tanzania</a></li>
+                    <li><a href="kilimanjaro-trekking.php">Mount Kilimanjaro Trekking</a></li>
+                    <li><a href="safari-articles/sample-article-today.php">Safari Travel Guide</a></li>
+                    <li><a href="contact-us.php">Plan Your Trip</a></li>
                 </ul>
             </div>
             
             <div class="footer-col">
                 <h3>Contact Info</h3>
                 <p><i class="fas fa-map-marker-alt"></i> Deep Tanzania Tours, 10166 Moshi Tanzania, Aga Khan Street/Road, NSSF Complex Near Moshi Municipal, Second Floor Room No13</p>
-                <p><i class="fas fa-phone"></i> +255 655 147 108</p>
-                <p><i class="fas fa-envelope"></i> info@deeptanzaniatours.com</p>
-                <p><i class="fas fa-clock"></i> Mon-Fri: 8AM - 5PM</p>
+                <p><i class="fas fa-phone"></i> <a href="tel:+255655147108">+255 655 147 108</a></p>
+                <p><i class="fab fa-whatsapp"></i> <a href="https://wa.me/255655147108" target="_blank">Chat With Us on WhatsApp</a></p>
+                <p><i class="fas fa-envelope"></i> <a href="mailto:info@deeptanzaniatours.com">info@deeptanzaniatours.com</a></p>
+                <p><i class="fas fa-clock"></i> Mon-Sun: 8AM - 6PM</p>
             </div>
         </div>
-  <div class="footer-line"></div>
+
+        <div class="footer-line"></div>
 
         <div class="footer-top-extras">
             <div class="footer-top-block">
                 <h3>Our Trusted Partners</h3>
                 <div class="partner-logos-grid">
                     <div class="partner-logo-box">
-                        <img src="img/kilimanjaro-trekking-organization.jpg" alt="Partner 1">
+                        <img src="img/kilimanjaro-trekking-organization.jpg" alt="Kilimanjaro Trekking Organization">
                     </div>
                     <div class="partner-logo-box">
-                        <img src="img/ATTA-logo.png" alt="Partner 2">
+                        <img src="img/ATTA-logo.png" alt="ATTA">
                     </div>
                     <div class="partner-logo-box">
-                        <img src="img/travel-life.jpg" alt="Partner 3">
+                        <img src="img/travel-life.jpg" alt="Travelife">
                     </div>
                     <div class="partner-logo-box">
-                        <img src="img/tripadivasor.png" alt="Partner 4">
+                        <img src="img/tripadivasor.png" alt="TripAdvisor">
                     </div>
                     <div class="partner-logo-box">
-                        <img src="img/kpap-logo.jpg" alt="Partner 5">
+                        <img src="img/kpap-logo.jpg" alt="KPAP">
                     </div>
                 </div>
             </div>
@@ -103,7 +133,7 @@
         </div>
 
         <div class="footer-bottom">
-            <p>&copy; 2026 Deep Tanzania Tours. All Rights Reserved. | <a href="#">Privacy Policy</a> | <a href="terms-and-condition.php">Terms of Service</a></p>
+            <p>&copy; 2026 Deep Tanzania Tours. All Rights Reserved. | <a href="../terms-and-condition.php">Terms of Service</a></p>
         </div>
 
     </div>
@@ -114,7 +144,7 @@
 #contact {
     background:
         linear-gradient(rgba(246, 244, 242, 0.88), rgba(246, 244, 242, 0.94)),
-        url('img/savana.png');
+        url('../img/savana.png');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
