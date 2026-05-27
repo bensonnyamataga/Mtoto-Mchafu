@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Best Tanzania Tour operator</title>
+    <title>Best Tanzania Safari, Kilimanjaro Trekking & Zanzibar Tour Operator</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     
    <link rel="stylesheet" href="style/style.css">
@@ -31,7 +31,7 @@
     </div>
     <div class="container">
         <div class="hero-content">
-            <h1>Experience the Wonders of Tanzania </h1>
+            <h1>Tanzania Safari, Kilimanjaro Trekking, Day Trips & Zanzibar Holidays </h1>
             <p>Discover the breathtaking wildlife of the Serengeti, conquer Mount Kilimanjaro, and relax on the pristine beaches of Zanzibar with our expert-guided tours.</p>
             <div class="hero-btns">
                 <a href="#safaris" class="btn btn-primary">Explore Safaris</a>
