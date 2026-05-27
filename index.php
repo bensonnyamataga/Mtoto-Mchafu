@@ -298,13 +298,13 @@
             </div>
         </div>
     </section>
-
 <!-- Safari Packages Section -->
 <section class="section safari-packages">
     <div class="container">
         <div class="section-title">
-            <span class="subtitle">Premium Safari Experiences</span>
-            <h2>Our Safari Packages</h2>
+            <span class="subtitle">Handpicked Tanzania Safari Journeys</span>
+            <h2>Signature Tanzania Safari Packages for Wildlife, Migration & Big Five Experiences</h2>
+            <p>Explore our carefully selected safari packages designed for travellers seeking Serengeti wildlife, Ngorongoro Crater, Tarangire elephants, Great Migration viewing and private Tanzania safari experiences.</p>
         </div>
         
         <div class="packages-grid">
@@ -312,11 +312,11 @@
             <!-- Package 1 -->
             <div class="package-card">
                 <div class="package-image">
-                    <img src="img/from-zanzibar-2-day-serengeti-safari-with-flights-5126388.jpg" alt="3 Days Safari from Zanzibar">
+                    <img src="img/from-zanzibar-2-day-serengeti-safari-with-flights-5126388.jpg" alt="3 Days Zanzibar Fly-In Serengeti and Ngorongoro Safari">
                     <div class="package-overlay"></div>
                 </div>
                 <div class="package-content">
-                    <h3>3 Days Safari from Zanzibar</h3>
+                    <h3>3 Days Zanzibar Fly-In Serengeti & Ngorongoro Safari</h3>
                     <p class="package-duration">3 Days / 2 Nights</p>
                     <div class="package-features">
                         <span><i class="fas fa-map-marker-alt"></i> Serengeti, Ngorongoro Crater</span>
@@ -337,11 +337,11 @@
             <!-- Package 2 -->
             <div class="package-card">
                 <div class="package-image">
-                    <img src="img/safari-to-tarangire.jpg" alt="5 Day Tanzania Safari">
+                    <img src="img/safari-to-tarangire.jpg" alt="5 Day Tanzania Big Five Safari">
                     <div class="package-overlay"></div>
                 </div>
                 <div class="package-content">
-                    <h3>5 Day Tanzania Safari</h3>
+                    <h3>5 Day Tanzania Big Five Safari: Tarangire, Serengeti & Ngorongoro</h3>
                     <p class="package-duration">5 Days / 4 Nights</p>
                     <div class="package-features">
                         <span><i class="fas fa-map-marker-alt"></i> Tarangire, Serengeti, Ngorongoro</span>
@@ -362,11 +362,11 @@
             <!-- Package 3 -->
             <div class="package-card">
                 <div class="package-image">
-                    <img src="img/tarangire-5-days-safari.jpg" alt="5 Day Essential Safari">
+                    <img src="img/tarangire-5-days-safari.jpg" alt="5 Day Essential Northern Tanzania Safari">
                     <div class="package-overlay"></div>
                 </div>
                 <div class="package-content">
-                    <h3>5 Day Essential Safari</h3>
+                    <h3>5 Day Essential Northern Tanzania Safari Experience</h3>
                     <p class="package-duration">5 Days / 4 Nights</p>
                     <div class="package-features">
                         <span><i class="fas fa-map-marker-alt"></i> Tarangire, Lake Manyara, Ngorongoro</span>
@@ -387,11 +387,11 @@
             <!-- Package 4 -->
             <div class="package-card">
                 <div class="package-image">
-                    <img src="img/visit-taragire-national-park.jpg" alt="6 Day Family Safari">
+                    <img src="img/visit-taragire-national-park.jpg" alt="6 Day Family Friendly Tanzania Safari">
                     <div class="package-overlay"></div>
                 </div>
                 <div class="package-content">
-                    <h3>6 Day Family Safari</h3>
+                    <h3>6 Day Family-Friendly Tanzania Safari with Serengeti & Ngorongoro</h3>
                     <p class="package-duration">6 Days / 5 Nights</p>
                     <div class="package-features">
                         <span><i class="fas fa-map-marker-alt"></i> Tarangire, Serengeti, Ngorongoro</span>
@@ -412,11 +412,11 @@
             <!-- Package 5 -->
             <div class="package-card">
                 <div class="package-image">
-                    <img src="img/safari-in-serengeti.jpg" alt="7 Day Classic Safari">
+                    <img src="img/safari-in-serengeti.jpg" alt="7 Day Classic Northern Tanzania Safari">
                     <div class="package-overlay"></div>
                 </div>
                 <div class="package-content">
-                    <h3>7 Day Classic Safari</h3>
+                    <h3>7 Day Classic Northern Circuit Safari Adventure</h3>
                     <p class="package-duration">7 Days / 6 Nights</p>
                     <div class="package-features">
                         <span><i class="fas fa-map-marker-alt"></i> Serengeti, Ngorongoro, Tarangire</span>
@@ -437,11 +437,11 @@
             <!-- Package 6 -->
             <div class="package-card">
                 <div class="package-image">
-                    <img src="img/serengeti-tanzania-safari.jpg" alt="8 Day Luxury Safari">
+                    <img src="img/serengeti-tanzania-safari.jpg" alt="8 Day Luxury Tanzania Safari">
                     <div class="package-overlay"></div>
                 </div>
                 <div class="package-content">
-                    <h3>8 Day Luxury Safari</h3>
+                    <h3>8 Day Luxury Tanzania Safari with Premium Lodges & Private Guide</h3>
                     <p class="package-duration">8 Days / 7 Nights</p>
                     <div class="package-features">
                         <span><i class="fas fa-map-marker-alt"></i> Northern Tanzania Safari Circuit</span>
@@ -462,11 +462,11 @@
             <!-- Package 7 -->
             <div class="package-card">
                 <div class="package-image">
-                    <img src="img/serengeti-great-migration-safari.jpg" alt="8 Days Mara River Safari">
+                    <img src="img/serengeti-great-migration-safari.jpg" alt="8 Days Mara River Great Migration Safari">
                     <div class="package-overlay"></div>
                 </div>
                 <div class="package-content">
-                    <h3>8 Days Mara River Safari</h3>
+                    <h3>8 Days Great Migration Mara River Crossing Safari</h3>
                     <p class="package-duration">8 Days / 7 Nights</p>
                     <div class="package-features">
                         <span><i class="fas fa-map-marker-alt"></i> Northern Serengeti, Mara River</span>
@@ -487,11 +487,11 @@
             <!-- Package 8 -->
             <div class="package-card">
                 <div class="package-image">
-                    <img src="img/mara-river-crossing.jpg" alt="9 Day Migration Safari">
+                    <img src="img/mara-river-crossing.jpg" alt="9 Day Serengeti Migration Safari">
                     <div class="package-overlay"></div>
                 </div>
                 <div class="package-content">
-                    <h3>9 Day Migration Safari</h3>
+                    <h3>9 Day Serengeti Great Migration Safari Experience</h3>
                     <p class="package-duration">9 Days / 8 Nights</p>
                     <div class="package-features">
                         <span><i class="fas fa-map-marker-alt"></i> Serengeti Migration Route</span>
@@ -512,11 +512,11 @@
             <!-- Package 9 -->
             <div class="package-card">
                 <div class="package-image">
-                    <img src="img/ndutu-calving-season.jpg" alt="7 Days Ndutu Calving Safari">
+                    <img src="img/ndutu-calving-season.jpg" alt="7 Days Ndutu Calving Season Safari">
                     <div class="package-overlay"></div>
                 </div>
                 <div class="package-content">
-                    <h3>7 Days Ndutu Calving Safari</h3>
+                    <h3>7 Days Ndutu Calving Season Safari & Ngorongoro Experience</h3>
                     <p class="package-duration">7 Days / 6 Nights</p>
                     <div class="package-features">
                         <span><i class="fas fa-map-marker-alt"></i> Ndutu, Southern Serengeti, Ngorongoro</span>
@@ -534,7 +534,6 @@
                 </div>
             </div>
 
-            
         </div>
     </div>
 </section>
