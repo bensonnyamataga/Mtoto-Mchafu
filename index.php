@@ -7,6 +7,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     
    <link rel="stylesheet" href="style/style.css">
+   <link rel="stylesheet" href="style/package.css">
    <script src="script/script.js"></script>
 
 <!-- Google tag (gtag.js) -->
@@ -105,7 +106,6 @@
         </div>
     </section>
 
-
 <!-- Best Destinations Section -->
 <section class="section destinations">
     <div class="container">
@@ -134,7 +134,7 @@
                         <span><i class="fas fa-tree"></i> Ancient Baobabs</span>
                         <span><i class="fas fa-binoculars"></i> Bird Watching</span>
                     </div>
-                    <a href="#" class="btn btn-primary">Explore Tarangire</a>
+                    <a href="safari-articles/tarangire-national-park-safari-guide.php" class="btn btn-primary">Explore Tarangire</a>
                 </div>
             </div>
             
@@ -156,7 +156,7 @@
                         <span><i class="fas fa-paw"></i> Big Cat Sightings</span>
                         <span><i class="fas fa-globe-africa"></i> Vast Savannahs</span>
                     </div>
-                    <a href="#" class="btn btn-primary">Explore Serengeti</a>
+                    <a href="safari-articles/serengeti-safari-guide-great-migration.php" class="btn btn-primary">Explore Serengeti</a>
                 </div>
             </div>
             
@@ -178,7 +178,7 @@
                         <span><i class="fas fa-rhino"></i> Big Five Habitat</span>
                         <span><i class="fas fa-history"></i> UNESCO Site</span>
                     </div>
-                    <a href="#" class="btn btn-primary">Explore Ngorongoro</a>
+                    <a href="safari-articles/ngorongoro-crater-safari-guide.php" class="btn btn-primary">Explore Ngorongoro</a>
                 </div>
             </div>
             
@@ -200,7 +200,7 @@
                         <span><i class="fas fa-hiking"></i> Trekking Routes</span>
                         <span><i class="fas fa-snowflake"></i> Glacial Summit</span>
                     </div>
-                    <a href="#" class="btn btn-primary">Explore Kilimanjaro</a>
+                    <a href="kilimanjaro-articles/kilimanjaro-climbing-guide-tanzania-adventures.php" class="btn btn-primary">Explore Kilimanjaro</a>
                 </div>
             </div>
             
@@ -222,36 +222,34 @@
                         <span><i class="fas fa-history"></i> Historic Stone Town</span>
                         <span><i class="fas fa-swimmer"></i> Crystal Waters</span>
                     </div>
-                    <a href="#" class="btn btn-primary">Explore Zanzibar</a>
+                    <a href="zanzibar-and-safari/zanzibar-holiday.php" class="btn btn-primary">Explore Zanzibar</a>
                 </div>
             </div>
 
-
-           <!-- Lake Manyara -->
-<div class="destination-card">
-    <div class="destination-image">
-        <div class="image-container">
-            <img src="img/lake-manyara-national-park.jpg" alt="Lake Manyara National Park">
-        </div>
-        <div class="destination-overlay">
-            <h3>Lake Manyara</h3>
-            <p>Birdwatcher's Paradise</p>
-        </div>
-    </div>
-    <div class="destination-content">
-        <p>Famous for its tree-climbing lions and diverse bird species, Lake Manyara offers a compact yet spectacular safari experience at the base of the Rift Valley escarpment.</p>
-        <div class="destination-features">
-            <span><i class="fas fa-lion"></i> Tree-Climbing Lions</span>
-            <span><i class="fas fa-dove"></i> Flamingo Colonies</span>
-            <span><i class="fas fa-tree"></i> Groundwater Forest</span>
-        </div>
-        <a href="#" class="btn btn-primary">Explore Lake Manyara</a>
-    </div>
-</div>
+            <!-- Lake Manyara -->
+            <div class="destination-card">
+                <div class="destination-image">
+                    <div class="image-container">
+                        <img src="img/lake-manyara-national-park.jpg" alt="Lake Manyara National Park">
+                    </div>
+                    <div class="destination-overlay">
+                        <h3>Lake Manyara</h3>
+                        <p>Birdwatcher's Paradise</p>
+                    </div>
+                </div>
+                <div class="destination-content">
+                    <p>Famous for its tree-climbing lions and diverse bird species, Lake Manyara offers a compact yet spectacular safari experience at the base of the Rift Valley escarpment.</p>
+                    <div class="destination-features">
+                        <span><i class="fas fa-lion"></i> Tree-Climbing Lions</span>
+                        <span><i class="fas fa-dove"></i> Flamingo Colonies</span>
+                        <span><i class="fas fa-tree"></i> Groundwater Forest</span>
+                    </div>
+                    <a href="#" class="btn btn-primary">Explore Lake Manyara</a>
+                </div>
+            </div>
         </div>
     </div>
 </section>
-
 
 
     <!-- Features Section -->
@@ -464,7 +462,7 @@
             <!-- Package 7 -->
             <div class="package-card">
                 <div class="package-image">
-                    <img src="img/safari-in-serengeti.jpg" alt="8 Days Mara River Safari">
+                    <img src="img/serengeti-great-migration-safari.jpg" alt="8 Days Mara River Safari">
                     <div class="package-overlay"></div>
                 </div>
                 <div class="package-content">
@@ -489,7 +487,7 @@
             <!-- Package 8 -->
             <div class="package-card">
                 <div class="package-image">
-                    <img src="img/serengeti-tanzania-safari.jpg" alt="9 Day Migration Safari">
+                    <img src="img/mara-river-crossing.jpg" alt="9 Day Migration Safari">
                     <div class="package-overlay"></div>
                 </div>
                 <div class="package-content">
@@ -514,7 +512,7 @@
             <!-- Package 9 -->
             <div class="package-card">
                 <div class="package-image">
-                    <img src="img/safari-in-serengeti.jpg" alt="7 Days Ndutu Calving Safari">
+                    <img src="img/ndutu-calving-season.jpg" alt="7 Days Ndutu Calving Safari">
                     <div class="package-overlay"></div>
                 </div>
                 <div class="package-content">
@@ -536,84 +534,53 @@
                 </div>
             </div>
 
-            <!-- Package 10 -->
-            <div class="package-card">
-                <div class="package-image">
-                    <img src="img/from-zanzibar-2-day-serengeti-safari-with-flights-5126388.jpg" alt="10 Day Tanzania Safari and Zanzibar Holiday">
-                    <div class="package-overlay"></div>
-                </div>
-                <div class="package-content">
-                    <h3>10 Day Safari & Zanzibar Holiday</h3>
-                    <p class="package-duration">10 Days / 9 Nights</p>
-                    <div class="package-features">
-                        <span><i class="fas fa-map-marker-alt"></i> Safari Parks & Zanzibar Beach</span>
-                        <span><i class="fas fa-plane"></i> Safari and Beach Combination</span>
-                        <span><i class="fas fa-umbrella-beach"></i> Wildlife Safari with Zanzibar Relaxation</span>
-                    </div>
-                    <div class="package-footer">
-                        <div class="package-price">
-                            <span class="from">From</span>
-                            <span class="amount">$3,950</span>
-                            <span class="per-person">per person</span>
-                        </div>
-                        <a href="zanzibar-packages.php" class="btn btn-primary">View Details</a>
-                    </div>
-                </div>
-            </div>
-
-            <!-- Package 11 -->
-            <div class="package-card">
-                <div class="package-image">
-                    <img src="img/safari-to-tarangire.jpg" alt="4 Day Mid Range Safari">
-                    <div class="package-overlay"></div>
-                </div>
-                <div class="package-content">
-                    <h3>4 Day Mid-Range Safari</h3>
-                    <p class="package-duration">4 Days / 3 Nights</p>
-                    <div class="package-features">
-                        <span><i class="fas fa-map-marker-alt"></i> Tarangire, Serengeti, Ngorongoro</span>
-                        <span><i class="fas fa-bed"></i> Comfortable Mid-Range Lodges</span>
-                        <span><i class="fas fa-car"></i> Private Safari Vehicle</span>
-                    </div>
-                    <div class="package-footer">
-                        <div class="package-price">
-                            <span class="from">From</span>
-                            <span class="amount">$1,350</span>
-                            <span class="per-person">per person</span>
-                        </div>
-                        <a href="4-day-mid-range-safari.php" class="btn btn-primary">View Details</a>
-                    </div>
-                </div>
-            </div>
-
-            <!-- Package 12 -->
-            <div class="package-card">
-                <div class="package-image">
-                    <img src="img/from-zanzibar-2-day-serengeti-safari-with-flights-5126388.jpg" alt="Private Safari and Zanzibar Package">
-                    <div class="package-overlay"></div>
-                </div>
-                <div class="package-content">
-                    <h3>Private Safari & Zanzibar Package</h3>
-                    <p class="package-duration">Tailor-Made Program</p>
-                    <div class="package-features">
-                        <span><i class="fas fa-map-marker-alt"></i> Tanzania Safari & Zanzibar Island</span>
-                        <span><i class="fas fa-users"></i> Best for Couples, Families & Groups</span>
-                        <span><i class="fas fa-route"></i> Flexible Safari and Beach Itinerary</span>
-                    </div>
-                    <div class="package-footer">
-                        <div class="package-price">
-                            <span class="from">From</span>
-                            <span class="amount">$2,950</span>
-                            <span class="per-person">per person</span>
-                        </div>
-                        <a href="zanzibar-and-safari/zanzibar.php" class="btn btn-primary">View Details</a>
-                    </div>
-                </div>
-            </div>
-
+            
         </div>
     </div>
 </section>
+
+<!-- Day Trips Intro Section -->
+<section class="section safari-intro-section">
+    <div class="container">
+        <div class="section-title">
+            <span class="subtitle">Short Tanzania Experiences</span>
+            <h2>Discover Beautiful Day Trips from Moshi and Arusha</h2>
+            <p>Enjoy unforgettable Tanzania day trips designed for travellers who want waterfalls, coffee tours, hot springs, wildlife, culture and nature experiences within one day.</p>
+        </div>
+        
+        <div class="safari-intro-content">
+            <div class="safari-intro-text">
+                <p>Our Tanzania day trips are perfect for guests staying in Moshi or Arusha before or after safari, Kilimanjaro trekking or Zanzibar holidays. These short tours give you a beautiful chance to experience waterfalls, coffee farms, natural hot springs, local culture, wildlife, village life and scenic landscapes within one comfortable day.</p>
+                
+                <p>Popular options include Materuni Waterfalls and Coffee Tour, Chemka Hot Springs, Arusha National Park, Moshi town tour and cultural experiences around Mount Kilimanjaro. Each day trip can be arranged privately with a professional guide, comfortable transport and flexible timing based on your travel plan.</p>
+                
+                <div class="safari-highlights">
+                    <div class="highlight-item">
+                        <i class="fas fa-check-circle"></i>
+                        <span>Visit Materuni Waterfalls and enjoy a local coffee experience</span>
+                    </div>
+                    <div class="highlight-item">
+                        <i class="fas fa-check-circle"></i>
+                        <span>Relax at Chemka Hot Springs with clear natural blue water</span>
+                    </div>
+                    <div class="highlight-item">
+                        <i class="fas fa-check-circle"></i>
+                        <span>Explore Arusha National Park, cultural villages and scenic nature tours</span>
+                    </div>
+                </div>
+
+                <div class="package-footer">
+                    <a href="daytrips.php" class="btn btn-primary">Review More Day Trips</a>
+                </div>
+            </div>
+            
+            <div class="safari-intro-image">
+                <img src="img/maasai-tanzania-culture.jpg" alt="maasai culture">
+            </div>
+        </div>
+    </div>
+</section>
+
 
 <!-- Add this section where you want the Instagram posts to appear -->
     <section class="instagram-section">
@@ -623,7 +590,7 @@
             <!-- NEW: Instagram button added here -->
             
             <div class="container">
-            <a href="https://instagram.com/yourprofile" target="_blank" class="instagram-follow-btn">
+            <a href="https://www.instagram.com/deeptanzania_tours?igsh=MTRvZ2k1M2tvZzczaQ==" target="_blank" class="instagram-follow-btn">
                 <i class="fab fa-instagram"></i>
                 Follow Us on Instagram
             </a>
@@ -800,6 +767,65 @@
         </div>
     </div>
 </section>
+
+
+
+
+<style>
+/* Safari Intro Section */
+    .safari-intro-section {
+        background-color: var(--white);
+        padding: 80px 0;
+    }
+    
+    .safari-intro-content {
+        display: flex;
+        gap: 40px;
+        align-items: center;
+        margin-top: 20px;
+    }
+    
+    .safari-intro-text {
+        flex: 1;
+    }
+    
+    .safari-intro-text p {
+        margin-bottom: 20px;
+        line-height: 1.8;
+        font-size: 16px;
+    }
+    
+    .safari-highlights {
+        margin-top: 25px;
+    }
+    
+    .highlight-item {
+        display: flex;
+        align-items: center;
+        margin-bottom: 12px;
+    }
+    
+    .highlight-item i {
+        color: var(--primary);
+        margin-right: 12px;
+        font-size: 18px;
+    }
+    
+    .safari-intro-image {
+        flex: 1;
+        border-radius: 10px;
+        overflow: hidden;
+        box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+    }
+    
+    .safari-intro-image img {
+        width: 100%;
+        height: 400px;
+        object-fit: cover;
+    }
+    
+</style>
+
 
 
 <!-- TripAdvisor Reviews Section -->
@@ -1089,6 +1115,7 @@
 
 
 <script>
+
 document.addEventListener('DOMContentLoaded', function() {
     const readReviewButtons = document.querySelectorAll('.read-review-btn');
     
