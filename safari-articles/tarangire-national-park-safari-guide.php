@@ -11,18 +11,18 @@
 
     <meta name="keywords" content="Tarangire National Park safari guide, Tarangire safari from Arusha, Tarangire elephants, Tarangire baobab trees, Tarangire safari cost, Tarangire accommodation, Tarangire night game drive, 1 day Tarangire safari, Tanzania safari packages">
 
-    <link rel="canonical" href="https://tanzaniaadventures.co.tz/safari-articles/tarangire-national-park-safari-guide.php" />
+    <link rel="canonical" href="https://deeptanzaniatours.com/safari-articles/tarangire-national-park-safari-guide.php" />
 
     <meta property="og:title" content="Tarangire National Park Safari Guide | Elephants, Baobabs, Best Time & Costs">
     <meta property="og:description" content="A complete Tarangire National Park safari planning guide covering elephants, baobab trees, best time, accommodation, costs, night game drives and safari packages from Arusha.">
-    <meta property="og:image" content="https://tanzaniaadventures.co.tz/img/tarangire-national-park-safari-guide.jpg">
-    <meta property="og:url" content="https://tanzaniaadventures.co.tz/safari-articles/tarangire-national-park-safari-guide.php">
+    <meta property="og:image" content="https://deeptanzaniatours.com/img/tarangire-national-park-safari-guide.jpg">
+    <meta property="og:url" content="https://deeptanzaniatours.com/safari-articles/tarangire-national-park-safari-guide.php">
     <meta property="og:type" content="article">
 
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Tarangire National Park Safari Guide">
     <meta name="twitter:description" content="Plan your Tarangire safari with useful information about elephants, baobabs, wildlife, accommodation, costs and routes from Arusha.">
-    <meta name="twitter:image" content="https://tanzaniaadventures.co.tz/img/tarangire-national-park-safari-guide.jpg">
+    <meta name="twitter:image" content="https://deeptanzaniatours.com/img/tarangire-national-park-safari-guide.jpg">
 
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">

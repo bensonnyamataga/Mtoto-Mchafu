@@ -3,12 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Serengeti Safari Guide: Great Migration, Wildlife Areas & Best Safari Planning Tips</title>
-    <meta name="description" content="Plan your Serengeti safari with Deep Tanzania Tours. Learn Great Migration facts, best Serengeti areas, wildlife seasons, fly-in safari options, routes, costs and booking tips.">
+<title>Serengeti Safari Guide | Migration & Wildlife Tips</title>
+    <meta name="description" content="Plan a Serengeti safari with Deep Tanzania Tours. Learn the best areas, Great Migration seasons, wildlife tips, fly-in options and route advice.">
     <meta name="keywords" content="Serengeti safari guide, Serengeti Great Migration, Serengeti safari from Arusha, Serengeti fly-in safari, Serengeti migration safari, Serengeti safari packages Tanzania">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
-    <link rel="canonical" href="https://tanzaniaadventures.co.tz/safari-articles/serengeti-safari-guide-great-migration.php" />
+    <link rel="canonical" href="https://deeptanzaniatours.com/safari-articles/serengeti-safari-guide-great-migration.php" />
      <link rel="stylesheet" href="../style/package.css">
     <link rel="stylesheet" href="../style/style.css">
 
@@ -49,7 +49,7 @@
         <div class="container">
             <div class="hero-altoo-content">
                 
-                <h1>Serengeti Safari Guide: Great Migration, Wildlife Areas & Best Safari Planning Tips</h1>
+<h1>Serengeti Safari Guide for Great Migration and Wildlife Planning</h1>
                 <p class="hero-subtitle">Serengeti safari planning guide | Great Migration facts | Central, Northern, Southern and Western Serengeti routes | Private, joining group and fly-in safari options</p>
 
 <div class="safari-hero-actions">
@@ -193,8 +193,7 @@
                     <p><strong>Quick Serengeti planning advice:</strong> If this is your first safari in Tanzania, combine Serengeti with Ngorongoro Crater. If your budget allows, spend at least two nights inside Serengeti. If your main goal is the Great Migration, choose the Serengeti region based on the month you travel.</p>
                 </div>
 
-                <h2>Why Serengeti National Park Is One of Africa’s Best Safari Destinations</h2>
-                
+<h2>Serengeti Safari Planning Guide by Deep Tanzania Tours</h2>                
                 <div class="day-images">
                     <img src="../img/5-days-tanzania-wildlife-safari-banner.jpg" alt="Serengeti safari plains and wildlife in Tanzania">
                     <img src="../img/6-days-from-KIA.jpg" alt="Great Migration safari in Serengeti National Park">

@@ -10,18 +10,18 @@
 
     <meta name="keywords" content="Mount Kilimanjaro climbing guide, Kilimanjaro routes, Kilimanjaro climbing cost, best time to climb Kilimanjaro, Kilimanjaro Machame route, Kilimanjaro Lemosho route, Kilimanjaro Marangu route, Kilimanjaro private climb, Kilimanjaro joining group, Deep Tanzania Tours">
 
-    <link rel="canonical" href="https://tanzaniaadventures.co.tz/kilimanjaro-climbing-guide.php">
+    <link rel="canonical" href="https://deeptanzaniatours.com/kilimanjaro-climbing-guide.php">
 
     <meta property="og:title" content="Mount Kilimanjaro Climbing Guide | Routes, Cost, Best Time & Trekking Tips">
     <meta property="og:description" content="Plan your Mount Kilimanjaro climb with Deep Tanzania Tours. Learn about Kilimanjaro routes, cost, best time, guides, accommodation, arrival preparation, altitude safety, Pole Pole trekking style and packages.">
-    <meta property="og:image" content="https://tanzaniaadventures.co.tz/img/mount-kilimanjaro-climbing-guide.jpg">
-    <meta property="og:url" content="https://tanzaniaadventures.co.tz/kilimanjaro-climbing-guide.php">
+    <meta property="og:image" content="https://deeptanzaniatours.com/img/mount-kilimanjaro-climbing-guide.jpg">
+    <meta property="og:url" content="https://deeptanzaniatours.com/kilimanjaro-climbing-guide.php">
     <meta property="og:type" content="article">
 
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Mount Kilimanjaro Climbing Guide | Routes, Cost, Best Time & Trekking Tips">
     <meta name="twitter:description" content="Plan your Mount Kilimanjaro climb with Deep Tanzania Tours. Learn about Kilimanjaro routes, cost, best time, guides, accommodation, arrival preparation, altitude safety, Pole Pole trekking style and packages.">
-    <meta name="twitter:image" content="https://tanzaniaadventures.co.tz/img/mount-kilimanjaro-climbing-guide.jpg">
+    <meta name="twitter:image" content="https://deeptanzaniatours.com/img/mount-kilimanjaro-climbing-guide.jpg">
 
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
