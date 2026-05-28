@@ -10,7 +10,7 @@
 
     <meta name="keywords" content="Mount Kilimanjaro climbing guide, Kilimanjaro routes, Kilimanjaro climbing cost, best time to climb Kilimanjaro, Kilimanjaro Machame route, Kilimanjaro Lemosho route, Kilimanjaro Marangu route, Kilimanjaro private climb, Kilimanjaro joining group, Deep Tanzania Tours">
 
-    <link rel="canonical" href="https://deeptanzaniatours.com/kilimanjaro-climbing-guide.php">
+    <link rel="canonical" href="https://deeptanzaniatours.com/kilimanjaro-articles/kilimanjaro-climbing-guide.php">
 
     <meta property="og:title" content="Mount Kilimanjaro Climbing Guide | Routes & Cost">
 <meta property="og:description" content="Plan your Kilimanjaro climb with Deep Tanzania Tours. Compare routes, cost, best time, safety, guides and trekking tips for a successful summit.">guides, accommodation, arrival preparation, altitude safety, Pole Pole trekking style and packages.">
