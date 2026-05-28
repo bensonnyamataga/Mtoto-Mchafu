@@ -4,22 +4,22 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <title>Mount Kilimanjaro Climbing Guide | Routes, Cost, Best Time & Trekking Tips</title>
+   <title>Mount Kilimanjaro Climbing Guide | Routes & Cost</title>
 
-    <meta name="description" content="Plan your Mount Kilimanjaro climb with Deep Tanzania Tours. Learn about Kilimanjaro routes, cost, best time, guides, accommodation, arrival preparation, altitude safety, Pole Pole trekking style and packages.">
+<meta name="description" content="Plan your Kilimanjaro climb with Deep Tanzania Tours. Compare routes, cost, best time, safety, guides and trekking tips for a successful summit.">
 
     <meta name="keywords" content="Mount Kilimanjaro climbing guide, Kilimanjaro routes, Kilimanjaro climbing cost, best time to climb Kilimanjaro, Kilimanjaro Machame route, Kilimanjaro Lemosho route, Kilimanjaro Marangu route, Kilimanjaro private climb, Kilimanjaro joining group, Deep Tanzania Tours">
 
     <link rel="canonical" href="https://deeptanzaniatours.com/kilimanjaro-climbing-guide.php">
 
-    <meta property="og:title" content="Mount Kilimanjaro Climbing Guide | Routes, Cost, Best Time & Trekking Tips">
-    <meta property="og:description" content="Plan your Mount Kilimanjaro climb with Deep Tanzania Tours. Learn about Kilimanjaro routes, cost, best time, guides, accommodation, arrival preparation, altitude safety, Pole Pole trekking style and packages.">
+    <meta property="og:title" content="Mount Kilimanjaro Climbing Guide | Routes & Cost">
+<meta property="og:description" content="Plan your Kilimanjaro climb with Deep Tanzania Tours. Compare routes, cost, best time, safety, guides and trekking tips for a successful summit.">guides, accommodation, arrival preparation, altitude safety, Pole Pole trekking style and packages.">
     <meta property="og:image" content="https://deeptanzaniatours.com/img/mount-kilimanjaro-climbing-guide.jpg">
     <meta property="og:url" content="https://deeptanzaniatours.com/kilimanjaro-climbing-guide.php">
     <meta property="og:type" content="article">
 
-    <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Mount Kilimanjaro Climbing Guide | Routes, Cost, Best Time & Trekking Tips">
+    <meta name="twitter:title" content="Mount Kilimanjaro Climbing Guide | Routes & Cost">
+<meta name="twitter:description" content="Plan your Kilimanjaro climb with Deep Tanzania Tours. Compare routes, cost, best time, safety, guides and trekking tips for a successful summit.">
     <meta name="twitter:description" content="Plan your Mount Kilimanjaro climb with Deep Tanzania Tours. Learn about Kilimanjaro routes, cost, best time, guides, accommodation, arrival preparation, altitude safety, Pole Pole trekking style and packages.">
     <meta name="twitter:image" content="https://deeptanzaniatours.com/img/mount-kilimanjaro-climbing-guide.jpg">
 
@@ -391,8 +391,8 @@
 
     <div class="container">
         <div class="hero-altoo-content">
-            <h1>Mount Kilimanjaro Climbing Guide: Routes, Cost, Best Time, Success Rate & Trekking Tips</h1>
-            <p class="hero-subtitle">
+<h1>Mount Kilimanjaro Climbing Guide: Routes, Cost, Best Time, Success Rate & Trekking Tips</h1>
+<p class="hero-subtitle">
                 Kilimanjaro trekking guide | Machame, Lemosho, Marangu, Rongai and Umbwe routes |
                 Pole Pole trekking style | Private and joining group climbs | Deep Tanzania Tours
             </p>
