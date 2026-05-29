@@ -40,13 +40,13 @@
             <div class="footer-col">
                 <h3>Safari Packages</h3>
                 <ul class="footer-links">
-                    <li><a href="../5-day-tanzania-safari.php">5 Day Tanzania Safari</a></li>
-                    <li><a href="../5-day-essential-safari.php">5 Day Essential Safari</a></li>
-                    <li><a href="../6-day-family-safari.php">6 Day Family Safari</a></li>
-                    <li><a href="../7-day-classic-safari.php">7 Day Classic Safari</a></li>
-                    <li><a href="../8-day-luxury-safari.php">8 Day Luxury Safari</a></li>
-                    <li><a href="../4-day-mid-range-safari.php">4 Day Mid-Range Safari</a></li>
-                    <li><a href="../2-days-mid-range-safari.php">2 Days Mid-Range Safari</a></li>
+                    <li><a href="5-day-tanzania-safari.php">5 Day Tanzania Safari</a></li>
+                    <li><a href="5-day-essential-safari.php">5 Day Essential Safari</a></li>
+                    <li><a href="6-day-family-safari.php">6 Day Family Safari</a></li>
+                    <li><a href="7-day-classic-safari.php">7 Day Classic Safari</a></li>
+                    <li><a href="8-day-luxury-safari.php">8 Day Luxury Safari</a></li>
+                    <li><a href="4-day-mid-range-safari.php">4 Day Mid-Range Safari</a></li>
+                    <li><a href="2-days-mid-range-safari.php">2 Days Mid-Range Safari</a></li>
                 </ul>
             </div>
 

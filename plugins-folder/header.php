@@ -475,7 +475,7 @@
             <li><a href="../best-tanzania-safari-package.php">SAFARIS</a></li>
             <li><a href="../kilimanjaro-trekking.php">KILIMANJARO</a></li>
             <li><a href="../#zanzibar">ZANZIBAR</a></li>
-            <li><a href="../#daytrips">DAYTRIPS</a></li>
+            <li><a href="../day-trips.php">DAYTRIPS</a></li>
             <li><a href="../about-us.php">ABOUT US</a></li>
             <li><a href="../contact-us.php">CONTACT US</a></li>
           </ul>
@@ -497,13 +497,13 @@
   <!-- Mobile nav -->
   <div class="Travolo-mobile-nav" id="Travolo-mobile-nav"><br><br><br>
     <ul>
-      <li><a href="index.php">HOME</a></li>
-      <li><a href="best-tanzania-safari-package.php">SAFARIS</a></li>
-      <li><a href="kilimanjaro-trekking.php">KILIMANJARO</a></li>
-      <li><a href="#zanzibar">ZANZIBAR</a></li>
-      <li><a href="#daytrips">DAYTRIPS</a></li>
-      <li><a href="about-us.php">ABOUT US</a></li>
-      <li><a href="contact-us.php">CONTACT US</a></li>
+      <li><a href="../index.php">HOME</a></li>
+            <li><a href="../best-tanzania-safari-package.php">SAFARIS</a></li>
+            <li><a href="../kilimanjaro-trekking.php">KILIMANJARO</a></li>
+            <li><a href="../#zanzibar">ZANZIBAR</a></li>
+            <li><a href="../day-trips.php">DAYTRIPS</a></li>
+            <li><a href="../about-us.php">ABOUT US</a></li>
+            <li><a href="../contact-us.php">CONTACT US</a></li>
     </ul>
   </div>
 

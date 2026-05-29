@@ -51,7 +51,7 @@
             <h1>Why Should You Visit Serengeti National Park</h1>
             <div class="article-meta">
                 <span class="date"><i class="far fa-calendar"></i> August 29, 2025</span>
-                <span class="author"><i class="far fa-user"></i> By Travolo Safari Experts</span>
+                <span class="author"><i class="far fa-user"></i> By Deep Tanzania Tours Safari Experts</span>
                 <span class="read-time"><i class="far fa-clock"></i> 8 min read</span>
             </div>
         </div>

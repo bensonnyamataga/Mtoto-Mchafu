@@ -298,6 +298,7 @@
             </div>
         </div>
     </section>
+    
 <!-- Safari Packages Section -->
 <section class="section safari-packages">
     <div class="container">
@@ -569,7 +570,7 @@
                 </div>
 
                 <div class="package-footer">
-                    <a href="daytrips.php" class="btn btn-primary">Review More Day Trips</a>
+                    <a href="day-trips.php" class="btn btn-primary">Review More Day Trips</a>
                 </div>
             </div>
             

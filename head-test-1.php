@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Travolo - Premium Tanzanian Safaris & Kilimanjaro Climbs</title>
+    <title>Deep Tanzania Tours - Premium Tanzanian Safaris & Kilimanjaro Climbs</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/flag-icons/6.6.6/css/flag-icons.min.css">
     <style>
@@ -898,7 +898,7 @@
         
         <div class="header-main">
             <div class="container header-container">
-                <div class="logo">Travolo</div>
+                <div class="logo">Deep Tanzania Tours</div>
                 
                 <nav>
                     <ul id="nav-menu">
@@ -960,14 +960,14 @@
         <div class="container">
             <div class="section-title">
                 <span class="subtitle">Discover Our Story</span>
-                <h2>About Travolo</h2>
+                <h2>About Deep Tanzania Tours</h2>
             </div>
             
             <div class="about-text">
                 <h2>Your Authentic Tanzanian Adventure</h2>
-                <p>Welcome to Travolo, a locally-owned tour company based in Tanzania, specializing in creating unforgettable safari experiences and Mount Kilimanjaro treks. We offer personalized adventures that showcase Tanzania's spectacular natural beauty and rich cultural heritage.</p>
+                <p>Welcome to Deep Tanzania Tours, a locally-owned tour company based in Tanzania, specializing in creating unforgettable safari experiences and Mount Kilimanjaro treks. We offer personalized adventures that showcase Tanzania's spectacular natural beauty and rich cultural heritage.</p>
                 
-                <p>Our experienced team is dedicated to providing authentic, eco-friendly journeys whether you're seeking wildlife encounters on safari, the challenge of conquering Africa's highest peak, or meaningful connections with local communities. At Travolo, we take pride in crafting tailored tours that reflect our deep commitment to responsible travel and our passion for Tanzania's wonders.</p>
+                <p>Our experienced team is dedicated to providing authentic, eco-friendly journeys whether you're seeking wildlife encounters on safari, the challenge of conquering Africa's highest peak, or meaningful connections with local communities. At Deep Tanzania Tours, we take pride in crafting tailored tours that reflect our deep commitment to responsible travel and our passion for Tanzania's wonders.</p>
                 
                 <div class="about-features">
                     <div class="feature-item">

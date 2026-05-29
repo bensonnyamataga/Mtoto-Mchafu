@@ -6,7 +6,8 @@
     <title>Day Trips & Excursions from Moshi & Arusha</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
-   <link rel="stylesheet" href="style/style.css">
+    <link rel="stylesheet" href="style/package.css">
+    <link rel="stylesheet" href="style/style.css">
    <script src="script/script.js"></script>
 
 <!-- Google tag (gtag.js) -->
@@ -21,7 +22,7 @@
 </head>
 <body>
 
-     <?php include 'plugins/header.php';?>
+    <?php include 'plugins/header.php';?>
 
   
 <!-- Hero Section 2 -->
@@ -81,46 +82,56 @@
         </div>
     </div>
 </section>
-
-<section class="blog-article-section" id="article-start">
-    <div class="container">
-<!-- Day Trip Airport Pickup Information -->
-            <div id="safari-pickup">
-                <div class="section-title">
-            <span class="subtitle">Northern Tanzania Adventures</span>
-            <h2>Day Trip Transportation Information</h2>
-            <p>Your day trip adventure begins with convenient hotel pickup from Moshi or Arusha. We ensure comfortable transportation and seamless logistics for all our day excursions.</p>
-        </div>
-                
+ <!-- Pickup Information -->
+    <section class="blog-article-section">
+        <div class="container">
+            <div class="article-content">
+                <h2>Your Safari Begins with a Pickup in Arusha</h2>
 
                 <div class="day-images">
-                    <img src="img/airport-transfer.jpg" alt="Hotel Pickup Service">
-                    <img src="img/transfer-from-airport-vehicle.jpg" alt="Comfortable Day Trip Vehicle">
+                    <img src="../img/airport-transfer.jpg" alt="Airport meet and greet">
+                    <img src="../img/transfer-from-airport-vehicle.jpg" alt="Private transfer vehicle">
                 </div>
                 
                 <div class="highlight-box safari-quote">
                     <div class="highlight-icon">
-                        <i class="fas fa-map-marked-alt"></i>
                     </div>
-                    <p>In just one day, you can experience the best of Northern Tanzania: from stunning waterfalls to cultural villages and scenic viewpoints.</p>
+                    <p><strong>From Arusha hotels:</strong> Complimentary pickup from your Arusha hotel at 8:00 AM on Day 1.<br>
+                    <strong>From Kilimanjaro Airport (JRO):</strong> Complimentary pickup for flights arriving on Day 1. We'll transfer you to your Arusha hotel.<br>
+                    <strong>From Moshi:</strong> Pickup available with small supplement for early morning transfers.<br>
+                    <strong>Fly to Zanzibar:</strong> We can arrange flights from Manyara or Arusha to Zanzibar on Day 5 – ask us for details.</p>
                 </div>
 
-                <p>Our comprehensive day trip service includes:</p>
-                <ul>
-                    <li><strong>Hotel Pickup:</strong> We collect you directly from your hotel in Moshi or Arusha in the morning</li>
-                    <li><strong>Comfortable Transport:</strong> Travel in clean, private vehicles with experienced drivers</li>
-                    <li><strong>Expert Guides:</strong> Knowledgeable local guides for each specific destination</li>
-                    <li><strong>All Equipment Included:</strong> For activities like hiking, swimming, or cultural experiences</li>
-                    <li><strong>Flexible Timing:</strong> Standard departures at 8:00 AM with return by 5:00 PM</li>
-                    <li><strong>Hotel Return:</strong> Drop-off at your hotel at the end of your day trip</li>
-                </ul>
-                <p>Please ensure you provide us with your hotel details in advance for perfect trip coordination.</p>
+                <p>Your private transfer includes a personal meet and greet, assisted luggage handling, and a private vehicle for just your party. Your guide will meet you for a pre-safari briefing, answering questions and building anticipation for the days ahead.</p>
             </div>
+        </div>
+    </section>
+
+    <!-- Why Choose Us Section -->
+    <section class="blog-article-section">
+        <div class="container">
+            <div class="article-content">
+                <h2>Why Choose Us for Your Serengeti & Ngorongoro Safari</h2>
+                
+                <ul>
+                    <li><strong>We're not selling adventures – we're creating joy:</strong> Every safari we arrange is designed to bring happiness, wonder, and those moments of pure magic that stay with you forever. We don't just show you wildlife; we help you connect with it.</li>
+                    <li><strong>Professional guides who know Serengeti like their backyard:</strong> Our guides don't just drive – they read animal behavior, track migration patterns, and share stories that bring the wilderness to life. They'll answer your questions, point out hidden details, and ensure you're in the right place at the right time.</li>
+                    <li><strong>Three full days in Serengeti – not a rushed visit:</strong> Many operators give you a day and a half in the park. We give you three full days – enough time to explore different areas, follow the migration, and truly understand why this place is so special.</li>
+                    <li><strong>Flexible ending – Arusha or Zanzibar:</strong> Your journey doesn't have to end in Arusha. Fly directly to Zanzibar from Manyara or Arusha, adding beach days to your adventure. We'll handle the logistics.</li>
+                    <li><strong>We're here 24/7:</strong> Questions before you book? Need help during your safari? Our team is always available. We're not just a booking service – we're your partners in creating an unforgettable experience.</li>
+                </ul>
+
+                <div class="highlight-box">
+                    <div class="highlight-icon">
+                        <i class="fas fa-quote-left"></i>
+                </div>
+                    <p>I guarantee you – this program will give you the mix of adventure you've been dreaming of. Serengeti's endless plains, Ngorongoro's wildlife density, and the warmth of Tanzanian hospitality. This is your dream safari. Let's make it happen.</p>
+                </div>
+            </div>
+        </div>
+    </section>
 
 
-
-</div>
-</section>
 <!-- Day Trips Packages Section -->
 <section class="section safari-packages">
     <div class="container">
@@ -1223,17 +1234,13 @@
 
 
     </div>
+<?php include 'plugins/call-to-action.php';?>
    <?php include 'plugins/mobile-footer.php';?>
 
-<!--Call to actions-->
- <?php include 'plugins/call-to-action.php';?>
- 
-<?php include 'plugins/pop-up-expert.php';?>
+    <?php include 'plugins/pop-up-expert.php';?>
+    <?php include 'plugins/footer.php';?>
+    <?php include 'plugins/booking-form.php';?>
 
-<?php include 'plugins/footer.php';?>
-<?php include 'plugins/booking-form.php';?>
-
-    
 <?php include 'plugins/mobile-footer.php';?>
 
 </body>
