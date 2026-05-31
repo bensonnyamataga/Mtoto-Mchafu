@@ -347,239 +347,238 @@
     </section>
 
 
-
-<!-- Related Zanzibar Safari Packages Section -->
-<section class="section safari-packages" id="related-zanzibar-safari-packages">
+<!-- Tanzania Day Trips Packages Section -->
+<section class="section safari-packages" id="tours">
     <div class="container">
         <div class="section-title">
-            <span class="subtitle">More Safari and Beach Options from Zanzibar</span>
-            <h2>Related Zanzibar Safari Packages and Beach Holiday Tours</h2>
-            <p>Explore more recommended Zanzibar safari combinations designed for travellers who want wildlife, comfort and smooth travel planning.</p>
+            <span class="subtitle">Tanzania Day Trips from Arusha and Moshi</span>
+            <h2>Best Day Trips in Tanzania for Wildlife, Culture, Waterfalls and Relaxation</h2>
+            <p>Explore our most recommended Tanzania day trips designed for travellers staying in Arusha or Moshi, including national park safaris, Ngorongoro Crater, waterfalls, coffee tours, hot springs, cultural visits and scenic nature experiences.</p>
         </div>
         
         <div class="packages-grid">
 
-            <!-- Related Package 1 -->
+            <!-- Package 1 -->
             <div class="package-card">
                 <div class="package-image">
-                    <img src="../img/tarangire-day-tour.jpg" alt="3 days safari from Zanzibar to Tarangire and Ngorongoro">
+                    <img src="img/arusha-national-park.jpg" alt="Arusha National Park Day Trip from Arusha">
                     <div class="package-overlay"></div>
                 </div>
                 <div class="package-content">
-                    <h3>3 Days Safari from Zanzibar to Tarangire and Ngorongoro</h3>
-                    <p class="package-duration">3 Days / 2 Nights</p>
+                    <h3>Arusha National Park Day Trip from Arusha</h3>
+                    <p class="package-duration">1 Day Tour</p>
                     <div class="package-features">
-                        <span>Begin from Zanzibar with smooth travel arrangements</span>
-                        <span>Explore Tarangire National Park and Ngorongoro Crater</span>
-                        <span>Best for travellers who want a quick wildlife experience</span>
+                        <span>Arusha National Park, Momella Lakes, Mount Meru views</span>
+                        <span>Wildlife viewing, forest scenery and optional walking safari</span>
+                        <span>Best for travellers staying in Arusha with limited time</span>
                     </div>
                     <div class="package-footer">
                         <div class="package-price">
                             <span class="from">From</span>
-                            <span class="amount">$980</span>
+                            <span class="amount">$220</span>
                             <span class="per-person">per person</span>
                         </div>
-                        <a href="3-days-fly-in-safari-zanzibar-tarangire-ngorongoro.php" class="btn btn-primary">View Details</a>
+                        <a href="https://wa.me/255754042154?text=Hello%20Tanzania%20Adventures%20Group,%20I%20would%20like%20to%20book%20Arusha%20National%20Park%20Day%20Trip." class="btn btn-primary">View Details</a>
                     </div>
                 </div>
             </div>
 
-            <!-- Related Package 2 -->
+            <!-- Package 2 -->
             <div class="package-card">
                 <div class="package-image">
-                    <img src="../img/flight-link.jpg" alt="4 days northern circuit safari from Zanzibar">
+                    <img src="img/ngorongoro-day-tour.jpg" alt="Ngorongoro Crater Day Trip from Arusha">
                     <div class="package-overlay"></div>
                 </div>
                 <div class="package-content">
-                    <h3>4 Days Northern Circuit Safari from Zanzibar</h3>
-                    <p class="package-duration">4 Days / 3 Nights</p>
+                    <h3>Ngorongoro Crater Day Trip from Arusha</h3>
+                    <p class="package-duration">1 Day Tour</p>
                     <div class="package-features">
-                        <span>Continue from Zanzibar to northern Tanzania parks</span>
-                        <span>Balanced route for wildlife, landscapes and comfort</span>
-                        <span>Recommended for couples, families and small groups</span>
+                        <span>Ngorongoro Crater floor game drive</span>
+                        <span>Excellent wildlife, crater views and picnic lunch experience</span>
+                        <span>Best for travellers who want a strong one-day safari</span>
                     </div>
                     <div class="package-footer">
                         <div class="package-price">
                             <span class="from">From</span>
-                            <span class="amount">$1,350</span>
+                            <span class="amount">$350</span>
                             <span class="per-person">per person</span>
                         </div>
-                        <a href="4-days-northern-circuit-safari-zanzibar-flights-included.php" class="btn btn-primary">View Details</a>
+                        <a href="https://wa.me/255754042154?text=Hello%20Tanzania%20Adventures%20Group,%20I%20would%20like%20to%20book%20Ngorongoro%20Crater%20Day%20Trip." class="btn btn-primary">View Details</a>
                     </div>
                 </div>
             </div>
 
-            <!-- Related Package 3 -->
+            <!-- Package 3 -->
             <div class="package-card">
                 <div class="package-image">
-                    <img src="../img/serenget-honeymoon-safari.jpg" alt="5 day safari from Zanzibar to Serengeti Ngorongoro and Tarangire">
+                    <img src="img/tarangire-day-tour.jpg" alt="Tarangire National Park Day Trip from Arusha">
                     <div class="package-overlay"></div>
                 </div>
                 <div class="package-content">
-                    <h3>5-Day Safari from Zanzibar to Serengeti, Ngorongoro and Tarangire</h3>
-                    <p class="package-duration">5 Days / 4 Nights</p>
+                    <h3>Tarangire National Park Day Trip from Arusha</h3>
+                    <p class="package-duration">1 Day Tour</p>
                     <div class="package-features">
-                        <span>Combine Serengeti, Ngorongoro and Tarangire</span>
-                        <span>Excellent route for wildlife and scenic variety</span>
-                        <span>Private guide and comfortable safari planning</span>
+                        <span>Tarangire National Park and Tarangire River area</span>
+                        <span>Elephants, baobab trees and classic wildlife safari</span>
+                        <span>Best for elephant lovers and first-time safari travellers</span>
                     </div>
                     <div class="package-footer">
                         <div class="package-price">
                             <span class="from">From</span>
-                            <span class="amount">$1,850</span>
+                            <span class="amount">$250</span>
                             <span class="per-person">per person</span>
                         </div>
-                        <a href="5-day-fly-in-safari-from-zanzibar-to-serengeti-ngorongoro-and-tarangire.php" class="btn btn-primary">View Details</a>
+                        <a href="https://wa.me/255754042154?text=Hello%20Tanzania%20Adventures%20Group,%20I%20would%20like%20to%20book%20Tarangire%20National%20Park%20Day%20Trip." class="btn btn-primary">View Details</a>
                     </div>
                 </div>
             </div>
 
-            <!-- Related Package 4 -->
+            <!-- Package 4 -->
             <div class="package-card">
                 <div class="package-image">
-                    <img src="../img/central-serengeti-mid-range-camp.jpg" alt="5 days luxury safari from Zanzibar to Serengeti and Ngorongoro">
+                    <img src="img/Lake-manyara-day-tour.jpg" alt="Lake Manyara National Park Day Trip from Arusha">
                     <div class="package-overlay"></div>
                 </div>
                 <div class="package-content">
-                    <h3>5 Days Luxury Safari from Zanzibar to Serengeti and Ngorongoro</h3>
-                    <p class="package-duration">5 Days / 4 Nights</p>
+                    <h3>Lake Manyara National Park Day Trip</h3>
+                    <p class="package-duration">1 Day Tour</p>
                     <div class="package-features">
-                        <span>Stay in selected lodges or tented camps</span>
-                        <span>Enjoy Serengeti game drives and Ngorongoro Crater</span>
-                        <span>Perfect for couples and comfort-focused travellers</span>
+                        <span>Lake Manyara National Park and Rift Valley scenery</span>
+                        <span>Forest wildlife, monkeys, elephants, birdlife and lake views</span>
+                        <span>Best for a soft wildlife and scenic day safari</span>
                     </div>
                     <div class="package-footer">
                         <div class="package-price">
                             <span class="from">From</span>
-                            <span class="amount">$2,250</span>
+                            <span class="amount">$230</span>
                             <span class="per-person">per person</span>
                         </div>
-                        <a href="5-days-luxury-safari-zanzibar-serengeti-ngorongoro.php" class="btn btn-primary">View Details</a>
+                        <a href="https://wa.me/255754042154?text=Hello%20Tanzania%20Adventures%20Group,%20I%20would%20like%20to%20book%20Lake%20Manyara%20Day%20Trip." class="btn btn-primary">View Details</a>
                     </div>
                 </div>
             </div>
 
-            <!-- Related Package 5 -->
+            <!-- Package 5 -->
             <div class="package-card">
                 <div class="package-image">
-                    <img src="../img/lion-in-serengeti.jpg" alt="6 days northern Tanzania safari from Zanzibar">
+                    <img src="img/materuni-waterfalls-day-tour.jpg" alt="Materuni Waterfalls and Coffee Tour from Moshi">
                     <div class="package-overlay"></div>
                 </div>
                 <div class="package-content">
-                    <h3>6 Days Northern Tanzania Safari from Zanzibar</h3>
-                    <p class="package-duration">6 Days / 5 Nights</p>
+                    <h3>Materuni Waterfalls and Coffee Tour</h3>
+                    <p class="package-duration">1 Day Tour</p>
                     <div class="package-features">
-                        <span>More time across northern Tanzania safari areas</span>
-                        <span>Good balance of wildlife, comfort and travel pace</span>
-                        <span>Suitable for couples, families and private groups</span>
+                        <span>Materuni village, waterfall hike and coffee experience</span>
+                        <span>Chagga culture, local lunch and Kilimanjaro foothill scenery</span>
+                        <span>Best from Moshi before or after Kilimanjaro trekking</span>
                     </div>
                     <div class="package-footer">
                         <div class="package-price">
                             <span class="from">From</span>
-                            <span class="amount">$2,100</span>
+                            <span class="amount">$120</span>
                             <span class="per-person">per person</span>
                         </div>
-                        <a href="6-days-northern-tanzania-fly-in-safari-from-zanzibar.php" class="btn btn-primary">View Details</a>
+                        <a href="https://wa.me/255754042154?text=Hello%20Tanzania%20Adventures%20Group,%20I%20would%20like%20to%20book%20Materuni%20Waterfalls%20and%20Coffee%20Tour." class="btn btn-primary">View Details</a>
                     </div>
                 </div>
             </div>
 
-            <!-- Related Package 6 -->
+            <!-- Package 6 -->
             <div class="package-card">
                 <div class="package-image">
-                    <img src="../img/safari-banner-from-zanzibar.jpg" alt="10 day Tanzania safari and Zanzibar beach holiday">
+                    <img src="img/chemka-day-tour.jpg" alt="Chemka Hot Springs Day Trip from Moshi or Arusha">
                     <div class="package-overlay"></div>
                 </div>
                 <div class="package-content">
-                    <h3>10-Day Tanzania Safari and Zanzibar Beach Holiday</h3>
-                    <p class="package-duration">10 Days / 9 Nights</p>
+                    <h3>Chemka Hot Springs Day Trip</h3>
+                    <p class="package-duration">1 Day Tour</p>
                     <div class="package-features">
-                        <span>Combine Tanzania safari with Zanzibar beach relaxation</span>
-                        <span>Ideal for honeymoon, family and first-time visitors</span>
-                        <span>Flexible accommodation from mid-range to luxury</span>
+                        <span>Chemka / Kikuletwa Hot Springs</span>
+                        <span>Swimming, relaxation, local scenery and peaceful atmosphere</span>
+                        <span>Best after Kilimanjaro climb or before flying home</span>
                     </div>
                     <div class="package-footer">
                         <div class="package-price">
                             <span class="from">From</span>
-                            <span class="amount">$2,650</span>
+                            <span class="amount">$120</span>
                             <span class="per-person">per person</span>
                         </div>
-                        <a href="10-day-tanzania-safari-zanzibar-beach-holiday.php" class="btn btn-primary">View Details</a>
+                        <a href="https://wa.me/255754042154?text=Hello%20Tanzania%20Adventures%20Group,%20I%20would%20like%20to%20book%20Chemka%20Hot%20Springs%20Day%20Trip." class="btn btn-primary">View Details</a>
                     </div>
                 </div>
             </div>
 
-            <!-- Related Package 7 -->
+            <!-- Package 7 -->
             <div class="package-card">
                 <div class="package-image">
-                    <img src="../img/animals-in-ngorongoro.jpg" alt="family safari and Zanzibar holiday in Tanzania">
+                    <img src="img/chemka-day-tour.jpg" alt="Materuni Waterfalls Coffee Tour and Chemka Hot Springs Day Trip">
                     <div class="package-overlay"></div>
                 </div>
                 <div class="package-content">
-                    <h3>Family Safari and Zanzibar Holiday in Tanzania</h3>
-                    <p class="package-duration">Family Tour</p>
+                    <h3>Materuni Waterfalls, Coffee Tour and Chemka Hot Springs</h3>
+                    <p class="package-duration">1 Day Tour</p>
                     <div class="package-features">
-                        <span>Family-friendly safari pace and beach extension</span>
-                        <span>Comfortable planning for parents and children</span>
-                        <span>Suitable for private family holidays</span>
+                        <span>Materuni Waterfalls, coffee tour and Chemka Hot Springs</span>
+                        <span>Culture, waterfall hike, coffee experience and swimming</span>
+                        <span>Best value day trip from Arusha or Moshi</span>
                     </div>
                     <div class="package-footer">
                         <div class="package-price">
                             <span class="from">From</span>
-                            <span class="amount">$1,750</span>
+                            <span class="amount">$220</span>
                             <span class="per-person">per person</span>
                         </div>
-                        <a href="family-safari-and-zanzibar-holiday-tanzania.php" class="btn btn-primary">View Details</a>
+                        <a href="tours-tz/1-day-materuni-waterfalls,-coffee-tour-and-chemka-hot-springs-from-arusha.php" class="btn btn-primary">View Details</a>
                     </div>
                 </div>
             </div>
 
-            <!-- Related Package 8 -->
+            <!-- Package 8 -->
             <div class="package-card">
                 <div class="package-image">
-                    <img src="../img/serenget-honeymoon-safari.jpg" alt="Ngorongoro and Serengeti safari from Zanzibar">
+                    <img src="img/lake-chala-day-tour.jpg" alt="Lake Chala Day Trip from Moshi">
                     <div class="package-overlay"></div>
                 </div>
                 <div class="package-content">
-                    <h3>4-Day Ngorongoro and Serengeti Safari from Zanzibar</h3>
-                    <p class="package-duration">4 Days / 3 Nights</p>
+                    <h3>Lake Chala Day Trip from Moshi</h3>
+                    <p class="package-duration">1 Day Tour</p>
                     <div class="package-features">
-                        <span>Focus on Tanzania’s two famous safari highlights</span>
-                        <span>Good after a Zanzibar beach stay</span>
-                        <span>Private planning with flexible accommodation options</span>
+                        <span>Lake Chala crater lake near Tanzania and Kenya border</span>
+                        <span>Scenic views, soft walking, photography and quiet nature</span>
+                        <span>Best for travellers who want a peaceful nature day</span>
                     </div>
                     <div class="package-footer">
                         <div class="package-price">
                             <span class="from">From</span>
-                            <span class="amount">$1,650</span>
+                            <span class="amount">$150</span>
                             <span class="per-person">per person</span>
                         </div>
-                        <a href="ngorongoro-and-serengeti-safari-from-zanzibar.php" class="btn btn-primary">View Details</a>
+                        <a href="https://wa.me/255754042154?text=Hello%20Tanzania%20Adventures%20Group,%20I%20would%20like%20to%20book%20Lake%20Chala%20Day%20Trip." class="btn btn-primary">View Details</a>
                     </div>
                 </div>
             </div>
 
-            <!-- Related Package 9 -->
+            <!-- Package 9 -->
             <div class="package-card">
                 <div class="package-image">
-                    <img src="../img/Auric-Air-Safarisoko.jpg" alt="private safari from Zanzibar with flights included">
+                    <img src="img/maasai-village-day-tour.jpg" alt="Maasai Village Cultural Day Tour from Arusha or Moshi">
                     <div class="package-overlay"></div>
                 </div>
                 <div class="package-content">
-                    <h3>Private Safari from Zanzibar with Flights Included</h3>
-                    <p class="package-duration">Private Tour</p>
+                    <h3>Maasai Village Cultural Day Tour</h3>
+                    <p class="package-duration">1 Day Tour</p>
                     <div class="package-features">
-                        <span>Personalized safari plan with a private guide</span>
-                        <span>Easy travel support from Zanzibar to safari areas</span>
-                        <span>Recommended for couples and small groups</span>
+                        <span>Maasai village visit and community interaction</span>
+                        <span>Culture, traditions, local lifestyle and learning experience</span>
+                        <span>Best for families, students and culture-focused travellers</span>
                     </div>
                     <div class="package-footer">
                         <div class="package-price">
                             <span class="from">From</span>
-                            <span class="amount">$1,250</span>
+                            <span class="amount">$120</span>
                             <span class="per-person">per person</span>
                         </div>
-                        <a href="private-safari-zanzibar-flights-included.php" class="btn btn-primary">View Details</a>
+                        <a href="https://wa.me/255754042154?text=Hello%20Tanzania%20Adventures%20Group,%20I%20would%20like%20to%20book%20Maasai%20Village%20Cultural%20Tour." class="btn btn-primary">View Details</a>
                     </div>
                 </div>
             </div>
@@ -588,7 +587,8 @@
     </div>
 </section>
 
-<!-- Booking & Flexibility Section -->
+
+    <!-- Booking & Flexibility Section -->
     <section class="blog-article-section">
         <div class="container">
             <div class="article-content">

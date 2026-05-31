@@ -711,7 +711,248 @@
         </div>
     </section>
 
-    <!-- Booking & Flexibility Section -->
+    
+<!-- Related Zanzibar Safari Packages Section -->
+<section class="section safari-packages" id="related-zanzibar-safari-packages">
+    <div class="container">
+        <div class="section-title">
+            <span class="subtitle">More Safari and Beach Options from Zanzibar</span>
+            <h2>Related Zanzibar Safari Packages and Beach Holiday Tours</h2>
+            <p>Explore more recommended Zanzibar safari combinations designed for travellers who want wildlife, comfort and smooth travel planning.</p>
+        </div>
+        
+        <div class="packages-grid">
+
+            <!-- Related Package 1 -->
+            <div class="package-card">
+                <div class="package-image">
+                    <img src="../img/safari-banner-from-zanzibar.jpg" alt="3 day safari from Zanzibar to Serengeti and Ngorongoro">
+                    <div class="package-overlay"></div>
+                </div>
+                <div class="package-content">
+                    <h3>3-Day Safari from Zanzibar to Serengeti and Ngorongoro</h3>
+                    <p class="package-duration">3 Days / 2 Nights</p>
+                    <div class="package-features">
+                        <span>Start from Zanzibar and continue to Tanzania wildlife areas</span>
+                        <span>Visit Serengeti National Park and Ngorongoro Crater</span>
+                        <span>Good choice for travellers with limited holiday time</span>
+                    </div>
+                    <div class="package-footer">
+                        <div class="package-price">
+                            <span class="from">From</span>
+                            <span class="amount">$1,250</span>
+                            <span class="per-person">per person</span>
+                        </div>
+                        <a href="3-day-safari-zanzibar-serengeti-ngorongoro.php" class="btn btn-primary">View Details</a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Related Package 2 -->
+            <div class="package-card">
+                <div class="package-image">
+                    <img src="../img/tarangire-day-tour.jpg" alt="3 days safari from Zanzibar to Tarangire and Ngorongoro">
+                    <div class="package-overlay"></div>
+                </div>
+                <div class="package-content">
+                    <h3>3 Days Safari from Zanzibar to Tarangire and Ngorongoro</h3>
+                    <p class="package-duration">3 Days / 2 Nights</p>
+                    <div class="package-features">
+                        <span>Begin from Zanzibar with smooth travel arrangements</span>
+                        <span>Explore Tarangire National Park and Ngorongoro Crater</span>
+                        <span>Best for travellers who want a quick wildlife experience</span>
+                    </div>
+                    <div class="package-footer">
+                        <div class="package-price">
+                            <span class="from">From</span>
+                            <span class="amount">$980</span>
+                            <span class="per-person">per person</span>
+                        </div>
+                        <a href="3-days-fly-in-safari-zanzibar-tarangire-ngorongoro.php" class="btn btn-primary">View Details</a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Related Package 3 -->
+            <div class="package-card">
+                <div class="package-image">
+                    <img src="../img/flight-link.jpg" alt="4 days northern circuit safari from Zanzibar">
+                    <div class="package-overlay"></div>
+                </div>
+                <div class="package-content">
+                    <h3>4 Days Northern Circuit Safari from Zanzibar</h3>
+                    <p class="package-duration">4 Days / 3 Nights</p>
+                    <div class="package-features">
+                        <span>Continue from Zanzibar to northern Tanzania parks</span>
+                        <span>Balanced route for wildlife, landscapes and comfort</span>
+                        <span>Recommended for couples, families and small groups</span>
+                    </div>
+                    <div class="package-footer">
+                        <div class="package-price">
+                            <span class="from">From</span>
+                            <span class="amount">$1,350</span>
+                            <span class="per-person">per person</span>
+                        </div>
+                        <a href="4-days-northern-circuit-safari-zanzibar-flights-included.php" class="btn btn-primary">View Details</a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Related Package 4 -->
+            <div class="package-card">
+                <div class="package-image">
+                    <img src="../img/serenget-honeymoon-safari.jpg" alt="5 day safari from Zanzibar to Serengeti Ngorongoro and Tarangire">
+                    <div class="package-overlay"></div>
+                </div>
+                <div class="package-content">
+                    <h3>5-Day Safari from Zanzibar to Serengeti, Ngorongoro and Tarangire</h3>
+                    <p class="package-duration">5 Days / 4 Nights</p>
+                    <div class="package-features">
+                        <span>Combine Serengeti, Ngorongoro and Tarangire</span>
+                        <span>Excellent route for wildlife and scenic variety</span>
+                        <span>Private guide and comfortable safari planning</span>
+                    </div>
+                    <div class="package-footer">
+                        <div class="package-price">
+                            <span class="from">From</span>
+                            <span class="amount">$1,850</span>
+                            <span class="per-person">per person</span>
+                        </div>
+                        <a href="5-day-fly-in-safari-from-zanzibar-to-serengeti-ngorongoro-and-tarangire.php" class="btn btn-primary">View Details</a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Related Package 5 -->
+            <div class="package-card">
+                <div class="package-image">
+                    <img src="../img/central-serengeti-mid-range-camp.jpg" alt="5 days luxury safari from Zanzibar to Serengeti and Ngorongoro">
+                    <div class="package-overlay"></div>
+                </div>
+                <div class="package-content">
+                    <h3>5 Days Luxury Safari from Zanzibar to Serengeti and Ngorongoro</h3>
+                    <p class="package-duration">5 Days / 4 Nights</p>
+                    <div class="package-features">
+                        <span>Stay in selected lodges or tented camps</span>
+                        <span>Enjoy Serengeti game drives and Ngorongoro Crater</span>
+                        <span>Perfect for couples and comfort-focused travellers</span>
+                    </div>
+                    <div class="package-footer">
+                        <div class="package-price">
+                            <span class="from">From</span>
+                            <span class="amount">$2,250</span>
+                            <span class="per-person">per person</span>
+                        </div>
+                        <a href="5-days-luxury-safari-zanzibar-serengeti-ngorongoro.php" class="btn btn-primary">View Details</a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Related Package 6 -->
+            <div class="package-card">
+                <div class="package-image">
+                    <img src="../img/lion-in-serengeti.jpg" alt="6 days northern Tanzania safari from Zanzibar">
+                    <div class="package-overlay"></div>
+                </div>
+                <div class="package-content">
+                    <h3>6 Days Northern Tanzania Safari from Zanzibar</h3>
+                    <p class="package-duration">6 Days / 5 Nights</p>
+                    <div class="package-features">
+                        <span>More time across northern Tanzania safari areas</span>
+                        <span>Good balance of wildlife, comfort and travel pace</span>
+                        <span>Suitable for couples, families and private groups</span>
+                    </div>
+                    <div class="package-footer">
+                        <div class="package-price">
+                            <span class="from">From</span>
+                            <span class="amount">$2,100</span>
+                            <span class="per-person">per person</span>
+                        </div>
+                        <a href="6-days-northern-tanzania-fly-in-safari-from-zanzibar.php" class="btn btn-primary">View Details</a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Related Package 7 -->
+            <div class="package-card">
+                <div class="package-image">
+                    <img src="../img/safari-banner-from-zanzibar.jpg" alt="10 day Tanzania safari and Zanzibar beach holiday">
+                    <div class="package-overlay"></div>
+                </div>
+                <div class="package-content">
+                    <h3>10-Day Tanzania Safari and Zanzibar Beach Holiday</h3>
+                    <p class="package-duration">10 Days / 9 Nights</p>
+                    <div class="package-features">
+                        <span>Combine Tanzania safari with Zanzibar beach relaxation</span>
+                        <span>Ideal for honeymoon, family and first-time visitors</span>
+                        <span>Flexible accommodation from mid-range to luxury</span>
+                    </div>
+                    <div class="package-footer">
+                        <div class="package-price">
+                            <span class="from">From</span>
+                            <span class="amount">$2,650</span>
+                            <span class="per-person">per person</span>
+                        </div>
+                        <a href="10-day-tanzania-safari-zanzibar-beach-holiday.php" class="btn btn-primary">View Details</a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Related Package 8 -->
+            <div class="package-card">
+                <div class="package-image">
+                    <img src="../img/animals-in-ngorongoro.jpg" alt="family safari and Zanzibar holiday in Tanzania">
+                    <div class="package-overlay"></div>
+                </div>
+                <div class="package-content">
+                    <h3>Family Safari and Zanzibar Holiday in Tanzania</h3>
+                    <p class="package-duration">Family Tour</p>
+                    <div class="package-features">
+                        <span>Family-friendly safari pace and beach extension</span>
+                        <span>Comfortable planning for parents and children</span>
+                        <span>Suitable for private family holidays</span>
+                    </div>
+                    <div class="package-footer">
+                        <div class="package-price">
+                            <span class="from">From</span>
+                            <span class="amount">$1,750</span>
+                            <span class="per-person">per person</span>
+                        </div>
+                        <a href="family-safari-and-zanzibar-holiday-tanzania.php" class="btn btn-primary">View Details</a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Related Package 9 -->
+            <div class="package-card">
+                <div class="package-image">
+                    <img src="../img/serenget-honeymoon-safari.jpg" alt="Ngorongoro and Serengeti safari from Zanzibar">
+                    <div class="package-overlay"></div>
+                </div>
+                <div class="package-content">
+                    <h3>4-Day Ngorongoro and Serengeti Safari from Zanzibar</h3>
+                    <p class="package-duration">4 Days / 3 Nights</p>
+                    <div class="package-features">
+                        <span>Focus on Tanzania’s two famous safari highlights</span>
+                        <span>Good after a Zanzibar beach stay</span>
+                        <span>Private planning with flexible accommodation options</span>
+                    </div>
+                    <div class="package-footer">
+                        <div class="package-price">
+                            <span class="from">From</span>
+                            <span class="amount">$1,650</span>
+                            <span class="per-person">per person</span>
+                        </div>
+                        <a href="ngorongoro-and-serengeti-safari-from-zanzibar.php" class="btn btn-primary">View Details</a>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>
+
+<!-- Booking & Flexibility Section -->
     <section class="blog-article-section">
         <div class="container">
             <div class="article-content">

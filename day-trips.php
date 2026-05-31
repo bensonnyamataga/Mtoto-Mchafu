@@ -6,18 +6,18 @@
     <title>Day Trips from Arusha and Moshi | Tanzania Day Tours & Excursions</title>
     <meta name="description" content="Explore the best day trips from Arusha and Moshi with Deep Tanzania Tours. Book Arusha National Park, Ngorongoro Crater day trip, Materuni Waterfalls, Chemka Hot Springs, Lake Chala, Lake Manyara, Maasai village visits and Tanzania cultural day tours.">
     <meta name="keywords" content="day trips from Arusha, day trips from Moshi, Tanzania day tours, Arusha National Park day trip, Ngorongoro day trip, Materuni Waterfalls and coffee tour, Chemka Hot Springs, Lake Chala day trip, Lake Manyara day trip, Tanzania cultural tours, Kilimanjaro day tours">
-    <link rel="canonical" href="https://tanzaniaadventures.co.tz/day-trips-from-arusha-and-moshi.php">
+    <link rel="canonical" href="https://deeptanzaniatours.com/day-trips.php">
 
     <meta property="og:title" content="Day Trips from Arusha and Moshi | Tanzania Day Tours & Excursions">
     <meta property="og:description" content="Plan the best Tanzania day trips from Arusha and Moshi, including Arusha National Park, Ngorongoro Crater, Materuni Waterfalls, Chemka Hot Springs, Lake Chala and cultural tours.">
-    <meta property="og:image" content="https://tanzaniaadventures.co.tz/img/day-trips-from-arusha-moshi.jpg">
-    <meta property="og:url" content="https://tanzaniaadventures.co.tz/day-trips-from-arusha-and-moshi.php">
+    <meta property="og:image" content="https://deeptanzaniatours.com/img/day-trips-from-arusha-moshi.jpg">
+    <meta property="og:url" content="https://deeptanzaniatours.com/day-trips-from-arusha-and-moshi.php">
     <meta property="og:type" content="website">
 
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Day Trips from Arusha and Moshi">
     <meta name="twitter:description" content="Discover Tanzania day tours from Arusha and Moshi with national parks, waterfalls, hot springs, culture and coffee experiences.">
-    <meta name="twitter:image" content="https://tanzaniaadventures.co.tz/img/day-trips-from-arusha-moshi.jpg">
+    <meta name="twitter:image" content="https://deeptanzaniatours.com/img/day-trips-from-arusha-moshi.jpg">
 
     <link rel="stylesheet" href="style/package.css">
     <link rel="stylesheet" href="style/style.css">
@@ -455,7 +455,7 @@
       "provider": {
         "@type": "TravelAgency",
         "name": "Deep Tanzania Tours",
-        "url": "https://tanzaniaadventures.co.tz",
+        "url": "https://deeptanzaniatours.com",
         "telephone": "+255754042154"
       },
       "touristType": ["Families", "Couples", "Solo Travellers", "Kilimanjaro Climbers", "Safari Travellers"],
@@ -515,12 +515,121 @@
             </p>
 
             <div class="hero-altoo-btns">
-                <a href="#tours" class="btn btn-primary">Explore Day Trips</a>
-                <a href="#contact" class="btn btn-secondary" onclick="openBookingPopup()">Request a Quote</a>
+                <a href="#tours" class="safari-hero-btn safari-hero-btn--light">Explore Day Trips</a>
+                <a href="#contact" class="safari-hero-btn safari-hero-btn--dark" onclick="openBookingPopup()">Request a Quote</a>
             </div>
+
+            
+
         </div>
     </div>
 </section>
+
+
+
+<style>
+
+    /*button styles*/
+
+.safari-hero-actions{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    gap:18px;
+    flex-wrap:wrap;
+    margin-top:28px;
+}
+
+.safari-hero-btn{
+    display:inline-flex;
+    align-items:center;
+    justify-content:center;
+    min-width:290px;
+    min-height:54px;
+    padding:14px 26px;
+    border-radius:999px;
+    text-decoration:none;
+    text-align:center;
+    font-size:14px;
+    font-weight:800;
+    line-height:1.2;
+    letter-spacing:0.8px;
+    text-transform:uppercase;
+    transition:all 0.3s ease;
+    box-sizing:border-box;
+}
+
+.safari-hero-btn--light{
+    background:#8b7a23;
+    color:#ffffff;
+    border:2px solid #8b7a23;
+}
+
+.safari-hero-btn--light:hover{
+    background:#7b6c1f;
+    border-color:#7b6c1f;
+    transform:translateY(-2px);
+}
+
+.safari-hero-btn--dark{
+    background:#e0b64c;
+    color:#111111;
+    border:2px solid #e0b64c;
+    box-shadow:0 8px 18px rgba(224,182,76,0.20);
+}
+
+.safari-hero-btn--dark:hover{
+    background:#d1a73a;
+    border-color:#d1a73a;
+    transform:translateY(-2px);
+}
+
+@media (max-width: 768px){
+    .safari-hero-actions{
+        display:flex;
+        flex-direction:column;
+        align-items:center;
+        gap:12px;
+        margin-top:20px;
+        width:100%;
+    }
+
+    .safari-hero-btn{
+        display:flex;
+        align-items:center;
+        justify-content:center;
+        width:78%;
+        max-width:250px;
+        min-height:48px;
+        padding:12px 16px;
+        border-radius:999px;
+        text-decoration:none;
+        text-align:center;
+        font-size:13px;
+        font-weight:800;
+        line-height:1.2;
+        letter-spacing:0.4px;
+        text-transform:uppercase;
+        box-sizing:border-box;
+    }
+
+    .safari-hero-btn--light{
+        background:#8b7a23;
+        color:#ffffff;
+        border:2px solid #8b7a23;
+    }
+
+    .safari-hero-btn--dark{
+        background:#e0b64c;
+        color:#111111;
+        border:2px solid #e0b64c;
+        box-shadow:0 5px 12px rgba(224,182,76,0.16);
+    }
+}
+
+</style>
+
+<br>
 
 <section class="blog-article-section" id="article-start">
     <div class="container">
