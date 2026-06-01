@@ -200,7 +200,7 @@
                         <span><i class="fas fa-hiking"></i> Trekking Routes</span>
                         <span><i class="fas fa-snowflake"></i> Glacial Summit</span>
                     </div>
-                    <a href="kilimanjaro-articles/kilimanjaro-climbing-guide-tanzania-adventures.php" class="btn btn-primary">Explore Kilimanjaro</a>
+                    <a href="kilimanjaro-articles/kilimanjaro-climbing-guide.php" class="btn btn-primary">Explore Kilimanjaro</a>
                 </div>
             </div>
             
