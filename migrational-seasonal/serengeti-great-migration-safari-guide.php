@@ -3,13 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Serengeti Great Migration Safari Guide | Ndutu, Grumeti & Mara River Crossing</title>
+    <title>Serengeti Great Migration Safari Guide | Routes & cost</title>
 
-    <meta name="description" content="Plan your Serengeti Great Migration safari with Deep Tanzania Tours. Learn where the migration is each season, when to visit Ndutu, Grumeti and Northern Serengeti, where to stay, and which safari package to book.">
+    <meta name="description" content="Plan your Serengeti Great Migration safari. Where the migration is each season, when to visit Ndutu,where to stay, and which safari package to book.">
     <meta name="keywords" content="Serengeti Great Migration safari, wildebeest migration Tanzania, Ndutu calving season safari, Grumeti River migration safari, Mara River crossing safari, Northern Serengeti migration, Serengeti migration season, Great Migration safari packages, Deep Tanzania Tours">
     <link rel="canonical" href="https://deeptanzaniatours.com/migrational-seasonal/serengeti-great-migration-safari-guide.php">
 
-    <meta property="og:title" content="Serengeti Great Migration Safari Guide | Ndutu, Grumeti & Mara River Crossing">
+    <meta property="og:title" content="Serengeti Great Migration Safari Guide | Routes & cost">
     <meta property="og:description" content="A complete Serengeti Great Migration safari guide covering Ndutu calving season, Grumeti River, Northern Serengeti, Mara River crossing, accommodation, timing and safari package planning.">
     <meta property="og:image" content="https://deeptanzaniatours.com/img/serengeti-great-migration-safari-guide.jpg">
     <meta property="og:url" content="https://deeptanzaniatours.com/migration/serengeti-great-migration-safari-guide.php">
