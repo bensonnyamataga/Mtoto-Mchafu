@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Serengeti Great Migration Safari Guide | Routes & cost</title>
+    <title>Serengeti Great Migration Safari Guide | when & where to visit</title>
 
     <meta name="description" content="Plan your Serengeti Great Migration safari. Where the migration is each season, when to visit Ndutu,where to stay, and which safari package to book.">
     <meta name="keywords" content="Serengeti Great Migration safari, wildebeest migration Tanzania, Ndutu calving season safari, Grumeti River migration safari, Mara River crossing safari, Northern Serengeti migration, Serengeti migration season, Great Migration safari packages, Deep Tanzania Tours">
