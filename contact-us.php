@@ -120,6 +120,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['booking_form_submit']
 
 <br><br><br>
 
+<br> <br>
+
 <section class="section contact-section">
     <div class="container">
         <div class="section-title">
