@@ -1,0 +1,48 @@
+/* =========================================================
+   Remove highlight icons from all website pages
+   Add this file AFTER package.css and style.css, or copy this block
+   to the bottom of both CSS files.
+   ========================================================= */
+.highlight-icon,
+.highlight-box .highlight-icon,
+.highlight-card .highlight-icon,
+.highlight-box > i.fa,
+.highlight-box > i.fas,
+.highlight-box > i.far,
+.highlight-box > i.fab,
+.highlight-box > .fa,
+.highlight-box > .fas,
+.highlight-box > .far,
+.highlight-box > .fab {
+    display: none !important;
+    visibility: hidden !important;
+    width: 0 !important;
+    height: 0 !important;
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+.highlight-box,
+.highlight-box.secondary,
+.highlight-box.safari-quote {
+    padding: 20px !important;
+    text-align: left !important;
+}
+
+.highlight-box p,
+.highlight-box.secondary p,
+.highlight-box.safari-quote p {
+    margin: 0 !important;
+}
+
+.highlight-card {
+    padding-top: 20px !important;
+}
+
+@media (max-width: 576px) {
+    .highlight-box,
+    .highlight-box.secondary,
+    .highlight-box.safari-quote {
+        padding: 15px !important;
+    }
+}

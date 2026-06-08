@@ -12,7 +12,7 @@
     <meta property="og:title" content="Serengeti Great Migration Safari Guide: Ndutu, Grumeti & Mara Crossing">
     <meta property="og:description" content="A complete Serengeti Great Migration safari guide covering Ndutu calving season, Grumeti River, Northern Serengeti, Mara River crossing, accommodation, timing and safari package planning.">
     <meta property="og:image" content="https://deeptanzaniatours.com/img/serengeti-great-migration-safari-guide.jpg">
-    <meta property="og:url" content="https://deeptanzaniatours.com/migration/serengeti-great-migration-safari-guide.php">
+    <meta property="og:url" content="https://deeptanzaniatours.com/migrational-seasonal/serengeti-great-migration-safari-guide.php">
     <meta property="og:type" content="article">
 
     <meta name="twitter:card" content="summary_large_image">
@@ -24,7 +24,9 @@
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
 
     <link rel="stylesheet" href="../style/package.css">
-    <link rel="stylesheet" href="../style/style.css">
+   <link rel="stylesheet" href="../style/style.css">
+     <link rel="stylesheet" href="../style/remove-highlight-icons.css">
+
 
     <link rel="icon" href="/img/favicon/favicon.ico" sizes="any">
     <link rel="icon" type="image/svg+xml" href="/img/favicon/favicon.svg">

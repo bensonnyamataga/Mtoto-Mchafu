@@ -10,7 +10,9 @@ zanzibar-and-safari/5-days-luxury-safari-zanzibar-serengeti-ngorongoro.php<!DOCT
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <link rel="canonical" href="https://deeptanzaniatours.com/zanzibar-and-safari/3-days-fly-in-safari-zanzibar-tarangire-ngorongoro.php" />
     <link rel="stylesheet" href="../style/package.css">
-    <link rel="stylesheet" href="../style/style.css">
+   <link rel="stylesheet" href="../style/style.css">
+     <link rel="stylesheet" href="../style/remove-highlight-icons.css">
+
 
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-FP1EW3J4H7"></script>

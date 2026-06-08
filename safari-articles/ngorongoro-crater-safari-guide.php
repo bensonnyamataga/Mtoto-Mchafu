@@ -27,7 +27,9 @@ viewpoint, Maasai culture, best time, routes and recommended safari packages.">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="../style/package.css">
-    <link rel="stylesheet" href="../style/style.css">
+   <link rel="stylesheet" href="../style/style.css">
+     <link rel="stylesheet" href="../style/remove-highlight-icons.css">
+
 
     <link rel="icon" href="/img/favicon/favicon.ico" sizes="any">
     <link rel="icon" type="img/svg+xml" href="/img/favicon/favicon.svg">

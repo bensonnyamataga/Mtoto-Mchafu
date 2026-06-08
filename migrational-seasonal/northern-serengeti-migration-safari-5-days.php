@@ -10,7 +10,9 @@
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <link rel="canonical" href="https://deeptanzaniatours.com/migrational-seasonal/northern-serengeti-migration-safari-5-days.php" />
     <link rel="stylesheet" href="../style/package.css">
-    <link rel="stylesheet" href="../style/style.css">
+   <link rel="stylesheet" href="../style/style.css">
+     <link rel="stylesheet" href="../style/remove-highlight-icons.css">
+
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-FP1EW3J4H7"></script>
@@ -438,20 +440,7 @@
         </div>
     </section>
 
-    <!-- Call to Action -->
-    <section class="blog-article-section">
-        <div class="container">
-            <div class="article-content">
-                <div class="article-cta">
-                    <h3>Ready to Witness the Great Migration?</h3>
-                    <p>Contact us today for a personalized quote on this northern Serengeti migration safari 5 days. We'll provide detailed pricing based on your dates, flight options, and accommodation preferences. Book early – camps near the Mara River fill months in advance.</p>
-                    <button class="book-now-btn" onclick="openBookingPopup()">
-                        <i class="fas fa-calendar-check"></i> Request Your Migration Safari Quote
-                    </button>
-                </div>
-            </div>
-        </div>
-    </section>
+   
 
    
 
