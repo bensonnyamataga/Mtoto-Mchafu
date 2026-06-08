@@ -414,7 +414,7 @@
             </div>
 
             <p>
-                The <a href="../safari-articles/serengeti-safari-guide-great-migration.php" class="dt-internal-link">Serengeti </a> Great Migration is one of the most powerful wildlife experiences in Africa. Many travellers know it because of the famous Mara River crossing in Northern Serengeti, but the real migration is much bigger than one river event. It is a year-round circular movement of wildebeest, zebras and gazelles through Southern Serengeti and Ndutu, Central Serengeti, the Western Corridor and Grumeti, Northern Serengeti and sometimes across to the Maasai Mara side before the herds return south again.
+                The <a href="../safari-articles/serengeti-safari-guide-great-migration.php" class="dt-internal-link">Serengeti Great Migration</a> is one of the most powerful wildlife experiences in Africa. Many travellers know it because of the famous Mara River crossing in Northern Serengeti, but the real migration is much bigger than one river event. It is a year-round circular movement of wildebeest, zebras and gazelles through Southern Serengeti and Ndutu, Central Serengeti, the Western Corridor and Grumeti, Northern Serengeti and sometimes across to the Maasai Mara side before the herds return south again.
             </p>
 
             <p>

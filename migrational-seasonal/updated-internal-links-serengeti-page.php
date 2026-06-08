@@ -269,19 +269,69 @@
         }
 
 
-        /* Internal article links: corrected to real PHP page paths, kept smaller and lighter. */
-        .dt-internal-link {
-            color: #6f621f;
-            text-decoration: none;
-            border-bottom: 1px solid rgba(117, 104, 44, 0.55);
-            font-weight: 500;
-            font-size: 0.95em;
-            transition: color 0.3s ease, border-bottom-color 0.3s ease;
+
+        /* Compact internal links - added only for related page links */
+        .migration-related-links {
+            margin: 34px 0 26px;
+            padding: 22px;
+            background: rgba(117, 104, 44, 0.06);
+            border: 1px solid rgba(117, 104, 44, 0.18);
         }
 
-        .dt-internal-link:hover {
+        .migration-related-links h2 {
+            font-size: 21px;
+            font-weight: 600;
+            margin: 0 0 10px;
+            padding-bottom: 8px;
+            text-align: left;
+        }
+
+        .migration-related-links h2::after {
+            left: 0;
+            transform: none;
+            width: 42px;
+            height: 2px;
+        }
+
+        .migration-related-intro {
+            font-size: 14px !important;
+            line-height: 1.65 !important;
+            margin-bottom: 16px !important;
+            font-weight: 400 !important;
+        }
+
+        .migration-related-grid {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 10px;
+        }
+
+        .migration-related-link {
+            display: block;
+            padding: 12px 14px;
+            background: #ffffff;
+            border: 1px solid rgba(117, 104, 44, 0.18);
+            color: var(--dark);
+            text-decoration: none;
+            font-size: 14px;
+            font-weight: 500;
+            line-height: 1.45;
+            transition: all 0.25s ease;
+        }
+
+        .migration-related-link span {
+            display: block;
+            margin-top: 4px;
+            color: var(--text);
+            font-size: 12.5px;
+            font-weight: 400;
+            line-height: 1.45;
+        }
+
+        .migration-related-link:hover {
+            border-color: var(--primary);
             color: var(--primary);
-            border-bottom-color: var(--secondary);
+            transform: translateY(-1px);
         }
 
         @media (max-width: 768px) {
@@ -414,7 +464,7 @@
             </div>
 
             <p>
-                The <a href="../safari-articles/serengeti-safari-guide-great-migration.php" class="dt-internal-link">Serengeti </a> Great Migration is one of the most powerful wildlife experiences in Africa. Many travellers know it because of the famous Mara River crossing in Northern Serengeti, but the real migration is much bigger than one river event. It is a year-round circular movement of wildebeest, zebras and gazelles through Southern Serengeti and Ndutu, Central Serengeti, the Western Corridor and Grumeti, Northern Serengeti and sometimes across to the Maasai Mara side before the herds return south again.
+                The Serengeti Great Migration is one of the most powerful wildlife experiences in Africa. Many travellers know it because of the famous Mara River crossing in Northern Serengeti, but the real migration is much bigger than one river event. It is a year-round circular movement of wildebeest, zebras and gazelles through Southern Serengeti and Ndutu, Central Serengeti, the Western Corridor and Grumeti, Northern Serengeti and sometimes across to the Maasai Mara side before the herds return south again.
             </p>
 
             <p>
@@ -727,11 +777,11 @@
         <h2>Road Safari or Fly-In Migration Safari?</h2>
 
         <p>
-            A road safari is more affordable and good for travellers who want to combine <a href="../safari-articles/tarangire-national-park-safari-guide.php" class="dt-internal-link">Tarangire</a>, <a href="../safari-articles/ngorongoro-crater-safari-guide.php" class="dt-internal-link">Ngorongoro</a>, Central Serengeti and Northern Serengeti. However, Northern Serengeti is far, so a road route needs enough days to avoid a rushed program.
+            A road safari is more affordable and good for travellers who want to combine Tarangire, Ngorongoro, Central Serengeti and Northern Serengeti. However, Northern Serengeti is far, so a road route needs enough days to avoid a rushed program.
         </p>
 
         <p>
-            A <a href="../zanzibar-and-safari/6-days-northern-tanzania-fly-in-safari-from-zanzibar.php" class="dt-internal-link">fly-in safari</a> is more expensive, but it saves time and is very useful for travellers who want to go directly to Northern Serengeti, Ndutu or another migration area. Flying one way and driving the other way can also be a good balance between comfort and cost.
+            A fly-in safari is more expensive, but it saves time and is very useful for travellers who want to go directly to Northern Serengeti, Ndutu or another migration area. Flying one way and driving the other way can also be a good balance between comfort and cost.
         </p>
 
         <div class="migration-card-grid">
@@ -772,7 +822,7 @@
         <h2>Why Plan Your Migration Safari with Deep Tanzania Tours?</h2>
 
         <p>
-            Deep Tanzania Tours helps travellers plan <a href="../zanzibar-and-safari/5-day-fly-in-safari-from-zanzibar-to-serengeti-ngorongoro-and-tarangire.php" class="dt-internal-link">migration safaris</a> based on the real movement of the herds, not only a general park name. Our team assists you with route selection, accommodation location, airport pickup, domestic flights, <a href="../zanzibar-and-safari/private-safari-zanzibar-flights-included.php" class="dt-internal-link">private safari</a> vehicle planning and customized safari programs based on your budget and travel style.
+            Deep Tanzania Tours helps travellers plan migration safaris based on the real movement of the herds, not only a general park name. Our team assists you with route selection, accommodation location, airport pickup, domestic flights, private safari vehicle planning and customized safari programs based on your budget and travel style.
         </p>
 
         <p>
@@ -782,9 +832,52 @@
         <ul class="migration-bullets">
             <li><strong>Local safari experience:</strong> Our guides understand Serengeti, Ndutu, Grumeti and Northern Serengeti movement patterns.</li>
             <li><strong>Accommodation advice:</strong> We help you choose camps that match your budget and keep you close to the migration focus area.</li>
-            <li><strong>Custom programs:</strong> We prepare private, fly-in, road safari and <a href="../zanzibar-and-safari/10-day-tanzania-safari-zanzibar-beach-holiday.php" class="dt-internal-link">safari-and-Zanzibar combinations</a>.</li>
+            <li><strong>Custom programs:</strong> We prepare private, fly-in, road safari and safari-and-Zanzibar combinations.</li>
             <li><strong>Fast planning support:</strong> Contact us by WhatsApp or enquiry form for quick response and professional guidance.</li>
         </ul>
+
+
+
+        <div class="migration-related-links" aria-label="Related safari pages">
+            <h2>Related Safari Planning Pages</h2>
+            <p class="migration-related-intro">
+                Continue planning with selected safari and Zanzibar pages. These links use the correct PHP file paths according to the website folder arrangement.
+            </p>
+            <div class="migration-related-grid">
+                <a class="migration-related-link" href="../safari-articles/serengeti-safari-guide-great-migration.php">
+                    Serengeti Safari Guide and Great Migration
+                    <span>Helpful article for Serengeti wildlife, migration movement and safari planning.</span>
+                </a>
+                <a class="migration-related-link" href="../safari-articles/ngorongoro-crater-safari-guide.php">
+                    Ngorongoro Crater Safari Guide
+                    <span>Useful guide for adding Ngorongoro Crater after Serengeti or migration safari.</span>
+                </a>
+                <a class="migration-related-link" href="../zanzibar-and-safari/3-day-safari-zanzibar-serengeti-ngorongoro.php">
+                    3-Day Safari from Zanzibar to Serengeti and Ngorongoro
+                    <span>Short fly-in safari option for travellers starting from Zanzibar.</span>
+                </a>
+                <a class="migration-related-link" href="../zanzibar-and-safari/5-day-fly-in-safari-from-zanzibar-to-serengeti-ngorongoro-and-tarangire.php">
+                    5-Day Fly-In Safari from Zanzibar to Serengeti, Ngorongoro and Tarangire
+                    <span>Balanced safari route with flights from Zanzibar and major northern parks.</span>
+                </a>
+                <a class="migration-related-link" href="../zanzibar-and-safari/5-days-luxury-safari-zanzibar-serengeti-ngorongoro.php">
+                    5 Days Luxury Safari from Zanzibar to Serengeti and Ngorongoro
+                    <span>Luxury-style safari option for comfort-focused travellers.</span>
+                </a>
+                <a class="migration-related-link" href="../zanzibar-and-safari/10-day-tanzania-safari-zanzibar-beach-holiday.php">
+                    10-Day Tanzania Safari and Zanzibar Beach Holiday
+                    <span>Good option for combining safari with Zanzibar beach relaxation.</span>
+                </a>
+                <a class="migration-related-link" href="../zanzibar-and-safari/private-safari-zanzibar-flights-included.php">
+                    Private Safari from Zanzibar with Flights Included
+                    <span>Private fly-in safari page for custom safari requests from Zanzibar.</span>
+                </a>
+                <a class="migration-related-link" href="../zanzibar-and-safari/family-safari-and-zanzibar-holiday-tanzania.php">
+                    Family Safari and Zanzibar Holiday in Tanzania
+                    <span>Family-focused safari and beach planning page.</span>
+                </a>
+            </div>
+        </div>
 
         <h2>Serengeti Great Migration FAQs</h2>
 

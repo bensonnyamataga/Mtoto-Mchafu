@@ -3,20 +3,20 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Serengeti Great Migration Guide: Ndutu, Grumeti & Mara Crossing</title>
+    <title>Serengeti Great Migration Safari Guide: Ndutu, Grumeti & Mara Crossing</title>
 
-    <meta name="description" content="Plan your Serengeti Great Migration safari. Where the migration is each season, when to visit Ndutu,where to stay, and which safari package to book.">
+    <meta name="description" content="Plan your Serengeti Great Migration safari with Deep Tanzania Tours. Learn where the migration is each season, when to visit Ndutu, Grumeti and Northern Serengeti, where to stay, and which safari package to book.">
     <meta name="keywords" content="Serengeti Great Migration safari, wildebeest migration Tanzania, Ndutu calving season safari, Grumeti River migration safari, Mara River crossing safari, Northern Serengeti migration, Serengeti migration season, Great Migration safari packages, Deep Tanzania Tours">
-    <link rel="canonical" href="https://deeptanzaniatours.com/migrational-seasonal/serengeti-great-migration-safari-guide.php">
+    <link rel="canonical" href="https://deeptanzaniatours.com/migration/serengeti-great-migration-safari-guide.php">
 
-    <meta property="og:title" content="Serengeti Great Migration Safari Guide | Routes & cost">
+    <meta property="og:title" content="Serengeti Great Migration Safari Guide: Ndutu, Grumeti & Mara Crossing">
     <meta property="og:description" content="A complete Serengeti Great Migration safari guide covering Ndutu calving season, Grumeti River, Northern Serengeti, Mara River crossing, accommodation, timing and safari package planning.">
     <meta property="og:image" content="https://deeptanzaniatours.com/img/serengeti-great-migration-safari-guide.jpg">
     <meta property="og:url" content="https://deeptanzaniatours.com/migration/serengeti-great-migration-safari-guide.php">
     <meta property="og:type" content="article">
 
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Serengeti Great Migration Safari Guide">
+    <meta name="twitter:title" content="Serengeti Great Migration Safari Guide: Ndutu, Grumeti & Mara Crossing">
     <meta name="twitter:description" content="Discover when and where to see the Great Migration in Tanzania, including Ndutu, Grumeti and Mara River crossing seasons.">
     <meta name="twitter:image" content="https://deeptanzaniatours.com/img/serengeti-great-migration-safari-guide.jpg">
 
@@ -269,18 +269,16 @@
         }
 
 
-        /* Internal article links: corrected to real PHP page paths, kept smaller and lighter. */
         .dt-internal-link {
-            color: #6f621f;
+            color: inherit;
             text-decoration: none;
-            border-bottom: 1px solid rgba(117, 104, 44, 0.55);
-            font-weight: 500;
-            font-size: 0.95em;
-            transition: color 0.3s ease, border-bottom-color 0.3s ease;
+            border-bottom: 3px solid var(--primary);
+            font-weight: 700;
+            transition: border-bottom-color 0.3s ease;
         }
 
         .dt-internal-link:hover {
-            color: var(--primary);
+            color: inherit;
             border-bottom-color: var(--secondary);
         }
 
@@ -349,7 +347,7 @@
     {
       "@context": "https://schema.org",
       "@type": "Article",
-      "headline": "Serengeti Great Migration Safari Guide: Ndutu, Grumeti and Mara River Crossing",
+      "headline": "Serengeti Great Migration Safari Guide: Ndutu, Grumeti & Mara Crossing",
       "description": "A complete planning guide for the Serengeti Great Migration safari, covering Ndutu calving season, Grumeti River, Northern Serengeti, Mara River crossing, accommodation, timing and package selection.",
       "author": {
         "@type": "Organization",
@@ -360,7 +358,7 @@
         "name": "Deep Tanzania Tours",
         "url": "https://deeptanzaniatours.com"
       },
-      "mainEntityOfPage": "https://deeptanzaniatours.com/migrational-seasonal/serengeti-great-migration-safari-guide.php"
+      "mainEntityOfPage": "https://deeptanzaniatours.com/migration/serengeti-great-migration-safari-guide.php"
     }
     </script>
 </head>
@@ -373,13 +371,13 @@
 
 <section class="hero-altoo" id="home-altoo">
     <div class="hero-altoo-background">
-        <img src="../img/banner-migration-safari.jpg" alt="Serengeti Great Migration Safari Guide Ndutu Grumeti Mara River Crossing">
+        <img src="../img/serengeti-great-migration-safari-guide.jpg" alt="Serengeti Great Migration Safari Guide Ndutu Grumeti Mara River Crossing">
         <div class="hero-altoo-overlay"></div>
     </div>
 
     <div class="container">
         <div class="hero-altoo-content">
-            <h1>Serengeti Great Migration Safari Guide: Ndutu, Grumeti & Mara River Crossing</h1>
+            <h1>Serengeti Great Migration Safari Guide: Ndutu, Grumeti & Mara Crossing</h1>
             <p class="hero-subtitle">
                 Understand where the migration is, when to travel, where to sleep and which safari package to book for Ndutu calving season, Grumeti River and Northern Serengeti Mara River crossing.
             </p>
@@ -398,7 +396,7 @@
     <div class="container">
         <div class="article-header">
             <span class="article-category">SERENGETI GREAT MIGRATION SAFARI</span>
-            <h1>Serengeti Great Migration Safari Guide: Complete Season-by-Season Planning</h1>
+            <h1>Serengeti Great Migration Safari Guide: Ndutu, Grumeti & Mara Crossing Season Planning</h1>
 
             <div class="article-meta">
                 <span class="author"><i class="far fa-user"></i> By Deep Tanzania Tours</span>
@@ -414,7 +412,11 @@
             </div>
 
             <p>
-                The <a href="../safari-articles/serengeti-safari-guide-great-migration.php" class="dt-internal-link">Serengeti </a> Great Migration is one of the most powerful wildlife experiences in Africa. Many travellers know it because of the famous Mara River crossing in Northern Serengeti, but the real migration is much bigger than one river event. It is a year-round circular movement of wildebeest, zebras and gazelles through Southern Serengeti and Ndutu, Central Serengeti, the Western Corridor and Grumeti, Northern Serengeti and sometimes across to the Maasai Mara side before the herds return south again.
+                This Serengeti Great Migration Safari Guide: Ndutu, Grumeti & Mara Crossing helps travellers understand the full yearly movement before choosing the best season, area and safari package.
+            </p>
+
+            <p>
+                The <a href="../serengeti-safari-guide-great-migration.php" class="dt-internal-link">Serengeti</a> Great Migration is one of the most powerful wildlife experiences in Africa. Many travellers know it because of the famous Mara River crossing in Northern Serengeti, but the real migration is much bigger than one river event. It is a year-round circular movement of wildebeest, zebras and gazelles through Southern <a href="../serengeti-safari-guide-great-migration.php" class="dt-internal-link">Serengeti</a> and Ndutu, Central Serengeti, the Western Corridor and Grumeti, Northern Serengeti and sometimes across to the Maasai Mara side before the herds return south again.
             </p>
 
             <p>
@@ -425,17 +427,21 @@
                 This guide answers the key questions most travellers ask before booking a Great Migration safari: <strong>Where is the migration?</strong> <strong>When should I travel?</strong> <strong>Where should I sleep?</strong> and <strong>which safari package should I book?</strong>
             </p>
 
+            <p>
+                Many travellers combine the migration with <a href="../tarangire-national-park-safari-guide.php" class="dt-internal-link">Tarangire</a> for elephants and baobab trees, <a href="../ngorongoro-crater-safari-guide.php" class="dt-internal-link">Ngorongoro</a> for crater wildlife, and <a href="../zanzibar-holiday.php" class="dt-internal-link">Zanzibar</a> for beach relaxation after the safari.
+            </p>
+
             <div class="highlight-box">
                 <p>
-                    <strong>Quick migration planning advice:</strong> The best Great Migration safari depends on matching your travel month with the correct migration area. Ndutu is best for calving, Grumeti is best for western movement, Northern Serengeti is best for Mara River crossing, and Central Serengeti is useful for flexible year-round safari planning.
+                    <strong>Quick migration planning advice:</strong> The best Great Migration safari depends on matching your travel month with the correct migration area. Ndutu is best for calving, Grumeti is best for western movement, Northern Serengeti is best for Mara River crossing, and Central <a href="../serengeti-safari-guide-great-migration.php" class="dt-internal-link">Serengeti</a> is useful for flexible year-round safari planning.
                 </p>
             </div>
 
             <h2>Why Is the Great Migration So Special?</h2>
 
             <div class="day-images">
-                <img src="../img/mara-river-crossing-serengeti.jpg" alt="Serengeti wildebeest migration safari in Tanzania">
-                <img src="../img/mara-river-crossing.jpg" alt="Mara River crossing safari in Northern Serengeti">
+                <img src="../img/serengeti-wildebeest-migration-safari.jpg" alt="Serengeti wildebeest migration safari in Tanzania">
+                <img src="../img/mara-river-crossing-serengeti.jpg" alt="Mara River crossing safari in Northern Serengeti">
             </div>
 
             <p>
@@ -568,7 +574,7 @@
         <h2>Ndutu Calving Season: December to March</h2>
 
         <p>
-            Ndutu and Southern Serengeti are best known for the calving season. This is where the migration becomes very emotional and dramatic because thousands of calves are born on the open plains. The green landscape, newborn animals and predator concentration make Ndutu one of the best migration safari experiences for photographers and wildlife lovers.
+            Ndutu and Southern <a href="../serengeti-safari-guide-great-migration.php" class="dt-internal-link">Serengeti</a> are best known for the calving season. This is where the migration becomes very emotional and dramatic because thousands of calves are born on the open plains. The green landscape, newborn animals and predator concentration make Ndutu one of the best migration safari experiences for photographers and wildlife lovers.
         </p>
 
         <p>
@@ -688,13 +694,13 @@
                 <tr>
                     <td>4-Day Ndutu Calving Safari</td>
                     <td>Short calving season safari.</td>
-                    <td>Arusha - Ndutu - Ngorongoro - Arusha.</td>
+                    <td>Arusha - Ndutu - <a href="../ngorongoro-crater-safari-guide.php" class="dt-internal-link">Ngorongoro</a> - Arusha.</td>
                     <td>Good from January to March if focused on Ndutu.</td>
                 </tr>
                 <tr>
                     <td>5-Day Ndutu and Central Serengeti Safari</td>
                     <td>Calving season plus big cats and classic Serengeti.</td>
-                    <td>Ndutu - Central Serengeti - Ngorongoro.</td>
+                    <td>Ndutu - Central <a href="../serengeti-safari-guide-great-migration.php" class="dt-internal-link">Serengeti</a> - <a href="../ngorongoro-crater-safari-guide.php" class="dt-internal-link">Ngorongoro</a>.</td>
                     <td>Good balance for clients with limited days.</td>
                 </tr>
                 <tr>
@@ -712,7 +718,7 @@
                 <tr>
                     <td>7-Day Drive-In Migration Safari</td>
                     <td>Travellers who want Tarangire, Ngorongoro and Serengeti together.</td>
-                    <td>Arusha - Tarangire - Central Serengeti - Northern Serengeti - Ngorongoro.</td>
+                    <td>Arusha - <a href="../tarangire-national-park-safari-guide.php" class="dt-internal-link">Tarangire</a> - Central <a href="../serengeti-safari-guide-great-migration.php" class="dt-internal-link">Serengeti</a> - Northern Serengeti - <a href="../ngorongoro-crater-safari-guide.php" class="dt-internal-link">Ngorongoro</a>.</td>
                     <td>Minimum practical road route for Northern Serengeti.</td>
                 </tr>
                 <tr>
@@ -727,17 +733,17 @@
         <h2>Road Safari or Fly-In Migration Safari?</h2>
 
         <p>
-            A road safari is more affordable and good for travellers who want to combine <a href="../safari-articles/tarangire-national-park-safari-guide.php" class="dt-internal-link">Tarangire</a>, <a href="../safari-articles/ngorongoro-crater-safari-guide.php" class="dt-internal-link">Ngorongoro</a>, Central Serengeti and Northern Serengeti. However, Northern Serengeti is far, so a road route needs enough days to avoid a rushed program.
+            A road safari is more affordable and good for travellers who want to combine <a href="../tarangire-national-park-safari-guide.php" class="dt-internal-link">Tarangire</a>, <a href="../ngorongoro-crater-safari-guide.php" class="dt-internal-link">Ngorongoro</a>, Central <a href="../serengeti-safari-guide-great-migration.php" class="dt-internal-link">Serengeti</a> and Northern Serengeti. However, Northern Serengeti is far, so a road route needs enough days to avoid a rushed program.
         </p>
 
         <p>
-            A <a href="../zanzibar-and-safari/6-days-northern-tanzania-fly-in-safari-from-zanzibar.php" class="dt-internal-link">fly-in safari</a> is more expensive, but it saves time and is very useful for travellers who want to go directly to Northern Serengeti, Ndutu or another migration area. Flying one way and driving the other way can also be a good balance between comfort and cost.
+            A fly-in safari is more expensive, but it saves time and is very useful for travellers who want to go directly to Northern Serengeti, Ndutu or another migration area. Flying one way and driving the other way can also be a good balance between comfort and cost.
         </p>
 
         <div class="migration-card-grid">
             <div class="migration-card">
                 <h4>Drive-In / Drive-Out Safari</h4>
-                <p>Best for travellers with 7 or more days who want to include Tarangire, Ngorongoro and Serengeti by road.</p>
+                <p>Best for travellers with 7 or more days who want to include <a href="../tarangire-national-park-safari-guide.php" class="dt-internal-link">Tarangire</a>, <a href="../ngorongoro-crater-safari-guide.php" class="dt-internal-link">Ngorongoro</a> and <a href="../serengeti-safari-guide-great-migration.php" class="dt-internal-link">Serengeti</a> by road.</p>
             </div>
 
             <div class="migration-card">
@@ -752,7 +758,7 @@
 
             <div class="migration-card">
                 <h4>Migration and Zanzibar</h4>
-                <p>Best for travellers who want to finish the safari with beach relaxation after Serengeti and Ngorongoro.</p>
+                <p>Best for travellers who want to finish the safari with <a href="../zanzibar-holiday.php" class="dt-internal-link">Zanzibar</a> beach relaxation after <a href="../serengeti-safari-guide-great-migration.php" class="dt-internal-link">Serengeti</a> and <a href="../ngorongoro-crater-safari-guide.php" class="dt-internal-link">Ngorongoro</a>.</p>
             </div>
         </div>
 
@@ -772,7 +778,7 @@
         <h2>Why Plan Your Migration Safari with Deep Tanzania Tours?</h2>
 
         <p>
-            Deep Tanzania Tours helps travellers plan <a href="../zanzibar-and-safari/5-day-fly-in-safari-from-zanzibar-to-serengeti-ngorongoro-and-tarangire.php" class="dt-internal-link">migration safaris</a> based on the real movement of the herds, not only a general park name. Our team assists you with route selection, accommodation location, airport pickup, domestic flights, <a href="../zanzibar-and-safari/private-safari-zanzibar-flights-included.php" class="dt-internal-link">private safari</a> vehicle planning and customized safari programs based on your budget and travel style.
+            Deep Tanzania Tours helps travellers plan migration safaris based on the real movement of the herds, not only a general park name. Our team assists you with route selection, accommodation location, airport pickup, domestic flights, private safari vehicle planning and customized safari programs based on your budget and travel style.
         </p>
 
         <p>
@@ -782,7 +788,7 @@
         <ul class="migration-bullets">
             <li><strong>Local safari experience:</strong> Our guides understand Serengeti, Ndutu, Grumeti and Northern Serengeti movement patterns.</li>
             <li><strong>Accommodation advice:</strong> We help you choose camps that match your budget and keep you close to the migration focus area.</li>
-            <li><strong>Custom programs:</strong> We prepare private, fly-in, road safari and <a href="../zanzibar-and-safari/10-day-tanzania-safari-zanzibar-beach-holiday.php" class="dt-internal-link">safari-and-Zanzibar combinations</a>.</li>
+            <li><strong>Custom programs:</strong> We prepare private, fly-in, road safari and safari-and-Zanzibar combinations.</li>
             <li><strong>Fast planning support:</strong> Contact us by WhatsApp or enquiry form for quick response and professional guidance.</li>
         </ul>
 
@@ -806,7 +812,18 @@
         <h3>Where should I sleep for the Great Migration?</h3>
         <p>You should sleep close to the migration focus area for your travel month: Ndutu during calving, Western Corridor during Grumeti season, and Kogatende or Northern Serengeti during Mara River crossing season.</p>
 
-        
+        <div class="article-cta" id="contact">
+            <h3>Plan Your Great Migration Safari with Deep Tanzania Tours</h3>
+            <p>
+                Tell us your travel month, number of travellers, accommodation preference and whether you want Ndutu calving, Grumeti, Northern <a href="../serengeti-safari-guide-great-migration.php" class="dt-internal-link">Serengeti</a> Mara River crossing, or a full Tanzania safari and <a href="../zanzibar-holiday.php" class="dt-internal-link">Zanzibar</a> combination. We will recommend the best route and quotation.
+            </p>
+
+            <div class="book-now-container">
+                <a href="https://wa.me/255754042154?text=Hello%20Deep%20Tanzania%20Tours,%20I%20would%20like%20to%20plan%20a%20Serengeti%20Great%20Migration%20Safari." class="book-now-btn">
+                    <i class="fab fa-whatsapp"></i> Request Great Migration Safari Quote
+                </a>
+            </div>
+        </div>
     </div>
 </section>
 
