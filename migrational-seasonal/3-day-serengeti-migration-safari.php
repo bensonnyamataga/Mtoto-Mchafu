@@ -858,7 +858,7 @@
         </table>
 
         <div class="day-images">
-            <img src="../img/fly-in-Safari-package.jpg" alt="Fly-in Serengeti Migration Safari from Zanzibar">
+            <img src="../img/fly-in-safari.jpg" alt="Fly-in Serengeti Migration Safari from Zanzibar">
             <img src="../img/drive-in-safari.jpg" alt="Drive-in Serengeti Migration Safari from Arusha">
         </div>
 
