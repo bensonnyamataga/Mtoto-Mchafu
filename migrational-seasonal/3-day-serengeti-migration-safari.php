@@ -3,9 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>3-Day Serengeti Migration Safari Package </title>
+    <title>3-Day Serengeti Migration Safari Package | Book now </title>
 
-    <meta name="description" content="Book a 3-day Serengeti Migration Safari package planned by season. Short fly-in or drive-in Great Migration safari for Ndutu, Central Serengeti, Grumeti or Northern Serengeti.">
+    <meta name="description" content="Book a 3-day Serengeti Migration Safari package planned by season. Short fly-in or drive-in Great Migration safari">
     <meta name="keywords" content="3-day Serengeti migration safari, 3 days Great Migration safari Tanzania, short Serengeti migration safari, Serengeti migration safari from Arusha, Serengeti migration safari from Zanzibar, 3-day Mara River crossing fly-in safari, Ndutu calving season short safari">
     <link rel="canonical" href="https://deeptanzaniatours.com/migrational-seasonal/3-day-serengeti-migration-safari.php">
 
