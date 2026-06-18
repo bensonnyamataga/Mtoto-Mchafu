@@ -945,11 +945,6 @@
             <li>The number of adults and children, room arrangement, dietary needs and airport or hotel starting point.</li>
         </ol>
 
-        <h2>Related Serengeti Migration Safaris</h2>
-        <p>
-            You can compare this luxury northern route with our <a href="../migrational-seasonal/serengeti-great-migration-safari-guide.php" class="dt-internal-link">Serengeti Great Migration guide</a>, the shorter <a href="../migrational-seasonal/3-day-serengeti-migration-safari.php" class="dt-internal-link">3-Day Serengeti Migration Safari</a>, or our seasonal <a href="../migrational-seasonal/4-day-ndutu-calving-season-safari.php" class="dt-internal-link">Ndutu calving safari</a>. This program can also connect with a <a href="../zanzibar-safari-packages.php" class="dt-internal-link">Zanzibar and Tanzania safari holiday</a>.
-        </p>
-
         <h2>8-Day Luxury Mara River Crossing Safari FAQs</h2>
 
         <h3>Can Deep Tanzania Tours guarantee a Mara River crossing?</h3>
@@ -969,6 +964,122 @@
 
         <h3>Is the final day suitable for an international flight?</h3>
         <p>The crater tour and drive to Arusha create a long final day. A late-night international departure may work, but an overnight in Arusha is safer when the flight departs earlier.</p>
+    </div>
+</section>
+
+
+<!-- Related Great Migration Safari Packages -->
+<section class="section safari-packages">
+    <div class="container">
+        <div class="section-title">
+            <span class="subtitle">Explore More Seasonal Safari Experiences</span>
+            <h2>Related Serengeti Great Migration Safari Packages</h2>
+            <p>Compare more Great Migration safaris covering the Mara River, Kogatende, Ndutu calving season and other important areas along the Serengeti migration route.</p>
+        </div>
+
+        <div class="packages-grid">
+
+            <!-- Related Package 1 -->
+            <div class="package-card">
+                <div class="package-image">
+                    <img src="../img/serengeti-great-migration-safari.jpg" alt="3 Day Serengeti Migration Safari">
+                    <div class="package-overlay"></div>
+                </div>
+                <div class="package-content">
+                    <h3>3 Day Serengeti Migration Safari</h3>
+                    <p class="package-duration">3 Days / 2 Nights</p>
+                    <div class="package-features">
+                        <span><i class="fas fa-map-marker-alt"></i> Serengeti Migration Areas</span>
+                        <span><i class="fas fa-binoculars"></i> Short Seasonal Safari</span>
+                        <span><i class="fas fa-car"></i> Private 4x4 Game Drives</span>
+                    </div>
+                    <div class="package-footer">
+                        <a href="3-day-serengeti-migration-safari.php" class="btn btn-primary">View Details</a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Related Package 2 -->
+            <div class="package-card">
+                <div class="package-image">
+                    <img src="../img/ndutu-calving-season.jpg" alt="4 Day Ndutu Calving Season Safari">
+                    <div class="package-overlay"></div>
+                </div>
+                <div class="package-content">
+                    <h3>4 Day Ndutu Calving Season Safari</h3>
+                    <p class="package-duration">4 Days / 3 Nights</p>
+                    <div class="package-features">
+                        <span><i class="fas fa-map-marker-alt"></i> Ndutu & Southern Serengeti</span>
+                        <span><i class="fas fa-paw"></i> Calving Season Wildlife</span>
+                        <span><i class="fas fa-camera"></i> Predators & Photography</span>
+                    </div>
+                    <div class="package-footer">
+                        <a href="4-day-ndutu-calving-season-safari.php" class="btn btn-primary">View Details</a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Related Package 3 -->
+            <div class="package-card">
+                <div class="package-image">
+                    <img src="../img/mara-river-crossing.jpg" alt="7 Day Mara River Crossing Safari">
+                    <div class="package-overlay"></div>
+                </div>
+                <div class="package-content">
+                    <h3>7 Day Mara River Crossing Safari</h3>
+                    <p class="package-duration">7 Days / 6 Nights</p>
+                    <div class="package-features">
+                        <span><i class="fas fa-map-marker-alt"></i> Central & Northern Serengeti</span>
+                        <span><i class="fas fa-binoculars"></i> Mara River Migration Area</span>
+                        <span><i class="fas fa-plane"></i> Drive-In & Flight-Out Safari</span>
+                    </div>
+                    <div class="package-footer">
+                        <a href="7-day-mara-river-crossing-safari.php" class="btn btn-primary">View Details</a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Related Package 4 -->
+            <div class="package-card">
+                <div class="package-image">
+                    <img src="../img/safari-in-serengeti.jpg" alt="5 Day Northern Serengeti Migration Safari">
+                    <div class="package-overlay"></div>
+                </div>
+                <div class="package-content">
+                    <h3>5 Day Northern Serengeti Migration Safari</h3>
+                    <p class="package-duration">5 Days / 4 Nights</p>
+                    <div class="package-features">
+                        <span><i class="fas fa-map-marker-alt"></i> Kogatende & Mara River</span>
+                        <span><i class="fas fa-paw"></i> Wildebeest Migration Viewing</span>
+                        <span><i class="fas fa-campground"></i> Seasonal Migration Camps</span>
+                    </div>
+                    <div class="package-footer">
+                        <a href="northern-serengeti-migration-safari-5-days.php" class="btn btn-primary">View Details</a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Related Package 5 -->
+            <div class="package-card">
+                <div class="package-image">
+                    <img src="../img/serengeti-tanzania-safari.jpg" alt="Serengeti Great Migration Safari Guide">
+                    <div class="package-overlay"></div>
+                </div>
+                <div class="package-content">
+                    <h3>Serengeti Great Migration Safari Guide</h3>
+                    <p class="package-duration">Seasonal Planning Guide</p>
+                    <div class="package-features">
+                        <span><i class="fas fa-route"></i> Complete Migration Route</span>
+                        <span><i class="fas fa-calendar-alt"></i> Month-by-Month Planning</span>
+                        <span><i class="fas fa-map-marked-alt"></i> Best Areas by Season</span>
+                    </div>
+                    <div class="package-footer">
+                        <a href="serengeti-great-migration-safari-guide.php" class="btn btn-primary">Read Guide</a>
+                    </div>
+                </div>
+            </div>
+
+        </div>
     </div>
 </section>
 
