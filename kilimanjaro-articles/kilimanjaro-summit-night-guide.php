@@ -36,8 +36,12 @@
 
     <style>
         .kili-section {
-            padding: 60px 0 40px;
+            padding: 24px 0 18px;
             background: var(--white);
+        }
+
+        .kili-section + .kili-section {
+            padding-top: 8px;
         }
 
         .kili-inner {
@@ -50,7 +54,7 @@
             color: #1a1a1a;
             font-size: 26px;
             font-weight: 700;
-            margin: 35px 0 15px;
+            margin: 8px 0 18px;
             padding-bottom: 10px;
             text-align: center;
             position: relative;
@@ -71,21 +75,21 @@
             color: var(--dark);
             font-size: 20px;
             font-weight: 700;
-            margin: 28px 0 12px;
+            margin: 22px 0 10px;
         }
 
         .kili-section p {
             color: var(--text);
             font-size: 16px;
             line-height: 1.8;
-            margin-bottom: 18px;
+            margin-bottom: 14px;
         }
 
         .kili-note {
             background: rgba(117, 104, 44, 0.08);
             padding: 18px 20px;
             border-left: 4px solid var(--primary);
-            margin: 25px 0;
+            margin: 18px 0;
             color: var(--text);
             font-size: 15px;
             line-height: 1.7;
@@ -98,7 +102,7 @@
         .kili-bullets {
             list-style: none;
             padding: 0;
-            margin: 22px 0 28px;
+            margin: 18px 0 22px;
         }
 
         .kili-bullets li {
@@ -126,7 +130,7 @@
             width: 100%;
             border-collapse: collapse;
             border-spacing: 0;
-            margin: 22px 0 32px;
+            margin: 18px 0 24px;
             background: #ffffff;
             border: 1px solid rgba(117, 104, 44, 0.35);
             border-radius: 0;
@@ -169,7 +173,7 @@
             display: grid;
             grid-template-columns: repeat(2, 1fr);
             gap: 18px;
-            margin: 25px 0;
+            margin: 18px 0;
         }
 
         .kili-card {
@@ -191,9 +195,61 @@
             margin-bottom: 0;
         }
 
+
+        .kili-image-grid {
+            display: grid;
+            grid-template-columns: repeat(2, minmax(0, 1fr));
+            gap: 20px;
+            margin: 20px 0 16px;
+        }
+
+        .kili-image-card {
+            margin: 0;
+        }
+
+        .kili-image-card img {
+            display: block;
+            width: 100%;
+            height: 310px;
+            object-fit: cover;
+            border-radius: 12px;
+            box-shadow: 0 8px 22px rgba(0, 0, 0, 0.10);
+        }
+
+        .kili-image-card figcaption {
+            margin-top: 8px;
+            color: var(--text);
+            font-size: 13px;
+            line-height: 1.5;
+            text-align: center;
+        }
+
+        .kili-cta-panel {
+            background: rgba(117, 104, 44, 0.08);
+            border: 1px solid rgba(117, 104, 44, 0.22);
+            padding: 24px 20px;
+            text-align: center;
+            margin: 24px 0 12px;
+        }
+
+        .kili-cta-panel h3 {
+            margin-top: 0;
+            text-align: center;
+        }
+
+        .kili-cta-panel p {
+            max-width: 650px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
         @media (max-width: 768px) {
             .kili-section {
-                padding: 45px 0 30px;
+                padding: 18px 0 14px;
+            }
+
+            .kili-section + .kili-section {
+                padding-top: 6px;
             }
 
             .kili-section h2 {
@@ -204,8 +260,13 @@
                 font-size: 19px;
             }
 
-            .kili-card-grid {
+            .kili-card-grid,
+            .kili-image-grid {
                 grid-template-columns: 1fr;
+            }
+
+            .kili-image-card img {
+                height: 240px;
             }
 
             .kili-table {
@@ -366,7 +427,7 @@
 
 <section class="hero-altoo" id="home-altoo">
     <div class="hero-altoo-background">
-        <img src="../img/kilimanjaro-summit-night-guide.jpg" alt="Climbers preparing for Kilimanjaro summit night">
+        <img src="../img/summit-night-kilimanjaro-banner.jpg" alt="Climbers preparing for Kilimanjaro summit night">
         <div class="hero-altoo-overlay"></div>
     </div>
 
@@ -419,6 +480,31 @@
     </div>
 </section>
 
+
+<section class="kili-section">
+    <div class="kili-inner">
+        <h2>What Kilimanjaro Summit Night Really Looks Like</h2>
+
+        <div class="kili-image-grid">
+            <figure class="kili-image-card">
+                <img src="../img/kili-trekking-summit.jpg"
+                     alt="Climbers using headlamps during Kilimanjaro summit night"
+                     loading="lazy">
+            </figure>
+
+            <figure class="kili-image-card">
+                <img src="../img/sun-rise-kilimanjaro.jpg"
+                     alt="Sunrise over the crater rim during a Kilimanjaro summit attempt"
+                     loading="lazy">
+            </figure>
+        </div>
+
+        <p>
+            Summit night is not only about reaching the sign at Uhuru Peak. It is a long sequence of small moments: checking gloves in the dark, sharing a warm drink, hearing the guide say “pole pole,” and watching the sky slowly change as the team approaches the crater rim.
+        </p>
+    </div>
+</section>
+
 <section class="kili-section">
     <div class="kili-inner">
         <h2>Meet Peter, Our Kilimanjaro Mountain Guide</h2>
@@ -458,7 +544,7 @@
         <h2>What Happens Before the Summit Attempt?</h2>
 
         <p>
-            The summit plan begins before climbers leave their base camp. After an early dinner, the guide briefs the group, checks clothing and equipment, and explains the expected pace. Climbers then rest for a few hours before being woken for final preparation.
+            The summit plan begins several hours before climbers leave base camp. After an early dinner, the guide briefs the group, checks clothing and equipment, and explains the expected pace. Climbers then rest for a few hours before being woken for final preparation.
         </p>
 
         <p>
@@ -466,7 +552,7 @@
         </p>
 
         <p>
-            Before departure, climbers put on their summit layers, organise their headlamps and take a light meal or warm drink. The atmosphere at camp is usually quiet. Everyone knows that the longest and most demanding part of the climb is about to begin.
+            Before departure, climbers put on their summit layers, organise their headlamps and take a light meal or warm drink. The atmosphere at camp is usually quiet. Headlamps are switched on, final layers are adjusted, and the group begins moving together into the night.
         </p>
 
         <h2>How Long Does the Climb to the Summit Take?</h2>
@@ -488,6 +574,22 @@
 <section class="kili-section">
     <div class="kili-inner">
         <h2>Summit Night Is Different on Each Route</h2>
+
+        <div class="kili-image-grid">
+            <figure class="kili-image-card">
+                <img src="../img/barafu-camp-to-summit.jpg"
+                     alt="Barafu Camp summit route toward Stella Point on Mount Kilimanjaro"
+                     loading="lazy">
+                <figcaption>The Barafu approach is used by routes such as Machame and Lemosho before climbers continue toward Stella Point.</figcaption>
+            </figure>
+
+            <figure class="kili-image-card">
+                <img src="../img/uhuru-peak-cerebration.jpg"
+                     alt="Climbers celebrating at Uhuru Peak on Mount Kilimanjaro"
+                     loading="lazy">
+                <figcaption>Uhuru Peak is the final goal, but a safe descent remains part of the achievement.</figcaption>
+            </figure>
+        </div>
 
         <table class="kili-table">
             <thead>
@@ -742,17 +844,7 @@
             <li>Remember that a safe descent is part of a successful climb.</li>
         </ul>
 
-        <div class="migration-cta-panel">
-            <h3>Plan Your Kilimanjaro Climb with Deep Tanzania Tours</h3>
-            <p>
-                Tell us your preferred route, travel month, number of climbers and previous trekking experience. We will help you choose a suitable itinerary and prepare a clear climbing proposal.
-            </p>
-
-            <div class="safari-hero-actions">
-                <a href="https://wa.me/255655147108" class="safari-hero-btn safari-hero-btn--light">Chat on WhatsApp</a>
-                <a href="mailto:info@deeptanzaniatours.com" class="safari-hero-btn safari-hero-btn--dark">Email Deep Tanzania Tours</a>
-            </div>
-        </div>
+        
     </div>
 </section>
 
