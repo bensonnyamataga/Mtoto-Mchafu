@@ -3,7 +3,7 @@
 
         <div class="footer-top-logo-row">
             <div class="footer-brand-logo-box">
-                <img src="../img/footer-logo.png" alt="Deep Tanzania Tours Logo">
+                <img src="../img/deep-tanzania-footer.png" alt="Deep Tanzania Tours Logo">
             </div>
             <div class="footer-brand-slogan">
                 <h2>"TRAVEL DEEP, GO BEYOND"</h2> <br>
