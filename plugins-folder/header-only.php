@@ -643,7 +643,7 @@
         <div class="header-top">
             <div class="container header-top-container">
                 <div class="specialist-info">
-                    <div class="specialist-tag">#Dive into the heart of Tanzania </div>
+                    <div class="specialist-tag">#TRAVEL DEEP, GO BEYOND </div>
                 </div>
                 <div class="review-badges">
                     <div class="review-badge">

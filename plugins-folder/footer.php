@@ -6,7 +6,7 @@
                 <img src="../img/footer-logo.png" alt="Deep Tanzania Tours Logo">
             </div>
             <div class="footer-brand-slogan">
-                <h2>"Dive into the Heart of Tanzania"</h2> <br>
+                <h2>"TRAVEL DEEP, GO BEYOND"</h2> <br>
             </div>
         </div>
 

@@ -524,7 +524,7 @@
       <div class="Travolo-container Travolo-header-top-container">
 
         <div class="Travolo-specialist-info">
-          <div class="Travolo-specialist-tag">#Dive into the heart of Tanzania</div>
+          <div class="Travolo-specialist-tag">#TRAVEL DEEP, GO BEYOND</div>
         </div>
 
         <div class="Travolo-review-badges">
