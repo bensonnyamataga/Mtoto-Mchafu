@@ -1,0 +1,90 @@
+/* Shared website typography. Font URLs resolve relative to this stylesheet. */
+@font-face {
+    font-family: 'Mazzard H';
+    src: url('fonts/MazzardH-ExtraLight.otf') format('opentype');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Mazzard H';
+    src: url('fonts/mazzard-h-light.otf') format('opentype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Mazzard H';
+    src: url('fonts/MazzardH-Regular.otf') format('opentype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Mazzard H';
+    src: url('fonts/MazzardH-Bold.otf') format('opentype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Mazzard H';
+    src: url('fonts/MazzardH-BoldItalic.otf') format('opentype');
+    font-weight: 700;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Mazzard H';
+    src: url('fonts/MazzardH-ExtraBold.otf') format('opentype');
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Mazzard H';
+    src: url('fonts/MazzardH-ExtraBoldItalic.otf') format('opentype');
+    font-weight: 800;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Mazzard H';
+    src: url('fonts/MazzardH-Black.otf') format('opentype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Mazzard H';
+    src: url('fonts/MazzardH-BlackItalic.otf') format('opentype');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+:root {
+    --heading: 'Mazzard H', Arial, sans-serif;
+    --body: 'Mazzard H', Arial, sans-serif;
+}
+
+/* Keep icon elements and their pseudo-elements in their original font families. */
+html,
+body,
+body :is(div, span, a, h1, h2, h3, h4, h5, h6, p, blockquote, li, ul, ol,
+         small, strong, b, em, i, button, input, textarea, select, option, optgroup,
+         label, legend, fieldset, summary, time, figcaption, dt, dd, th, td, cite,
+         address, section, article, main, header, footer, nav, aside, form, dialog):not(
+         .fa, .fas, .far, .fab, .fal, .fad, .fat, .fass, .fasr,
+         [class^="fa-"], [class*=" fa-"], [class^="icon-"], [class*=" icon-"]
+         ) {
+    font-family: 'Mazzard H', Arial, sans-serif !important;
+}

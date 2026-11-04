@@ -40,6 +40,7 @@
             <div class="footer-col">
                 <h3>Safari Packages</h3>
                 <ul class="footer-links">
+                    <li><a href="joining-groups.php">Joining Group Safaris</a></li>
                     <li><a href="5-day-tanzania-safari.php">5 Day Tanzania Safari</a></li>
                     <li><a href="5-day-essential-safari.php">5 Day Essential Safari</a></li>
                     <li><a href="6-day-family-safari.php">6 Day Family Safari</a></li>

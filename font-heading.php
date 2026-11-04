@@ -55,6 +55,7 @@
     </style>
     <!-- Add Poppins as fallback for body text -->
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <?php require_once __DIR__ . '/style/font-loader.php'; ?>
 </head>
 <body>
     <!-- Your HTML content remains the same -->

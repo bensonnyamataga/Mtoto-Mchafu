@@ -510,6 +510,7 @@
       }
     }
   </style>
+<?php require_once __DIR__ . '/../style/font-loader.php'; ?>
 </head>
 
 <body>

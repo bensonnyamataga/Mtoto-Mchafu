@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="canonical" href="https://deeptanzaniatours.com/about-us.php">
     <title>About Deep Tanzania Tours | Our Story &amp; Founder Benson Nyamataga</title>
     <meta name="description" content="Meet Benson Nyamataga, founder of Deep Tanzania Tours. Discover our story from Mara and Moshi to Tanzania safaris, Kilimanjaro adventures and cultural experiences.">
     <meta property="og:type" content="website">
@@ -24,7 +25,7 @@
 /* All page text uses the website's existing Mazzard font; keep icon glyph families intact. */
 /* Deep Tanzania Tours - isolated About Us layout. Intentionally unique class names
    prevent collisions with style.css / package.css / existing article and hero styles. */
-.dtt-about-page { scroll-margin-top:0; --dtt-olive:#80712b; --dtt-gold:#d5a53c; --dtt-paper:#f7f3eb; --dtt-ink:#373633; position:relative; width:100%; display:block; clear:both; font-family:'Mazzard', 'Mazzard H', 'Mazzard M', 'MazzardH', 'MazzardM', Arial, sans-serif; color:var(--dtt-ink); }
+.dtt-about-page { scroll-margin-top:0; --dtt-olive:#80712b; --dtt-gold:#d5a53c; --dtt-paper:#f7f3eb; --dtt-ink:#373633; position:relative; width:100%; display:block; clear:both; font-family:'Mazzard H', Arial, sans-serif; color:var(--dtt-ink); }
 .dtt-about-page, .dtt-about-page * {box-sizing:border-box;}
 .dtt-about-page a {text-decoration:none;}
 .dtt-about-page a:focus-visible {outline:3px solid #f5d16c;outline-offset:4px;}
@@ -34,7 +35,7 @@
 .dtt-about-page .dtt-about-shade {position:absolute; z-index:1; inset:0; pointer-events:none; background:linear-gradient(100deg,rgba(11,23,19,.78),rgba(13,28,24,.66) 48%,rgba(12,24,19,.75));}
 .dtt-about-page .dtt-about-hero-inner {z-index:2; position:relative; display:block; width:100%; max-width:900px; padding:0; margin:0 auto; top:auto !important; left:auto !important; right:auto !important; bottom:auto !important; transform:none !important; float:none;}
 .dtt-about-page .dtt-about-kicker {display:inline-block; margin:0 0 19px; color:#f4d48b; font-size:12px; font-weight:700; letter-spacing:2.5px; line-height:1.5; text-transform:uppercase;}
-.dtt-about-page .dtt-about-hero h1 {display:block !important; position:relative !important; inset:auto !important; float:none !important; margin:0 auto 17px; padding:0; max-width:870px; color:#fff; font-family:'Mazzard', 'Mazzard H', 'Mazzard M', 'MazzardH', 'MazzardM', sans-serif; font-size:clamp(36px,4.1vw,54px); font-weight:700; line-height:1.18; letter-spacing:-.9px; text-shadow:0 3px 12px rgba(0,0,0,.18); text-align:center; transform:none !important;}
+.dtt-about-page .dtt-about-hero h1 {display:block !important; position:relative !important; inset:auto !important; float:none !important; margin:0 auto 17px; padding:0; max-width:870px; color:#fff; font-family:'Mazzard H', sans-serif; font-size:clamp(36px,4.1vw,54px); font-weight:700; line-height:1.18; letter-spacing:-.9px; text-shadow:0 3px 12px rgba(0,0,0,.18); text-align:center; transform:none !important;}
 .dtt-about-page .dtt-about-lead {max-width:700px; margin:0 auto; padding:0; color:#f5f2ea; font-size:clamp(15px,1.45vw,18px); font-weight:400; line-height:1.8; text-align:center;}
 .dtt-about-page .dtt-about-hero-buttons {display:flex; flex-wrap:wrap; justify-content:center; align-items:center; gap:14px; margin:28px auto 0; padding:0;}
 .dtt-about-page .dtt-about-button {position:relative; min-width:195px; min-height:49px; display:inline-flex; align-items:center; justify-content:center; padding:13px 24px; border-radius:100px; font-size:12px; font-weight:700; line-height:1.5; letter-spacing:.55px; text-transform:uppercase; transition:transform .2s ease, background-color .2s ease;}
@@ -51,7 +52,7 @@
 .dtt-about-page .dtt-highlight {margin:32px 0 41px; padding:23px 27px; background:#fffbf4; border:1px solid rgba(128,113,43,.08); border-radius:8px;}
 .dtt-about-page .dtt-about-narrative .dtt-highlight p {margin:0;}
 .dtt-about-page .dtt-highlight strong {color:#25241e; font-weight:700;}
-.dtt-about-page .dtt-about-narrative h2 {position:relative; display:block; margin:43px 0 26px; padding:0 0 14px; color:#26251f; font-family:'Mazzard', 'Mazzard H', 'Mazzard M', 'MazzardH', 'MazzardM', sans-serif; font-size:clamp(21px,2.3vw,27px); font-weight:700; line-height:1.35; text-align:center; background:transparent; transform:none;}
+.dtt-about-page .dtt-about-narrative h2 {position:relative; display:block; margin:43px 0 26px; padding:0 0 14px; color:#26251f; font-family:'Mazzard H', sans-serif; font-size:clamp(21px,2.3vw,27px); font-weight:700; line-height:1.35; text-align:center; background:transparent; transform:none;}
 .dtt-about-page .dtt-about-narrative h2::after {content:''; position:absolute; display:block; width:48px; height:3px; bottom:0; left:calc(50% - 24px); background:var(--dtt-gold);}
 .dtt-about-page .dtt-about-narrative .dtt-ending {margin-top:27px; color:#7b6a25; font-size:17px; font-weight:700;}
 @media (max-width:700px){
@@ -76,7 +77,7 @@
    The existing style/style.css must define/load Mazzard on your website.
    Icon fonts are deliberately excluded so stars, WhatsApp and social icons remain visible. */
 body.dtt-full-mazzard {
-  --dtt-mazzard-font: 'Mazzard', 'Mazzard H', 'Mazzard M', 'MazzardH', 'MazzardM', Arial, sans-serif;
+  --dtt-mazzard-font: 'Mazzard H', Arial, sans-serif;
   font-family: var(--dtt-mazzard-font) !important;
 }
 body.dtt-full-mazzard :is(div,span,a,h1,h2,h3,h4,h5,h6,p,blockquote,li,ul,ol,small,strong,b,em,button,input,textarea,select,option,label,legend,summary,time,figcaption,dt,dd,th,td,cite):not(:is(.fa,.fas,.far,.fab,.fal,.fad,.fa-solid,.fa-regular,.fa-brands,.fa-light,.fa-duotone,[class^="fa-"],[class*=" fa-"],[class^="icon-"],[class*=" icon-"])) {
@@ -98,7 +99,7 @@ body.dtt-full-mazzard :is(div,span,a,h1,h2,h3,h4,h5,h6,p,blockquote,li,ul,ol,sma
       <p class="dtt-about-lead">From the Serengeti and Mount Kilimanjaro to the journeys we create today. Discover the story behind our local tourism company.</p>
       <div class="dtt-about-hero-buttons">
         <a class="dtt-about-button dtt-about-button-primary" href="#our-story">Read Our Story</a>
-        <a class="dtt-about-button dtt-about-button-secondary" href="#contact" onclick="if(typeof openBookingPopup==='function'){openBookingPopup();return false;}">Plan Your Trip</a>
+        <a class="dtt-about-button dtt-about-button-secondary" href="contact-us.php" onclick="if(typeof openBookingPopup==='function'){openBookingPopup();return false;}">Plan Your Trip</a>
       </div>
     </div>
   </section>
