@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <link rel="icon" type="image/png" href="img/favicon-icon.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Mid-Range Northern Tanzania Safari Package Price with Lodges </title>
@@ -13,10 +14,6 @@
     <link rel="stylesheet" href="style/style.css">
 
     <!-- Favicon set -->
-    <link rel="icon" href="/img/favicon/favicon.ico" sizes="any">
-    <link rel="icon" type="img/svg+xml" href="/img/favicon/favicon.svg">
-    <link rel="apple-touch-icon" href="/img/favicon/apple-touch-icon.png">
-    <link rel="manifest" href="/img/favicon/site.webmanifest">
     
     
     <!-- Page-specific CSS for price table and factor items -->

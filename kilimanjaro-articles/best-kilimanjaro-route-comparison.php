@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <link rel="icon" type="image/png" href="../img/favicon-icon.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -30,10 +31,6 @@
     <link rel="stylesheet" href="../style/style.css">
     <link rel="stylesheet" href="../style/remove-highlight-icons.css">
 
-    <link rel="icon" href="/img/favicon/favicon.ico" sizes="any">
-    <link rel="icon" type="image/svg+xml" href="/img/favicon/favicon.svg">
-    <link rel="apple-touch-icon" href="/img/favicon/apple-touch-icon.png">
-    <link rel="manifest" href="/img/favicon/site.webmanifest">
 
     <style>
         .kili-section {

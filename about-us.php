@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <link rel="icon" type="image/png" href="img/favicon-icon.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="canonical" href="https://deeptanzaniatours.com/about-us.php">
@@ -17,7 +18,6 @@
     <link rel="stylesheet" href="style/package.css">
     <link rel="stylesheet" href="style/style.css">
     <link rel="stylesheet" href="style/remove-highlight-icons.css">
-    <link rel="icon" href="/img/favicon/favicon.ico" sizes="any">
     <script src="script/script.js" defer></script>
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-FP1EW3J4H7"></script>
     <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-FP1EW3J4H7');</script>

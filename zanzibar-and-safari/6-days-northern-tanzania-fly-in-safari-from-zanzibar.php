@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <link rel="icon" type="image/png" href="../img/favicon-icon.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>6 Days Northern Tanzania Fly in Safari from Zanzibar</title>
@@ -17,12 +18,6 @@
 
 
     <!-- Favicon -->
-    <link rel="icon" href="/img/favicon/favicon.ico" sizes="any">
-    <link rel="icon" type="img/svg+xml" href="/img/favicon/favicon.svg">
-    <link rel="apple-touch-icon" href="/img/favicon/apple-touch-icon.png">
-    <link rel="manifest" href="/img/favicon/site.webmanifest">
-    <link rel="icon" type="image/png" sizes="32x32" href="/img/favicon/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="/img/favicon/favicon-16x16.png">
 
     <!-- Page-specific CSS for enhanced styling -->
     <style>

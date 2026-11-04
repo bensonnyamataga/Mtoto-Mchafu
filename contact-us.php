@@ -97,6 +97,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['booking_form_submit']
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <link rel="icon" type="image/png" href="img/favicon-icon.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Contact Deep Tanzania Tours | Book Your Tanzania Safari, Kilimanjaro or Zanzibar Trip</title>
