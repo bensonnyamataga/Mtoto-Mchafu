@@ -1,0 +1,67 @@
+/* Multi-day joining safaris reuse the established itinerary and lodge sections. */
+.joining-multiday .hero-altoo h1 { font-size:clamp(28px,3.6vw,42px); }
+.joining-multiday .hero-altoo-content { max-width:900px; }
+.joining-multiday .hero-altoo-btns { display:flex; flex-wrap:wrap; justify-content:center; gap:12px; margin-top:24px; }
+.joining-multiday .hero-altoo-btns .btn { min-height:46px; padding:12px 22px; }
+.joining-multiday main section[id] { scroll-margin-top:180px; }
+.joining-multiday .jm-breadcrumb { max-width:1200px; margin:0 auto; padding:24px 20px 0; color:#75682c; font-size:13px; }
+.joining-multiday .jm-breadcrumb a { color:#75682c; text-decoration:underline; text-underline-offset:3px; }
+.joining-multiday .jm-section { padding:58px 0; }
+.joining-multiday .jm-reading { width:calc(100% - 40px); max-width:800px; margin:0 auto; }
+.joining-multiday .jm-reading h2 { text-align:center; font-size:28px; line-height:1.35; margin-bottom:25px; }
+.joining-multiday .jm-reading p { font-size:16px; line-height:1.8; margin-bottom:20px; }
+.joining-multiday .schedule-heading { text-align:center; }
+.joining-multiday .jm-actions { display:flex; flex-wrap:wrap; gap:12px; justify-content:center; margin-top:22px; }
+.joining-multiday .jm-button { display:inline-flex; justify-content:center; align-items:center; min-height:46px; padding:12px 24px; border-radius:28px; border:1px solid #75682c; background:#75682c; color:#fff; font-size:14px; font-weight:600; text-align:center; }
+.joining-multiday .jm-button:hover { background:#5e5223; color:#fff; }
+.joining-multiday .jm-button-outline { background:transparent; color:#75682c; }
+.joining-multiday .jm-button:focus-visible { outline:3px solid #d5a53c; outline-offset:4px; }
+.joining-multiday .jm-price { max-width:800px; margin:25px auto; padding:25px; background:#eee8d9; text-align:center; border-top:3px solid #d5a53c; }
+.joining-multiday .jm-price strong { color:#75682c; font-size:32px; display:block; }
+.joining-multiday .jm-price p { margin:8px 0 0; font-size:14px; line-height:1.7; }
+.joining-multiday .overview-features { margin:30px auto; }
+.joining-multiday .day-stats { flex-wrap:wrap; }
+.joining-multiday .day-stats p { font-size:13px; margin:0; }
+.joining-multiday .accommodation-content { gap:15px; }
+.joining-multiday .jm-lodge-label { text-transform:uppercase; letter-spacing:1.5px; font-size:12px; font-weight:700; color:#75682c; }
+.joining-multiday .jm-lodge-photo { background:#e9e1cf; }
+.joining-multiday .jm-gallery-slides { position:absolute; inset:0; }
+.joining-multiday .jm-gallery-image { position:absolute; inset:0; width:100%; height:100%; object-fit:cover; }
+.joining-multiday .jm-gallery-image[hidden], .joining-multiday .jm-gallery-arrow[hidden] { display:none; }
+.joining-multiday .jm-gallery-arrow { position:absolute; top:50%; transform:translateY(-50%); z-index:4; display:grid; place-items:center; width:44px; height:44px; border:1px solid rgba(255,255,255,.7); border-radius:50%; background:rgba(32,28,20,.75); color:#fff; cursor:pointer; }
+.joining-multiday .jm-gallery-arrow:hover { background:#75682c; }
+.joining-multiday .jm-gallery-prev { left:14px; }
+.joining-multiday .jm-gallery-next { right:14px; }
+.joining-multiday .jm-gallery-counter { position:absolute; right:16px; bottom:22px; z-index:3; padding:6px 10px; border-radius:16px; background:rgba(32,28,20,.75); color:#fff; font-size:12px; pointer-events:none; }
+.joining-multiday .jm-lodge-photo .image-overlay { opacity:1; z-index:2; padding-right:120px; }
+.joining-multiday .jm-lodge-photo:focus-visible, .joining-multiday .jm-gallery-arrow:focus-visible { outline:3px solid #d5a53c; outline-offset:-4px; }
+.joining-multiday .accommodation-note .jm-actions { justify-content:flex-start; }
+.joining-multiday .ie-content { grid-template-columns:1fr; }
+.joining-multiday .ie-note .jm-actions { margin-top:18px; }
+.joining-multiday .jm-extras { background:#f1ede3; }
+/* Match the seasons table in zanzibar-packages.php. */
+.joining-multiday .seasons-table-container { overflow-x:auto; margin:25px 0 40px; box-shadow:0 5px 15px rgba(0,0,0,.05); border-radius:8px; }
+.joining-multiday .seasons-table { width:100%; min-width:800px; border-collapse:collapse; background:var(--white); }
+.joining-multiday .seasons-table caption { padding:15px; text-align:left; font-size:14px; background:var(--white); }
+.joining-multiday .seasons-table th, .joining-multiday .seasons-table td { padding:15px; text-align:left; border-bottom:1px solid #eaeaea; vertical-align:top; }
+.joining-multiday .seasons-table thead th { background-color:var(--primary); color:var(--white); font-weight:600; }
+.joining-multiday .seasons-table tbody th { font-weight:600; }
+.joining-multiday .seasons-table tbody tr:nth-child(even) { background-color:#f8f8f8; }
+.joining-multiday .seasons-table tbody tr:hover { background-color:#f0f0f0; }
+.joining-multiday .jm-faq details { border-bottom:1px solid #d8cfb9; padding:20px 0; }
+.joining-multiday .jm-faq summary { cursor:pointer; font-size:17px; font-weight:600; color:#39352b; }
+.joining-multiday .jm-faq details p { margin:14px 0 0; font-size:15px; }
+.joining-multiday .dt-internal-link { color:#6f621f; text-decoration:none; border-bottom:1px solid rgba(117,104,44,.55); font-weight:500; font-size:.95em; }
+.joining-multiday .dt-internal-link:hover { border-bottom-color:#d5a53c; }
+@media (max-width:700px) {
+    .joining-multiday .jm-section { padding:40px 0; }
+    .joining-multiday .jm-reading h2 { font-size:24px; }
+    .joining-multiday .jm-reading p { font-size:15px; }
+    .joining-multiday .accommodation-card { grid-template-columns:1fr; }
+    .joining-multiday .jm-lodge-photo { min-height:300px; }
+    .joining-multiday .hero-altoo p.hero-subtitle { font-size:15px; line-height:1.6; }
+}
+@media (max-width:768px) {
+    .joining-multiday .seasons-table { font-size:14px; }
+    .joining-multiday .seasons-table th, .joining-multiday .seasons-table td { padding:10px; }
+}

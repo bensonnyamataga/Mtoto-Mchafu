@@ -2,7 +2,7 @@
 // Load typography independently of cached page stylesheets, including subfolder pages.
 $dttSiteRoot = str_replace('\\', '/', realpath(__DIR__ . '/..'));
 $dttScriptFile = str_replace('\\', '/', $_SERVER['SCRIPT_FILENAME'] ?? '');
-$dttScriptUrl = $_SERVER['SCRIPT_NAME'] ?? '';
+$dttScriptUrl = rawurldecode($_SERVER['SCRIPT_NAME'] ?? '');
 $dttBaseUrl = '';
 
 if (strpos($dttScriptFile, $dttSiteRoot . '/') === 0) {
