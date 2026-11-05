@@ -165,6 +165,8 @@ body.dtt-full-mazzard :is(div,span,a,h1,h2,h3,h4,h5,h6,p,blockquote,li,ul,ol,sma
 }
 
     </style>
+    <link rel="stylesheet" href="style/hero.css?v=1">
+    <script src="script/hero.js?v=1" defer></script>
 </head>
 <body class="dtt-full-mazzard">
 <?php include __DIR__ . '/plugins/header.php'; ?>
@@ -271,44 +273,6 @@ body.dtt-full-mazzard :is(div,span,a,h1,h2,h3,h4,h5,h6,p,blockquote,li,ul,ol,sma
     </article>
   </main>
 </div>
-<script>
-/* Keep this page's banner below the existing site navigation.
-   Some versions of Deep Tanzania Tours header.php use absolute positioning;
-   others keep the header in document flow. This detects the real overlap
-   instead of using a fixed 180px offset that breaks responsive layouts. */
-(function () {
-  function alignJoinHero() {
-    var page = document.querySelector('.dtt-join-page');
-    if (!page || window.scrollY > 15) return;
-
-    // Reset before measuring so responsive changes cannot accumulate offsets.
-    page.style.paddingTop = '0px';
-    var hero = page.querySelector('.dtt-join-hero');
-    if (!hero) return;
-    var heroTop = hero.getBoundingClientRect().top;
-    var selectors = 'header, #header, #main-header, .site-header, .main-header, .header-container, .header-wrapper, .header-area, .header, .navbar, nav';
-    var elements = document.querySelectorAll(selectors);
-    var bottom = 0;
-    for (var i = 0; i < elements.length; i++) {
-      var el = elements[i];
-      if (page.contains(el)) continue;
-      var r = el.getBoundingClientRect();
-      // Only site navigation at the top of the viewport, never popups/footers.
-      if (r.width < 100 || r.height < 15 || r.height > 340 || r.top > 135 || r.bottom <= 0 || r.bottom > 360) continue;
-      if (r.bottom > bottom) bottom = r.bottom;
-    }
-    var overlap = bottom - heroTop;
-    if (overlap > 3) page.style.paddingTop = Math.ceil(overlap + 8) + 'px';
-  }
-  // Run as early as possible, plus after header scripts/styles finish loading.
-  alignJoinHero();
-  if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', alignJoinHero, {once:true});
-  }
-  window.addEventListener('load', alignJoinHero, {once:true});
-  window.addEventListener('resize', alignJoinHero, {passive:true});
-})();
-</script>
 
 <dialog class="dtt-join-modal" id="dtt-join-dialog" aria-labelledby="dtt-join-dialog-heading">
   <h2 id="dtt-join-dialog-heading">Group safari enquiry</h2>

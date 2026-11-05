@@ -9,23 +9,6 @@
     
    <link rel="stylesheet" href="style/style.css">
    <link rel="stylesheet" href="style/package.css">
-   <style>
-       /* Match the About Us banner height, allowing extra room when text wraps. */
-       #home.hero {
-           height: 500px;
-           min-height: 500px;
-           padding: 60px 24px;
-           isolation: isolate;
-       }
-
-       @media (max-width: 700px) {
-           #home.hero {
-               height: 480px;
-               min-height: 480px;
-               padding: 48px 18px;
-           }
-       }
-   </style>
    <script src="script/script.js"></script>
 
 <!-- Google tag (gtag.js) -->
@@ -37,6 +20,8 @@
 
   gtag('config', 'G-FP1EW3J4H7');
 </script>
+    <link rel="stylesheet" href="style/hero.css?v=1">
+    <script src="script/hero.js?v=1" defer></script>
 </head>
 <body>
 
@@ -59,24 +44,6 @@
         </div>
     </div>
 </section>
-<script>
-    // Keep the shorter banner below the fixed navigation, as on About Us.
-    (function () {
-        var hero = document.getElementById('home');
-        var header = document.querySelector('.Travolo-header');
-        if (!hero || !header) return;
-
-        function alignHomeHero() {
-            var fixed = window.getComputedStyle(header).position === 'fixed';
-            hero.style.marginTop = fixed ? (header.offsetHeight + 8) + 'px' : '0px';
-        }
-
-        alignHomeHero();
-        window.addEventListener('load', alignHomeHero, {once: true});
-        window.addEventListener('resize', alignHomeHero, {passive: true});
-        if ('ResizeObserver' in window) new ResizeObserver(alignHomeHero).observe(header);
-    })();
-</script>
 
 
 <!-- About Section -->

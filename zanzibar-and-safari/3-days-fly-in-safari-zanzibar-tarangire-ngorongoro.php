@@ -295,6 +295,8 @@ zanzibar-and-safari/5-days-luxury-safari-zanzibar-serengeti-ngorongoro.php<!DOCT
     </style>
     <script src="script.js"></script>
     <script src="script/package.js"></script>
+    <link rel="stylesheet" href="../style/hero.css?v=1">
+    <script src="../script/hero.js?v=1" defer></script>
 </head>
 <body>
 

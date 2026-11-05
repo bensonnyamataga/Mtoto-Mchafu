@@ -376,6 +376,8 @@
       "mainEntityOfPage": "https://deeptanzaniatours.com/migrational-seasonal/5-day-serengeti-great-migration-safari.php"
     }
     </script>
+    <link rel="stylesheet" href="../style/hero.css?v=1">
+    <script src="../script/hero.js?v=1" defer></script>
 </head>
 
 <body>

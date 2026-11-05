@@ -14,6 +14,8 @@
     <link rel="stylesheet" href="style/style.css">
    <script src="script.js"></script>
     <script src="script/package.js"></script>
+    <link rel="stylesheet" href="style/hero.css?v=1">
+    <script src="script/hero.js?v=1" defer></script>
 </head>
 <body>
 

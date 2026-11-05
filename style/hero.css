@@ -1,0 +1,43 @@
+/* All page banners use the homepage dimensions. */
+:root {
+    --site-hero-height: 500px;
+}
+
+body :is(.hero, .hero-altoo, .dtt-about-page .dtt-about-hero, .dtt-join-page .dtt-join-hero) {
+    box-sizing: border-box;
+    height: var(--site-hero-height) !important;
+    min-height: var(--site-hero-height) !important;
+    padding: 60px 24px !important;
+    isolation: isolate;
+}
+
+@media (max-width: 700px) {
+    :root {
+        --site-hero-height: 480px;
+    }
+
+    body :is(.hero, .hero-altoo, .dtt-about-page .dtt-about-hero, .dtt-join-page .dtt-join-hero) {
+        padding: 48px 18px !important;
+    }
+
+    /* Replace the large gaps intended for the previous full-screen banners. */
+    body .hero-altoo .hero-altoo-content {
+        padding: 0;
+        margin-top: 0;
+    }
+
+    body .hero-altoo h1 {
+        margin-bottom: 16px;
+        line-height: 1.2;
+    }
+
+    body .hero-altoo p.hero-subtitle {
+        margin-bottom: 18px;
+        padding: 0;
+    }
+
+    body .hero-altoo .hero-altoo-btns {
+        margin-top: 0;
+        padding: 0;
+    }
+}

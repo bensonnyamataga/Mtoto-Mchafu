@@ -360,6 +360,8 @@
       "mainEntityOfPage": "https://deeptanzaniatours.com/migration/serengeti-great-migration-safari-guide.php"
     }
     </script>
+    <link rel="stylesheet" href="../style/hero.css?v=1">
+    <script src="../script/hero.js?v=1" defer></script>
 </head>
 
 <body>

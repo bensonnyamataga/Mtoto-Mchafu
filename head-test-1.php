@@ -778,6 +778,8 @@
             }
         }    </style>
     <?php require_once __DIR__ . '/style/font-loader.php'; ?>
+    <link rel="stylesheet" href="style/hero.css?v=1">
+    <script src="script/hero.js?v=1" defer></script>
 </head>
 <body>
     <!-- Google Translate Element -->

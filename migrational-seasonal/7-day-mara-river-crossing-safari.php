@@ -386,6 +386,8 @@
       "mainEntityOfPage": "https://deeptanzaniatours.com/migrational-seasonal/7-day-mara-river-crossing-safari.php"
     }
     </script>
+    <link rel="stylesheet" href="../style/hero.css?v=1">
+    <script src="../script/hero.js?v=1" defer></script>
 </head>
 
 <body>

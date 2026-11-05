@@ -386,6 +386,8 @@
       "mainEntityOfPage": "https://deeptanzaniatours.com/safari-package/13-day-tanzania-honeymoon-safari-beach-holiday.php"
     }
     </script>
+    <link rel="stylesheet" href="../style/hero.css?v=1">
+    <script src="../script/hero.js?v=1" defer></script>
 </head>
 
 
