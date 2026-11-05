@@ -231,9 +231,9 @@ body.dtt-full-mazzard :is(div,span,a,h1,h2,h3,h4,h5,h6,p,blockquote,li,ul,ol,sma
 </article>
 <article class="dtt-jg-card" aria-labelledby="joining-package-5">
   <div class="dtt-jg-duration" aria-label="3 days"><b>03</b><span>Days</span></div>
-  <div class="dtt-jg-card-copy"><h3 id="joining-package-5">3-Day Tarangire, Lake Manyara &amp; Ngorongoro Group Safari</h3><p class="dtt-jg-sub">Budget joining safari · Departure dates on request</p><div class="dtt-jg-wildlife"><span>🌳 Diverse landscapes</span><span>🦁 Wildlife viewing</span></div></div>
+  <div class="dtt-jg-card-copy"><h3 id="joining-package-5"><a class="dtt-jg-title-link" href="3-day-tarangire-ngorongoro-lake-manyara-joining-group-safari.php">3-Day Tarangire, Ngorongoro &amp; Lake Manyara Group Safari</a></h3><p class="dtt-jg-sub">Budget joining safari · Departure dates on request</p><div class="dtt-jg-wildlife"><span>🌳 Diverse landscapes</span><span>🦁 Wildlife viewing</span></div></div>
   <div class="dtt-jg-price"><strong>$660</strong><small>total / person</small></div>
-  <button class="dtt-jg-join" type="button" data-tour="3-Day Tarangire, Lake Manyara &amp; Ngorongoro Group Safari" data-price="$660" aria-label="Enquire about 3-Day Tarangire, Lake Manyara &amp; Ngorongoro Group Safari">Join group</button>
+  <a class="dtt-jg-details" href="3-day-tarangire-ngorongoro-lake-manyara-joining-group-safari.php" aria-label="View the 3-Day Tarangire, Ngorongoro and Lake Manyara joining group safari itinerary">View Safari</a>
 </article>
 <article class="dtt-jg-card" aria-labelledby="joining-package-6">
   <div class="dtt-jg-duration" aria-label="3 days"><b>03</b><span>Days</span></div>
