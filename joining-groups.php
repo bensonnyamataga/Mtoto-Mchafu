@@ -30,7 +30,7 @@
 .dtt-join-page a {text-decoration:none;}
 .dtt-join-page a:focus-visible {outline:3px solid #f5d16c;outline-offset:4px;}
 /* Image, overlay, and copy are three independent layers without negative z-indices. */
-.dtt-join-page .dtt-join-hero {position:relative; isolation:isolate; overflow:hidden; width:100%; min-height:500px; height:auto !important; margin:0; padding:100px 24px 95px; display:flex; justify-content:center; align-items:center; background:#27382d; text-align:center;}
+.dtt-join-page .dtt-join-hero {position:relative; isolation:isolate; overflow:hidden; width:100%; min-height:500px; height:500px !important; margin:0; padding:100px 24px 95px; display:flex; justify-content:center; align-items:center; background:#27382d; text-align:center;}
 .dtt-join-page .dtt-join-image {position:absolute; z-index:0; top:0; right:0; bottom:0; left:0; width:100%; height:100%; display:block; object-fit:cover; object-position:center 55%; margin:0;}
 .dtt-join-page .dtt-join-shade {position:absolute; z-index:1; inset:0; pointer-events:none; background:linear-gradient(100deg,rgba(11,23,19,.78),rgba(13,28,24,.66) 48%,rgba(12,24,19,.75));}
 .dtt-join-page .dtt-join-hero-inner {z-index:2; position:relative; display:block; width:100%; max-width:900px; padding:0; margin:0 auto; top:auto !important; left:auto !important; right:auto !important; bottom:auto !important; transform:none !important; float:none;}
@@ -56,7 +56,7 @@
 .dtt-join-page .dtt-join-narrative h2::after {content:''; position:absolute; display:block; width:48px; height:3px; bottom:0; left:calc(50% - 24px); background:var(--dtt-gold);}
 .dtt-join-page .dtt-join-narrative .dtt-ending {margin-top:27px; color:#7b6a25; font-size:17px; font-weight:700;}
 @media (max-width:700px){
- .dtt-join-page .dtt-join-hero {min-height:480px; padding:72px 18px 78px;}
+ .dtt-join-page .dtt-join-hero {min-height:480px; height:480px !important; padding:72px 18px 78px;}
  .dtt-join-page .dtt-join-hero h1 {font-size:clamp(32px,8vw,43px); line-height:1.21;}
  .dtt-join-page .dtt-join-kicker {font-size:11px; letter-spacing:1.8px;}
  .dtt-join-page .dtt-join-lead {font-size:15px; line-height:1.7;}

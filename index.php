@@ -12,7 +12,7 @@
    <style>
        /* Match the About Us banner height, allowing extra room when text wraps. */
        #home.hero {
-           height: auto;
+           height: 500px;
            min-height: 500px;
            padding: 60px 24px;
            isolation: isolate;
@@ -20,6 +20,7 @@
 
        @media (max-width: 700px) {
            #home.hero {
+               height: 480px;
                min-height: 480px;
                padding: 48px 18px;
            }
