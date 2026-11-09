@@ -576,7 +576,7 @@
 
         <div class="kili-image-grid">
             <figure class="kili-image-card">
-                <img src="../img/barafu-camp-to-summit.jpg"
+                <img src="../img/barafu-camp-kilimanjaro-point.jpg"
                      alt="Barafu Camp summit route toward Stella Point on Mount Kilimanjaro"
                      loading="lazy">
                 <figcaption>The Barafu approach is used by routes such as Machame and Lemosho before climbers continue toward Stella Point.</figcaption>
