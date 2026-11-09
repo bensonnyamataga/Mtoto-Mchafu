@@ -11,12 +11,12 @@
 
     <meta name="keywords" content="Kilimanjaro summit night, Kilimanjaro summit attempt, Kilimanjaro summit night guide, what to wear on Kilimanjaro summit night, Kilimanjaro summit food, Barafu Camp to Uhuru Peak, Kibo Hut to Uhuru Peak, Stella Point, Gilman's Point, Uhuru Peak, Kilimanjaro guide tips">
 
-    <link rel="canonical" href="https://deeptanzaniatours.com/kilimanjaro-articles/kilimanjaro-summit-night-guide.php">
+    <link rel="canonical" href="https://deeptanzaniatours.com/kilimanjaro-articles/kilimanjaro-summit-night-experience.php">
 
     <meta property="og:title" content="Kilimanjaro Summit Night: A Mountain Guide's Real Experience">
     <meta property="og:description" content="A clear and honest guide to Kilimanjaro summit night, based on Peter's 15 years of experience across all Kilimanjaro routes.">
     <meta property="og:image" content="https://deeptanzaniatours.com/img/kilimanjaro-summit-night-guide.jpg">
-    <meta property="og:url" content="https://deeptanzaniatours.com/kilimanjaro-articles/kilimanjaro-summit-night-guide.php">
+    <meta property="og:url" content="https://deeptanzaniatours.com/kilimanjaro-articles/kilimanjaro-summit-night-experience.php">
     <meta property="og:type" content="article">
 
     <meta name="twitter:card" content="summary_large_image">
@@ -397,7 +397,7 @@
       "headline": "Kilimanjaro Summit Night: A Mountain Guide's Real Experience",
       "description": "A practical Kilimanjaro summit night guide based on the field experience of Peter, a Kilimanjaro mountain guide with 15 years of experience.",
       "image": "https://deeptanzaniatours.com/img/kilimanjaro-summit-night-guide.jpg",
-      "mainEntityOfPage": "https://deeptanzaniatours.com/kilimanjaro-articles/kilimanjaro-summit-night-guide.php",
+      "mainEntityOfPage": "https://deeptanzaniatours.com/kilimanjaro-articles/kilimanjaro-summit-night-experience.php",
       "author": {
         "@type": "Organization",
         "name": "Deep Tanzania Tours",

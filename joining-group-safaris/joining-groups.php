@@ -30,18 +30,18 @@
 .dtt-join-page a {text-decoration:none;}
 .dtt-join-page a:focus-visible {outline:3px solid #f5d16c;outline-offset:4px;}
 /* Image, overlay, and copy are three independent layers without negative z-indices. */
-.dtt-join-page .dtt-join-hero {position:relative; isolation:isolate; overflow:hidden; width:100%; min-height:500px; height:500px !important; margin:0; padding:100px 24px 95px; display:flex; justify-content:center; align-items:center; background:#27382d; text-align:center;}
-.dtt-join-page .dtt-join-image {position:absolute; z-index:0; top:0; right:0; bottom:0; left:0; width:100%; height:100%; display:block; object-fit:cover; object-position:center 55%; margin:0;}
-.dtt-join-page .dtt-join-shade {position:absolute; z-index:1; inset:0; pointer-events:none; background:linear-gradient(100deg,rgba(11,23,19,.78),rgba(13,28,24,.66) 48%,rgba(12,24,19,.75));}
-.dtt-join-page .dtt-join-hero-inner {z-index:2; position:relative; display:block; width:100%; max-width:900px; padding:0; margin:0 auto; top:auto !important; left:auto !important; right:auto !important; bottom:auto !important; transform:none !important; float:none;}
-.dtt-join-page .dtt-join-kicker {display:inline-block; margin:0 0 19px; color:#f4d48b; font-size:12px; font-weight:700; letter-spacing:2.5px; line-height:1.5; text-transform:uppercase;}
-.dtt-join-page .dtt-join-hero h1 {display:block !important; position:relative !important; inset:auto !important; float:none !important; margin:0 auto 17px; padding:0; max-width:870px; color:#fff; font-family:'Mazzard H', sans-serif; font-size:clamp(36px,4.1vw,54px); font-weight:700; line-height:1.18; letter-spacing:-.9px; text-shadow:0 3px 12px rgba(0,0,0,.18); text-align:center; transform:none !important;}
-.dtt-join-page .dtt-join-lead {max-width:700px; margin:0 auto; padding:0; color:#f5f2ea; font-size:clamp(15px,1.45vw,18px); font-weight:400; line-height:1.8; text-align:center;}
-.dtt-join-page .dtt-join-hero-buttons {display:flex; flex-wrap:wrap; justify-content:center; align-items:center; gap:14px; margin:28px auto 0; padding:0;}
-.dtt-join-page .dtt-join-button {position:relative; min-width:195px; min-height:49px; display:inline-flex; align-items:center; justify-content:center; padding:13px 24px; border-radius:100px; font-size:12px; font-weight:700; line-height:1.5; letter-spacing:.55px; text-transform:uppercase; transition:transform .2s ease, background-color .2s ease;}
-.dtt-join-page .dtt-join-button:hover {transform:translateY(-2px);}
-.dtt-join-page .dtt-join-button-primary {background:#d8ad48; color:#1e1b14;}
-.dtt-join-page .dtt-join-button-secondary {background:rgba(255,255,255,.12); color:#fff; border:1px solid rgba(255,255,255,.7); backdrop-filter:blur(2px);}
+
+
+
+
+
+
+
+
+
+
+
+
 /* Continuous narrative matching the original About Us page layout. */
 .dtt-join-page .dtt-join-main {scroll-margin-top:90px; position:relative; display:block; clear:both; background:var(--dtt-paper); padding:60px 20px 88px; margin:0;}
 .dtt-join-page .dtt-join-narrative {position:relative; width:100%; max-width:800px; margin:0 auto; padding:0; float:none; transform:none; top:auto; left:auto; text-align:left;}
@@ -56,12 +56,12 @@
 .dtt-join-page .dtt-join-narrative h2::after {content:''; position:absolute; display:block; width:48px; height:3px; bottom:0; left:calc(50% - 24px); background:var(--dtt-gold);}
 .dtt-join-page .dtt-join-narrative .dtt-ending {margin-top:27px; color:#7b6a25; font-size:17px; font-weight:700;}
 @media (max-width:700px){
- .dtt-join-page .dtt-join-hero {min-height:480px; height:480px !important; padding:72px 18px 78px;}
- .dtt-join-page .dtt-join-hero h1 {font-size:clamp(32px,8vw,43px); line-height:1.21;}
- .dtt-join-page .dtt-join-kicker {font-size:11px; letter-spacing:1.8px;}
- .dtt-join-page .dtt-join-lead {font-size:15px; line-height:1.7;}
- .dtt-join-page .dtt-join-hero-buttons {flex-direction:column; gap:11px; margin-top:25px;}
- .dtt-join-page .dtt-join-button {width:min(100%,270px); min-height:47px;}
+
+
+
+
+
+
  .dtt-join-page .dtt-join-main {padding:44px 17px 70px;}
  .dtt-join-page .dtt-quote {padding:20px 20px 23px;}
  .dtt-join-page .dtt-quote blockquote {font-size:23px;}
@@ -70,7 +70,6 @@
  .dtt-join-page .dtt-highlight {padding:19px 20px; margin:27px 0 36px;}
  .dtt-join-page .dtt-join-narrative h2 {margin-top:39px; font-size:22px;}
 }
-@media (prefers-reduced-motion:reduce) { .dtt-join-page .dtt-join-button {transition:none;} }
 
 
 /* Full-page typography: navigation, hero, package listings, calls-to-action, forms and footer.
@@ -169,6 +168,7 @@ body.dtt-full-mazzard :is(div,span,a,h1,h2,h3,h4,h5,h6,p,blockquote,li,ul,ol,sma
     .dtt-join-page .dtt-jg-title-link:hover { text-decoration:underline; }
     </style>
     <link rel="stylesheet" href="../style/hero.css?v=1">
+    <link rel="stylesheet" href="../style/joining-hero.css?v=1">
     <script src="../script/hero.js?v=1" defer></script>
 </head>
 <body class="dtt-full-mazzard">
@@ -237,21 +237,21 @@ body.dtt-full-mazzard :is(div,span,a,h1,h2,h3,h4,h5,h6,p,blockquote,li,ul,ol,sma
 </article>
 <article class="dtt-jg-card" aria-labelledby="joining-package-6">
   <div class="dtt-jg-duration" aria-label="3 days"><b>03</b><span>Days</span></div>
-  <div class="dtt-jg-card-copy"><h3 id="joining-package-6">3-Day Serengeti &amp; Ngorongoro Crater Group Safari</h3><p class="dtt-jg-sub">Budget joining safari · Departure dates on request</p><div class="dtt-jg-wildlife"><span>🦁 Lion prides</span><span>🦓 Serengeti plains</span></div></div>
+  <div class="dtt-jg-card-copy"><h3 id="joining-package-6"><a class="dtt-jg-title-link" href="3-day-serengeti-ngorongoro-joining-group-safari.php">3-Day Serengeti &amp; Ngorongoro Crater Group Safari</a></h3><p class="dtt-jg-sub">Budget joining safari · Departure dates on request</p><div class="dtt-jg-wildlife"><span>🦁 Lion prides</span><span>🦓 Serengeti plains</span></div></div>
   <div class="dtt-jg-price"><strong>$720</strong><small>total / person</small></div>
-  <button class="dtt-jg-join" type="button" data-tour="3-Day Serengeti &amp; Ngorongoro Crater Group Safari" data-price="$720" aria-label="Enquire about 3-Day Serengeti &amp; Ngorongoro Crater Group Safari">Join group</button>
+  <a class="dtt-jg-details" href="3-day-serengeti-ngorongoro-joining-group-safari.php" aria-label="View the 3-Day Serengeti and Ngorongoro Crater joining group safari itinerary">View Safari</a>
 </article>
 <article class="dtt-jg-card" aria-labelledby="joining-package-7">
   <div class="dtt-jg-duration" aria-label="4 days"><b>04</b><span>Days</span></div>
-  <div class="dtt-jg-card-copy"><h3 id="joining-package-7">4-Day Tarangire, Serengeti &amp; Ngorongoro Group Safari</h3><p class="dtt-jg-sub">Budget joining safari · Departure dates on request</p><div class="dtt-jg-wildlife"><span>🐘 Elephant herds</span><span>🦁 Predator habitat</span></div></div>
+  <div class="dtt-jg-card-copy"><h3 id="joining-package-7"><a class="dtt-jg-title-link" href="4-day-tarangire-serengeti-ngorongoro-joining-group-safari.php">4-Day Tarangire, Serengeti &amp; Ngorongoro Group Safari</a></h3><p class="dtt-jg-sub">Budget joining safari · Departure dates on request</p><div class="dtt-jg-wildlife"><span>🐘 Elephant herds</span><span>🦁 Predator habitat</span></div></div>
   <div class="dtt-jg-price"><strong>$880</strong><small>total / person</small></div>
-  <button class="dtt-jg-join" type="button" data-tour="4-Day Tarangire, Serengeti &amp; Ngorongoro Group Safari" data-price="$880" aria-label="Enquire about 4-Day Tarangire, Serengeti &amp; Ngorongoro Group Safari">Join group</button>
+  <a class="dtt-jg-details" href="4-day-tarangire-serengeti-ngorongoro-joining-group-safari.php" aria-label="View the 4-Day Tarangire, Serengeti and Ngorongoro joining group safari itinerary">View Safari</a>
 </article>
 <article class="dtt-jg-card" aria-labelledby="joining-package-8">
   <div class="dtt-jg-duration" aria-label="4 days"><b>04</b><span>Days</span></div>
-  <div class="dtt-jg-card-copy"><h3 id="joining-package-8">4-Day Serengeti (2 Nights) &amp; Ngorongoro Group Safari</h3><p class="dtt-jg-sub">Budget joining safari · Departure dates on request</p><div class="dtt-jg-wildlife"><span>🦁 Big cats</span><span>🦏 Crater wildlife</span></div></div>
+  <div class="dtt-jg-card-copy"><h3 id="joining-package-8"><a class="dtt-jg-title-link" href="4-day-serengeti-ngorongoro-joining-group-safari.php">4-Day Serengeti (2 Nights) &amp; Ngorongoro Group Safari</a></h3><p class="dtt-jg-sub">Budget joining safari · Departure dates on request</p><div class="dtt-jg-wildlife"><span>🦁 Big cats</span><span>🦏 Crater wildlife</span></div></div>
   <div class="dtt-jg-price"><strong>$960</strong><small>total / person</small></div>
-  <button class="dtt-jg-join" type="button" data-tour="4-Day Serengeti (2 Nights) &amp; Ngorongoro Group Safari" data-price="$960" aria-label="Enquire about 4-Day Serengeti (2 Nights) &amp; Ngorongoro Group Safari">Join group</button>
+  <a class="dtt-jg-details" href="4-day-serengeti-ngorongoro-joining-group-safari.php" aria-label="View the 4-Day Serengeti two nights and Ngorongoro joining group safari itinerary">View Safari</a>
 </article>
 <article class="dtt-jg-card" aria-labelledby="joining-package-9">
   <div class="dtt-jg-duration" aria-label="5 days"><b>05</b><span>Days</span></div>

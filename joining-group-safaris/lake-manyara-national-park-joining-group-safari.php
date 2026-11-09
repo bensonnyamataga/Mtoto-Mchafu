@@ -18,6 +18,7 @@
     <link rel="stylesheet" href="../style/style.css">
     <link rel="stylesheet" href="../style/joining-package.css?v=3">
     <link rel="stylesheet" href="../style/hero.css?v=1">
+    <link rel="stylesheet" href="../style/joining-hero.css?v=1">
     <script src="../script/hero.js?v=1" defer></script>
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-FP1EW3J4H7"></script>
     <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-FP1EW3J4H7');</script>

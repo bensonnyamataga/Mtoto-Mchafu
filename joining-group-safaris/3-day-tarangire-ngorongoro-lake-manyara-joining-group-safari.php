@@ -50,6 +50,7 @@ $schema = [
     <link rel="stylesheet" href="../style/style.css">
     <link rel="stylesheet" href="../style/joining-multiday.css?v=3">
     <link rel="stylesheet" href="../style/hero.css?v=1">
+    <link rel="stylesheet" href="../style/joining-hero.css?v=1">
     <script src="../script/hero.js?v=1" defer></script>
     <script src="../script/lodge-gallery.js?v=1" defer></script>
     <script type="application/ld+json"><?= json_encode($schema, JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE | JSON_HEX_TAG | JSON_HEX_AMP | JSON_HEX_APOS | JSON_HEX_QUOT) ?></script>
@@ -59,20 +60,21 @@ $schema = [
 <body class="joining-multiday">
 <?php include __DIR__ . '/../plugins-folder/header.php'; ?>
 
-<section class="hero-altoo" aria-labelledby="safari-title">
-    <div class="hero-altoo-background">
-        <img src="../img/tarangire-national-park-banner.jpg" alt="Elephant herds in Tarangire National Park" fetchpriority="high">
-        <div class="hero-altoo-overlay"></div>
-    </div>
-    <div class="container"><div class="hero-altoo-content">
-        <h1 id="safari-title">3-Day Tarangire, Ngorongoro &amp; Lake Manyara Joining Group Safari</h1>
-        <p class="hero-subtitle">Three wildlife destinations, 4–6 travellers and two budget lodge nights. A shared Tanzania safari from Arusha, with full-board meals.</p>
-        <div class="hero-altoo-btns">
-            <a class="btn btn-primary" href="#itinerary">View the Itinerary</a>
-            <a class="btn btn-secondary" href="../contact-us.php" data-three-day-enquiry>Check Dates &amp; Join</a>
+<div class="dtt-join-page">
+    <section class="dtt-join-hero" aria-labelledby="safari-title">
+        <img class="dtt-join-image" src="../img/tarangire-national-park-banner.jpg" alt="Elephant herds in Tarangire National Park" fetchpriority="high">
+        <div class="dtt-join-shade" aria-hidden="true"></div>
+        <div class="dtt-join-hero-inner">
+            <span class="dtt-join-kicker">SHARED WILDLIFE ADVENTURES</span>
+            <h1 id="safari-title">3-Day Tarangire, Ngorongoro &amp; Lake Manyara Joining Group Safari</h1>
+            <p class="dtt-join-lead">Three wildlife destinations, 4–6 travellers and two budget lodge nights. A shared Tanzania safari from Arusha, with full-board meals.</p>
+            <div class="dtt-join-hero-buttons">
+            <a class="dtt-join-button dtt-join-button-primary" href="#itinerary">View the Itinerary</a>
+            <a class="dtt-join-button dtt-join-button-secondary" href="../contact-us.php" data-three-day-enquiry>Check Dates &amp; Join</a>
         </div>
-    </div></div>
-</section>
+        </div>
+    </section>
+</div>
 
 <main>
     <nav class="jm-breadcrumb" aria-label="Breadcrumb"><a href="../index.php">Home</a> / <a href="joining-groups.php">Joining Group Safaris</a> / <span aria-current="page">3-Day Tarangire, Ngorongoro &amp; Lake Manyara</span></nav>
