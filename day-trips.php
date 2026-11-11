@@ -733,7 +733,7 @@
                             <span class="amount">$220</span>
                             <span class="per-person">per person</span>
                         </div>
-                        <a href="https://wa.me/255754042154?text=Hello%20Tanzania%20Adventures%20Group,%20I%20would%20like%20to%20book%20Arusha%20National%20Park%20Day%20Trip." class="btn btn-primary">View Details</a>
+                        <a href="https://wa.me/255655147108?text=Hello%20Deep%20Tanzania%20Tours,%20I%20would%20like%20to%20book%20Arusha%20National%20Park%20Day%20Trip." class="btn btn-primary">View Details</a>
                     </div>
                 </div>
             </div>
@@ -758,7 +758,7 @@
                             <span class="amount">$350</span>
                             <span class="per-person">per person</span>
                         </div>
-                        <a href="https://wa.me/255754042154?text=Hello%20Tanzania%20Adventures%20Group,%20I%20would%20like%20to%20book%20Ngorongoro%20Crater%20Day%20Trip." class="btn btn-primary">View Details</a>
+                        <a href="https://wa.me/255655147108?text=Hello%20Deep%20Tanzania%20Tours,%20I%20would%20like%20to%20book%20Ngorongoro%20Crater%20Day%20Trip." class="btn btn-primary">View Details</a>
                     </div>
                 </div>
             </div>
@@ -783,7 +783,7 @@
                             <span class="amount">$250</span>
                             <span class="per-person">per person</span>
                         </div>
-                        <a href="https://wa.me/255754042154?text=Hello%20Tanzania%20Adventures%20Group,%20I%20would%20like%20to%20book%20Tarangire%20National%20Park%20Day%20Trip." class="btn btn-primary">View Details</a>
+                        <a href="https://wa.me/255655147108?text=Hello%20Deep%20Tanzania%20Tours,%20I%20would%20like%20to%20book%20Tarangire%20National%20Park%20Day%20Trip." class="btn btn-primary">View Details</a>
                     </div>
                 </div>
             </div>
@@ -808,7 +808,7 @@
                             <span class="amount">$230</span>
                             <span class="per-person">per person</span>
                         </div>
-                        <a href="https://wa.me/255754042154?text=Hello%20Tanzania%20Adventures%20Group,%20I%20would%20like%20to%20book%20Lake%20Manyara%20Day%20Trip." class="btn btn-primary">View Details</a>
+                        <a href="https://wa.me/255655147108?text=Hello%20Deep%20Tanzania%20Tours,%20I%20would%20like%20to%20book%20Lake%20Manyara%20Day%20Trip." class="btn btn-primary">View Details</a>
                     </div>
                 </div>
             </div>
@@ -833,7 +833,7 @@
                             <span class="amount">$120</span>
                             <span class="per-person">per person</span>
                         </div>
-                        <a href="https://wa.me/255754042154?text=Hello%20Tanzania%20Adventures%20Group,%20I%20would%20like%20to%20book%20Materuni%20Waterfalls%20and%20Coffee%20Tour." class="btn btn-primary">View Details</a>
+                        <a href="https://wa.me/255655147108?text=Hello%20Deep%20Tanzania%20Tours,%20I%20would%20like%20to%20book%20Materuni%20Waterfalls%20and%20Coffee%20Tour." class="btn btn-primary">View Details</a>
                     </div>
                 </div>
             </div>
@@ -858,7 +858,7 @@
                             <span class="amount">$120</span>
                             <span class="per-person">per person</span>
                         </div>
-                        <a href="https://wa.me/255754042154?text=Hello%20Tanzania%20Adventures%20Group,%20I%20would%20like%20to%20book%20Chemka%20Hot%20Springs%20Day%20Trip." class="btn btn-primary">View Details</a>
+                        <a href="https://wa.me/255655147108?text=Hello%20Deep%20Tanzania%20Tours,%20I%20would%20like%20to%20book%20Chemka%20Hot%20Springs%20Day%20Trip." class="btn btn-primary">View Details</a>
                     </div>
                 </div>
             </div>
@@ -908,7 +908,7 @@
                             <span class="amount">$150</span>
                             <span class="per-person">per person</span>
                         </div>
-                        <a href="https://wa.me/255754042154?text=Hello%20Tanzania%20Adventures%20Group,%20I%20would%20like%20to%20book%20Lake%20Chala%20Day%20Trip." class="btn btn-primary">View Details</a>
+                        <a href="https://wa.me/255655147108?text=Hello%20Deep%20Tanzania%20Tours,%20I%20would%20like%20to%20book%20Lake%20Chala%20Day%20Trip." class="btn btn-primary">View Details</a>
                     </div>
                 </div>
             </div>
@@ -933,7 +933,7 @@
                             <span class="amount">$120</span>
                             <span class="per-person">per person</span>
                         </div>
-                        <a href="https://wa.me/255754042154?text=Hello%20Tanzania%20Adventures%20Group,%20I%20would%20like%20to%20book%20Maasai%20Village%20Cultural%20Tour." class="btn btn-primary">View Details</a>
+                        <a href="https://wa.me/255655147108?text=Hello%20Deep%20Tanzania%20Tours,%20I%20would%20like%20to%20book%20Maasai%20Village%20Cultural%20Tour." class="btn btn-primary">View Details</a>
                     </div>
                 </div>
             </div>

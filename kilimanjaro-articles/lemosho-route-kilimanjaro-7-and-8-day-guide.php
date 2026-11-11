@@ -9,7 +9,7 @@
 
     <meta name="description" content="Explore the Kilimanjaro Lemosho Route with accurate camp elevations, 7-day and 8-day comparisons, walking distances, acclimatization advice and a complete itinerary.">
 
-    <meta name="keywords" content="Lemosho Route Kilimanjaro, 8 day Lemosho route, 7 day Lemosho route, Lemosho route itinerary, Lemosho route elevations, Lemosho camps, Kilimanjaro first time climbers, Tanzania Adventures Group">
+    <meta name="keywords" content="Lemosho Route Kilimanjaro, 8 day Lemosho route, 7 day Lemosho route, Lemosho route itinerary, Lemosho route elevations, Lemosho camps, Kilimanjaro first time climbers, Deep Tanzania Tours">
 
     <link rel="canonical" href="https://tanzaniaadventures.co.tz/kilimanjaro-articles/lemosho-route-kilimanjaro.php">
 
@@ -18,7 +18,7 @@
     <meta property="og:image" content="https://tanzaniaadventures.co.tz/img/mount-kilimanjaro-climbing-banner.jpg">
     <meta property="og:url" content="https://tanzaniaadventures.co.tz/kilimanjaro-articles/lemosho-route-kilimanjaro.php">
     <meta property="og:type" content="article">
-    <meta property="og:site_name" content="Tanzania Adventures Group">
+    <meta property="og:site_name" content="Deep Tanzania Tours">
 
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Kilimanjaro Lemosho Route | 7 & 8 Day Guide">
@@ -372,11 +372,11 @@
         "image": "https://tanzaniaadventures.co.tz/img/mount-kilimanjaro-climbing-banner.jpg",
         "author": {
             "@type": "Organization",
-            "name": "Tanzania Adventures Group"
+            "name": "Deep Tanzania Tours"
         },
         "publisher": {
             "@type": "Organization",
-            "name": "Tanzania Adventures Group",
+            "name": "Deep Tanzania Tours",
             "url": "https://tanzaniaadventures.co.tz/"
         },
         "mainEntityOfPage": "https://tanzaniaadventures.co.tz/kilimanjaro-articles/lemosho-route-kilimanjaro.php"
@@ -404,7 +404,7 @@
 
             <p class="hero-subtitle">
                 Accurate camp elevations | Scenic western approach | Strong acclimatization profile |
-                Camping route | Professional Tanzania Adventures Group mountain support
+                Camping route | Professional Deep Tanzania Tours mountain support
             </p>
 
             <div class="safari-hero-actions">
@@ -425,7 +425,7 @@
             <h1>Lemosho Route Kilimanjaro: Elevations, Camps, Difficulty, Acclimatization &amp; Itinerary</h1>
 
             <div class="article-meta">
-                <span class="author"><i class="far fa-user"></i> By Tanzania Adventures Group</span>
+                <span class="author"><i class="far fa-user"></i> By Deep Tanzania Tours</span>
                 <span class="read-time"><i class="far fa-clock"></i> Local Guide Route Experience</span>
             </div>
         </div>
@@ -923,7 +923,7 @@
 
         <p>
             A professional route recommendation should consider more than the client’s preferred number of days. Before confirming the climb,
-            Tanzania Adventures Group may ask the following questions:
+            Deep Tanzania Tours may ask the following questions:
         </p>
 
         <ul class="kili-bullets">
@@ -978,7 +978,7 @@
         </p>
 
         <p>
-            Kilimanjaro International Airport is the most convenient international arrival point. Tanzania Adventures Group can arrange airport transfers,
+            Kilimanjaro International Airport is the most convenient international arrival point. Deep Tanzania Tours can arrange airport transfers,
             accommodation in Moshi, the pre-climb briefing and a final equipment check before departure to Londorossi Gate.
         </p>
 

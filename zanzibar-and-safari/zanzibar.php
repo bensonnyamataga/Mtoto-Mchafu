@@ -6,19 +6,19 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Zanzibar Travel Guide | Beaches, Stone Town, Best Time, Costs & Holiday Tips</title>
 
-    <meta name="description" content="Plan your Zanzibar beach holiday with Tanzania Adventures Group. Learn about Stone Town, Nungwi, Kendwa, Paje, Jambiani, beach resorts, best time to visit, Zanzibar costs, safari and beach packages, transfers, flights and travel tips.">
+    <meta name="description" content="Plan your Zanzibar beach holiday with Deep Tanzania Tours. Learn about Stone Town, Nungwi, Kendwa, Paje, Jambiani, beach resorts, best time to visit, Zanzibar costs, safari and beach packages, transfers, flights and travel tips.">
     <meta name="keywords" content="Zanzibar travel guide, Zanzibar beach holiday, Zanzibar safari and beach, Stone Town Zanzibar, Nungwi beach Zanzibar, Kendwa beach Zanzibar, Paje beach Zanzibar, Jambiani beach Zanzibar, Zanzibar honeymoon, Zanzibar family holiday, Zanzibar vacation packages, Tanzania safari and Zanzibar packages">
     <link rel="canonical" href="https://tanzaniaadventures.co.tz/zanzibar-travel-guide.php">
 
     <meta property="og:title" content="Zanzibar Travel Guide | Beaches, Stone Town, Best Time, Costs & Holiday Tips">
-    <meta property="og:description" content="Plan your Zanzibar beach holiday with Tanzania Adventures Group. Learn about Stone Town, Nungwi, Kendwa, Paje, Jambiani, beach resorts, best time to visit, Zanzibar costs, safari and beach packages, transfers, flights and travel tips.">
+    <meta property="og:description" content="Plan your Zanzibar beach holiday with Deep Tanzania Tours. Learn about Stone Town, Nungwi, Kendwa, Paje, Jambiani, beach resorts, best time to visit, Zanzibar costs, safari and beach packages, transfers, flights and travel tips.">
     <meta property="og:image" content="https://tanzaniaadventures.co.tz/img/zanzibar-travel-guide.jpg">
     <meta property="og:url" content="https://tanzaniaadventures.co.tz/zanzibar-travel-guide.php">
     <meta property="og:type" content="article">
 
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Zanzibar Travel Guide | Beaches, Stone Town, Best Time, Costs & Holiday Tips">
-    <meta name="twitter:description" content="Plan your Zanzibar beach holiday with Tanzania Adventures Group. Learn about Stone Town, Nungwi, Kendwa, Paje, Jambiani, beach resorts, best time to visit, Zanzibar costs, safari and beach packages, transfers, flights and travel tips.">
+    <meta name="twitter:description" content="Plan your Zanzibar beach holiday with Deep Tanzania Tours. Learn about Stone Town, Nungwi, Kendwa, Paje, Jambiani, beach resorts, best time to visit, Zanzibar costs, safari and beach packages, transfers, flights and travel tips.">
     <meta name="twitter:image" content="https://tanzaniaadventures.co.tz/img/zanzibar-travel-guide.jpg">
 
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
@@ -296,7 +296,7 @@
             <h1>Zanzibar Travel Guide: Beaches, Stone Town, Best Time, Costs & Holiday Planning Tips</h1>
 
             <div class="article-meta">
-                <span class="author"><i class="far fa-user"></i> By Tanzania Adventures Group</span>
+                <span class="author"><i class="far fa-user"></i> By Deep Tanzania Tours</span>
                 <span class="read-time"><i class="far fa-clock"></i> Professional Island Holiday Planning Guide</span>
             </div>
         </div>
@@ -664,7 +664,7 @@
         <h2 id="zanzibar-packages">Recommended Zanzibar Holiday Packages</h2>
 
         <p>
-            Tanzania Adventures Group arranges Zanzibar holidays as beach-only packages or as extensions after Tanzania safari and Kilimanjaro trekking. The best package depends on your travel style, budget, number of nights and whether you want culture, beach relaxation or ocean activities.
+            Deep Tanzania Tours arranges Zanzibar holidays as beach-only packages or as extensions after Tanzania safari and Kilimanjaro trekking. The best package depends on your travel style, budget, number of nights and whether you want culture, beach relaxation or ocean activities.
         </p>
 
         <table class="znz-table">
@@ -753,13 +753,13 @@
         </p>
 
         <div class="article-cta" id="contact">
-            <h3>Plan Your Zanzibar Holiday with Tanzania Adventures Group</h3>
+            <h3>Plan Your Zanzibar Holiday with Deep Tanzania Tours</h3>
             <p>
                 Tell us your travel dates, number of travellers, preferred beach area, accommodation level and whether Zanzibar is part of a safari, Kilimanjaro trek or beach-only holiday. We will recommend the best Zanzibar package based on your budget and travel style.
             </p>
 
             <div class="book-now-container">
-                <a href="https://wa.me/255754042154" class="book-now-btn">
+                <a href="https://wa.me/255655147108" class="book-now-btn">
                     <i class="fab fa-whatsapp"></i> Request Zanzibar Holiday Quote
                 </a>
             </div>

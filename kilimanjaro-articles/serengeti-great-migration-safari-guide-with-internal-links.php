@@ -820,7 +820,7 @@
             </p>
 
             <div class="book-now-container">
-                <a href="https://wa.me/255754042154?text=Hello%20Deep%20Tanzania%20Tours,%20I%20would%20like%20to%20plan%20a%20Serengeti%20Great%20Migration%20Safari." class="book-now-btn">
+                <a href="https://wa.me/255655147108?text=Hello%20Deep%20Tanzania%20Tours,%20I%20would%20like%20to%20plan%20a%20Serengeti%20Great%20Migration%20Safari." class="book-now-btn">
                     <i class="fab fa-whatsapp"></i> Request Great Migration Safari Quote
                 </a>
             </div>

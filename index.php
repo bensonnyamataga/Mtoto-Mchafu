@@ -302,6 +302,81 @@
         </div>
     </section>
     
+<!-- Joining Group Safari Section -->
+<section class="section home-joining-safaris" id="joining-group-safaris" aria-labelledby="joining-safaris-title">
+    <div class="container">
+        <div class="section-title">
+            <span class="subtitle">Share the Adventure</span>
+            <h2 id="joining-safaris-title">Joining Group Safaris — Starting from USD 220 per person</h2>
+            <p>Join fellow travellers and explore Tanzania’s wildlife on a shared safari from Arusha. Choose a short day trip or a multi-day adventure to Tarangire, Serengeti and Ngorongoro Crater.</p>
+        </div>
+
+        <div class="packages-grid">
+            <article class="package-card">
+                <div class="package-image">
+                    <img src="img/tarangire-elephant-safari-group.jpg" alt="Elephants in Tarangire National Park" loading="lazy">
+                </div>
+                <div class="package-content">
+                    <h3>1-Day Tarangire Joining Group Safari</h3>
+                    <p class="package-duration">1 Day · Starts and ends in Arusha</p>
+                    <p class="package-description">Discover elephant herds, ancient baobab trees and Tarangire’s wildlife on a shared day safari.</p>
+                    <div class="package-footer">
+                        <div class="package-price">
+                            <span class="from">From</span>
+                            <span class="amount">USD 220</span>
+                            <span class="per-person">per person</span>
+                        </div>
+                        <a href="joining-group-safaris/tarangire-national-park-joining-group-safari.php" class="btn btn-primary" aria-label="View the 1-Day Tarangire Joining Group Safari">View Safari</a>
+                    </div>
+                </div>
+            </article>
+
+            <article class="package-card">
+                <div class="package-image">
+                    <img src="img/ngorongoro-crater.jpg" alt="View across Ngorongoro Crater" loading="lazy">
+                </div>
+                <div class="package-content">
+                    <h3>2-Day Tarangire &amp; Ngorongoro Joining Group Safari</h3>
+                    <p class="package-duration">2 Days / 1 Night · From Arusha</p>
+                    <p class="package-description">Combine Tarangire’s elephant country with a game drive in Ngorongoro Crater and a budget lodge stay.</p>
+                    <div class="package-footer">
+                        <div class="package-price">
+                            <span class="from">From</span>
+                            <span class="amount">USD 440</span>
+                            <span class="per-person">per person</span>
+                        </div>
+                        <a href="joining-group-safaris/2-day-tarangire-ngorongoro-joining-group-safari.php" class="btn btn-primary" aria-label="View the 2-Day Tarangire and Ngorongoro Joining Group Safari">View Safari</a>
+                    </div>
+                </div>
+            </article>
+
+            <article class="package-card">
+                <div class="package-image">
+                    <img src="img/serengeti-safari-banner-from-arusha.jpg" alt="Wildlife safari in the Serengeti" loading="lazy">
+                </div>
+                <div class="package-content">
+                    <h3>3-Day Serengeti &amp; Ngorongoro Joining Group Safari</h3>
+                    <p class="package-duration">3 Days / 2 Nights · From Arusha</p>
+                    <p class="package-description">Explore the Serengeti plains and Ngorongoro Crater with fellow travellers on a budget camping safari.</p>
+                    <div class="package-footer">
+                        <div class="package-price">
+                            <span class="from">From</span>
+                            <span class="amount">USD 720</span>
+                            <span class="per-person">per person</span>
+                        </div>
+                        <a href="joining-group-safaris/3-day-serengeti-ngorongoro-joining-group-safari.php" class="btn btn-primary" aria-label="View the 3-Day Serengeti and Ngorongoro Joining Group Safari">View Safari</a>
+                    </div>
+                </div>
+            </article>
+        </div>
+
+        <div class="home-joining-more">
+            <p>Looking for more options? Explore all joining group itineraries and ask about your preferred travel dates.</p>
+            <a href="joining-group-safaris/joining-groups.php" class="btn btn-primary">Read More Joining Group Safaris</a>
+        </div>
+    </div>
+</section>
+
 <!-- Safari Packages Section -->
 <section class="section safari-packages">
     <div class="container">
@@ -775,6 +850,38 @@
 
 
 <style>
+.home-joining-safaris .packages-grid {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+.home-joining-safaris .package-footer {
+    flex-wrap: wrap;
+    gap: 15px;
+}
+.home-joining-more {
+    text-align: center;
+}
+.home-joining-more p {
+    margin-bottom: 20px;
+}
+.home-joining-safaris a:focus-visible {
+    outline: 3px solid var(--secondary);
+    outline-offset: 4px;
+}
+@media (max-width: 991px) {
+    .home-joining-safaris .packages-grid {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+}
+@media (max-width: 767px) {
+    .home-joining-safaris .packages-grid {
+        grid-template-columns: minmax(0, 1fr);
+    }
+    .home-joining-more .btn {
+        max-width: 100%;
+        white-space: normal;
+    }
+}
+
 /* Safari Intro Section */
     .safari-intro-section {
         background-color: var(--white);
