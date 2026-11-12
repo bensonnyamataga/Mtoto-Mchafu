@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+<?php require_once __DIR__ . '/plugins/google-tag.php'; ?>
     <link rel="icon" type="image/png" href="img/favicon-icon.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -19,8 +20,8 @@
     <link rel="stylesheet" href="style/style.css">
     <link rel="stylesheet" href="style/remove-highlight-icons.css">
     <script src="script/script.js" defer></script>
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-FP1EW3J4H7"></script>
-    <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-FP1EW3J4H7');</script>
+
+
     <style>
 /* All page text uses the website's existing Mazzard font; keep icon glyph families intact. */
 /* Deep Tanzania Tours - isolated About Us layout. Intentionally unique class names

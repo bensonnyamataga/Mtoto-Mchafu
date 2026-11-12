@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+<?php require_once __DIR__ . '/../plugins/google-tag.php'; ?>
     <link rel="icon" type="image/png" href="../img/favicon-icon.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">

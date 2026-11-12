@@ -97,6 +97,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['booking_form_submit']
 <!DOCTYPE html>
 <html lang="en">
 <head>
+<?php require_once __DIR__ . '/plugins/google-tag.php'; ?>
     <link rel="icon" type="image/png" href="img/favicon-icon.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -106,14 +107,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['booking_form_submit']
     <link rel="stylesheet" href="style/style.css">
     <script src="script/script.js"></script>
 
-    <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-FP1EW3J4H7"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
-        gtag('config', 'G-FP1EW3J4H7');
-    </script>
+
+
 </head>
 <body>
 

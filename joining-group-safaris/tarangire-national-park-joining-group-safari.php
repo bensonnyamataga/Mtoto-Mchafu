@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+<?php require_once __DIR__ . '/../plugins/google-tag.php'; ?>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>1-Day Tarangire Joining Group Safari from Arusha | Deep Tanzania Tours</title>
@@ -20,8 +21,8 @@
     <link rel="stylesheet" href="../style/hero.css?v=1">
     <link rel="stylesheet" href="../style/joining-hero.css?v=1">
     <script src="../script/hero.js?v=1" defer></script>
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-FP1EW3J4H7"></script>
-    <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-FP1EW3J4H7');</script>
+
+
 </head>
 <body>
 <?php include __DIR__ . '/../plugins-folder/header.php'; ?>

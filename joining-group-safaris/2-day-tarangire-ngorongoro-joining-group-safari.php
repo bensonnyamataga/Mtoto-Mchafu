@@ -29,6 +29,7 @@ $schema = [
 <!DOCTYPE html>
 <html lang="en">
 <head>
+<?php require_once __DIR__ . '/../plugins/google-tag.php'; ?>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>2-Day Tarangire &amp; Ngorongoro Group Safari | From $440</title>
@@ -53,8 +54,8 @@ $schema = [
     <script src="../script/hero.js?v=1" defer></script>
     <script src="../script/lodge-gallery.js?v=1" defer></script>
     <script type="application/ld+json"><?= json_encode($schema, JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE | JSON_HEX_TAG | JSON_HEX_AMP | JSON_HEX_APOS | JSON_HEX_QUOT) ?></script>
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-FP1EW3J4H7"></script>
-    <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-FP1EW3J4H7');</script>
+
+
 </head>
 <body class="joining-multiday">
 <?php include __DIR__ . '/../plugins-folder/header.php'; ?>

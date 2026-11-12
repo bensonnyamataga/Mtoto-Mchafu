@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+<?php require_once __DIR__ . '/plugins/google-tag.php'; ?>
     <link rel="icon" type="image/png" href="img/favicon-icon.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -10,15 +11,8 @@
    <link rel="stylesheet" href="style/package.css">
    <script src="script/script.js"></script>
 
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-FP1EW3J4H7"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'G-FP1EW3J4H7');
-</script>
+
    
     <link rel="stylesheet" href="style/hero.css?v=1">
     <script src="script/hero.js?v=1" defer></script>
